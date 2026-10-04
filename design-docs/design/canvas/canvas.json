@@ -1,0 +1,22 @@
+{
+  "v": 3,
+  "attachments": {},
+  "boards": {
+    "ClearWater.dc.html": {"h": 1720, "title": "C · Clear Water — calm minimal", "w": 390, "x": 940, "y": 0},
+    "Main.dc.html": {"h": 1720, "title": "A · Deep Blue — immersive editorial", "w": 390, "x": 0, "y": 0},
+    "ReefDay.dc.html": {"h": 1720, "title": "B · Reef Day — bright family", "w": 390, "x": 470, "y": 0},
+    "HomeDesktop.dc.html": {"h": 2980, "title": "A · Home — desktop", "w": 1440, "x": 0, "y": 2100, "expand": "fill"},
+    "SharksDesktop.dc.html": {"h": 2400, "title": "A · Attraction (Sharks World) — desktop", "w": 1440, "x": 1520, "y": 2100, "expand": "fill"},
+    "TicketsDesktop.dc.html": {"h": 1900, "title": "A · Tickets & visit — desktop", "w": 1440, "x": 3040, "y": 2100, "expand": "fill"}
+  },
+  "createdOnFiles": {"at": "2026-10-04T07:15:00Z", "v": 1},
+  "designSystems": [],
+  "launch": {"view": "canvas"},
+  "notes": {
+    "t": {"kind": "title1", "maxW": 1330, "text": "Three directions · mobile home (390px, RTL)", "w": 240, "x": 0, "y": -260},
+    "d": {"kind": "title1", "maxW": 4480, "text": "Direction A · Deep Blue — desktop (1440px)", "x": 0, "y": 1840}
+  },
+  "order": ["Main.dc.html", "ReefDay.dc.html", "ClearWater.dc.html", "HomeDesktop.dc.html", "SharksDesktop.dc.html", "TicketsDesktop.dc.html"],
+  "pages": [],
+  "title": "Coral World design directions"
+}
