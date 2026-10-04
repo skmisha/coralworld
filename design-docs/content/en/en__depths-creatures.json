@@ -1,0 +1,682 @@
+{
+  "source": "https://coralworld.co.il/en/depths-creatures/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.811Z",
+  "seo": {
+    "title": "Creatures from the Deep | The Underwater Observatory Tower",
+    "description": "Plunge into the stories of mysterious creatures that live hundreds of meters deep in the oceans.",
+    "canonical": "https://coralworld.co.il/en/depths-creatures/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Creatures from the Deep | The Underwater Observatory Tower",
+      "og:description": "Plunge into the stories of mysterious creatures that live hundreds of meters deep in the oceans.",
+      "og:url": "https://coralworld.co.il/en/depths-creatures/",
+      "twitter:card": "summary",
+      "twitter:title": "Creatures from the Deep | The Underwater Observatory Tower",
+      "twitter:description": "Plunge into the stories of mysterious creatures that live hundreds of meters deep in the oceans."
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/depths-creatures/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/depths-creatures/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/depths-creatures/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/depths-creatures/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/depths-creatures/#listItem",
+                  "name": "Creatures from the Deep"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/depths-creatures/#listItem",
+                "position": 2,
+                "name": "Creatures from the Deep",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/depths-creatures/#webpage",
+            "url": "https://coralworld.co.il/en/depths-creatures/",
+            "name": "Creatures from the Deep | The Underwater Observatory Tower",
+            "description": "Plunge into the stories of mysterious creatures that live hundreds of meters deep in the oceans.",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/depths-creatures/#breadcrumblist"
+            },
+            "datePublished": "2020-05-25T14:27:10+03:00",
+            "dateModified": "2024-01-07T11:52:50+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "Creatures From the Deep"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/depths-creatures/",
+    "en": "https://coralworld.co.il/en/depths-creatures/",
+    "x-default": "https://coralworld.co.il/depths-creatures/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Creatures From the Deep"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Explore life"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "at the darkest depths."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover the bottom of the ocean and get a glimpse of marine animals, that even experienced divers rarely meet!",
+      "html": "Discover the bottom of the ocean and get a glimpse of marine animals, that even experienced divers rarely meet!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Plunge into the stories of mysterious creatures that live hundreds of meters deep in the oceans. Unseen elsewhere, in ‘Creatures of the Deep’ you can see rare video footage taken with advanced technology of one of the most challenging living conditions on the planet.",
+      "html": "Plunge into the stories of mysterious creatures that live hundreds of meters deep in the oceans. Unseen elsewhere, in ‘Creatures of the Deep’ you can see rare video footage taken with advanced technology of one of the most challenging living conditions on the planet."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you know?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Animals that live deep in the sea, live in complete darkness. They are faced with extremely cold temperatures and very high pressure conditions, to survive at this level, these creatures have adapted to difficult and perilous conditions.",
+      "html": "Animals that live deep in the sea, live in complete darkness. They are faced with extremely cold temperatures and very high pressure conditions, to survive at this level, these creatures have adapted to difficult and perilous conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "Join our guided tour at 14:30 p.m",
+      "html": "Join our guided tour at 14:30 p.m"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Pelican eel",
+        "Sea Angel",
+        "Deep Sea Frogfish",
+        "Atolla Jellyfish",
+        "Googly-Eyed Glass Squid"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pelican eel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Belongs to the eel family and cleverly inflates its head like a balloon to swallow food whole- usually crabs. They live in depths of over 7000 meters",
+      "html": "Belongs to the eel family and cleverly inflates its head like a balloon to swallow food whole- usually crabs. They live in depths of over 7000 meters"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat At depths of 500 to 7650 meters",
+        "Size Up to 1 meter",
+        "Weight Up to dozens of grams",
+        "Food Feeds on crustacean and small fish"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%9C%D7%95%D7%A4%D7%97-%D7%94%D7%A9%D7%A7%D7%A0%D7%90%D7%99-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sea Angel"
+    },
+    {
+      "type": "paragraph",
+      "text": "A small sea slug that swims using wing-like appendages (parapodia). Despite its peaceful appearance, this is an effective predator that feeds exclusively on other gastropods.",
+      "html": "A small sea slug that swims using wing-like appendages (parapodia). Despite its peaceful appearance, this is an effective predator that feeds exclusively on other gastropods."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat At depths of 200 to 600 meters",
+        "Size Up to 4 cm",
+        "Weight A few grams",
+        "Food Feeds on sea snails"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%99%D7%99%D7%93%D7%AA-%D7%94%D7%A4%D7%A8%D7%A4%D7%A8%D7%99%D7%9D-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deep Sea Frogfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "Living in the dark depths of the sea, the body of the female Angler, or Frogfish, is covered with filaments ( the fleshy part of the gills) that sense movement in the water",
+      "html": "Living in the dark depths of the sea, the body of the female Angler, or Frogfish, is covered with filaments ( the fleshy part of the gills) that sense movement in the water"
+    },
+    {
+      "type": "paragraph",
+      "text": "When they choose a mate, its for life - and the male has a very specific role , which is only to supply sperm cells",
+      "html": "When they choose a mate, its for life - and the male has a very specific role , which is only to supply sperm cells"
+    },
+    {
+      "type": "paragraph",
+      "text": "The small male attachs to the larger female, whilst the female anglerfish goes fishing for prey with a glow in the dark bait",
+      "html": "The small male attachs to the larger female, whilst the female anglerfish goes fishing for prey with a glow in the dark bait"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat At depths of 700 to 3000 meters",
+        "Size Females up to 25 cm, males up to 11 cm",
+        "Weight Up to 250 grams",
+        "Food Feeds on fish and invertebrates"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A4%D7%99%D7%AA%D7%99%D7%95%D7%A0%D7%90%D7%99-%D7%94%D7%9E%D7%A2%D7%9E%D7%A7%D7%99%D7%9D-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Atolla Jellyfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "This jellyfish's red color looks black in the depths of the sea, helping it to become invisible to the eyes of predators",
+      "html": "This jellyfish's red color looks black in the depths of the sea, helping it to become invisible to the eyes of predators"
+    },
+    {
+      "type": "paragraph",
+      "text": "When under threat, this red jellyfish has an exciting getaway tactic - It lights up in blue flickers which 'invite' other predators to subdue the attacker.",
+      "html": "When under threat, this red jellyfish has an exciting getaway tactic - It lights up in blue flickers which 'invite' other predators to subdue the attacker."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat At depths of 200 to 1500 meters",
+        "Size Up to 15 cm",
+        "Weight Up to dozens of grams",
+        "Food Feeds on plankton"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9E%D7%93%D7%95%D7%96%D7%AA-%D7%90%D7%98%D7%95%D7%9C%D7%94-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Googly-Eyed Glass Squid"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Googly-Eyed Glass Squid, usually found in deeper water, has a transparent body that helps it escape predators.",
+      "html": "The Googly-Eyed Glass Squid, usually found in deeper water, has a transparent body that helps it escape predators."
+    },
+    {
+      "type": "paragraph",
+      "text": "It fills its body with a special ammoniac compound, which is lighter than the sea water. This gives it the ability to float in the water.",
+      "html": "It fills its body with a special ammoniac compound, which is lighter than the sea water. This gives it the ability to float in the water."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat At depths of 200 to 2000 meters",
+        "Size Up to 66 cm",
+        "Weight 3 KG",
+        "Food Feeds on fish and invertebrates"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%93%D7%99%D7%95%D7%A0%D7%95%D7%9F-%D7%94%D7%96%D7%9B%D7%95%D7%9B%D7%99%D7%AA-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "תמנון",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Pelican eel"
+    },
+    {
+      "type": "paragraph",
+      "text": "Belongs to the eel family and cleverly inflates its head like a balloon to swallow food whole- usually crabs. They live in depths of over 7000 meters",
+      "html": "Belongs to the eel family and cleverly inflates its head like a balloon to swallow food whole- usually crabs. They live in depths of over 7000 meters"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sea Angel"
+    },
+    {
+      "type": "paragraph",
+      "text": "A small sea slug that swims using wing-like appendages (parapodia). Despite its peaceful appearance, this is an effective predator that feeds exclusively on other gastropods.",
+      "html": "A small sea slug that swims using wing-like appendages (parapodia). Despite its peaceful appearance, this is an effective predator that feeds exclusively on other gastropods."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Deep Sea Frogfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "Living in the dark depths of the sea, the body of the female Angler, or Frogfish, is covered with filaments ( the fleshy part of the gills) that sense movement in the water",
+      "html": "Living in the dark depths of the sea, the body of the female Angler, or Frogfish, is covered with filaments ( the fleshy part of the gills) that sense movement in the water"
+    },
+    {
+      "type": "paragraph",
+      "text": "When they choose a mate, its for life - and the male has a very specific role , which is only to supply sperm cells",
+      "html": "When they choose a mate, its for life - and the male has a very specific role , which is only to supply sperm cells"
+    },
+    {
+      "type": "paragraph",
+      "text": "The small male attachs to the larger female, whilst the female anglerfish goes fishing for prey with a glow in the dark bait",
+      "html": "The small male attachs to the larger female, whilst the female anglerfish goes fishing for prey with a glow in the dark bait"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Atolla Jellyfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "This jellyfish's red color looks black in the depths of the sea, helping it to become invisible to the eyes of predators",
+      "html": "This jellyfish's red color looks black in the depths of the sea, helping it to become invisible to the eyes of predators"
+    },
+    {
+      "type": "paragraph",
+      "text": "When under threat, this red jellyfish has an exciting getaway tactic - It lights up in blue flickers which 'invite' other predators to subdue the attacker.",
+      "html": "When under threat, this red jellyfish has an exciting getaway tactic - It lights up in blue flickers which 'invite' other predators to subdue the attacker."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Googly-Eyed Glass Squid"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Googly-Eyed Glass Squid, usually found in deeper water, has a transparent body that helps it escape predators.",
+      "html": "The Googly-Eyed Glass Squid, usually found in deeper water, has a transparent body that helps it escape predators."
+    },
+    {
+      "type": "paragraph",
+      "text": "It fills its body with a special ammoniac compound, which is lighter than the sea water. This gives it the ability to float in the water.",
+      "html": "It fills its body with a special ammoniac compound, which is lighter than the sea water. This gives it the ability to float in the water."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/depths-creatures/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f63ec9bb2-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

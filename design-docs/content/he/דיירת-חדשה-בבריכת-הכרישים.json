@@ -1,0 +1,473 @@
+{
+  "source": "https://coralworld.co.il/%D7%93%D7%99%D7%99%D7%A8%D7%AA-%D7%97%D7%93%D7%A9%D7%94-%D7%91%D7%91%D7%A8%D7%99%D7%9B%D7%AA-%D7%94%D7%9B%D7%A8%D7%99%D7%A9%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.821Z",
+  "seo": {
+    "title": "דיירת חדשה בבריכת הכרישים | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "דיירת חדשה בבריכת הכרישים | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "דיירת חדשה בבריכת הכרישים | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#article",
+            "name": "דיירת חדשה בבריכת הכרישים | המצפה התת ימי",
+            "headline": "דיירת חדשה בבריכת הכרישים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2025/07/BS22148-scaled.jpg",
+              "width": 2560,
+              "height": 1707
+            },
+            "datePublished": "2020-06-11T16:43:28+03:00",
+            "dateModified": "2025-08-10T15:12:49+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "חדשות הפארק, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#listItem",
+                  "name": "חדשות הפארק"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#listItem",
+                "position": 2,
+                "name": "חדשות הפארק",
+                "item": "https://coralworld.co.il/category/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#listItem",
+                  "name": "דיירת חדשה בבריכת הכרישים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "דיירת חדשה בבריכת הכרישים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#listItem",
+                  "name": "חדשות הפארק"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/",
+            "name": "דיירת חדשה בבריכת הכרישים | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2025/07/BS22148-scaled.jpg",
+              "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#mainImage",
+              "width": 2560,
+              "height": 1707
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-06-11T16:43:28+03:00",
+            "dateModified": "2025-08-10T15:12:49+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "דיירת חדשה בבריכת הכרישים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%93%d7%99%d7%99%d7%a8%d7%aa-%d7%97%d7%93%d7%a9%d7%94-%d7%91%d7%91%d7%a8%d7%99%d7%9b%d7%aa-%d7%94%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/07/BS22148-1536x1024.jpg",
+      "alt": "",
+      "width": 1439,
+      "height": 959
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "דיירת חדשה בבריכת הכרישים"
+    },
+    {
+      "type": "paragraph",
+      "text": "דיירת חדשה בבריכת הכרישים כרישה מסוג \"זנבתן מנומר\" שנתפסה בחכת דייגים, הובאה לפארק המצפה התת ימי לשיקום וקבלת טיפול רפואי. קרס דייגים נתקעה בפיה של הכרישה וגרם לפציעתה. צוות הצוללים של פארק המצפה התת ימי ניתק את הקרס והעניק לכרישה את הטיפול הרפואי לו היא נזקקה. כרישת הזנבתן מנומר היא סוג של כריש חול הניזון בעיקר מחסרי חוליות (כגון סרטנים ורכיכות) ולפעמים גם ודגים קטנים. אורכם המקסימאלי הוא כ- 2.5 מטרים. כריש זה אינו מהווה סכנה לבני אדם.",
+      "html": "דיירת חדשה בבריכת הכרישים<br> כרישה מסוג \"זנבתן מנומר\" שנתפסה בחכת דייגים, הובאה לפארק המצפה התת ימי לשיקום וקבלת טיפול רפואי. קרס דייגים נתקעה בפיה של הכרישה וגרם לפציעתה.<br> צוות הצוללים של פארק המצפה התת ימי ניתק את הקרס והעניק לכרישה את הטיפול הרפואי לו היא נזקקה. כרישת הזנבתן מנומר היא סוג של כריש חול הניזון בעיקר מחסרי חוליות (כגון סרטנים ורכיכות) ולפעמים גם ודגים קטנים.<br> אורכם המקסימאלי הוא כ- 2.5 מטרים.<br> כריש זה אינו מהווה סכנה לבני אדם."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%93%D7%99%D7%99%D7%A8%D7%AA-%D7%97%D7%93%D7%A9%D7%94-%D7%91%D7%91%D7%A8%D7%99%D7%9B%D7%AA-%D7%94%D7%9B%D7%A8%D7%99%D7%A9%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f137a1c2d-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

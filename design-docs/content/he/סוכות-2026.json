@@ -1,0 +1,256 @@
+{
+  "source": "https://coralworld.co.il/%D7%A1%D7%95%D7%9B%D7%95%D7%AA-2026/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.837Z",
+  "seo": {
+    "title": "סוכות-2026 | המצפה התת ימי",
+    "description": "לו״ז פעילויות חג הסוכות 2026 במצפה התת ימי אילת - חלוקי נחל, פסל חי של בת הים, איפור פנים, סדנת תיקי ג'ינס ועוד. חווייה ימית שאסור לפספס!",
+    "canonical": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "סוכות-2026 | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/",
+      "twitter:card": "summary",
+      "twitter:title": "סוכות-2026 | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#article",
+            "name": "סוכות-2026 | המצפה התת ימי",
+            "headline": "סוכות-2026",
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2026/08/HERO.png",
+              "width": 1672,
+              "height": 941,
+              "caption": "HERO_SUKOT"
+            },
+            "datePublished": "2026-08-27T16:15:10+03:00",
+            "dateModified": "2026-09-17T14:01:37+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#webpage"
+            },
+            "articleSection": "פעילויות לילדים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/#listItem",
+                  "name": "פעילויות לילדים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "פעילויות לילדים",
+                "item": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#listItem",
+                  "name": "סוכות-2026"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#listItem",
+                "position": 3,
+                "name": "סוכות-2026",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/#listItem",
+                  "name": "פעילויות לילדים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/galistudio_manage/#author",
+            "url": "https://coralworld.co.il/author/galistudio_manage/",
+            "name": "galistudio_manage",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/7453ffa50b6081fd08b7769605589f75193e16022b9c2f2416594ee9f4423172?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "galistudio_manage"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#webpage",
+            "url": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/",
+            "name": "סוכות-2026 | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2026/08/HERO.png",
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#mainImage",
+              "width": 1672,
+              "height": 941,
+              "caption": "HERO_SUKOT"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/#mainImage"
+            },
+            "datePublished": "2026-08-27T16:15:10+03:00",
+            "dateModified": "2026-09-17T14:01:37+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "חוגגים את סוכותבמצפה התת ימי"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/",
+    "x-default": "https://coralworld.co.il/%d7%a1%d7%95%d7%9b%d7%95%d7%aa-2026/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2026/09/DIVER_800x600.jpg",
+      "alt": "צוללן מקצועי בתוך הבריכה עם דגים",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מפגש עם צוללן"
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש קצר ומרתק עם צוללן מקצועי",
+      "html": "מפגש קצר ומרתק עם צוללן מקצועי"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [
+      {
+        "text": "לפרטים ורכישת כרטיסים",
+        "href": "https://coralworld.co.il/tickets/?step=1"
+      }
+    ],
+    "footer": []
+  }
+}

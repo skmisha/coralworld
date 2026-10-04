@@ -1,0 +1,580 @@
+{
+  "source": "https://coralworld.co.il/canfishsleep/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.855Z",
+  "seo": {
+    "title": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק! | המצפה התת ימי",
+    "description": "שאלתם האם ואיך דגים ישנים, אם הם חולמים והאם אנו מפריעים להם? די קל לדעת מתי דגים ישנים: הם שוכבים ללא תנועה, לעיתים על הקרקעית ותגובתם איטית למתרחש סביבם | בואו ללמוד עוד!",
+    "canonical": "https://coralworld.co.il/canfishsleep/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק! | המצפה התת ימי",
+      "og:description": "שאלתם האם ואיך דגים ישנים, אם הם חולמים והאם אנו מפריעים להם? די קל לדעת מתי דגים ישנים: הם שוכבים ללא תנועה, לעיתים על הקרקעית ותגובתם איטית למתרחש סביבם | בואו ללמוד עוד!",
+      "og:url": "https://coralworld.co.il/canfishsleep/",
+      "twitter:card": "summary",
+      "twitter:title": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק! | המצפה התת ימי",
+      "twitter:description": "שאלתם האם ואיך דגים ישנים, אם הם חולמים והאם אנו מפריעים להם? די קל לדעת מתי דגים ישנים: הם שוכבים ללא תנועה, לעיתים על הקרקעית ותגובתם איטית למתרחש סביבם | בואו ללמוד עוד!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/canfishsleep/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/canfishsleep/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/canfishsleep/#article",
+            "name": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק! | המצפה התת ימי",
+            "headline": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק!",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC_5148-UWO.jpg",
+              "width": 1024,
+              "height": 680,
+              "caption": "דג תוכי"
+            },
+            "datePublished": "2022-03-21T07:39:40+02:00",
+            "dateModified": "2022-06-27T11:16:21+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/canfishsleep/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/canfishsleep/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/canfishsleep/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/canfishsleep/#listItem",
+                  "name": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק!"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/canfishsleep/#listItem",
+                "position": 3,
+                "name": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק!",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/canfishsleep/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/canfishsleep/#webpage",
+            "url": "https://coralworld.co.il/canfishsleep/",
+            "name": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק! | המצפה התת ימי",
+            "description": "שאלתם האם ואיך דגים ישנים, אם הם חולמים והאם אנו מפריעים להם? די קל לדעת מתי דגים ישנים: הם שוכבים ללא תנועה, לעיתים על הקרקעית ותגובתם איטית למתרחש סביבם | בואו ללמוד עוד!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/canfishsleep/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC_5148-UWO.jpg",
+              "@id": "https://coralworld.co.il/canfishsleep/#mainImage",
+              "width": 1024,
+              "height": 680,
+              "caption": "דג תוכי"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/canfishsleep/#mainImage"
+            },
+            "datePublished": "2022-03-21T07:39:40+02:00",
+            "dateModified": "2022-06-27T11:16:21+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק!"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/canfishsleep/",
+    "x-default": "https://coralworld.co.il/canfishsleep/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "בואו לגלות האם דגים ישנים (וחולמים?), אז זהו שכן, ועמוק!"
+    },
+    {
+      "type": "paragraph",
+      "text": "כתיבה ועריכה: יעל לרנריעוץ מדעי: אביב לוי",
+      "html": "כתיבה ועריכה: יעל לרנר<br>יעוץ מדעי: אביב לוי"
+    },
+    {
+      "type": "paragraph",
+      "text": "אחת השאלות השכיחות ביותר שהמדריכים שלנו בפארק המצפה התת ימי נתקלים בהן היא האם ואיך דגים ישנים, האם הם חולמים והאם אנחנו יכולים להפריע להם. אז החלטנו לפתור את התעלומה אחת ולתמיד ולגלות לכם שכן, בהחלט! רוצים לדעת יותר וגם לראות אותם? מוזמנים לקרוא בכתבה!",
+      "html": "<strong>אחת השאלות השכיחות ביותר שהמדריכים שלנו בפארק המצפה התת ימי נתקלים בהן היא האם ואיך דגים ישנים, האם הם חולמים והאם אנחנו יכולים להפריע להם. אז החלטנו לפתור את התעלומה אחת ולתמיד ולגלות לכם שכן, בהחלט! רוצים לדעת יותר וגם לראות אותם? מוזמנים לקרוא בכתבה!</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "כולנו יודעים שכמעט כל בעלי החיים ישנים. בכל זאת, שינה חשובה מאוד לריענון הנפש והגוף. כשאנחנו, בני האדם, ישנים- אנחנו עוצמים עיניים ושוכבים ללא תזוזה במשך זמן רב. בנוסף, אנו עשויים להיות פחות מודעים למתרחש סביבנו ונשימתנו מאטה. יש אנשים שישנים ״חזק״ מאוד ונדרש הרבה זמן להעיר אותם! אך מה לגבי הדגים?",
+      "html": "כולנו יודעים שכמעט כל בעלי החיים ישנים. בכל זאת, שינה חשובה מאוד לריענון הנפש והגוף. כשאנחנו, בני האדם, ישנים- אנחנו עוצמים עיניים ושוכבים ללא תזוזה במשך זמן רב. בנוסף, אנו עשויים להיות פחות מודעים למתרחש סביבנו ונשימתנו מאטה. יש אנשים שישנים ״חזק״ מאוד ונדרש הרבה זמן להעיר אותם! אך מה לגבי הדגים?"
+    },
+    {
+      "type": "paragraph",
+      "text": "לדגים אין עפעפיים – הם אינם זקוקים להם מתחת למים מכיוון שאבק לא יכול להיכנס לעיניהם. אבל דגים עדיין ישנים. יש שישנים ביום ורק מתעוררים בלילה, בעוד שאחרים ישנים בלילה והם ערים במשך היום (בדיוק כמונו).",
+      "html": "לדגים אין עפעפיים – הם אינם זקוקים להם מתחת למים מכיוון שאבק לא יכול להיכנס לעיניהם. אבל דגים עדיין ישנים. יש שישנים ביום ורק מתעוררים בלילה, בעוד שאחרים ישנים בלילה והם ערים במשך היום (בדיוק כמונו)."
+    },
+    {
+      "type": "paragraph",
+      "text": "איך הדגים יודעים מתי ללכת לישון ואיך נדע שהם ישנים?",
+      "html": "<strong>איך הדגים יודעים מתי ללכת לישון ואיך נדע שהם ישנים?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "די קל לדעת מתי דגים ישנים: הם שוכבים ללא תנועה, לעיתים קרובות על הקרקעית ותגובתם איטית למתרחש סביבם, חלקם לא מגיבים כלל, ואם תביטו בזימים שלהם, תבחינו שהם נושמים לאט מאוד. אם יש לכם בבית אקווריום עם דגים, תוכלו לשים לב שכאשר האורות כבים בלילה, הדגים הופכים להיות הרבה פחות פעילים, אפילו אם תערכו ניסוי ותדליקו נורה קטנה באמצע הלילה תוכלו לראות כמה הם דוממים. כמו אנשים, גם לדגים יש שעון ביולוגי פנימי שאומר להם מתי לעשות דברים כמו לישון ולאכול. כך שגם אם תשאירו בטעות את האורות דולקים בבית בלילה, הדגים ילכו לישון בכל מקרה.",
+      "html": "די קל לדעת מתי דגים ישנים: הם שוכבים ללא תנועה, לעיתים קרובות על הקרקעית ותגובתם איטית למתרחש סביבם, חלקם לא מגיבים כלל, ואם תביטו בזימים שלהם, תבחינו שהם נושמים לאט מאוד. אם יש לכם בבית אקווריום עם דגים, תוכלו לשים לב שכאשר האורות כבים בלילה, הדגים הופכים להיות הרבה פחות פעילים, אפילו אם תערכו ניסוי ותדליקו נורה קטנה באמצע הלילה תוכלו לראות כמה הם דוממים. כמו אנשים, גם לדגים יש שעון ביולוגי פנימי שאומר להם מתי לעשות דברים כמו לישון ולאכול. כך שגם אם תשאירו בטעות את האורות דולקים בבית בלילה, הדגים ילכו לישון בכל מקרה."
+    },
+    {
+      "type": "paragraph",
+      "text": "במערות ובעומק הים תמיד חשוך, אז איך הדגים ידעו מתי ללכת לישון?",
+      "html": "<strong>במערות ובעומק הים תמיד חשוך, אז איך הדגים ידעו מתי ללכת לישון?</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "יש מדענים שחקרו שינה בדגים החיים במערות בהן תמיד חשוך. גם בחלק מהמינים הללו יש זמנים של פעילות נמוכה שנראים ממש כמו שינה. כמובן שאין זריחה או שקיעה במערות ולכן הקצב שלהם שונה לעתים קרובות מדגים החיים על פני השטח באור שמש בוהק. יש מינים שונים של דגים, למשל דגי טונה וכרישים, שצריכים לשחות כל הזמן כדי שהם יוכלו לנשום. סביר להניח כי דגים אלה ישנים ומפעילים כמחצית ממוחם בכל פעם, בדיוק כמו דולפינים שמוחם מחולק בצורה נוחה לשני חצאים, ובזמן שאחד ישן שינה עמוקה האחר שומר על מספיק מודעות עצמית כדי לשחות, ולנשום!",
+      "html": "יש מדענים שחקרו שינה בדגים החיים במערות בהן תמיד חשוך. גם בחלק מהמינים הללו יש זמנים של פעילות נמוכה שנראים ממש כמו שינה. כמובן שאין זריחה או שקיעה במערות ולכן הקצב שלהם שונה לעתים קרובות מדגים החיים על פני השטח באור שמש בוהק. יש מינים שונים של דגים, למשל דגי טונה וכרישים, שצריכים לשחות כל הזמן כדי שהם יוכלו לנשום. סביר להניח כי דגים אלה ישנים ומפעילים כמחצית ממוחם בכל פעם, בדיוק כמו דולפינים שמוחם מחולק בצורה נוחה לשני חצאים, ובזמן שאחד ישן שינה עמוקה האחר שומר על מספיק מודעות עצמית כדי לשחות, ולנשום!"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/%C2%AC_____%D7%A5___%D7%A9_%C2%A5-3.jpg",
+      "alt": "תמנון",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "רגע, אם דגים ישנים אז קל מאוד לטרוף אותם לא?"
+    },
+    {
+      "type": "paragraph",
+      "text": "לטבע יש את התחכום שלו ואת הדרך שלו להגן על היצורים החיים בו!דג התוכי, למשל, מייצר סביבו בלילה מעין שק שינה דביק וגס, המבודד אותו מהסביבה, כך שטורפים לא יכולים להריח או לזהות אותו, ולכן גם לתקוף אותו בזמן שהוא ישן.הפרפרון שחור הזנב, לעומתו, מעדיף לישון בין האלמוגים שמגנים עליו ומסתירים אותו מפני טורפים ליליים. בנוסף למסתור ולזרועות האלמוגים שמשמשים בתור סורגים, משתמש הפרפרון גם בגווני הסוואה כהים.",
+      "html": "<span style=\"color: #000000;\">לטבע יש את התחכום שלו ואת הדרך שלו להגן על היצורים החיים בו!</span><br><span style=\"color: #000000;\">דג התוכי, למשל, מייצר סביבו בלילה מעין שק שינה דביק וגס, המבודד אותו מהסביבה, כך שטורפים לא יכולים להריח או לזהות אותו, ולכן גם לתקוף אותו בזמן שהוא ישן.</span><br><span style=\"color: #000000;\">הפרפרון שחור הזנב, לעומתו, מעדיף לישון בין ה<strong><a href=\"https://coralworld.co.il/almogim/\">אלמוגים</a></strong> שמגנים עליו ומסתירים אותו מפני טורפים ליליים. בנוסף למסתור ולזרועות האלמוגים שמשמשים בתור סורגים, משתמש הפרפרון גם בגווני הסוואה כהים.</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "דוגמא נוספת היא הדגים המתחפרים בחול, כמו דגי יולית הכתם שנוהגים לישון במקום קבוע. לפני רדת הערב, ניתן לראות את היוליות מנקות ומסדרות את אזור השינה שלהן, ובגלל שהן מוסתרות על ידי החול, הן לא צריכה לשנות צבע בלילה. וכשהן מתעוררות בבוקר, הן מוציאות רק את הראש מתוך החול כדי לבדוק אם יש סכנה באזור, ממש כמו שאנחנו מציצים מתחת לשמיכה.",
+      "html": "<span style=\"color: #000000;\">דוגמא נוספת היא הדגים המתחפרים בחול, כמו דגי יולית הכתם שנוהגים לישון במקום קבוע. לפני רדת הערב, ניתן לראות את היוליות מנקות ומסדרות את אזור השינה שלהן, ובגלל שהן מוסתרות על ידי החול, הן לא צריכה לשנות צבע בלילה. וכשהן מתעוררות בבוקר, הן מוציאות רק את הראש מתוך החול כדי לבדוק אם יש סכנה באזור, ממש כמו שאנחנו מציצים מתחת לשמיכה.</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "ועכשיו לשאלת השאלות: האם דגים חולמים?",
+      "html": "<strong><span style=\"color: #000000;\">ועכשיו לשאלת השאלות: האם דגים חולמים?</span></strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "שאלה מעניינת, ללא ספק, ועד כה אין לנו את התשובה לשאלה זו, אך קחו לדוגמא דג מסוג הכחל הסהרוני. הדג, שבדרך כלל צבעו כחול עז והוא שוחה בלהקות, משנה את צבעו בזמן שהוא ישן לצבע אדום. האם הדבר מצביע על כך שהוא חולם? אולי.. דוגמא נוספת נוכל לתת מרכיכה ימית שלמדה לשחות, וכולנו מתעניינים בה- התמנון! צילומי וידאו של תמנון ישן הראו שהוא משנה צבעים, מה שמרמז שהוא אולי חלם להסתתר מטורף או להתגנב לציד משלו. (זוהי אחת הסיבות שתמנונים משנים את צבעם כשהם ערים).",
+      "html": "<span style=\"color: #000000;\">שאלה מעניינת, ללא ספק, ועד כה אין לנו את התשובה לשאלה זו, אך קחו לדוגמא דג מסוג הכחל הסהרוני. הדג, שבדרך כלל צבעו כחול עז והוא שוחה בלהקות, משנה את צבעו בזמן שהוא ישן לצבע אדום. האם הדבר מצביע על כך שהוא חולם? אולי.. דוגמא נוספת נוכל לתת מרכיכה ימית שלמדה לשחות, וכולנו מתעניינים בה- התמנון! &nbsp;צילומי וידאו של תמנון ישן הראו שהוא משנה צבעים, מה שמרמז שהוא אולי חלם להסתתר מטורף או להתגנב לציד משלו. (זוהי אחת הסיבות שתמנונים משנים את צבעם כשהם ערים).</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "תאמינו או לא, שינה של דגים נחקרת כדי לעזור לנו להבין טוב יותר את השינה אצל בני האדם. מרבית המחקרים הללו משתמשים בדג זברה ומנסים להבין דברים כמו ההשפעות של מחסור בשינה (חוסר שינה), נדודי שינה (בעיות בהירדמות) וקצב היממה (מחזורי שינה). מדהים, לא?",
+      "html": "<span style=\"color: #000000;\">תאמינו או לא, שינה של דגים נחקרת כדי לעזור לנו להבין טוב יותר את השינה אצל בני האדם. מרבית המחקרים הללו משתמשים בדג זברה ומנסים להבין דברים כמו ההשפעות של מחסור בשינה (חוסר שינה), נדודי שינה (בעיות בהירדמות) וקצב היממה (מחזורי שינה). מדהים, לא?</span>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אטרקציות למשפחה באילת – אקווריום דגים"
+    },
+    {
+      "type": "paragraph",
+      "text": "דגים ישנים (וגם ערים) תוכלו לראות בכל התצוגות בפארק המצפה התת ימי, שביקור אחד בו בהחלט לא מספיק! מוזמנים לבקר במצפה התת ימי וליהנות מאקווריום דגים נדירים!",
+      "html": "<span style=\"color: #000000;\">דגים ישנים (וגם ערים) תוכלו לראות בכל התצוגות ב<strong><a href=\"https://coralworld.co.il/\">פארק המצפה התת ימי</a></strong>, שביקור אחד בו בהחלט לא מספיק! מוזמנים לבקר במצפה התת ימי וליהנות מאקווריום דגים נדירים!</span>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כדי שנוכל להמשיך ליהנות מאטרקציות באילת ולהגיע לביקור בפארק המצפה התת ימי ולליהנות מכל הדגים, היצורים והעולם המופלא במפרץ אילת, קבלו כמה כללים להתנהגות נכונה בים:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. פלסטיק, לא בחופים שלנו! הימנעו מלהשתמש בכלים חד פעמים בחופי הים, זה מזיק לשוניות, לדגים ולאיכות הסביבה, ואצלנו באילת גם מקבלים קנס כספי!",
+      "html": "<span style=\"color: #000000;\">1. פלסטיק, לא בחופים שלנו! הימנעו מלהשתמש בכלים חד פעמים בחופי הים, זה מזיק לשוניות, לדגים ולאיכות הסביבה, ואצלנו באילת גם מקבלים קנס כספי!</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. אתם שוחים ונהנים מצלילת שנורקלים באילת בשמורת טבע, ובשמורות יש הגבלות שונות שמטרתן להגן על בית הגידול העדין של האלמוגים. כדי להבטיח מגע מינימלי בין האלמוגים לשחיינים הוצבו גשרים ומעברים מיוחדים המסומנים במצופים צהובים. אל תעברו אותם בבקשה!",
+      "html": "<span style=\"color: #000000;\">2. אתם שוחים&nbsp;ונהנים מ<strong><a href=\"https://coralworld.co.il/%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa_%d7%9c%d7%9e%d7%a9%d7%a4%d7%97%d7%94_%d7%91%d7%90%d7%99%d7%9c%d7%aa/\">צלילת שנורקלים באילת</a></strong> בשמורת טבע, ובשמורות יש הגבלות שונות שמטרתן להגן על בית הגידול העדין של האלמוגים. כדי להבטיח מגע מינימלי בין האלמוגים לשחיינים הוצבו גשרים ומעברים מיוחדים המסומנים במצופים צהובים. אל תעברו אותם בבקשה!</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. שחו ותהנו מהמראות המופלאים לאורך השונית, אבל אסור בשום אופן לגעת באלמוגים ובטח לא לנסות להוציא אותם מחוץ למים!",
+      "html": "<span style=\"color: #000000;\">3. שחו ותהנו מהמראות המופלאים לאורך השונית, אבל אסור בשום אופן לגעת באלמוגים ובטח לא לנסות להוציא אותם מחוץ למים!</span>"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/%C2%AC_____%D7%A5___%D7%A9_%C2%A5-5.jpg",
+      "alt": "תמנון",
+      "width": 1024,
+      "height": 721
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/canfishsleep/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f40287b14-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

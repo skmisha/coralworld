@@ -1,0 +1,461 @@
+{
+  "source": "https://coralworld.co.il/en/interactive-games-2/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.811Z",
+  "seo": {
+    "title": "Interactive Games | The Underwater Observatory Tower",
+    "description": "A range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts",
+    "canonical": "https://coralworld.co.il/en/interactive-games-2/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Interactive Games | The Underwater Observatory Tower",
+      "og:description": "A range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts",
+      "og:url": "https://coralworld.co.il/en/interactive-games-2/",
+      "twitter:card": "summary",
+      "twitter:title": "Interactive Games | The Underwater Observatory Tower",
+      "twitter:description": "A range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/interactive-games/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/interactive-games-2/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/interactive-games/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/interactive-games-2/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/interactive-games-2/#listItem",
+                  "name": "Interactive Games"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/interactive-games-2/#listItem",
+                "position": 2,
+                "name": "Interactive Games",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/interactive-games-2/#webpage",
+            "url": "https://coralworld.co.il/en/interactive-games-2/",
+            "name": "Interactive Games | The Underwater Observatory Tower",
+            "description": "A range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/interactive-games-2/#breadcrumblist"
+            },
+            "datePublished": "2021-11-22T13:24:23+02:00",
+            "dateModified": "2024-02-15T13:01:14+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "INTERACTIVE GAMES"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/interactive-games/",
+    "en": "https://coralworld.co.il/en/interactive-games-2/",
+    "x-default": "https://coralworld.co.il/interactive-games/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "INTERACTIVE GAMES"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea. Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks.",
+      "html": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea.<br> Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/11/DSC02226-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1707
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/11/DSC02126-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1707
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/11/DSC02167-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1707
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/11/DSC02218-scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1707
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea. Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks.",
+      "html": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea.<br> Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea. Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks.",
+      "html": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea.<br> Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea. Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks.",
+      "html": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea.<br> Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea. Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks.",
+      "html": "The Underwater Observatory is truly a place to discover the underwater world, one creature at a time. Explore our myth-busting shark exhibit and learn why these poorly understood creatures are so important to the health of the Red Sea.<br> Then get your teeth into a range of engaging and entertaining interactive digital games which are designed to enhance your learning around shark facts and behavior. There are activities for a variety of ages with touch screens, rich animation and lots of new and fascinating information about the world of sharks."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/interactive-games-2/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f5f6d1d8b-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

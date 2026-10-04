@@ -1,0 +1,594 @@
+{
+  "source": "https://coralworld.co.il/babysharks/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.855Z",
+  "seo": {
+    "title": "בייבי שארק טו טו דו טו טו! | המצפה התת ימי",
+    "description": "בואו להכיר את עולם הכרישים ולהביט ביצורי הפלא שוחים להנאתם ולהמשיך ללמוד עליהם | תוכלו ללמוד שהכריש, בעזרת מערכת חושים מהמשוכללות בטבע מזהה את טרפו מקילומטרים לפני שהוא רואה אותו",
+    "canonical": "https://coralworld.co.il/babysharks/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "בייבי שארק טו טו דו טו טו! | המצפה התת ימי",
+      "og:description": "בואו להכיר את עולם הכרישים ולהביט ביצורי הפלא שוחים להנאתם ולהמשיך ללמוד עליהם | תוכלו ללמוד שהכריש, בעזרת מערכת חושים מהמשוכללות בטבע מזהה את טרפו מקילומטרים לפני שהוא רואה אותו",
+      "og:url": "https://coralworld.co.il/babysharks/",
+      "twitter:card": "summary",
+      "twitter:title": "בייבי שארק טו טו דו טו טו! | המצפה התת ימי",
+      "twitter:description": "בואו להכיר את עולם הכרישים ולהביט ביצורי הפלא שוחים להנאתם ולהמשיך ללמוד עליהם | תוכלו ללמוד שהכריש, בעזרת מערכת חושים מהמשוכללות בטבע מזהה את טרפו מקילומטרים לפני שהוא רואה אותו"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/babysharks/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/babysharks/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/babysharks/#article",
+            "name": "בייבי שארק טו טו דו טו טו! | המצפה התת ימי",
+            "headline": "בייבי שארק טו טו דו טו טו!",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC01131.jpg",
+              "width": 2500,
+              "height": 2500,
+              "caption": "כריש"
+            },
+            "datePublished": "2022-03-21T07:29:55+02:00",
+            "dateModified": "2022-06-21T20:28:58+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/babysharks/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/babysharks/#webpage"
+            },
+            "articleSection": "כרישים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/babysharks/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#listItem",
+                  "name": "כרישים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "כרישים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/babysharks/#listItem",
+                  "name": "בייבי שארק טו טו דו טו טו!"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/babysharks/#listItem",
+                "position": 4,
+                "name": "בייבי שארק טו טו דו טו טו!",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/#listItem",
+                  "name": "כרישים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/babysharks/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/babysharks/#webpage",
+            "url": "https://coralworld.co.il/babysharks/",
+            "name": "בייבי שארק טו טו דו טו טו! | המצפה התת ימי",
+            "description": "בואו להכיר את עולם הכרישים ולהביט ביצורי הפלא שוחים להנאתם ולהמשיך ללמוד עליהם | תוכלו ללמוד שהכריש, בעזרת מערכת חושים מהמשוכללות בטבע מזהה את טרפו מקילומטרים לפני שהוא רואה אותו",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/babysharks/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC01131.jpg",
+              "@id": "https://coralworld.co.il/babysharks/#mainImage",
+              "width": 2500,
+              "height": 2500,
+              "caption": "כריש"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/babysharks/#mainImage"
+            },
+            "datePublished": "2022-03-21T07:29:55+02:00",
+            "dateModified": "2022-06-21T20:28:58+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "בייבי שארק טו טו דו טו טו! קבלו 10 עובדות מדהימות על עולם הכרישים ולמה אנחנו לא צריכים לפחד מהם אלא דווקא לשמור עליהם!"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/babysharks/",
+    "x-default": "https://coralworld.co.il/babysharks/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "בייבי שארק טו טו דו טו טו! קבלו 10 עובדות מדהימות על עולם הכרישים ולמה אנחנו לא צריכים לפחד מהם אלא דווקא לשמור עליהם!"
+    },
+    {
+      "type": "paragraph",
+      "text": "כתיבה ועריכה: יעל לרנריעוץ מדעי: אביב לויצילום: עמרי שפרן | מדיהבום",
+      "html": "כתיבה ועריכה: יעל לרנר<br><span style=\"color: var( --e-global-color-text );\">יעוץ מדעי: אביב לוי<br>צילום: עמרי שפרן | מדיהבום</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "האוקיינוסים והימים שלנו בכדור הארץ זקוקים נואשות לכרישים. כרישים הם יצורים מופלאים, אמני צייד עם דיוק מדהים, היושבים בראש שרשרת המזון ומרכזיים בשמירה על איזון המערכות האקולוגיות הימיות. אז למה אנחנו כל כך מפחדים מהם? אולי בגלל שאנחנו לא יודעים עליהם מספיק?",
+      "html": "האוקיינוסים והימים שלנו בכדור הארץ זקוקים נואשות לכרישים. כרישים הם יצורים מופלאים, אמני צייד עם דיוק מדהים, היושבים בראש שרשרת המזון ומרכזיים בשמירה על איזון המערכות האקולוגיות הימיות. אז למה אנחנו כל כך מפחדים מהם? אולי בגלל שאנחנו לא יודעים עליהם מספיק?"
+    },
+    {
+      "type": "paragraph",
+      "text": "אז קבלו 10 עובדות מדהימות על כרישים!",
+      "html": "<strong>אז קבלו 10 עובדות מדהימות על כרישים!</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. ישנם יותר מ 400 זנים של כרישים בעולם, והם קיימים אפילו עוד לפני הדינוזאורים! למרות המוניטין ההוליוודי המפחיד שלהם, הם אחת מהחיות המדהימות ביותר על פני כדור הארץ.",
+      "html": "1. ישנם יותר מ 400 זנים של כרישים בעולם, והם קיימים אפילו עוד לפני הדינוזאורים! למרות המוניטין ההוליוודי המפחיד שלהם, הם אחת מהחיות המדהימות ביותר על פני כדור הארץ."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. הריון של נקבת כריש יכול להימשך בין מספר חודשים עד למעלה משנתיים- ארוך יותר מהריון לווייתנים או פילים!",
+      "html": "2. הריון של נקבת כריש יכול להימשך בין מספר חודשים עד למעלה משנתיים- ארוך יותר מהריון לווייתנים או פילים!"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. כרישים מגיעים בכל הצורות והגדלים, החל מכרישי הפנס הזעירים, שהם בערך בגודל כף היד, ועד לכרישי לווייתן ענקיים, שהם בערך באותו גודל כמו מיניבוס!",
+      "html": "3. כרישים מגיעים בכל הצורות והגדלים, החל מכרישי הפנס הזעירים, שהם בערך בגודל כף היד, ועד לכרישי לווייתן ענקיים, שהם בערך באותו גודל כמו מיניבוס!"
+    },
+    {
+      "type": "paragraph",
+      "text": "4. כרישי גרינלנד, החיים במי קוטב קרים, מחזיקים בשיא עולמי כבעלי החיים הוותיקים ביותר על פני כדור הארץ, מכיוון שההערכה היא שהם חיים עד 500 שנה. לשם השוואה- לאונרדו דה וינצ'י צייר את המונה ליזה לפני 500 שנה!",
+      "html": "4. כרישי גרינלנד, החיים במי קוטב קרים, מחזיקים בשיא עולמי כבעלי החיים הוותיקים ביותר על פני כדור הארץ, מכיוון שההערכה היא שהם חיים עד 500 שנה. לשם השוואה- לאונרדו דה וינצ'י צייר את המונה ליזה לפני 500 שנה!"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. ישנם זנים של כרישים מהירים במיוחד שיכולים להגיע למהירויות שחייה של מעל 65 ק״מ לשעה! ויכולים לקפוץ לגובה של עד 10מטר (!) מהמים.",
+      "html": "<span lang=\"HE\">5. ישנם זנים של כרישים מהירים במיוחד שיכולים להגיע למהירויות שחייה של מעל 65 ק״מ לשעה! ויכולים לקפוץ לגובה של עד 10מטר (!) מהמים.</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. לכרישים הגדולים בעולם יש גם את הפה הרחב ביותר למרות שהם אוכלים רק פלנקטון ים זעיר, בדיוק כמו הלווייתנים הגדולים ביותר.",
+      "html": "6. לכרישים הגדולים בעולם יש גם את הפה הרחב ביותר למרות שהם אוכלים רק פלנקטון ים זעיר, בדיוק כמו הלווייתנים הגדולים ביותר."
+    },
+    {
+      "type": "paragraph",
+      "text": "7. יש כרישים מזנים מסוימים שפיתחו יכולת מדהימה של עצירת נשימתם ו״הליכה״ על סלעים ויבשה באמצעות הסנפירים והזנב שלהם, דבר המאפשר להם לבדוק את ״מזנון פירות הים״ בבריכות הסלע השכנות בשפל.",
+      "html": "7. יש כרישים מזנים מסוימים שפיתחו יכולת מדהימה של עצירת נשימתם ו״הליכה״ על סלעים ויבשה באמצעות הסנפירים והזנב שלהם, דבר המאפשר להם לבדוק את ״מזנון פירות הים״ בבריכות הסלע השכנות בשפל."
+    },
+    {
+      "type": "paragraph",
+      "text": "8. כרישי פטיש ראש הם כמעט ביוניים: יש להם חוש-על בכל הנוגע לגילוי אלקטרומגנטי וראיית סראונד (ראייה הקפית) של כמעט 360 מעלות!",
+      "html": "8. כרישי פטיש ראש הם כמעט ביוניים: יש להם חוש-על בכל הנוגע לגילוי אלקטרומגנטי וראיית סראונד (ראייה הקפית) של כמעט 360 מעלות!"
+    },
+    {
+      "type": "paragraph",
+      "text": "9. כאשר כרישים מתהפכים, הם נכנסים למצב השהייה טבעי הנקרא חוסר תנועה (טוניק)- רפלקס הגורם למצב זמני של חוסר פעילות אצל בעל חיים. בדומה להיפנוזה.",
+      "html": "9. כאשר כרישים מתהפכים, הם נכנסים למצב השהייה טבעי הנקרא חוסר תנועה (טוניק)- רפלקס הגורם למצב זמני של חוסר פעילות אצל בעל חיים. בדומה להיפנוזה."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מחפשים אטרקציות באילת? בפארק המצפה התת ימי תוכלו להגיע לבריכת הכרישים!"
+    },
+    {
+      "type": "paragraph",
+      "text": "אצלנו תוכלו להכיר את עולם הכרישים ולהביט ביצורי הפלא שוחים להנאתם ולהמשיך ללמוד עליהם, למשל: שהרבה יותר אנשים בעולם מתים מ…עקיצת דבורים מאשר מתקיפות כרישים, וכן שהאדם אינו מזונו של הכריש, ברוב ההתקפות של כרישים מקורם בטעות בזיהוי- שחייתו של אדם דומה לשחייתה של חיה פצועה, ולכן הוא עשוי לתקוף. תוכלו ללמוד שהכריש, בעזרת מערכת חושים מהמשוכללות בטבע, מזהה את טרפו מקילומטרים בכלל לפני שהוא רואה אותו בעזרת: תנודות, הפרשות, ריחות, מעגלים חשמליים. תוכלו ללמוד גם שהכריש ניזון מבעלי חיים פצועים וחולים וכך משמש כסניטר (המנקה) של הטבע.",
+      "html": "אצלנו תוכלו להכיר את <a href=\"https://coralworld.co.il/sharks-world/\">עולם הכרישים</a>&nbsp;ולהביט ביצורי הפלא שוחים להנאתם ולהמשיך ללמוד עליהם, למשל: שהרבה יותר אנשים בעולם מתים מ…עקיצת דבורים מאשר מתקיפות כרישים, וכן שהאדם אינו מזונו של הכריש, ברוב ההתקפות של כרישים מקורם בטעות בזיהוי- שחייתו של אדם דומה לשחייתה של חיה פצועה, ולכן הוא עשוי לתקוף. תוכלו ללמוד שהכריש, בעזרת מערכת חושים מהמשוכללות בטבע, מזהה את טרפו מקילומטרים בכלל לפני שהוא רואה אותו בעזרת: תנודות, הפרשות, ריחות, מעגלים חשמליים. תוכלו ללמוד גם שהכריש ניזון מבעלי חיים פצועים וחולים וכך משמש כסניטר (המנקה) של הטבע."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC01131-1024x1024.jpg",
+      "alt": "כריש",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC01127-1024x1024.jpg",
+      "alt": "כריש",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כדי שנוכל להמשיך להגיע לים סוף ולביקור בפארק המצפה התת ימי ולהמשיך ליהנות מכל שוניות האלמוגים, הכרישים, היצורים והעולם המופלא במפרץ אילת, קבלו כמה כללים להתנהגות נכונה בים:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. פלסטיק, לא בחופים שלנו! הימנעו מלהשתמש בכלים חד פעמים בחופי הים, זה מזיק לשוניות, לדגים ולאיכות הסביבה, ואצלנו באילת גם מקבלים קנס כספי!",
+      "html": "1. פלסטיק, לא בחופים שלנו! הימנעו מלהשתמש בכלים חד פעמים בחופי הים, זה מזיק לשוניות, לדגים ולאיכות הסביבה, ואצלנו באילת גם מקבלים קנס כספי!"
+    },
+    {
+      "type": "paragraph",
+      "text": "2. אתם שוחים ומשנרקלים בשמורת טבע, ובשמורות יש הגבלות שונות שמטרתן להגן על בית הגידול העדין של האלמוגים. כדי להבטיח מגע מינימלי בין האלמוגים לשחיינים הוצבו גשרים ומעברים מיוחדים המסומנים במצופים צהובים. אל תעברו אותם בבקשה!",
+      "html": "2. אתם שוחים ומשנרקלים בשמורת טבע, ובשמורות יש הגבלות שונות שמטרתן להגן על בית הגידול העדין של האלמוגים. כדי להבטיח מגע מינימלי בין האלמוגים לשחיינים הוצבו גשרים ומעברים מיוחדים המסומנים במצופים צהובים. אל תעברו אותם בבקשה!"
+    },
+    {
+      "type": "paragraph",
+      "text": "3. שחו ותהנו מהמראות המופלאים לאורך השונית, מומלץ לשמור על מרחק של מטר משוניות האלמוגים וכמובן שאסור בשום אופן לגעת באלמוגים ובטח לא לנסות להוציא אותם מחוץ למים!",
+      "html": "3. שחו ותהנו מהמראות המופלאים לאורך השונית, מומלץ לשמור על מרחק של מטר משוניות האלמוגים וכמובן שאסור בשום אופן לגעת <span lang=\"he-IL\">ב<a href=\"https://coralworld.co.il/almogim/\"><span style=\"color: #1155cc;\"><u>אלמוגים</u></span></a> </span>ובטח לא לנסות להוציא אותם מחוץ למים!&nbsp;"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC01187.jpg",
+      "alt": "כריש",
+      "width": 2500,
+      "height": 1667
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/babysharks/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f423a3661-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,619 @@
+{
+  "source": "https://coralworld.co.il/%D7%A2%D7%9E%D7%95%D7%AA%D7%AA-%D7%A6%D7%9C%D7%95%D7%9C-%D7%A9%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D-%D7%94%D7%97%D7%95%D7%A4%D7%99%D7%9D-%D7%95%D7%94%D7%A0%D7%97%D7%9C/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.843Z",
+  "seo": {
+    "title": "עמותת 'צלול'- שומרים על הים, החופים והנחלים כבר 25 שנה | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "עמותת 'צלול'- שומרים על הים, החופים והנחלים כבר 25 שנה | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/",
+      "twitter:card": "summary",
+      "twitter:title": "עמותת 'צלול'- שומרים על הים, החופים והנחלים כבר 25 שנה | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#listItem",
+                  "name": "עמותת 'צלול'- שומרים על הים, החופים והנחלים כבר 25 שנה"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#listItem",
+                "position": 2,
+                "name": "עמותת 'צלול'- שומרים על הים, החופים והנחלים כבר 25 שנה",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#webpage",
+            "url": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/",
+            "name": "עמותת 'צלול'- שומרים על הים, החופים והנחלים כבר 25 שנה | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#breadcrumblist"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/08/zalul_logo_v_01.png",
+              "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#mainImage",
+              "width": 850,
+              "height": 850,
+              "caption": "לוגו עמותת צלול"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/#mainImage"
+            },
+            "datePublished": "2025-07-03T10:57:17+03:00",
+            "dateModified": "2025-11-18T14:20:30+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "שומרים על היםהחופים והנחליםכבר 25 שנה"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/",
+    "x-default": "https://coralworld.co.il/%d7%a2%d7%9e%d7%95%d7%aa%d7%aa-%d7%a6%d7%9c%d7%95%d7%9c-%d7%a9%d7%95%d7%9e%d7%a8%d7%99%d7%9d-%d7%a2%d7%9c-%d7%94%d7%99%d7%9d-%d7%94%d7%97%d7%95%d7%a4%d7%99%d7%9d-%d7%95%d7%94%d7%a0%d7%97%d7%9c/"
+  },
+  "blocks": [
+    {
+      "type": "cta",
+      "text": "פתח תפריט נגישות",
+      "href": "https://coralworld.co.il/%D7%A2%D7%9E%D7%95%D7%AA%D7%AA-%D7%A6%D7%9C%D7%95%D7%9C-%D7%A9%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D-%D7%94%D7%97%D7%95%D7%A4%D7%99%D7%9D-%D7%95%D7%94%D7%A0%D7%97%D7%9C/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-white.png",
+      "alt": "Handicapped logo white",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-black.png",
+      "alt": "Handicapped logo black",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נגישות"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מונוכרום",
+        "ניגודיות גבוה",
+        "הדגש קישורים",
+        "אבג | טקסט קטן",
+        "אבג | טקסט בינוני",
+        "אבג | טקסט גדול",
+        "גודל טקסט רגיל",
+        "אפס הגדרות"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/01/new-logo-white.png",
+      "alt": "",
+      "width": 2800,
+      "height": 1419
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/he.png",
+      "alt": "Heb",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Eng",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/flags/egypt-flag-s.png",
+      "alt": "ערבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png",
+      "alt": "צרפתית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png",
+      "alt": "רוסית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fi.png",
+      "alt": "פינית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png",
+      "alt": "גרמנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png",
+      "alt": "איטלקית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/lv.png",
+      "alt": "לטבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png",
+      "alt": "פולנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אטרקציות למשפחה באילתאטרקציות למשפחה באילתצלילה עם כרישיםקורל 2000סיור מאחורי הקלעיםתכנון ביקור בפארקארועיםקבוצותמשחקים אינטראקטיבייםחוברת יצירה לילדים – הרפתקאה במעמקי היםמפה אינטראקטיביתביתביתבית",
+        "תצוגות ובעלי חייםמגדל המצפה התת ימיעולם הכרישיםאקווריום דגים נדיריםשונית ים סוףבריכת צביםיצורים ממעמקיםביתביתבית",
+        "אקווה דום",
+        "סיפור הים האדוםפרוייקט שחרור צבים-מעקב LIVEסיפור הים האדוםידידי הים האדוםעמותת ‘צלול’- שומרים על הים, החופים והנחלים כבר 25 שנהלחיי הים הזה!ביתבית",
+        "חדשות ומאמרים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/08/zalul_logo_v_01.png",
+      "alt": "לוגו עמותת צלול",
+      "width": 850,
+      "height": 850
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "שומרים על היםהחופים והנחליםכבר 25 שנה"
+    },
+    {
+      "type": "paragraph",
+      "text": "אהבת הים, האלמוגים והחיים שסביבם, הובילו את הבעלים של המצפה התת ימי להקים את עמותת 'צלול' בשנת 1999, כדי להציל את ריף האלמוגים הנדיר, שנהרס מזיהום כלובי הדגים במפרץ אילת. לאחר מאבק ממושך הוצאו כלובי הדגים מהים האדום, ומאז ניכר שיפור במצב ריף האלמוגים. 'צלול' ממשיכה לעמוד על המשמר, כדי לשמור על מפרץ אילת צלול ונקי מזיהומים. עמותת 'צלול' היא אחד מארגוני הסביבה החשובים בארץ וכבר 25 שנה פועלת במרץ ובנחישות לשמירה על הים, החופים והנחלים של ישראל. העמותה מובילה מאבקים חשובים למניעת זיהומי חקלאות, נפט, ביוב, שפכים ופלסטיק שפוגעים בים האדום ובים התיכון, בחופים ובנחלים שלנו. ההישגים המרשימים של \"צלול\" כוללים את הוצאת כלובי הדגים ממפרץ אילת, סגירת מיכל האמוניה המסוכן בחיפה, מניעת הזרמת זיהום ביוב מהשפד\"ן אל הים התיכון, שיקום נחלים רבים, הפחתת פלסטיק חד פעמי בחופים, ייזום הצעת חוק השקיות וקידום הרחבת חוק הפיקדון ועוד. בימים אלו, מובילה העמותה את המאבק לעצירת התכנית המסוכנת להגדלת שינוע הנפט של חברת קצא\"א במפרץ אילת ועוד שורה ארוכה של נושאים ביניהם: שיפור מוכנותה של ישראל להתמודדות עם אסון נפט בים, מניעת הגדלת כמות החנקות המוזרמת למפרץ אילת, הגנה על החופים הדרומיים במפרץ מפני תכניות בניה, מניעת זיהומי ביוב, לים ולחופים, הנגרמים בשל חיבורים לא חוקיים בין תשתיות הניקוז והביוב, מניעת זיהום נחלי הצפון ונחלי המרכז מפני זיהומים, צמצום השימוש בפלסטיק חד פעמי בחופים ועוד ועוד. הים, החופים והנחלים של ישראל הם ערכי טבע יקרים ונדירים ו'צלול' פועלת לשמור ולהגן עליהם, למעננו ולמען הדורות הבאים. בזכות ההשתתפות והתמיכה שלכם, אנחנו מצליחים להביא לשינוי אמיתי ומרגש. הצטרפו אלינו ב\"עיגול לטובה\" – האגורות הקטנות שלכם יכולות לעשות ים של שינוי. ביחד נוכל להמשיך להגשים את חזון השמירה על הסביבה ובריאות האדם. ביחד יהיה פה צלול.",
+      "html": "אהבת הים, האלמוגים והחיים שסביבם, הובילו את הבעלים של המצפה התת ימי להקים את עמותת 'צלול' בשנת 1999, כדי להציל את ריף האלמוגים הנדיר, שנהרס מזיהום כלובי הדגים&nbsp; במפרץ אילת. <br> <br>לאחר מאבק ממושך הוצאו כלובי הדגים מהים האדום, ומאז ניכר שיפור במצב ריף האלמוגים. <br> 'צלול'&nbsp; ממשיכה לעמוד על המשמר, כדי לשמור על מפרץ אילת צלול ונקי מזיהומים. עמותת 'צלול' היא אחד מארגוני הסביבה החשובים בארץ וכבר 25 שנה פועלת במרץ ובנחישות לשמירה על הים, החופים והנחלים של ישראל. <br> <br>העמותה מובילה מאבקים חשובים למניעת זיהומי חקלאות, נפט, ביוב, שפכים ופלסטיק שפוגעים בים האדום ובים התיכון, בחופים ובנחלים שלנו. <br>ההישגים המרשימים של \"צלול\" כוללים את הוצאת כלובי הדגים ממפרץ אילת, סגירת מיכל האמוניה המסוכן בחיפה, מניעת הזרמת זיהום ביוב מהשפד\"ן אל הים התיכון, שיקום נחלים רבים, הפחתת פלסטיק חד פעמי בחופים, ייזום הצעת חוק השקיות וקידום הרחבת חוק הפיקדון ועוד. <br> <br> בימים אלו, מובילה העמותה את המאבק לעצירת התכנית המסוכנת להגדלת שינוע הנפט של חברת קצא\"א במפרץ אילת ועוד שורה ארוכה של נושאים ביניהם: שיפור מוכנותה של ישראל להתמודדות עם אסון נפט בים, מניעת הגדלת כמות החנקות המוזרמת למפרץ אילת, הגנה על החופים הדרומיים במפרץ מפני תכניות בניה, מניעת זיהומי ביוב, לים ולחופים, הנגרמים בשל חיבורים לא חוקיים בין תשתיות הניקוז והביוב, מניעת זיהום נחלי הצפון ונחלי המרכז מפני זיהומים, צמצום השימוש בפלסטיק חד פעמי בחופים ועוד ועוד. <br> <br>הים, החופים והנחלים של ישראל הם ערכי טבע יקרים ונדירים ו'צלול' פועלת לשמור ולהגן עליהם, למעננו ולמען הדורות הבאים. בזכות ההשתתפות והתמיכה שלכם, אנחנו מצליחים להביא לשינוי אמיתי ומרגש. <br> <br>הצטרפו אלינו ב\"עיגול לטובה\" – האגורות הקטנות שלכם יכולות לעשות ים של שינוי. <br>ביחד נוכל להמשיך להגשים את חזון השמירה על הסביבה ובריאות האדם. <br>ביחד יהיה פה צלול."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/07/%D7%A9%D7%95%D7%A0%D7%99%D7%AA-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D-1024x1024.jpg",
+      "alt": "",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/07/WhatsApp-Image-2024-05-02-at-10.56.08_5d1b4b4e-1-1024x768.jpg",
+      "alt": "",
+      "width": 1024,
+      "height": 768
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/07/%D7%90%D7%99%D7%9C%D7%AA-%D7%97%D7%A6%D7%A8-%D7%90%D7%97%D7%95%D7%A8%D7%99%D7%AA-1024x1024.jpg",
+      "alt": "",
+      "width": 1024,
+      "height": 1024
+    },
+    {
+      "type": "paragraph",
+      "text": "מעגלים לטובהלעמותת \"צלול\"",
+      "html": "<a href=\"https://www.igul.org.il/amutot/zalul/\">מעגלים לטובה</a><br>לעמותת \"צלול\""
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/07/%D7%9C%D7%95%D7%92%D7%95-%D7%A2%D7%99%D7%92%D7%95%D7%9C-%D7%9C%D7%98%D7%95%D7%91%D7%94-1536x838.png",
+      "alt": "",
+      "width": 1439,
+      "height": 785
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/loader.gif",
+      "alt": "",
+      "width": 500,
+      "height": 223
+    },
+    {
+      "type": "cta",
+      "text": "✕",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "היי! כאן הצב על הקו, איך אפשר לעזור?"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://backend.chatbase.co/storage/v1/object/public/chat-icons/4a2b9ace-2b3e-43c3-a2d2-a4cd539125cd/IMvz_3tPuoquPeC5bnwkE.jpg",
+      "alt": "צב על הקו",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "iframe",
+      "src": "https://12949398.fls.doubleclick.net/activityi;src=12949398;type=invmedia;cat=coral0;rcb=9;ord=1728093146677;npa=0;auiddc=1919266235.1791095297;uaa=x86;uab=64;uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69u2h1v9181812485z89225483744za20gzb9225483744zd9225483744xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616986~115938465~115938468~118897920~118897930~120213116~120385422~120469145~120469153~121046263~121046271;epver=2;dc_random=1791096191_l6fCEDUEhxRL0_sbdtX1ft2IFr5X3Z2NBw;_dc_test=1;~oref=https%3A%2F%2Fcoralworld.co.il%2F%25D7%25A2%25D7%259E%25D7%2595%25D7%25AA%25D7%25AA-%25D7%25A6%25D7%259C%25D7%2595%25D7%259C-%25D7%25A9%25D7%2595%25D7%259E%25D7%25A8%25D7%2599%25D7%259D-%25D7%25A2%25D7%259C-%25D7%2594%25D7%2599%25D7%259D-%25D7%2594%25D7%2597%25D7%2595%25D7%25A4%25D7%2599%25D7%259D-%25D7%2595%25D7%2594%25D7%25A0%25D7%2597%25D7%259C%2F?",
+      "title": null
+    },
+    {
+      "type": "iframe",
+      "src": "https://coralworld.co.il/%D7%A2%D7%9E%D7%95%D7%AA%D7%AA-%D7%A6%D7%9C%D7%95%D7%9C-%D7%A9%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D-%D7%94%D7%97%D7%95%D7%A4%D7%99%D7%9D-%D7%95%D7%94%D7%A0%D7%97%D7%9C/",
+      "title": "צב על הקו"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A2%D7%9E%D7%95%D7%AA%D7%AA-%D7%A6%D7%9C%D7%95%D7%9C-%D7%A9%D7%95%D7%9E%D7%A8%D7%99%D7%9D-%D7%A2%D7%9C-%D7%94%D7%99%D7%9D-%D7%94%D7%97%D7%95%D7%A4%D7%99%D7%9D-%D7%95%D7%94%D7%A0%D7%97%D7%9C/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f561e758e-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

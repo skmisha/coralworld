@@ -1,0 +1,764 @@
+{
+  "source": "https://coralworld.co.il/%D7%99%D7%9D-%D7%A9%D7%9C-%D7%99%D7%A6%D7%99%D7%A8%D7%94/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.828Z",
+  "seo": {
+    "title": "ים של יצירה | המצפה התת ימי",
+    "description": "דפי פעילות וצביעה לילדים ולכל המשפחה באתר המצפה התת ימי באילת! פשוט להוריד, להדפיס וליצור בכיף!",
+    "canonical": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "ים של יצירה | המצפה התת ימי",
+      "og:description": "דפי פעילות וצביעה לילדים ולכל המשפחה באתר המצפה התת ימי באילת! פשוט להוריד, להדפיס וליצור בכיף!",
+      "og:url": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/",
+      "twitter:card": "summary",
+      "twitter:title": "ים של יצירה | המצפה התת ימי",
+      "twitter:description": "דפי פעילות וצביעה לילדים ולכל המשפחה באתר המצפה התת ימי באילת! פשוט להוריד, להדפיס וליצור בכיף!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/#listItem",
+                  "name": "ים של יצירה"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/#listItem",
+                "position": 2,
+                "name": "ים של יצירה",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/#webpage",
+            "url": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/",
+            "name": "ים של יצירה | המצפה התת ימי",
+            "description": "דפי פעילות וצביעה לילדים ולכל המשפחה באתר המצפה התת ימי באילת! פשוט להוריד, להדפיס וליצור בכיף!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/#breadcrumblist"
+            },
+            "datePublished": "2020-09-22T10:46:05+03:00",
+            "dateModified": "2024-01-07T11:07:00+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "דפי פעילות וצביעה לכל המשפחה"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/",
+    "x-default": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/kids-banner.jpg",
+      "alt": "אטרקציות לילדים באילת",
+      "width": 1919,
+      "height": 1001
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "דפי פעילות וצביעה לכל המשפחה"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "לחצו להורדה",
+        "מסלול צבעוני לחצו להורדה",
+        "לחצו להורדה",
+        "צביעה מהנה ומה שמי לחצו להורדה",
+        "לחצו להורדה",
+        "תשבץ ימי לחצו להורדה",
+        "תפזורת כרישים לחצו להורדה",
+        "דף צביעה- מצפה תת ימי לחצו להורדה",
+        "מצא את ההבדלים מתחת למים לחצו להורדה",
+        "לחצו להורדה",
+        "דומינו ימי לחצו להורדה",
+        "תמנון עבודת יד לחצו להורדה",
+        "מקו לקו לחצו להורדה",
+        "כריש פטיש- קישוט לסוכה לחצו להורדה",
+        "סוסון ים- קישוט לסוכה לחצו להורדה",
+        "עטלף ים- קישוט לסוכה לחצו להורדה",
+        "דג זהרון- קישוט לסוכה לחצו להורדה",
+        "דג גדול, דג קטן- קישוט לסוכה לחצו להורדה"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": ""
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/1.1-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/1.1-scaled.jpg",
+      "width": 1890,
+      "height": 2560
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מסלול צבעוני"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/3.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/3.jpg",
+      "width": 1647,
+      "height": 2366
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": ""
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/2.2-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/2.2-scaled.jpg",
+      "width": 1855,
+      "height": 2560
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "צביעה מהנה ומה שמי"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/5.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/5.jpg",
+      "width": 1712,
+      "height": 2343
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": ""
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/3.3-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/3.3-scaled.jpg",
+      "width": 1961,
+      "height": 2560
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תשבץ ימי"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/4.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/4.jpg",
+      "width": 1627,
+      "height": 2204
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תפזורת כרישים"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/6.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/6.jpg",
+      "width": 1771,
+      "height": 2480
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "דף צביעה- מצפה תת ימי"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/1.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/1.jpg",
+      "width": 1574,
+      "height": 2294
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מצא את ההבדלים מתחת למים"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/7.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/7.jpg",
+      "width": 1559,
+      "height": 2387
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": ""
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/4.4-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/4.4-scaled.jpg",
+      "width": 1912,
+      "height": 2560
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "דומינו ימי"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/8.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/8.jpg",
+      "width": 1731,
+      "height": 2370
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תמנון עבודת יד"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/kids-image.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/kids-image.jpg",
+      "width": 400,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מקו לקו"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/2.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/2.jpg",
+      "width": 1556,
+      "height": 2308
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "כריש פטיש- קישוט לסוכה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A4%D7%98%D7%99%D7%A9-copy-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/כריש-פטיש-copy-scaled.jpg",
+      "width": 2560,
+      "height": 1260
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סוסון ים- קישוט לסוכה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/%D7%A1%D7%95%D7%A1%D7%95%D7%9F-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/סוסון-scaled.jpg",
+      "width": 1422,
+      "height": 2560
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "עטלף ים- קישוט לסוכה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/%D7%A2%D7%98%D7%9C%D7%A3-%D7%99%D7%9D-copy-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/עטלף-ים-copy-scaled.jpg",
+      "width": 2560,
+      "height": 1689
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "דג זהרון- קישוט לסוכה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/%D7%A1%D7%95%D7%9B%D7%95%D7%AA-%D7%93%D7%92-1-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/סוכות-דג-1-scaled.jpg",
+      "width": 2560,
+      "height": 1846
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "דג גדול, דג קטן- קישוט לסוכה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/09/%D7%96%D7%95%D7%92-%D7%93%D7%92%D7%99%D7%9D-scaled.jpg",
+      "alt": "https://coralworld.co.il/wp-content/uploads/2020/09/זוג-דגים-scaled.jpg",
+      "width": 2247,
+      "height": 2560
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "המצפה התת ימי הראשון מסוגו בעולם המצפה התת ימי הראשון מסוגו בעולם",
+        "שאלות שלכם על דגים שאלות שלכם על דגים",
+        "ניקוי וטיפול בצבים ניקוי וטיפול בצבים",
+        "תיקון מחשבות שגויות על כרישים תיקון מחשבות שגויות על כרישים",
+        "על כריש פטיש על כריש פטיש",
+        "שאלות שלכם על כרישים שאלות שלכם על כרישים",
+        "על עטלף הים על עטלף הים"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "המצפה התת ימי הראשון מסוגו בעולם"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/x6C8cU-5RU0",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "המצפה התת ימי הראשון מסוגו בעולם"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שאלות שלכם על דגים"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/qDvo2Iy5zfc",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שאלות שלכם על דגים"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ניקוי וטיפול בצבים"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/L45FBY9-e-8",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ניקוי וטיפול בצבים"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תיקון מחשבות שגויות על כרישים"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/GjEknyHistg",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תיקון מחשבות שגויות על כרישים"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "על כריש פטיש"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/jrPLxklRo00",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "על כריש פטיש"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שאלות שלכם על כרישים"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/vmoc4_bozHU",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שאלות שלכם על כרישים"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "על עטלף הים"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/DG00569bjkQ",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "על עטלף הים"
+    },
+    {
+      "type": "cta",
+      "text": "לכתבות נוספות",
+      "href": null
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%99%D7%9D-%D7%A9%D7%9C-%D7%99%D7%A6%D7%99%D7%A8%D7%94/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f6a95490f-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

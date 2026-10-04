@@ -1,0 +1,1036 @@
+{
+  "source": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.844Z",
+  "seo": {
+    "title": "פעילויות קיץ 2026 | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "פעילויות קיץ 2026 | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/",
+      "twitter:card": "summary",
+      "twitter:title": "פעילויות קיץ 2026 | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#article",
+            "name": "פעילויות קיץ 2026 | המצפה התת ימי",
+            "headline": "פעילויות קיץ 2026",
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2026/07/%D7%90%D7%99%D7%99%D7%A7%D7%95%D7%9F-%D7%9E%D7%92%D7%93%D7%9C.svg",
+              "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#articleImage"
+            },
+            "datePublished": "2026-07-07T12:38:38+03:00",
+            "dateModified": "2026-08-30T07:56:54+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#webpage"
+            },
+            "articleSection": "פעילויות לילדים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/#listItem",
+                  "name": "פעילויות לילדים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "פעילויות לילדים",
+                "item": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#listItem",
+                  "name": "פעילויות קיץ 2026"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#listItem",
+                "position": 3,
+                "name": "פעילויות קיץ 2026",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%9c%d7%99%d7%9c%d7%93%d7%99%d7%9d/#listItem",
+                  "name": "פעילויות לילדים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/galistudio_manage/#author",
+            "url": "https://coralworld.co.il/author/galistudio_manage/",
+            "name": "galistudio_manage",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/7453ffa50b6081fd08b7769605589f75193e16022b9c2f2416594ee9f4423172?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "galistudio_manage"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#webpage",
+            "url": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/",
+            "name": "פעילויות קיץ 2026 | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "datePublished": "2026-07-07T12:38:38+03:00",
+            "dateModified": "2026-08-30T07:56:54+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "הקיץ הכי צבעוני קורה מתחת לפני הים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/",
+    "x-default": "https://coralworld.co.il/%d7%a4%d7%a2%d7%99%d7%9c%d7%95%d7%99%d7%95%d7%aa-%d7%a7%d7%99%d7%a5-2026/"
+  },
+  "blocks": [
+    {
+      "type": "cta",
+      "text": "פתח תפריט נגישות",
+      "href": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-white.png",
+      "alt": "Handicapped logo white",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-black.png",
+      "alt": "Handicapped logo black",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נגישות"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מונוכרום",
+        "ניגודיות גבוה",
+        "הדגש קישורים",
+        "אבג | טקסט קטן",
+        "אבג | טקסט בינוני",
+        "אבג | טקסט גדול",
+        "גודל טקסט רגיל",
+        "אפס הגדרות"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/01/new-logo-white.png",
+      "alt": "",
+      "width": 2800,
+      "height": 1419
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/he.png",
+      "alt": "Heb",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Eng",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/flags/egypt-flag-s.png",
+      "alt": "ערבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png",
+      "alt": "צרפתית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png",
+      "alt": "רוסית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fi.png",
+      "alt": "פינית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png",
+      "alt": "גרמנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png",
+      "alt": "איטלקית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/lv.png",
+      "alt": "לטבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png",
+      "alt": "פולנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אטרקציות למשפחה באילתאטרקציות למשפחה באילתצלילה עם כרישיםקורל 2000סיור מאחורי הקלעיםתכנון ביקור בפארקארועיםקבוצותמשחקים אינטראקטיבייםחוברת יצירה לילדים – הרפתקאה במעמקי היםמפה אינטראקטיביתביתביתבית",
+        "תצוגות ובעלי חייםמגדל המצפה התת ימיעולם הכרישיםאקווריום דגים נדיריםשונית ים סוףבריכת צביםיצורים ממעמקיםביתביתבית",
+        "אקווה דום",
+        "סיפור הים האדוםפרוייקט שחרור צבים-מעקב LIVEסיפור הים האדוםידידי הים האדוםעמותת ‘צלול’- שומרים על הים, החופים והנחלים כבר 25 שנהלחיי הים הזה!ביתבית",
+        "חדשות ומאמרים"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "פארק המצפה התת ימי אילת · קיץ 2026",
+      "html": "פארק המצפה התת ימי אילת · קיץ 2026"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "הקיץ הכי צבעוני קורה מתחת לפני הים"
+    },
+    {
+      "type": "paragraph",
+      "text": "פעילויות קיץ מיוחדות לכל המשפחה, בין ה-20.7.2026 ל-31.8.2026, בכל יום מראשון עד שבת.",
+      "html": "פעילויות קיץ מיוחדות לכל המשפחה, בין ה-20.7.2026 ל-31.8.2026,\nבכל יום מראשון עד שבת."
+    },
+    {
+      "type": "cta",
+      "text": "לצפייה בלוח הפעילויות",
+      "href": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/#mitzpe-schedule"
+    },
+    {
+      "type": "cta",
+      "text": "לתכנון הביקור",
+      "href": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/#mitzpe-visitor-info"
+    },
+    {
+      "type": "paragraph",
+      "text": "🎟️ הפעילויות כלולות בכרטיס הכניסה לפארק",
+      "html": "<span aria-hidden=\"true\">🎟️</span> הפעילויות כלולות בכרטיס הכניסה לפארק"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תאריכים"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "ימי פעילות"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "כלול בכרטיס"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מה קורה השנה בפארק"
+    },
+    {
+      "type": "paragraph",
+      "text": "טעימה מהפעילויות שמחכות לכם — הלו\"ז המלא, יום אחרי יום, למטה.",
+      "html": "טעימה מהפעילויות שמחכות לכם — הלו\"ז המלא, יום אחרי יום, למטה."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מגדל המשאלות פעילות קסומה לכל המשפחה, מול חנות התכשיטים.",
+        "🦈שיני כריש סדנה חווייתית ומרתקת על מלכי הים, במרכז הלימודי החווייתי.",
+        "🎨יצירה פינת יצירה פתוחה לאורך כל היום, ליד המסעדה.",
+        "🤿מפגש עם צולל.ת שיחה מרתקת עם צוללן מקצועי, ליד בריכת הכרישים.",
+        "🎒עיצוב תיקי ג'ינס סדנת עיצוב ויצירה לילדים, מול חנות התכשיטים.",
+        "💄איפור פנים הפכו לדמות הים האהובה עליכם, מול חנות התכשיטים.",
+        "📖שעת סיפור עם הסופרת סיון דודאי סיפור קסום על מדשאת המסעדה."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מגדל המשאלות"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שיני כריש"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "עיצוב תיקי ג'ינס"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "איפור פנים"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שעת סיפור עם הסופרת סיון דודאי"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "לוח פעילויות שבועי"
+    },
+    {
+      "type": "paragraph",
+      "text": "בחרו יום כדי לראות בדיוק מה קורה, באיזו שעה ואיפה בפארק.",
+      "html": "בחרו יום כדי לראות בדיוק מה קורה, באיזו שעה ואיפה בפארק."
+    },
+    {
+      "type": "cta",
+      "text": "ראשון",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "שני",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "שלישי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "רביעי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "חמישי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "שישי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "שבת",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום ראשון"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מגדל המשאלות🕒 11:30–14:00📍 מול חנות התכשיטים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "מגדל המשאלות",
+      "html": "מגדל המשאלות"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום שני"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "🤿מפגש עם צולל.ת🕒 11:10–11:25📍 יציאה מהכרישים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש עם צולל.ת",
+      "html": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום שלישי"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "🎒עיצוב תיקי ג'ינס🕒 11:30–14:00📍 מול חנות התכשיטים",
+        "🤿מפגש עם צולל.ת🕒 11:10–11:25📍 יציאה מהכרישים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "עיצוב תיקי ג'ינס",
+      "html": "עיצוב תיקי ג'ינס"
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש עם צולל.ת",
+      "html": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום רביעי"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "💄איפור פנים🕒 11:30–14:00📍 מול חנות התכשיטים",
+        "🤿מפגש עם צולל.ת🕒 11:10–11:25📍 יציאה מהכרישים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "איפור פנים",
+      "html": "איפור פנים"
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש עם צולל.ת",
+      "html": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום חמישי"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מגדל המשאלות🕒 11:30–14:00📍 מול חנות התכשיטים",
+        "📖שעת סיפור עם הסופרת סיון דודאי🕒 11:30–12:30📍 מדשאת מסעדה",
+        "🤿מפגש עם צולל.ת🕒 11:10–11:25📍 יציאה מהכרישים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "מגדל המשאלות",
+      "html": "מגדל המשאלות"
+    },
+    {
+      "type": "paragraph",
+      "text": "שעת סיפור עם הסופרת סיון דודאי",
+      "html": "שעת סיפור עם הסופרת סיון דודאי"
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש עם צולל.ת",
+      "html": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום שישי"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "💄איפור פנים🕒 11:30–14:00📍 מול חנות התכשיטים",
+        "📖שעת סיפור עם הסופרת סיון דודאי🕒 11:30–12:30📍 מדשאת מסעדה",
+        "🤿מפגש עם צולל.ת🕒 11:10–11:25📍 יציאה מהכרישים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "איפור פנים",
+      "html": "איפור פנים"
+    },
+    {
+      "type": "paragraph",
+      "text": "שעת סיפור עם הסופרת סיון דודאי",
+      "html": "שעת סיפור עם הסופרת סיון דודאי"
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש עם צולל.ת",
+      "html": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יום שבת"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "🤿מפגש עם צולל.ת🕒 11:10–11:25📍 יציאה מהכרישים",
+        "🦈שיני כריש🕒 13:30–14:00📍 מרכז לימודי חוויתי",
+        "🎨יצירה🕒 כל היום📍 מסעדה"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש עם צולל.ת",
+      "html": "מפגש עם צולל.ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "שיני כריש",
+      "html": "שיני כריש"
+    },
+    {
+      "type": "paragraph",
+      "text": "יצירה",
+      "html": "יצירה"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מידע חשוב למבקרים"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "תאריכים: הפעילויות מתקיימות בין 20.7.2026 ל-31.8.2026.",
+        "ימים: בכל יום, מראשון עד שבת.",
+        "כלול בכרטיס: כל הפעילויות כלולות בכרטיס הכניסה לפארק, ללא תשלום נוסף.",
+        "עדכונים: לו\"ז הפעילויות עשוי להתעדכן מעת לעת — מומלץ לבדוק שוב לפני הביקור.",
+        "שעות פתיחה: הפארק פתוח בין השעות 9:00–16:00.",
+        "חניה: בפארק חניה רחבת ידיים, אך בימים עמוסים היא עלולה להתמלא. קיימות חניות נכים, בהתאם למקום פנוי."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "בואו לגלות את הקיץ מתחת לפני הים"
+    },
+    {
+      "type": "cta",
+      "text": "לרכישת כרטיסים",
+      "href": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/loader.gif",
+      "alt": "",
+      "width": 500,
+      "height": 223
+    },
+    {
+      "type": "cta",
+      "text": "✕",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "היי! כאן הצב על הקו, איך אפשר לעזור?"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://backend.chatbase.co/storage/v1/object/public/chat-icons/4a2b9ace-2b3e-43c3-a2d2-a4cd539125cd/IMvz_3tPuoquPeC5bnwkE.jpg",
+      "alt": "צב על הקו",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "iframe",
+      "src": "https://12949398.fls.doubleclick.net/activityi;src=12949398;type=invmedia;cat=coral0;rcb=15;ord=3480906616919;npa=0;auiddc=1919266235.1791095297;uaa=x86;uab=64;uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69u2v9181812485z89225483744za20gzb9225483744zd9225483744xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938465~115938469~118897920~118897930~120213116~120385422~120469145~120469153;epver=2;dc_random=1791095319_EOzqT3vt_2EzlGjCoEmg5iqSbBOlrX6rOA;_dc_test=1;~oref=https%3A%2F%2Fcoralworld.co.il%2F%25D7%25A4%25D7%25A2%25D7%2599%25D7%259C%25D7%2595%25D7%2599%25D7%2595%25D7%25AA-%25D7%25A7%25D7%2599%25D7%25A5-2026%2F?",
+      "title": null
+    },
+    {
+      "type": "iframe",
+      "src": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/",
+      "title": "צב על הקו"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A4%D7%A2%D7%99%D7%9C%D7%95%D7%99%D7%95%D7%AA-%D7%A7%D7%99%D7%A5-2026/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f09db66f4-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

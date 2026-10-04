@@ -1,0 +1,1107 @@
+{
+  "source": "https://coralworld.co.il/tickets/?step=1",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.865Z",
+  "seo": {
+    "title": "רכישת כרטיסים | המצפה התת ימי",
+    "description": "הזמינו כרטיסים לאחת מהחבילות שלנו ובואו ליהנות מחוויה בלתי נשכחת. בדקו את החבילות שלנו, למשל: כניסה למצפה, כניסה לאקווה דום, כולל כוס קפה, ועוד!",
+    "canonical": "https://coralworld.co.il/tickets/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "רכישת כרטיסים | המצפה התת ימי",
+      "og:description": "הזמינו כרטיסים לאחת מהחבילות שלנו ובואו ליהנות מחוויה בלתי נשכחת. בדקו את החבילות שלנו, למשל: כניסה למצפה, כניסה לאקווה דום, כולל כוס קפה, ועוד!",
+      "og:url": "https://coralworld.co.il/tickets/",
+      "twitter:card": "summary",
+      "twitter:title": "רכישת כרטיסים | המצפה התת ימי",
+      "twitter:description": "הזמינו כרטיסים לאחת מהחבילות שלנו ובואו ליהנות מחוויה בלתי נשכחת. בדקו את החבילות שלנו, למשל: כניסה למצפה, כניסה לאקווה דום, כולל כוס קפה, ועוד!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/tickets/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/tickets/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/tickets/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/tickets/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/tickets/#listItem",
+                  "name": "רכישת כרטיסים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/tickets/#listItem",
+                "position": 2,
+                "name": "רכישת כרטיסים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/tickets/#webpage",
+            "url": "https://coralworld.co.il/tickets/",
+            "name": "רכישת כרטיסים | המצפה התת ימי",
+            "description": "הזמינו כרטיסים לאחת מהחבילות שלנו ובואו ליהנות מחוויה בלתי נשכחת. בדקו את החבילות שלנו, למשל: כניסה למצפה, כניסה לאקווה דום, כולל כוס קפה, ועוד!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/tickets/#breadcrumblist"
+            },
+            "datePublished": "2023-01-30T21:48:38+02:00",
+            "dateModified": "2025-03-14T11:13:49+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "רכישת כרטיסים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/tickets/",
+    "en": "https://coralworld.co.il/en/tickets/",
+    "x-default": "https://coralworld.co.il/tickets/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "רכישת כרטיסים"
+    },
+    {
+      "type": "paragraph",
+      "text": "הזמינו כרטיסים לאחת מהחבילות שלנו ובואו להנות מחוויה בלתי נשכחת",
+      "html": "הזמינו כרטיסים לאחת מהחבילות שלנו ובואו להנות מחוויה בלתי נשכחת"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1",
+        "2",
+        "3",
+        "4",
+        "5"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "1",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "2",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "3",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "4",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "5",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "1בחרו את החבילה שהכי מתאימה לכם"
+    },
+    {
+      "type": "paragraph",
+      "text": "3% מהכנסות מכירת הכרטיסים נתרמים לעמותת \"צלול- להגנת הים, האדם והסביבה\"",
+      "html": "3% מהכנסות מכירת הכרטיסים נתרמים לעמותת <a href=\"https://zalul.org.il/\" target=\"_blank\" rel=\"noopener\">\"צלול- להגנת הים,&nbsp;האדם&nbsp;והסביבה\" </a>"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2023/02/pictures2-webp.webp",
+      "alt": "",
+      "width": 630,
+      "height": 422
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "כניסה לפארק המצפה, כניסה לאקווה דום 3D!"
+    },
+    {
+      "type": "paragraph",
+      "text": "129 ₪ למבוגר / 119 ₪ לילד",
+      "html": "<p>129 ₪ למבוגר / 119 ₪ לילד</p>"
+    },
+    {
+      "type": "paragraph",
+      "text": "129 ₪ למבוגר / 119 ₪ לילד",
+      "html": "129 ₪ למבוגר / 119 ₪ לילד"
+    },
+    {
+      "type": "cta",
+      "text": "ספרו לי עוד",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "לרכישה",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2023/06/%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%A7%D7%9C%D7%A2%D7%99%D7%9D-copy-2-100-webp.webp",
+      "alt": "",
+      "width": 318,
+      "height": 189
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סיור אל מאחורי הקלעים - חוויה בלתי נשכחת"
+    },
+    {
+      "type": "paragraph",
+      "text": "30 ₪ לסיור – לקבוצה של עד 10 משתתפים המחיר אינו כולל כניסה לפארק המצפה. יש לרכוש כרטיס כניסה בנפרד",
+      "html": "<p>30 ₪ לסיור – לקבוצה של עד 10 משתתפים <span style=\"color: #ff0000\"><br>\nהמחיר אינו כולל כניסה לפארק המצפה. יש לרכוש כרטיס כניסה בנפרד<br>\n</span> </p>"
+    },
+    {
+      "type": "paragraph",
+      "text": "30 ₪ לסיור – לקבוצה של עד 10 משתתפים המחיר אינו כולל כניסה לפארק המצפה. יש לרכוש כרטיס כניסה בנפרד",
+      "html": "30 ₪ לסיור – לקבוצה של עד 10 משתתפים <span style=\"color: #ff0000\"><br>\nהמחיר אינו כולל כניסה לפארק המצפה. יש לרכוש כרטיס כניסה בנפרד<br>\n</span>"
+    },
+    {
+      "type": "cta",
+      "text": "ספרו לי עוד",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "לרכישה",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2023/02/pictures5-webp.webp",
+      "alt": "",
+      "width": 630,
+      "height": 422
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "צלילה עם כרישים, לבעלי רישיון וביטוח. כולל כניסה לפארק המצפה וכניסה לאקווה דום 3D"
+    },
+    {
+      "type": "paragraph",
+      "text": "599 ₪ לאדם, 999 ₪ לזוג בהזנת קוד קופון dive",
+      "html": "<p>599 ₪ לאדם,<br>\n999 ₪ לזוג בהזנת קוד קופון dive</p>"
+    },
+    {
+      "type": "paragraph",
+      "text": "599 ₪ לאדם, 999 ₪ לזוג בהזנת קוד קופון dive",
+      "html": "599 ₪ לאדם,<br>\n999 ₪ לזוג בהזנת קוד קופון dive"
+    },
+    {
+      "type": "cta",
+      "text": "ספרו לי עוד",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "לרכישה",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/09/%D7%AA%D7%9E%D7%A0%D7%A2.jpg",
+      "alt": "",
+      "width": 317,
+      "height": 189
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "כרטיס משלוב בהנחה - כניסה לפארק המצפה + אקווה דום 3D + כניסה לפארק תמנע"
+    },
+    {
+      "type": "paragraph",
+      "text": "139 ₪ למבוגר/ 129 ₪ לילד",
+      "html": "<p>139 ₪ למבוגר/ 129 ₪ לילד</p>"
+    },
+    {
+      "type": "paragraph",
+      "text": "139 ₪ למבוגר/ 129 ₪ לילד",
+      "html": "139 ₪ למבוגר/ 129 ₪ לילד"
+    },
+    {
+      "type": "cta",
+      "text": "ספרו לי עוד",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "לרכישה",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2026/06/Artboard-1@4x-webp.webp",
+      "alt": "",
+      "width": 630,
+      "height": 376
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "כרטיס משולב בהנחה: המצפה התת-ימי, אקווה דום D3 וטופ 94"
+    },
+    {
+      "type": "paragraph",
+      "text": "169 ₪ למבוגר / 159 ₪ לילד",
+      "html": "<p>169 ₪ למבוגר / 159 ₪ לילד</p>"
+    },
+    {
+      "type": "paragraph",
+      "text": "169 ₪ למבוגר / 159 ₪ לילד",
+      "html": "169 ₪ למבוגר / 159 ₪ לילד"
+    },
+    {
+      "type": "cta",
+      "text": "ספרו לי עוד",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "לרכישה",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "קופון:",
+      "html": "<label for=\"coupon_code\" class=\"screen-reader-text\">קופון:</label>\n\t\t<input type=\"text\" name=\"coupon_code\" class=\"input-text\" placeholder=\"קוד קופון\" id=\"coupon_code\" value=\"\">"
+    },
+    {
+      "type": "paragraph",
+      "text": "החלת קופון",
+      "html": "<button type=\"submit\" class=\"button\" name=\"apply_coupon\" value=\"החלת קופון\">החלת קופון</button>"
+    },
+    {
+      "type": "cta",
+      "text": "החלת קופון",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "פרטי חיוב‫"
+    },
+    {
+      "type": "paragraph",
+      "text": "שם פרטי *",
+      "html": "<label for=\"billing_first_name\" class=\"required_field\">שם פרטי&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_first_name\" id=\"billing_first_name\" placeholder=\"\" value=\"\" aria-required=\"true\" autocomplete=\"given-name\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "שם משפחה *",
+      "html": "<label for=\"billing_last_name\" class=\"required_field\">שם משפחה&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_last_name\" id=\"billing_last_name\" placeholder=\"\" value=\"\" aria-required=\"true\" autocomplete=\"family-name\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "שם החברה (אופציונלי)",
+      "html": "<label for=\"billing_company\" class=\"\">שם החברה&nbsp;<span class=\"optional\">(אופציונלי)</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_company\" id=\"billing_company\" placeholder=\"\" value=\"\" autocomplete=\"organization\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "מדינה / אזור *יש לבחור מדינה / אזור…אוגנדהאוזבקיסטןאוסטריהאוסטרליהאוקראינהאורוגוואיאזרבייג'ןאי חג המולדאי מריאנה הצפונייםאיחוד האמירויותאיטליהאיי אולנדאיי הבהאמהאיי הבתולהאיי הבתולה (הבריטיים)איי ווליס ופוטונהאיי טורקס וקייקוסאיי מרשלאיי סבלברד ויאן מאייןאיי סיישלאיי פארואיי פוקלנדאיי קומורואיי קוקאיי קוקוס (קילינג)איי קיימןאיי שלמהאינדונזיהאיסלנדאיראןאירלנדאל סלוודוראלבניהאלג'יריהאנגווילהאנגולהאנגליהאנדורהאנטארקטיקהאנטיגואה וברבודהאסוואטיניאסטוניהאפגניסטןאקוודורארגנטינהארה\"בארובהאריתריאהארמניהארצות הברית (ארה\"ב) איים מרוחקים הקטניםאתיופיהבאילובהוטןבוטסואנהבולגריהבוליביהבוסניה והרצגובינהבורונדיבורקינה פאסובחרייןבלגיהבליזבלרוסבנגלדשבניןברבדוסברונייברזילברמודהג'ורג'יה הדרומית / איים סנדוויץ'ג'יבוטיג'מייקהג'רזיגאבוןגאורגיהגאנהגואדאלופגואטמלהגואםגיאנהגיאנה הצרפתיתגיברלטרגינאהגינאה ביסאוגינאה המשווניתגמביהגרינלנדגרמניהגרנדהגרנזידומיניקהדנמרקדרום אפריקהדרום סודןדרום קוריאההאי בובההאי הרד ואיי מקדונלדהאי מאןהאי נורפולקהאיטיהאיים המלדיבייםהודוהוותיקןהולנדהונג קונגהונגריההונדורסהטריטוריה הבריטית באוקינוס ההודיהטריטוריות הדרומיות של צרפתהפיליפיניםהרפובליקה הדומיניקניתהרפובליקה המרכז אפריקניתהרפובליקה הצ'כיתהשטחים הפלשתיניםויטנאםונאוטוונצואלהזימבבואהזמביהחוף שנהבטג'יקיסטןטובאלוטוגוטונגהטוניסיהטוקלאוטורקיהטורקמניסטןטייוואןטנזניהטרינידד וטובגויווןיפןירדןישראלכווייתלאוסלבנוןלובלוקסמבורגלטביהליבריהליטאליכטנשטייןלסוטומאוריטניהמאוריציוסמאיוטמאלימדגסקרמוזמביקמולדובהמונגוליהמונטנגרומונסראטמונקומזרח טימורמיאנמרמיקרונזיהמלאווימלזיהמלטהמערב הסהרהמצריםמקאומקסיקומרוקומרטיניקנאורונואינורווגיהניגריהניו זילנדניז'רניקרגוואהנמיביהנפאלסאו טומה ופרינסיפהסודןסומליהסוריהסורינםסיירה ליאוןסיןסינגפורסלובניהסלובקיהסמואהסמואה האמריקניתסן מרינוסנגלסנט ברתלמיסנט הלנהסנט וינסנט והגרנדיניםסנט לוצ'יהסנט מרטין (חלק הולנדי)סנט מרטין (חלק צרפתי)סנט פייר ומיקלוןסנט קיטס ונוויסספרדסרביהסרי לנקהעומאןעירקערב הסעודיתפוליןפולינזיה הצרפתיתפורטו ריקופורטוגלפיג'יפיטקרןפינלנדפנמהפפואה-גינאה החדשהפקיסטןפרגוואיפרוצ'אדצ'ילהצפון מקדוניהצפון קוריאהצרפתקולומביהקונגו (ברזוויל)קונגו (קינשאסה)קוסובוקוסטה ריקהקוראסאוקזחסטןקטרקייפ ורדהקירגיסטןקיריבטיקלדוניה החדשהקמבודיהקמרוןקנדהקניהקפריסיןקרואטיהראוניוןרואנדהרומניהרוסיהשוודיהשוויץתאילנדתימןתת-מחוז קובהBonaire, Saint Eustatius and Saba<button type=\"submit\" name=\"woocommerce_checkout_update_totals\" value=\"יש לעדכן את המדינה / האזור\">יש לעדכן את המדינה / האזור</button>",
+      "html": "<label for=\"billing_country\" class=\"required_field\">מדינה / אזור&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><select name=\"billing_country\" id=\"billing_country\" class=\"country_to_state country_select \" aria-required=\"true\" autocomplete=\"country\" data-placeholder=\"יש לבחור מדינה / אזור…\" data-label=\"מדינה / אזור\"><option value=\"\">יש לבחור מדינה / אזור…</option><option value=\"UG\">אוגנדה</option><option value=\"UZ\">אוזבקיסטן</option><option value=\"AT\">אוסטריה</option><option value=\"AU\">אוסטרליה</option><option value=\"UA\">אוקראינה</option><option value=\"UY\">אורוגוואי</option><option value=\"AZ\">אזרבייג'ן</option><option value=\"CX\">אי חג המולד</option><option value=\"MP\">אי מריאנה הצפוניים</option><option value=\"AE\">איחוד האמירויות</option><option value=\"IT\">איטליה</option><option value=\"AX\">איי אולנד</option><option value=\"BS\">איי הבהאמה</option><option value=\"VI\">איי הבתולה</option><option value=\"VG\">איי הבתולה (הבריטיים)</option><option value=\"WF\">איי ווליס ופוטונה</option><option value=\"TC\">איי טורקס וקייקוס</option><option value=\"MH\">איי מרשל</option><option value=\"SJ\">איי סבלברד ויאן מאיין</option><option value=\"SC\">איי סיישל</option><option value=\"FO\">איי פארו</option><option value=\"FK\">איי פוקלנד</option><option value=\"KM\">איי קומורו</option><option value=\"CK\">איי קוק</option><option value=\"CC\">איי קוקוס (קילינג)</option><option value=\"KY\">איי קיימן</option><option value=\"SB\">איי שלמה</option><option value=\"ID\">אינדונזיה</option><option value=\"IS\">איסלנד</option><option value=\"IR\">איראן</option><option value=\"IE\">אירלנד</option><option value=\"SV\">אל סלוודור</option><option value=\"AL\">אלבניה</option><option value=\"DZ\">אלג'יריה</option><option value=\"AI\">אנגווילה</option><option value=\"AO\">אנגולה</option><option value=\"GB\">אנגליה</option><option value=\"AD\">אנדורה</option><option value=\"AQ\">אנטארקטיקה</option><option value=\"AG\">אנטיגואה וברבודה</option><option value=\"SZ\">אסוואטיני</option><option value=\"EE\">אסטוניה</option><option value=\"AF\">אפגניסטן</option><option value=\"EC\">אקוודור</option><option value=\"AR\">ארגנטינה</option><option value=\"US\">ארה\"ב</option><option value=\"AW\">ארובה</option><option value=\"ER\">אריתריאה</option><option value=\"AM\">ארמניה</option><option value=\"UM\">ארצות הברית (ארה\"ב) איים מרוחקים הקטנים</option><option value=\"ET\">אתיופיה</option><option value=\"PW\">באילו</option><option value=\"BT\">בהוטן</option><option value=\"BW\">בוטסואנה</option><option value=\"BG\">בולגריה</option><option value=\"BO\">בוליביה</option><option value=\"BA\">בוסניה והרצגובינה</option><option value=\"BI\">בורונדי</option><option value=\"BF\">בורקינה פאסו</option><option value=\"BH\">בחריין</option><option value=\"BE\">בלגיה</option><option value=\"BZ\">בליז</option><option value=\"BY\">בלרוס</option><option value=\"BD\">בנגלדש</option><option value=\"BJ\">בנין</option><option value=\"BB\">ברבדוס</option><option value=\"BN\">ברוניי</option><option value=\"BR\">ברזיל</option><option value=\"BM\">ברמודה</option><option value=\"GS\">ג'ורג'יה הדרומית / איים סנדוויץ'</option><option value=\"DJ\">ג'יבוטי</option><option value=\"JM\">ג'מייקה</option><option value=\"JE\">ג'רזי</option><option value=\"GA\">גאבון</option><option value=\"GE\">גאורגיה</option><option value=\"GH\">גאנה</option><option value=\"GP\">גואדאלופ</option><option value=\"GT\">גואטמלה</option><option value=\"GU\">גואם</option><option value=\"GY\">גיאנה</option><option value=\"GF\">גיאנה הצרפתית</option><option value=\"GI\">גיברלטר</option><option value=\"GN\">גינאה</option><option value=\"GW\">גינאה ביסאו</option><option value=\"GQ\">גינאה המשוונית</option><option value=\"GM\">גמביה</option><option value=\"GL\">גרינלנד</option><option value=\"DE\">גרמניה</option><option value=\"GD\">גרנדה</option><option value=\"GG\">גרנזי</option><option value=\"DM\">דומיניקה</option><option value=\"DK\">דנמרק</option><option value=\"ZA\">דרום אפריקה</option><option value=\"SS\">דרום סודן</option><option value=\"KR\">דרום קוריאה</option><option value=\"BV\">האי בובה</option><option value=\"HM\">האי הרד ואיי מקדונלד</option><option value=\"IM\">האי מאן</option><option value=\"NF\">האי נורפולק</option><option value=\"HT\">האיטי</option><option value=\"MV\">האיים המלדיביים</option><option value=\"IN\">הודו</option><option value=\"VA\">הוותיקן</option><option value=\"NL\">הולנד</option><option value=\"HK\">הונג קונג</option><option value=\"HU\">הונגריה</option><option value=\"HN\">הונדורס</option><option value=\"IO\">הטריטוריה הבריטית באוקינוס ההודי</option><option value=\"TF\">הטריטוריות הדרומיות של צרפת</option><option value=\"PH\">הפיליפינים</option><option value=\"DO\">הרפובליקה הדומיניקנית</option><option value=\"CF\">הרפובליקה המרכז אפריקנית</option><option value=\"CZ\">הרפובליקה הצ'כית</option><option value=\"PS\">השטחים הפלשתינים</option><option value=\"VN\">ויטנאם</option><option value=\"VU\">ונאוטו</option><option value=\"VE\">ונצואלה</option><option value=\"ZW\">זימבבואה</option><option value=\"ZM\">זמביה</option><option value=\"CI\">חוף שנהב</option><option value=\"TJ\">טג'יקיסטן</option><option value=\"TV\">טובאלו</option><option value=\"TG\">טוגו</option><option value=\"TO\">טונגה</option><option value=\"TN\">טוניסיה</option><option value=\"TK\">טוקלאו</option><option value=\"TR\">טורקיה</option><option value=\"TM\">טורקמניסטן</option><option value=\"TW\">טייוואן</option><option value=\"TZ\">טנזניה</option><option value=\"TT\">טרינידד וטובגו</option><option value=\"GR\">יוון</option><option value=\"JP\">יפן</option><option value=\"JO\">ירדן</option><option value=\"IL\" selected=\"selected\">ישראל</option><option value=\"KW\">כוויית</option><option value=\"LA\">לאוס</option><option value=\"LB\">לבנון</option><option value=\"LY\">לוב</option><option value=\"LU\">לוקסמבורג</option><option value=\"LV\">לטביה</option><option value=\"LR\">ליבריה</option><option value=\"LT\">ליטא</option><option value=\"LI\">ליכטנשטיין</option><option value=\"LS\">לסוטו</option><option value=\"MR\">מאוריטניה</option><option value=\"MU\">מאוריציוס</option><option value=\"YT\">מאיוט</option><option value=\"ML\">מאלי</option><option value=\"MG\">מדגסקר</option><option value=\"MZ\">מוזמביק</option><option value=\"MD\">מולדובה</option><option value=\"MN\">מונגוליה</option><option value=\"ME\">מונטנגרו</option><option value=\"MS\">מונסראט</option><option value=\"MC\">מונקו</option><option value=\"TL\">מזרח טימור</option><option value=\"MM\">מיאנמר</option><option value=\"FM\">מיקרונזיה</option><option value=\"MW\">מלאווי</option><option value=\"MY\">מלזיה</option><option value=\"MT\">מלטה</option><option value=\"EH\">מערב הסהרה</option><option value=\"EG\">מצרים</option><option value=\"MO\">מקאו</option><option value=\"MX\">מקסיקו</option><option value=\"MA\">מרוקו</option><option value=\"MQ\">מרטיניק</option><option value=\"NR\">נאורו</option><option value=\"NU\">נואי</option><option value=\"NO\">נורווגיה</option><option value=\"NG\">ניגריה</option><option value=\"NZ\">ניו זילנד</option><option value=\"NE\">ניז'ר</option><option value=\"NI\">ניקרגוואה</option><option value=\"NA\">נמיביה</option><option value=\"NP\">נפאל</option><option value=\"ST\">סאו טומה ופרינסיפה</option><option value=\"SD\">סודן</option><option value=\"SO\">סומליה</option><option value=\"SY\">סוריה</option><option value=\"SR\">סורינם</option><option value=\"SL\">סיירה ליאון</option><option value=\"CN\">סין</option><option value=\"SG\">סינגפור</option><option value=\"SI\">סלובניה</option><option value=\"SK\">סלובקיה</option><option value=\"WS\">סמואה</option><option value=\"AS\">סמואה האמריקנית</option><option value=\"SM\">סן מרינו</option><option value=\"SN\">סנגל</option><option value=\"BL\">סנט ברתלמי</option><option value=\"SH\">סנט הלנה</option><option value=\"VC\">סנט וינסנט והגרנדינים</option><option value=\"LC\">סנט לוצ'יה</option><option value=\"SX\">סנט מרטין (חלק הולנדי)</option><option value=\"MF\">סנט מרטין (חלק צרפתי)</option><option value=\"PM\">סנט פייר ומיקלון</option><option value=\"KN\">סנט קיטס ונוויס</option><option value=\"ES\">ספרד</option><option value=\"RS\">סרביה</option><option value=\"LK\">סרי לנקה</option><option value=\"OM\">עומאן</option><option value=\"IQ\">עירק</option><option value=\"SA\">ערב הסעודית</option><option value=\"PL\">פולין</option><option value=\"PF\">פולינזיה הצרפתית</option><option value=\"PR\">פורטו ריקו</option><option value=\"PT\">פורטוגל</option><option value=\"FJ\">פיג'י</option><option value=\"PN\">פיטקרן</option><option value=\"FI\">פינלנד</option><option value=\"PA\">פנמה</option><option value=\"PG\">פפואה-גינאה החדשה</option><option value=\"PK\">פקיסטן</option><option value=\"PY\">פרגוואי</option><option value=\"PE\">פרו</option><option value=\"TD\">צ'אד</option><option value=\"CL\">צ'ילה</option><option value=\"MK\">צפון מקדוניה</option><option value=\"KP\">צפון קוריאה</option><option value=\"FR\">צרפת</option><option value=\"CO\">קולומביה</option><option value=\"CG\">קונגו (ברזוויל)</option><option value=\"CD\">קונגו (קינשאסה)</option><option value=\"XK\">קוסובו</option><option value=\"CR\">קוסטה ריקה</option><option value=\"CW\">קוראסאו</option><option value=\"KZ\">קזחסטן</option><option value=\"QA\">קטר</option><option value=\"CV\">קייפ ורדה</option><option value=\"KG\">קירגיסטן</option><option value=\"KI\">קיריבטי</option><option value=\"NC\">קלדוניה החדשה</option><option value=\"KH\">קמבודיה</option><option value=\"CM\">קמרון</option><option value=\"CA\">קנדה</option><option value=\"KE\">קניה</option><option value=\"CY\">קפריסין</option><option value=\"HR\">קרואטיה</option><option value=\"RE\">ראוניון</option><option value=\"RW\">רואנדה</option><option value=\"RO\">רומניה</option><option value=\"RU\">רוסיה</option><option value=\"SE\">שוודיה</option><option value=\"CH\">שוויץ</option><option value=\"TH\">תאילנד</option><option value=\"YE\">תימן</option><option value=\"CU\">תת-מחוז קובה</option><option value=\"BQ\">Bonaire, Saint Eustatius and Saba</option></select><noscript><button type=\"submit\" name=\"woocommerce_checkout_update_totals\" value=\"יש לעדכן את המדינה / האזור\">יש לעדכן את המדינה / האזור</button></noscript></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "כתובת רחוב *",
+      "html": "<label for=\"billing_address_1\" class=\"required_field\">כתובת רחוב&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_address_1\" id=\"billing_address_1\" placeholder=\"מספר בית ושם רחוב\" value=\"\" aria-required=\"true\" autocomplete=\"address-line1\" data-placeholder=\"מספר בית ושם רחוב\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "דירה, סוויטה, יחידה וכו' (אופציונלי)",
+      "html": "<label for=\"billing_address_2\" class=\"screen-reader-text\">דירה, סוויטה, יחידה וכו'&nbsp;<span class=\"optional\">(אופציונלי)</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_address_2\" id=\"billing_address_2\" placeholder=\"דירה, סוויטה, יחידה וכו' (אופציונלי)\" value=\"\" autocomplete=\"address-line2\" data-placeholder=\"דירה, סוויטה, יחידה וכו' (אופציונלי)\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "מיקוד / תא דואר *",
+      "html": "<label for=\"billing_postcode\" class=\"required_field\">מיקוד / תא דואר&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_postcode\" id=\"billing_postcode\" placeholder=\"\" value=\"\" aria-required=\"true\" autocomplete=\"postal-code\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "עיר *",
+      "html": "<label for=\"billing_city\" class=\"required_field\">עיר&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"text\" class=\"input-text \" name=\"billing_city\" id=\"billing_city\" placeholder=\"\" value=\"\" aria-required=\"true\" autocomplete=\"address-level2\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "מדינה / ארץ (אופציונלי)",
+      "html": "<label for=\"billing_state\" class=\"\">מדינה / ארץ&nbsp;<span class=\"optional\">(אופציונלי)</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"hidden\" id=\"billing_state\" name=\"billing_state\" data-input-classes=\"\" class=\"hidden\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "טלפון *",
+      "html": "<label for=\"billing_phone\" class=\"required_field\">טלפון&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"tel\" class=\"input-text \" name=\"billing_phone\" id=\"billing_phone\" placeholder=\"\" value=\"\" aria-required=\"true\" autocomplete=\"tel\"></span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "כתובת אימייל *",
+      "html": "<label for=\"billing_email\" class=\"required_field\">כתובת אימייל&nbsp;<span class=\"required\" aria-hidden=\"true\">*</span></label><span class=\"woocommerce-input-wrapper\"><input type=\"email\" class=\"input-text \" name=\"billing_email\" id=\"billing_email\" placeholder=\"\" value=\"\" aria-required=\"true\" autocomplete=\"email\"></span>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מידע נוסף"
+    },
+    {
+      "type": "paragraph",
+      "text": "הערות להזמנה (אופציונלי)",
+      "html": "<label for=\"order_comments\" class=\"\">הערות להזמנה&nbsp;<span class=\"optional\">(אופציונלי)</span></label><span class=\"woocommerce-input-wrapper\"><textarea name=\"order_comments\" class=\"input-text \" id=\"order_comments\" placeholder=\"הערות על ההזמנה, לדוגמה, הערות מיוחדות למסירה.\" rows=\"2\" cols=\"5\"></textarea></span>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "פרטי ההזמנה"
+    },
+    {
+      "type": "table",
+      "rows": [
+        [
+          "מוצר",
+          "סכום ביניים"
+        ],
+        [
+          "סכום ביניים",
+          "₪0.00"
+        ],
+        [
+          "סה\"כ",
+          "₪0.00"
+        ]
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our מדיניות פרטיות.",
+      "html": "Your personal data will be used to process your order, support your experience throughout this website, and for other purposes described in our <a href=\"https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/\" class=\"woocommerce-privacy-policy-link\" target=\"_blank\">מדיניות פרטיות</a>."
+    },
+    {
+      "type": "cta",
+      "text": "שליחת הזמנה",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/themes/bt/assets/images/cart/ssl.svg",
+      "alt": "SSL",
+      "width": 121,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/themes/bt/assets/images/cart/payments.svg",
+      "alt": "Payments",
+      "width": 384,
+      "height": 73
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": "woocommerce-checkout-form-coupon",
+      "action": "https://coralworld.co.il/tickets/?step=1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "coupon_code",
+          "id": "coupon_code",
+          "required": false,
+          "label": "קופון:"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "apply_coupon",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/tickets/",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_source_type",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_referrer",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_campaign",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_source",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_medium",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_content",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_id",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_term",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_source_platform",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_creative_format",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_utm_marketing_tactic",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_session_entry",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_session_start_time",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_session_pages",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_session_count",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "wc_order_attribution_user_agent",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_first_name",
+          "id": "billing_first_name",
+          "required": false,
+          "label": "שם פרטי *"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_last_name",
+          "id": "billing_last_name",
+          "required": false,
+          "label": "שם משפחה *"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_company",
+          "id": "billing_company",
+          "required": false,
+          "label": "שם החברה (אופציונלי)"
+        },
+        {
+          "tag": "select",
+          "type": "select-one",
+          "name": "billing_country",
+          "id": "billing_country",
+          "required": false,
+          "label": "מדינה / אזור *"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_address_1",
+          "id": "billing_address_1",
+          "required": false,
+          "label": "כתובת רחוב *"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_address_2",
+          "id": "billing_address_2",
+          "required": false,
+          "label": "דירה, סוויטה, יחידה וכו' (אופציונלי)"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_postcode",
+          "id": "billing_postcode",
+          "required": false,
+          "label": "מיקוד / תא דואר *"
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "billing_city",
+          "id": "billing_city",
+          "required": false,
+          "label": "עיר *"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "billing_state",
+          "id": "billing_state",
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "billing_phone",
+          "id": "billing_phone",
+          "required": false,
+          "label": "טלפון *"
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "billing_email",
+          "id": "billing_email",
+          "required": false,
+          "label": "כתובת אימייל *"
+        },
+        {
+          "tag": "textarea",
+          "type": "textarea",
+          "name": "order_comments",
+          "id": "order_comments",
+          "required": false,
+          "label": "הערות להזמנה (אופציונלי)"
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "lang",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "woocommerce_checkout_place_order",
+          "id": "place_order",
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "woocommerce-process-checkout-nonce",
+          "id": "woocommerce-process-checkout-nonce",
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wp_http_referer",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "pys_utm",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "pys_utm_id",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "pys_browser_time",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "pys_landing",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "pys_source",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "pys_order_type",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "last_pys_landing",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "last_pys_source",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "last_pys_utm",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "last_pys_utm_id",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/tickets/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f55fdbded-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

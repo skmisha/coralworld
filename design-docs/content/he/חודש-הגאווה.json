@@ -1,0 +1,719 @@
+{
+  "source": "https://coralworld.co.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%92%D7%90%D7%95%D7%95%D7%94/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.826Z",
+  "seo": {
+    "title": "חודש הגאווה | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "חודש הגאווה | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/",
+      "twitter:card": "summary",
+      "twitter:title": "חודש הגאווה | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/#listItem",
+                  "name": "חודש הגאווה"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/#listItem",
+                "position": 2,
+                "name": "חודש הגאווה",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/#webpage",
+            "url": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/",
+            "name": "חודש הגאווה | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/#breadcrumblist"
+            },
+            "datePublished": "2026-06-08T20:09:38+03:00",
+            "dateModified": "2026-06-08T20:42:50+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/",
+    "x-default": "https://coralworld.co.il/%d7%97%d7%95%d7%93%d7%a9-%d7%94%d7%92%d7%90%d7%95%d7%95%d7%94/"
+  },
+  "blocks": [
+    {
+      "type": "cta",
+      "text": "פתח תפריט נגישות",
+      "href": "https://coralworld.co.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%92%D7%90%D7%95%D7%95%D7%94/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-white.png",
+      "alt": "Handicapped logo white",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-black.png",
+      "alt": "Handicapped logo black",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נגישות"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מונוכרום",
+        "ניגודיות גבוה",
+        "הדגש קישורים",
+        "אבג | טקסט קטן",
+        "אבג | טקסט בינוני",
+        "אבג | טקסט גדול",
+        "גודל טקסט רגיל",
+        "אפס הגדרות"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/01/new-logo-white.png",
+      "alt": "",
+      "width": 2800,
+      "height": 1419
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/he.png",
+      "alt": "Heb",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Eng",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/flags/egypt-flag-s.png",
+      "alt": "ערבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png",
+      "alt": "צרפתית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png",
+      "alt": "רוסית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fi.png",
+      "alt": "פינית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png",
+      "alt": "גרמנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png",
+      "alt": "איטלקית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/lv.png",
+      "alt": "לטבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png",
+      "alt": "פולנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אטרקציות למשפחה באילתאטרקציות למשפחה באילתצלילה עם כרישיםקורל 2000סיור מאחורי הקלעיםתכנון ביקור בפארקארועיםקבוצותמשחקים אינטראקטיבייםחוברת יצירה לילדים – הרפתקאה במעמקי היםמפה אינטראקטיביתביתביתבית",
+        "תצוגות ובעלי חייםמגדל המצפה התת ימיעולם הכרישיםאקווריום דגים נדיריםשונית ים סוףבריכת צביםיצורים ממעמקיםביתביתבית",
+        "אקווה דום",
+        "סיפור הים האדוםפרוייקט שחרור צבים-מעקב LIVEסיפור הים האדוםידידי הים האדוםעמותת ‘צלול’- שומרים על הים, החופים והנחלים כבר 25 שנהלחיי הים הזה!ביתבית",
+        "חדשות ומאמרים"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "חודש הגאווה במצפה התת ימי",
+      "html": "חודש הגאווה במצפה התת ימי"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "גאווה תת-ימית"
+    },
+    {
+      "type": "paragraph",
+      "text": "בים, אין תבנית אחת.",
+      "html": "בים, אין תבנית אחת."
+    },
+    {
+      "type": "paragraph",
+      "text": "מתחת לפני המים מסתתר עולם שלם שחוגג גיוון, גמישות ושוויון. הכירו את ארבעת היצורים שמלמדים אותנו שבשונית הגדולה של החיים — לכל אחד ולכל דרך יש מקום מושלם.",
+      "html": "מתחת לפני המים מסתתר עולם שלם שחוגג גיוון, גמישות ושוויון.\nהכירו את ארבעת היצורים שמלמדים אותנו שבשונית הגדולה של החיים — <strong class=\"cwp-hero__lead-em\">לכל אחד ולכל דרך יש מקום מושלם.</strong>"
+    },
+    {
+      "type": "cta",
+      "text": "צללו פנימה",
+      "href": "https://coralworld.co.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%92%D7%90%D7%95%D7%95%D7%94/#cwp-story-clownfish"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2026/03/%D7%A4%D7%96%D7%99%D7%AA.jpg",
+      "alt": "פזית כתומה בשונית האלמוגים של אילת",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "פזיות"
+    },
+    {
+      "type": "paragraph",
+      "text": "נולדות נקבות, הופכות לזכרים",
+      "html": "נולדות נקבות, הופכות לזכרים"
+    },
+    {
+      "type": "paragraph",
+      "text": "הכירו את הפזיות הכתומות של אילת. הן נולדות כנקבות וחיות בלהקות של שני זכרים עם עשרות נקבות.",
+      "html": "הכירו את הפזיות הכתומות של אילת. הן נולדות כנקבות וחיות בלהקות של שני זכרים עם עשרות נקבות."
+    },
+    {
+      "type": "paragraph",
+      "text": "כשהזכר נעלם – הנקבה הדומיננטית ביותר עוברת שינוי מדהים והופכת בעצמה לזכר החדש!",
+      "html": "כשהזכר נעלם – הנקבה הדומיננטית ביותר עוברת שינוי מדהים והופכת בעצמה לזכר החדש!"
+    },
+    {
+      "type": "paragraph",
+      "text": "בחודש הגאווה, הפזיות מזכירות לנו שהטבע חוגג גיוון וגמישות. כי בשונית הגדולה של החיים – לכל אחד ולכל דרך יש מקום מושלם.",
+      "html": "בחודש הגאווה, הפזיות מזכירות לנו שהטבע חוגג גיוון וגמישות. כי בשונית הגדולה של החיים – לכל אחד ולכל דרך יש מקום מושלם."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2026/03/%D7%A1%D7%95%D7%A1%D7%95%D7%A0%D7%99-%D7%99%D7%9D.jpg",
+      "alt": "סוסון ים אוחז בענף אלמוג",
+      "width": 2048,
+      "height": 2048
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סוסוני ים"
+    },
+    {
+      "type": "paragraph",
+      "text": "מי אמר שרק נקבות סוחבות בטן?",
+      "html": "מי אמר שרק נקבות סוחבות בטן?"
+    },
+    {
+      "type": "paragraph",
+      "text": "בעולם של סוסוני הים, מי שמפתח בטן מפוארת, נושא את ההיריון ומשריץ לעולם מאות סוסונים קטנים – הוא דווקא הזכר.",
+      "html": "בעולם של סוסוני הים, מי שמפתח בטן מפוארת, נושא את ההיריון ומשריץ לעולם מאות סוסונים קטנים – הוא דווקא הזכר."
+    },
+    {
+      "type": "paragraph",
+      "text": "הם התזכורת הכי יפה לכך שאהבה, הורות ומשפחה מגיעות בכל מיני שילובים וצורות. בטבע אין דרך אחת \"נכונה\" – יש מקום לכולם!",
+      "html": "הם התזכורת הכי יפה לכך שאהבה, הורות ומשפחה מגיעות בכל מיני שילובים וצורות. בטבע אין דרך אחת \"נכונה\" – יש מקום לכולם!"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2026/06/%D7%93%D7%99%D7%95%D7%A0%D7%95%D7%9F.png",
+      "alt": "דיונון משנה את צבעי גופו בשונית",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "דיונונים"
+    },
+    {
+      "type": "paragraph",
+      "text": "משנים צבעים, שוברים מוסכמות",
+      "html": "משנים צבעים, שוברים מוסכמות"
+    },
+    {
+      "type": "paragraph",
+      "text": "כדי לחמוק מהזכרים הגדולים והקשוחים בשונית, זכרי דיונון קטנים משתמשים באסטרטגיה מטורפת: הם משנים את צבעי הגוף שלהם ומחקים התנהגות של נקבות כדי להסתנן מתחת לרדאר.",
+      "html": "כדי לחמוק מהזכרים הגדולים והקשוחים בשונית, זכרי דיונון קטנים משתמשים באסטרטגיה מטורפת: הם משנים את צבעי הגוף שלהם ומחקים התנהגות של נקבות כדי להסתנן מתחת לרדאר."
+    },
+    {
+      "type": "paragraph",
+      "text": "הדיונונים מראים לנו שבטבע אין דרך אחת להצליח. מותר להפגין צבעים שונים ולמצוא את הדרך הייחודית שלך – כי בשונית שלנו יש מקום לכולם.",
+      "html": "הדיונונים מראים לנו שבטבע אין דרך אחת להצליח. מותר להפגין צבעים שונים ולמצוא את הדרך הייחודית שלך – כי בשונית שלנו יש מקום לכולם."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2026/06/%D7%97%D7%A9%D7%95%D7%A4%D7%99%D7%AA-%D7%99%D7%9D.png",
+      "alt": "חשופית ים צבעונית על אלמוג",
+      "width": 800,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "חשופיות ים"
+    },
+    {
+      "type": "paragraph",
+      "text": "100% שותפות, 0% הגדרות",
+      "html": "100% שותפות, 0% הגדרות"
+    },
+    {
+      "type": "paragraph",
+      "text": "חשופיות הים הן הרמפרודיטים – לכל חשופית יש גם מערכת רבייה זכרית וגם נקבית באותו הזמן.",
+      "html": "חשופיות הים הן הרמפרודיטים – לכל חשופית יש גם מערכת רבייה זכרית וגם נקבית באותו הזמן."
+    },
+    {
+      "type": "paragraph",
+      "text": "כשיש מפגש רומנטי, אין \"הוא\" ו\"היא\". שני הצדדים מפרים זה את זה בו-זמנית, ושני הצדדים מטילים ביצים וממשיכים את הדור הבא בשוויוניות מוחלטת.",
+      "html": "כשיש מפגש רומנטי, אין \"הוא\" ו\"היא\". שני הצדדים מפרים זה את זה בו-זמנית, ושני הצדדים מטילים ביצים וממשיכים את הדור הבא בשוויוניות מוחלטת."
+    },
+    {
+      "type": "paragraph",
+      "text": "אם חיפשתם הגדרה לטבע שחוגג את כל הצבעים והאפשרויות בלי מחיצות – החשופיות הן הדוגמה המושלמת.",
+      "html": "אם חיפשתם הגדרה לטבע שחוגג את כל הצבעים והאפשרויות בלי מחיצות – החשופיות הן הדוגמה המושלמת."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "בשונית שלנו יש מקום לכולם"
+    },
+    {
+      "type": "paragraph",
+      "text": "הטבע לא מכיר תבניות אחת. הוא חוגג את כל הצבעים, את כל הצורות ואת כל הדרכים לאהוב, ליצור ולהמשיך חיים. בואו לגלות את הסיפורים האלה במצפה התת-ימי.",
+      "html": "הטבע לא מכיר תבניות אחת. הוא חוגג את כל הצבעים, את כל הצורות ואת כל הדרכים לאהוב, ליצור ולהמשיך חיים. בואו לגלות את הסיפורים האלה במצפה התת-ימי."
+    },
+    {
+      "type": "cta",
+      "text": "חזרה למעלה ↑",
+      "href": "https://coralworld.co.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%92%D7%90%D7%95%D7%95%D7%94/#cwp-hero"
+    },
+    {
+      "type": "cta",
+      "text": "לאתר המצפה התת-ימי",
+      "href": "https://www.coralworld.co.il/"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/loader.gif",
+      "alt": "",
+      "width": 500,
+      "height": 223
+    },
+    {
+      "type": "cta",
+      "text": "✕",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "היי! כאן הצב על הקו, איך אפשר לעזור?"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://backend.chatbase.co/storage/v1/object/public/chat-icons/4a2b9ace-2b3e-43c3-a2d2-a4cd539125cd/IMvz_3tPuoquPeC5bnwkE.jpg",
+      "alt": "צב על הקו",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "iframe",
+      "src": "https://12949398.fls.doubleclick.net/activityi;src=12949398;type=invmedia;cat=coral0;rcb=17;ord=5654060044071;npa=0;auiddc=1919266235.1791095297;uaa=x86;uab=64;uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69u2v9181812485z89225483744za20gzb9225483744zd9225483744xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115938466~115938468~118897920~118897930~119404696~120213116~120385423~120469145~120469153~121246027~121246035;epver=2;dc_random=1791096189_6YhM4D30CLCWXpMi1hox7VJwAjxFoYDYEg;_dc_test=1;~oref=https%3A%2F%2Fcoralworld.co.il%2F%25D7%2597%25D7%2595%25D7%2593%25D7%25A9-%25D7%2594%25D7%2592%25D7%2590%25D7%2595%25D7%2595%25D7%2594%2F?",
+      "title": null
+    },
+    {
+      "type": "iframe",
+      "src": "https://coralworld.co.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%92%D7%90%D7%95%D7%95%D7%94/",
+      "title": "צב על הקו"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%97%D7%95%D7%93%D7%A9-%D7%94%D7%92%D7%90%D7%95%D7%95%D7%94/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f55b36771-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

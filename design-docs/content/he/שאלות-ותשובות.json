@@ -1,0 +1,722 @@
+{
+  "source": "https://coralworld.co.il/%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%95%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.849Z",
+  "seo": {
+    "title": "שאלות ותשובות | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "שאלות ותשובות | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/",
+      "twitter:card": "summary",
+      "twitter:title": "שאלות ותשובות | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#article",
+            "name": "שאלות ותשובות | המצפה התת ימי",
+            "headline": "שאלות ותשובות",
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "datePublished": "2026-08-06T11:10:04+03:00",
+            "dateModified": "2026-08-06T11:11:09+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#listItem",
+                  "name": "שאלות ותשובות"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#listItem",
+                "position": 3,
+                "name": "שאלות ותשובות",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/galistudio_manage/#author",
+            "url": "https://coralworld.co.il/author/galistudio_manage/",
+            "name": "galistudio_manage",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/7453ffa50b6081fd08b7769605589f75193e16022b9c2f2416594ee9f4423172?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "galistudio_manage"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#webpage",
+            "url": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/",
+            "name": "שאלות ותשובות | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "datePublished": "2026-08-06T11:10:04+03:00",
+            "dateModified": "2026-08-06T11:11:09+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "הקיץ הכי מסקרן באילת מתחיל כאן!"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/",
+    "x-default": "https://coralworld.co.il/%d7%a9%d7%90%d7%9c%d7%95%d7%aa-%d7%95%d7%aa%d7%a9%d7%95%d7%91%d7%95%d7%aa/"
+  },
+  "blocks": [
+    {
+      "type": "cta",
+      "text": "פתח תפריט נגישות",
+      "href": "https://coralworld.co.il/%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%95%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-white.png",
+      "alt": "Handicapped logo white",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-black.png",
+      "alt": "Handicapped logo black",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נגישות"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מונוכרום",
+        "ניגודיות גבוה",
+        "הדגש קישורים",
+        "אבג | טקסט קטן",
+        "אבג | טקסט בינוני",
+        "אבג | טקסט גדול",
+        "גודל טקסט רגיל",
+        "אפס הגדרות"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/01/new-logo-white.png",
+      "alt": "",
+      "width": 2800,
+      "height": 1419
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/he.png",
+      "alt": "Heb",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Eng",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/flags/egypt-flag-s.png",
+      "alt": "ערבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png",
+      "alt": "צרפתית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png",
+      "alt": "רוסית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fi.png",
+      "alt": "פינית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png",
+      "alt": "גרמנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png",
+      "alt": "איטלקית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/lv.png",
+      "alt": "לטבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png",
+      "alt": "פולנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אטרקציות למשפחה באילתאטרקציות למשפחה באילתצלילה עם כרישיםקורל 2000סיור מאחורי הקלעיםתכנון ביקור בפארקארועיםקבוצותמשחקים אינטראקטיבייםחוברת יצירה לילדים – הרפתקאה במעמקי היםמפה אינטראקטיביתביתביתבית",
+        "תצוגות ובעלי חייםמגדל המצפה התת ימיעולם הכרישיםאקווריום דגים נדיריםשונית ים סוףבריכת צביםיצורים ממעמקיםביתביתבית",
+        "אקווה דום",
+        "סיפור הים האדוםפרוייקט שחרור צבים-מעקב LIVEסיפור הים האדוםידידי הים האדוםעמותת ‘צלול’- שומרים על הים, החופים והנחלים כבר 25 שנהלחיי הים הזה!ביתבית",
+        "חדשות ומאמרים"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "הקיץ הכי מסקרן באילת מתחיל כאן!"
+    },
+    {
+      "type": "paragraph",
+      "text": "גלו את העולם שמתחת למים – בלי להירטב",
+      "html": "גלו את העולם שמתחת למים – בלי להירטב"
+    },
+    {
+      "type": "paragraph",
+      "text": "המצפה התת־ימי באילת מזמין אתכם לחוויה מרתקת לכל המשפחה: שוניות אלמוגים מרהיבות, כרישים, צבים ודגים נדירים – הכל מקרוב ובסביבה טבעית.",
+      "html": "המצפה התת־ימי באילת מזמין אתכם לחוויה מרתקת לכל המשפחה: שוניות אלמוגים מרהיבות, כרישים, צבים ודגים נדירים – הכל מקרוב ובסביבה טבעית."
+    },
+    {
+      "type": "paragraph",
+      "text": "הזמינו כרטיסים עכשיו",
+      "html": "<a id=\"cw-hero-btn\" class=\"cw-btn cw-btn--primary\" href=\"https://coralworld.co.il/tickets/?step=1\" target=\"_blank\" rel=\"noopener noreferrer\"><br> <span id=\"cw-hero-btn-label\">הזמינו כרטיסים עכשיו</span></a>"
+    },
+    {
+      "type": "cta",
+      "text": "הזמינו כרטיסים עכשיו",
+      "href": "https://coralworld.co.il/tickets/?step=1"
+    },
+    {
+      "type": "paragraph",
+      "text": "אבל לפני שאתם ממשיכים…",
+      "html": "אבל לפני שאתם ממשיכים…"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "ענו על 10 שאלות וזכו בהטבה שווה במיוחד 🎁"
+    },
+    {
+      "type": "paragraph",
+      "text": "בדקו מה אתם יודעים על החיים בים האדום ואולי תגלו משהו חדש 😉",
+      "html": "בדקו מה אתם יודעים על החיים בים האדום ואולי תגלו משהו חדש 😉"
+    },
+    {
+      "type": "paragraph",
+      "text": "בואו נתחיל!",
+      "html": "<button id=\"cw-quiz-start-btn\" class=\"cw-btn cw-btn--primary\" type=\"button\"><br> <span id=\"cw-quiz-start-label\">בואו נתחיל!</span><br> </button>"
+    },
+    {
+      "type": "cta",
+      "text": "בואו נתחיל!",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "סגירה",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "סגירה",
+      "html": "סגירה<br>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": ""
+    },
+    {
+      "type": "paragraph",
+      "text": "עכשיו נשארה רק שאלה אחת…",
+      "html": "עכשיו נשארה רק שאלה אחת…"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מתי באים לראות את כל זה באמת?"
+    },
+    {
+      "type": "paragraph",
+      "text": "עולם שלם מחכה לכם מתחת לפני הים… בלי שנורקל, בלי להירטב ועם הרבה יותר תשובות ממה שנכנס בעמוד אחד.",
+      "html": "עולם שלם מחכה לכם מתחת לפני הים… בלי שנורקל, בלי להירטב ועם הרבה יותר תשובות ממה שנכנס בעמוד אחד."
+    },
+    {
+      "type": "paragraph",
+      "text": "להזמנת כרטיסים",
+      "html": "<a id=\"cw-closing-btn\" class=\"cw-btn cw-btn--primary\" href=\"https://coralworld.co.il/tickets/?step=1\" target=\"_blank\" rel=\"noopener noreferrer\"><br> <span id=\"cw-closing-btn-label\">להזמנת כרטיסים</span></a>"
+    },
+    {
+      "type": "cta",
+      "text": "להזמנת כרטיסים",
+      "href": "https://coralworld.co.il/tickets/?step=1"
+    },
+    {
+      "type": "paragraph",
+      "text": "רוצים קודם לבדוק שעות ופעילויות?",
+      "html": "<br> <a id=\"cw-secondary-link\" class=\"cw-secondary-link\" href=\"https://coralworld.co.il/visit-park/\" target=\"_blank\" rel=\"noopener noreferrer\">רוצים קודם לבדוק שעות ופעילויות?</a>"
+    },
+    {
+      "type": "paragraph",
+      "text": "/* ========================================================================= cw-questions-page &mdash; script.js JavaScript רגיל (ללא תלות בספריות), מבודד ללוגיקה של העמוד. הותאם ל-Elementor: מוגן מפני הפעלה כפולה אם הווידג'ט נטען שוב בעורך (data-cwq-initialized), ומופעל ישירות בלי להמתין ל-load כיוון שהתוכן כבר קיים ב-DOM כשה-<script> רץ בתוך ווידג'ט ה-HTML. ========================================================================= */</p> <p>(function () { 'use strict';</p> <p> var CW_CONTENT = { page: { eyebrow: \"כל מה שרציתם לדעת על הים... ולא ידעתם את מי לשאול\", titleLine1: \"הקיץ הכי מסקרן באילת\", titleLine2: \"מתחיל כאן!\", slogan: \"גלו את העולם שמתחת למים &ndash; בלי להירטב\", intro: [ \"המצפה התת־ימי באילת מזמין אתכם לחוויה מרתקת לכל המשפחה: שוניות אלמוגים מרהיבות, כרישים, צבים ודגים נדירים &ndash; הכל מקרוב ובסביבה טבעית.\" ], heroButton: \"הזמינו כרטיסים עכשיו\", heroButtonUrl: \"https://coralworld.co.il/tickets/?step=1\", questionsEyebrow: \"אבל לפני שאתם ממשיכים&hellip;\", questionsHeading: \"ענו על 10 שאלות וזכו בהטבה שווה במיוחד 🎁\", quizTeaser: \"בדקו מה אתם יודעים על החיים בים האדום ואולי תגלו משהו חדש 😉\", congratsTeaser: \"🎁 מסיימים את השאלון? מחכה לכם הטבה שווה!\", quizStartLabel: \"בואו נתחיל!\", quizNextLabel: \"לשאלה הבאה &larr;\", quizFinishLabel: \"לתוצאות שלי 🎉\", didYouKnowHeading: \"הידעת?\", congratsHeading: \"כל הכבוד! השלמתם את החידון 🎉\", couponCtaLabel: \"לחשוף את ההטבה שלי 🎁\", couponCode: \"Welcome10\", couponNote: \"השתמשו בקוד הזה בהזמנת הכרטיסים שלכם ותיהנו מהטבה מיוחדת.\", couponCopyLabel: \"העתקת הקוד\", couponCopiedLabel: \"הקוד הועתק ✓\", closingEyebrow: \"עכשיו נשארה רק שאלה אחת...\", closingTitleLine1: \"מתי באים לראות\", closingTitleLine2: \"את כל זה באמת?\", closingText: \"עולם שלם מחכה לכם מתחת לפני הים... בלי שנורקל, בלי להירטב ועם הרבה יותר תשובות ממה שנכנס בעמוד אחד.\", closingButton: \"להזמנת כרטיסים\", closingButtonUrl: \"https://coralworld.co.il/tickets/?step=1\", secondaryLinkText: \"רוצים קודם לבדוק שעות ופעילויות?\", secondaryLinkUrl: \"https://coralworld.co.il/visit-park/\" }, questions: [ { number: 1, id: \"fish-drink-water\", question: \"האם דגים שותים מים?\", answer: [ \"כן, אבל זה תלוי איפה הם חיים.\", \"דגי ים מאבדים מים באופן טבעי בגלל המליחות הגבוהה של הים, ולכן הם שותים מי ים באופן קבוע. כדי שלא יצטבר בגופם יותר מדי מלח, הם מסלקים אותו דרך הזימים והכליות.\", \"לעומתם, דגי מים מתוקים כמעט לא שותים בכלל, על מנת לשמור על המליחות שלהם.\" ], didYouKnow: \"הזימים של הדגים לא רק מאפשרים להם לנשום... הם גם עוזרים להם לשמור על איזון המים והמלחים בגוף.\", link: null, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_08.jpg', imageAlt: \"תמונת קמפיין עבור השאלה האם דגים שותים מים\", quiz: { options: [ \"כל הדגים שותים מים כל הזמן\", \"זה תלוי אם הם חיים במים מלוחים או מתוקים\", \"דגים אף פעם לא שותים מים\", \"רק כרישים שותים מים\" ], correctIndex: 1, feedbackCorrect: \"מדויק! דגי ים שותים כדי לפצות על המלח, ודגי מים מתוקים כמעט לא צריכים.\", feedbackWrong: \"לא בדיוק... אבל התשובה האמיתית מפתיעה לא פחות.\", ctaLabel: \"לגלות איך זה עובד באמת 🌊\" } }, { number: 2, id: \"octopus-hearts\", question: \"כמה לבבות יש לתמנון?\", answer: [ \"לתמנון יש שלושה לבבות.\", \"שניים מהם מזרימים דם אל הזימים, שם הדם קולט חמצן מהמים. הלב השלישי מזרים את הדם המחומצן לכל חלקי הגוף.\", \"בזמן שהתמנון שוחה, הלב הראשי כמעט מפסיק לפעול, ולכן השחייה דורשת ממנו הרבה אנרגיה. זו גם אחת הסיבות שתמנונים מעדיפים בדרך כלל לזחול על הקרקעית במקום לשחות למרחקים.\" ], didYouKnow: \"הדם של התמנון הוא כחול, משום שהוא מכיל נחושת במקום ברזל.\", link: { label: \"לעוד דברים מפתיעים על תמנונים\", url: \"https://coralworld.co.il/%D7%AA%D7%9E%D7%A0%D7%95%D7%A0%D7%99%D7%9D-%D7%91%D7%A9%D7%9C%D7%9C-%D7%92%D7%93%D7%9C%D7%99%D7%9D/\" }, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_06.jpg', imageAlt: \"תמונת קמפיין עבור השאלה כמה לבבות יש לתמנון\", quiz: { options: [\"אחד\", \"שניים\", \"שלושה\", \"ארבעה\"], correctIndex: 2, feedbackCorrect: \"בול! ולכל לב יש תפקיד אחר לגמרי.\", feedbackWrong: \"טעות אנוש... לתמנון יש יותר לבבות ממה שחשבתם.\", ctaLabel: \"לגלות למה יש לו כל כך הרבה 💙\" } }, { number: 3, id: \"coral-animal-or-plant\", question: \"אלמוג זה צמח או חיה?\", answer: [ \"אלמוג הוא בעל חיים.\", \"כל אלמוג מורכב מאלפי יצורים זעירים שנקראים פוליפים. כל פוליפ בונה סביבו שלד גירני, ולאורך השנים נוצרת שונית האלמוגים.\", \"בתוך רקמת האלמוג חיות אצות מיקרוסקופיות שמייצרות עבורו מזון בעזרת אור השמש, ובתמורה האלמוג מעניק להן בית מוגן. שיתוף הפעולה הזה הוא אחד המופלאים בטבע.\" ], didYouKnow: \"שוניות האלמוגים מכסות פחות מאחוז אחד מקרקעית הים, אבל הן מהוות בית לכִרבע מכל מיני בעלי החיים הימיים.\", link: { label: \"לקריאה נוספת על אלמוגים\", url: \"https://coralworld.co.il/almogim/\" }, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_02.jpg', imageAlt: \"תמונת קמפיין עבור השאלה אלמוג זה צמח או חיה\", quiz: { options: [\"צמח\", \"חיה\", \"פטרייה\", \"מינרל\"], correctIndex: 1, feedbackCorrect: \"נכון! אלמוג הוא בעל חיים לכל דבר.\", feedbackWrong: \"לא בדיוק... זו אחת הטעויות הכי נפוצות על הים.\", ctaLabel: \"לגלות למה כולם טועים בזה 🪸\" } }, { number: 4, id: \"shark-male-or-female\", question: \"איך מבדילים בין כריש לכרישה?\", answer: [ \"ברוב מיני הכרישים ההבדל בין זכר לנקבה נמצא דווקא באזור הבטן.\", \"לזכר יש שני איברי רבייה חיצוניים שנקראים קלספרים, שנמצאים ליד סנפירי האגן. לנקבה אין אותם.\", \"מבחינת צבע, גודל או צורת הגוף, ברוב המינים קשה מאוד להבדיל ביניהם במבט ראשון. במינים מסוימים הנקבות אפילו גדולות יותר מהזכרים, משום שהן צריכות מקום בגופן להתפתחות העוברים או הביצים.\" ], didYouKnow: \"כרישים קיימים כבר יותר מ־400 מיליון שנה... הרבה לפני שהדינוזאורים הופיעו על פני כדור הארץ.\", link: { label: \"לצפייה בסרטון\", url: \"https://www.facebook.com/coralworld/videos/1371109690078154/\" }, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_05.jpg', imageAlt: \"תמונת קמפיין עבור השאלה איך מבדילים בין כריש לכרישה\", quiz: { options: [ \"לפי הצבע\", \"לפי הגודל בלבד\", \"לפי איבר מיוחד באזור הבטן\", \"אי אפשר להבדיל בכלל\" ], correctIndex: 2, feedbackCorrect: \"מדויק! זה נקרא קלספר, ורק לזכרים יש אותו.\", feedbackWrong: \"לא זו הדרך... ההבדל האמיתי נמצא במקום מפתיע.\", ctaLabel: \"לגלות איך מזהים נכון 🦈\" } }, { number: 5, id: \"sea-turtle-sleep\", question: \"איך צבי ים ישנים?\", answer: [ \"למרות שהם חיים במים, צבי ים חייבים לעלות אל פני הים כדי לנשום אוויר.\", \"בזמן מנוחה או שינה הם יכולים להישאר מתחת למים בין שעה לכמה שעות, תלוי בגיל הצב, מין הצב, עומק וטמפרטורת המים.\", \"הם נחים בין סלעים, בתוך שוניות אלמוגים על קרקעית הים וגם על פני הים. כשהגיע הזמן לנשום הם עולים לפני המים, לוקחים נשימה אחת, וחוזרים אל השקט שמתחת לפני הים.\" ], didYouKnow: \"צבי ים חוזרים לעיתים להטיל ביצים בדיוק באותו חוף שבו בקעו בעצמם לפני עשרות שנים.\", link: null, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_04.jpg', imageAlt: \"תמונת קמפיין עבור השאלה איך צבי ים ישנים\", quiz: { options: [ \"הם ישנים על החוף כל לילה\", \"הם ישנים מתחת למים ועולים לנשום\", \"הם לא ישנים בכלל\", \"הם ישנים רק כשהם צפים על פני המים\" ], correctIndex: 1, feedbackCorrect: \"נכון מאוד! הם יכולים להישאר מתחת למים שעות ארוכות.\", feedbackWrong: \"כמעט... אבל צבי הים ישנים במקום אחר לגמרי.\", ctaLabel: \"לגלות איפה הם באמת ישנים 🐢\" } }, { number: 6, id: \"octopus-change-color\", question: \"איך תמנון משנה צבע?\", answer: [ \"לתמנון יש מיליוני תאי צבע מיוחדים בעור שנקראים כרומטופורים.\", \"הוא שולט בהם באמצעות מערכת העצבים, ולכן מסוגל לשנות צבע ודוגמאות בתוך שברירי שנייה.\", \"השינוי הזה עוזר לו להסתוות בסביבה, לתקשר עם תמנונים אחרים, להרשים בני זוג ואפילו להרתיע טורפים.\", \"בנוסף לצבע, התמנון יכול גם לשנות את מרקם העור שלו כך שייראה כמו סלע, אלמוג או אבן.\" ], didYouKnow: \"לתמנון אין שלד, ולכן הוא מסוגל להידחק דרך פתחים קטנים כמעט בגודל המקור שלו.\", link: { label: \"לעוד דברים מפתיעים על תמנונים\", url: \"https://coralworld.co.il/%D7%AA%D7%9E%D7%A0%D7%95%D7%A0%D7%99%D7%9D-%D7%91%D7%A9%D7%9C%D7%9C-%D7%92%D7%93%D7%9C%D7%99%D7%9D/\" }, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_07.jpg', imageAlt: \"תמונת קמפיין עבור השאלה איך תמנון משנה צבע\", quiz: { options: [ \"הוא מחליף עור כמו נחש\", \"יש לו תאי צבע מיוחדים בעור\", \"הוא סופג את צבע הסביבה לתוך הגוף\", \"זו אשליה אופטית בלבד\" ], correctIndex: 1, feedbackCorrect: \"בדיוק! הם נקראים כרומטופורים והוא שולט בהם ברגע.\", feedbackWrong: \"לא זה... הסוד נמצא בתאים מיוחדים בעור שלו.\", ctaLabel: \"לגלות את הסוד שמאחורי זה 🐙\" } }, { number: 7, id: \"seahorse-speed\", question: \"סוסון הים שוחה מהר?\", answer: [ \"ממש לא. סוסון הים הוא אחד הדגים האיטיים בעולם.\", \"הוא נע בעזרת סנפיר קטן בגב שמתנופף עשרות פעמים בשנייה, אבל למרות זאת ההתקדמות שלו איטית מאוד.\", \"בגלל שהוא שחיין חלש, הוא משתמש בזנב הארוך שלו כדי להיאחז באלמוגים, באצות או בצמחי ים וכך לא להיסחף עם הזרם.\" ], didYouKnow: \"אצל סוסוני הים דווקא הזכר הוא שנושא את ההיריון. הנקבה מטילה את הביצים לתוך כיס מיוחד בגופו של הזכר, והוא זה שמגן עליהן עד שהסוסונים הקטנים בוקעים ויוצאים לעולם.\", link: null, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_03.jpg', imageAlt: \"תמונת קמפיין עבור השאלה האם סוסון הים שוחה מהר\", quiz: { options: [ \"כן, הוא אחד הדגים המהירים בים\", \"לא, הוא אחד הדגים האיטיים בעולם\", \"הוא שוחה במהירות ממוצעת\", \"הוא לא שוחה בכלל, רק צף\" ], correctIndex: 1, feedbackCorrect: \"נכון! הוא אחד השחיינים הכי איטיים שיש.\", feedbackWrong: \"ההפך הוא הנכון... וזה דווקא חלק מהקסם שלו.\", ctaLabel: \"לגלות איך הוא בכל זאת שורד 🌊\" } }, { number: 8, id: \"fastest-red-sea-animal\", question: \"מי בעל החיים הכי מהיר בים האדום?\", answer: [ \"אחד השחיינים המהירים ביותר בים האדום הוא דג המפרשן.\", \"הוא מסוגל להגיע למהירויות של יותר מ־100 קמ״ש בפרצי שחייה קצרים בזמן ציד.\", \"הסנפיר הגבוה שלו, שנראה כמו מפרש, בדרך כלל מקופל בזמן השחייה כדי להפחית את התנגדות המים.\", \"המפרשן צד להקות של דגים קטנים ומשתמש במהירות ובדיוק מרשימים כדי ללכוד אותם.\" ], didYouKnow: \"למרות המהירות העצומה שלו, המפרשן לא שוחה כך כל הזמן... הוא משתמש במהירות בעיקר בזמן ציד או בריחה.\", link: null, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_09.jpg', imageAlt: \"תמונת קמפיין עבור השאלה מי בעל החיים הכי מהיר בים האדום\", quiz: { options: [\"הכריש הלבנשן\", \"דג המפרשן\", \"הדולפין\", \"הצב הירוק\"], correctIndex: 1, feedbackCorrect: \"מדויק! הוא מגיע למהירויות מדהימות.\", feedbackWrong: \"לא הוא... זהו אלוף המהירות המפתיע של הים האדום.\", ctaLabel: \"לגלות עד כמה הוא מהיר 🏊\" } }, { number: 9, id: \"fish-find-food\", question: \"איך דגים מוצאים אוכל בים?\", answer: [ \"לדגים יש חושים מפותחים במיוחד.\", \"הם משתמשים בראייה, בחוש הריח ובחוש הטעם, אבל גם באיבר מיוחד שנקרא קו הצד.\", \"איבר זה מאפשר להם להרגיש תנודות ותנועות במים, גם כאשר הם לא יכולים לראות היטב.\", \"כך הם מזהים טרף, נמנעים מטורפים ושומרים על מיקומם בתוך להקה.\" ], didYouKnow: \"יש דגים שמסוגלים להריח מזון ממרחק של מאות מטרים, אפילו כשהמים עכורים מאוד.\", link: null, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_01.jpg', imageAlt: \"תמונת קמפיין עבור השאלה איך דגים מוצאים אוכל בים\", quiz: { options: [ \"רק בעזרת הראייה\", \"בעזרת חושים מפותחים, כולל איבר מיוחד\", \"רק בעזרת הריח\", \"הם עוקבים אחרי דגים אחרים בלבד\" ], correctIndex: 1, feedbackCorrect: \"כל הכבוד! זה נקרא קו הצד, וזה ממש חוש-על.\", feedbackWrong: \"לא רק זה... יש להם כלי נוסף ומפתיע.\", ctaLabel: \"לגלות מהו חוש העל שלהם 🐟\" } }, { number: 10, id: \"why-red-sea\", question: \"למה הים האדום נקרא ים אדום?\", answer: [ \"למרות שמימיו נראים כחולים, מקור השם ים סוף או הים האדום אינו חד משמעי.\", \"אחת ההשערות היא שלעיתים מתרחשת פריחה של אצות זעירות שמעניקה למים גוון אדמדם.\", \"השערה אחרת היא שהשם מגיע מהרים אדמדמים המקיפים חלקים מהים.\", \"יש גם חוקרים הסבורים שהשם קשור לשמות קדומים של כיווני השמיים, שבהם הצבע האדום סימל את הדרום.\" ], didYouKnow: \"הים האדום הוא אחד הימים המלוחים בעולם, והוא גם נחשב לאחד מאזורי האלמוגים השמורים והעשירים ביותר במגוון ביולוגי.\", link: null, image: 'https://coralworld.co.il/wp-content/uploads/2026/07/RED-SEA.png', imageAlt: \"תמונת קמפיין עבור השאלה למה הים האדום נקרא ים אדום\", quiz: { options: [ \"כי המים בו אדומים תמיד\", \"יש כמה השערות, ואף אחת לא ודאית\", \"כי כל האלמוגים בו אדומים\", \"על שם דג נדיר שנקרא כך\" ], correctIndex: 1, feedbackCorrect: \"נכון! גם החוקרים לא לגמרי בטוחים בתשובה.\", feedbackWrong: \"לא בדיוק... האמת היא שאף אחד לא בטוח ב-100%.\", ctaLabel: \"לגלות את ההשערות המפתיעות 🔴\" } } ] };</p> <p> /* --------------------------------------------------------------------- עזרי DOM --------------------------------------------------------------------- */ function qs(sel, ctx) { return (ctx || document).querySelector(sel); } function el(tag, cls, text) { var e = document.createElement(tag); if (cls) e.className = cls; if (text !== undefined) e.textContent = text; return e; }</p> <p> /* --------------------------------------------------------------------- אתחול טקסטים סטטיים מה-content --------------------------------------------------------------------- */ function initStaticText() { var p = CW_CONTENT.page;</p> <p> var eyebrow = qs('#cw-eyebrow'); if (eyebrow) eyebrow.remove();</p> <p> var heroTitle = qs('#cw-hero-title'); heroTitle.innerHTML = ''; heroTitle.appendChild(document.createTextNode(p.titleLine1)); heroTitle.appendChild(document.createElement('br')); var accent = el('span', 'cw-title-accent', p.titleLine2); heroTitle.appendChild(accent);</p> <p> qs('#cw-hero-slogan').textContent = p.slogan;</p> <p> var introHost = qs('#cw-hero-intro'); introHost.innerHTML = ''; p.intro.forEach(function (paragraph) { introHost.appendChild(el('p', null, paragraph)); });</p> <p> qs('#cw-hero-btn-label').textContent = p.heroButton; var heroBtn = qs('#cw-hero-btn'); heroBtn.href = p.heroButtonUrl && p.heroButtonUrl.length ? p.heroButtonUrl : '#'; heroBtn.target = '_blank'; heroBtn.rel = 'noopener noreferrer';</p> <p> qs('#cw-questions-eyebrow').textContent = p.questionsEyebrow; qs('#cw-questions-heading').textContent = p.questionsHeading; qs('#cw-quiz-teaser').textContent = p.quizTeaser; qs('#cw-quiz-start-label').textContent = p.quizStartLabel;</p> <p> qs('#cw-closing-eyebrow').textContent = p.closingEyebrow;</p> <p> var closingTitle = qs('#cw-closing-title'); closingTitle.innerHTML = ''; closingTitle.appendChild(document.createTextNode(p.closingTitleLine1)); closingTitle.appendChild(document.createElement('br')); closingTitle.appendChild(document.createTextNode(p.closingTitleLine2));</p> <p> qs('#cw-closing-text').textContent = p.closingText; qs('#cw-closing-btn-label').textContent = p.closingButton;</p> <p> var closingBtn = qs('#cw-closing-btn'); closingBtn.href = p.closingButtonUrl && p.closingButtonUrl.length ? p.closingButtonUrl : '#'; closingBtn.target = '_blank'; closingBtn.rel = 'noopener noreferrer';</p> <p> var secondaryLink = qs('#cw-secondary-link'); if (p.secondaryLinkText && p.secondaryLinkText.length) { secondaryLink.textContent = p.secondaryLinkText; secondaryLink.href = p.secondaryLinkUrl && p.secondaryLinkUrl.length ? p.secondaryLinkUrl : '#'; secondaryLink.target = '_blank'; secondaryLink.rel = 'noopener noreferrer'; } else { secondaryLink.hidden = true; } }</p> <p> /* --------------------------------------------------------------------- ניהול ה-Modal וזרימת החידון (שאלה אחת גדולה בכל פעם, עם מעבר ברצף) --------------------------------------------------------------------- */ var lastFocusedTrigger = null; var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches; var quizState = { index: 0, answered: false, correct: 0, wrong: 0, isRunning: false };</p> <p> function updateStats() { var total = CW_CONTENT.questions.length; var remaining = total - quizState.index - (quizState.answered ? 1 : 0); qs('#cw-modal-stat-remaining').textContent = remaining; qs('#cw-modal-stat-correct').textContent = quizState.correct; qs('#cw-modal-stat-wrong').textContent = quizState.wrong; }</p> <p> function openModalShell() { var modal = qs('#cw-modal'); qs('#cw-quiz-start-btn').hidden = true; qs('#cw-quiz-teaser').hidden = true; modal.hidden = false;</p> <p> window.requestAnimationFrame(function () { modal.classList.add('cw-is-open'); });</p> <p> window.setTimeout(function () { qs('#cw-modal-close').focus({ preventScroll: true }); }, reduceMotion ? 0 : 60);</p> <p> document.addEventListener('keydown', onModalKeydown, true); }</p> <p> function startQuiz(triggerEl) { if (quizState.isRunning) return; /* מגן מפני הפעלה כפולה אם גם ה-delegation וגם ה-onclick הישר תפסו את אותה לחיצה */ quizState.isRunning = true; lastFocusedTrigger = triggerEl; quizState.index = 0; quizState.answered = false; quizState.correct = 0; quizState.wrong = 0;</p> <p> var couponEl = qs('#cw-modal-coupon'); couponEl.hidden = true; couponEl.classList.remove('cw-is-entering'); qs('#cw-modal-coupon-cta').hidden = false; qs('#cw-modal-congrats').hidden = true; qs('#cw-modal-congrats').classList.remove('cw-is-entering'); qs('#cw-modal-stats').hidden = false;</p> <p> openModalShell(); renderQuestion(0); }</p> <p> function renderQuestion(index) { var q = CW_CONTENT.questions[index]; quizState.index = index; quizState.answered = false;</p> <p> qs('#cw-modal-number').textContent = 'שאלה ' + (index + 1) + ' מתוך ' + CW_CONTENT.questions.length; qs('#cw-modal-title').textContent = q.question; updateStats();</p> <p> var imgHost = qs('#cw-modal-image'); imgHost.innerHTML = ''; if (q.image) { var img = el('img'); img.src = q.image; img.alt = q.imageAlt || ''; img.decoding = 'async'; img.fetchPriority = 'high'; imgHost.appendChild(img);</p> <p> var nextQ = CW_CONTENT.questions[index + 1]; if (nextQ && nextQ.image) { new Image().src = nextQ.image; } imgHost.hidden = false; } else { imgHost.hidden = true; }</p> <p> var answerHost = qs('#cw-modal-answer'); answerHost.innerHTML = ''; q.answer.forEach(function (paragraph) { answerHost.appendChild(el('p', null, paragraph)); });</p> <p> var dyk = qs('#cw-modal-didyouknow'); if (q.didYouKnow) { qs('#cw-modal-didyouknow-heading').textContent = CW_CONTENT.page.didYouKnowHeading; qs('#cw-modal-didyouknow-text').textContent = q.didYouKnow; dyk.hidden = false; } else { dyk.hidden = true; }</p> <p> var linkEl = qs('#cw-modal-link'); if (q.link && q.link.url) { linkEl.textContent = q.link.label || ''; linkEl.href = q.link.url; linkEl.hidden = false; } else { linkEl.hidden = true; linkEl.removeAttribute('href'); }</p> <p> var isLast = index === CW_CONTENT.questions.length - 1; qs('#cw-modal-next').textContent = isLast ? CW_CONTENT.page.quizFinishLabel : CW_CONTENT.page.quizNextLabel;</p> <p> renderQuizOptions(q); qs('#cw-modal').scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' }); }</p> <p> /* בניית 4 אפשרויות התשובה לשאלה הנוכחית */ function renderQuizOptions(q) { var optionsHost = qs('#cw-modal-quiz-options'); optionsHost.innerHTML = '';</p> <p> q.quiz.options.forEach(function (optionText, idx) { var btn = el('button', 'cw-modal__quiz-option', optionText); btn.type = 'button'; btn.addEventListener('click', function () { handleQuizAnswer(q, idx, optionsHost); }); optionsHost.appendChild(btn); });</p> <p> var quizEl = qs('#cw-modal-quiz'); var revealEl = qs('#cw-modal-reveal'); qs('#cw-modal-feedback-text').hidden = true; quizEl.hidden = false; quizEl.classList.remove('cw-is-leaving'); revealEl.hidden = true; revealEl.classList.remove('cw-is-entering'); }</p> <p> var CW_CONFETTI_COLORS = ['#17c5c4', '#f6a62f', '#2f9e44', '#ff6f61', '#0d3b66'];</p> <p> function spawnConfetti(container, originBtn) { var originX = originBtn.offsetLeft + originBtn.offsetWidth / 2; var originY = originBtn.offsetTop + originBtn.offsetHeight / 2; for (var i = 0; i < 20; i++) { var piece = document.createElement('span'); piece.className = 'cw-confetti-piece'; piece.style.background = CW_CONFETTI_COLORS[i % CW_CONFETTI_COLORS.length]; piece.style.left = (originX + (Math.random() * 160 - 80)) + 'px'; piece.style.top = originY + 'px'; piece.style.animationDelay = (Math.random() * 120) + 'ms'; container.appendChild(piece); piece.addEventListener('animationend', function () { this.remove(); }); } } function handleQuizAnswer(q, chosenIndex, optionsHost) { if (quizState.answered) return; quizState.answered = true; var buttons = optionsHost.querySelectorAll('.cw-modal__quiz-option'); var isCorrect = chosenIndex === q.quiz.correctIndex; if (isCorrect) { quizState.correct += 1; } else { quizState.wrong += 1; } updateStats(); Array.prototype.forEach.call(buttons, function (btn, idx) { btn.disabled = true; if (idx === q.quiz.correctIndex) { btn.classList.add('cw-is-correct'); } else if (idx === chosenIndex) { btn.classList.add('cw-is-wrong'); } }); if (isCorrect &#038;&#038; !reduceMotion) { spawnConfetti(optionsHost, buttons[q.quiz.correctIndex]); } var feedbackText = qs('#cw-modal-feedback-text'); feedbackText.textContent = isCorrect ? q.quiz.feedbackCorrect : q.quiz.feedbackWrong; feedbackText.hidden = false; var quizEl = qs('#cw-modal-quiz'); var revealEl = qs('#cw-modal-reveal'); var revealNow = function () { quizEl.hidden = true; quizEl.classList.remove('cw-is-leaving'); qs('#cw-modal-image').hidden = true; revealEl.classList.add('cw-is-entering'); revealEl.hidden = false; window.requestAnimationFrame(function () { revealEl.classList.remove('cw-is-entering'); }); qs('#cw-modal-next').focus({ preventScroll: true }); }; if (reduceMotion) { quizEl.hidden = true; qs('#cw-modal-image').hidden = true; revealEl.hidden = false; } else { window.setTimeout(function () { quizEl.classList.add('cw-is-leaving'); window.setTimeout(revealNow, 250); }, 900); } } function goToNextQuestion() { var nextIndex = quizState.index + 1; if (nextIndex >= CW_CONTENT.questions.length) { showCongrats(); return; } renderQuestion(nextIndex); }</p> <p> function showCongrats() { var revealEl = qs('#cw-modal-reveal'); var congratsEl = qs('#cw-modal-congrats');</p> <p> qs('#cw-modal-congrats-heading').textContent = CW_CONTENT.page.congratsHeading; qs('#cw-modal-congrats-teaser').textContent = CW_CONTENT.page.congratsTeaser; qs('#cw-modal-coupon-cta').textContent = CW_CONTENT.page.couponCtaLabel; qs('#cw-modal-image').hidden = true; qs('#cw-modal-title').textContent = ''; qs('#cw-modal-number').textContent = ''; qs('#cw-modal-stats').hidden = true;</p> <p> var finish = function () { revealEl.hidden = true; revealEl.classList.remove('cw-is-leaving'); congratsEl.hidden = false; congratsEl.classList.add('cw-is-entering'); window.requestAnimationFrame(function () { congratsEl.classList.remove('cw-is-entering'); }); qs('#cw-modal-coupon-cta').focus({ preventScroll: true }); qs('#cw-modal').scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' }); };</p> <p> if (reduceMotion) { finish(); } else { revealEl.classList.add('cw-is-leaving'); window.setTimeout(finish, 250); } }</p> <p> function revealCoupon(triggerBtn) { var p = CW_CONTENT.page; var couponEl = qs('#cw-modal-coupon');</p> <p> qs('#cw-modal-coupon-code').textContent = p.couponCode; qs('#cw-modal-coupon-note').textContent = p.couponNote; qs('#cw-modal-coupon-copy').textContent = p.couponCopyLabel;</p> <p> var bookBtn = qs('#cw-modal-coupon-book'); bookBtn.textContent = p.closingButton; bookBtn.href = p.closingButtonUrl && p.closingButtonUrl.length ? p.closingButtonUrl : '#';</p> <p> if (!reduceMotion) { spawnConfetti(qs('#cw-modal-congrats'), triggerBtn); }</p> <p> triggerBtn.hidden = true; couponEl.hidden = false; couponEl.classList.add('cw-is-entering'); window.requestAnimationFrame(function () { couponEl.classList.remove('cw-is-entering'); }); }</p> <p> function copyCoupon() { var p = CW_CONTENT.page; var btn = qs('#cw-modal-coupon-copy'); var done = function () { btn.textContent = p.couponCopiedLabel; window.setTimeout(function () { btn.textContent = p.couponCopyLabel; }, 1800); }; if (navigator.clipboard && navigator.clipboard.writeText) { navigator.clipboard.writeText(p.couponCode).then(done, done); } else { done(); } }</p> <p> function closeModal() { var modal = qs('#cw-modal'); modal.classList.remove('cw-is-open'); document.removeEventListener('keydown', onModalKeydown, true);</p> <p> var finish = function () { modal.hidden = true; qs('#cw-quiz-start-btn').hidden = false; qs('#cw-quiz-teaser').hidden = false; if (lastFocusedTrigger) { lastFocusedTrigger.focus({ preventScroll: true }); } };</p> <p> quizState.isRunning = false;</p> <p> if (reduceMotion) { finish(); } else { window.setTimeout(finish, 260); } }</p> <p> function onModalKeydown(evt) { if (evt.key === 'Escape' || evt.key === 'Esc') { evt.preventDefault(); closeModal(); } }</p> <p> /* חשוב &mdash; Event Delegation: כל הלחיצות (סגירה, \"בואו נתחיל!\", \"לשאלה הבאה\", חשיפת הקופון, העתקת הקוד) מנוהלות דרך מאזין אחד על ה-document, ולא דרך חיבור ישיר לכל כפתור בנפרד. הסיבה: בתוך Elementor/וורדפרס יש לפעמים טעינה דחויה (lazy load) של ווידג'טים, בנייה מחדש של ה-DOM על ידי תוספי קאש/אופטימיזציה, או עיתוי ריצה שונה מהצפוי &mdash; ואם הסקריפט מנסה \"לתפוס\" כפתור ספציפי לפני שהוא קיים, ה-addEventListener פשוט לא נתפס והכפתור נשאר \"מת\". עם delegation, גם אם הכפתור מתעדכן/נבנה מחדש אחרי הריצה הראשונית, הלחיצה עדיין נתפסת נכון כי המאזין יושב ברמת ה-document ובודק בכל קליק \"האם זו הלחיצה שמעניינת אותי\" (closest). */ function initModalEvents() { document.addEventListener('click', function (evt) { var target = evt.target;</p> <p> var closeBtn = target.closest('#cw-modal-close'); if (closeBtn) { closeModal(); return; }</p> <p> var startBtn = target.closest('#cw-quiz-start-btn'); if (startBtn) { startQuiz(startBtn); return; }</p> <p> var nextBtn = target.closest('#cw-modal-next'); if (nextBtn) { goToNextQuestion(); return; }</p> <p> var couponCtaBtn = target.closest('#cw-modal-coupon-cta'); if (couponCtaBtn) { revealCoupon(couponCtaBtn); return; }</p> <p> var copyBtn = target.closest('#cw-modal-coupon-copy'); if (copyBtn) { copyCoupon(); return; } });</p> <p> var touchStartX = null; document.addEventListener('touchstart', function (evt) { if (!evt.target.closest('#cw-modal')) return; touchStartX = evt.touches[0].clientX; }, { passive: true }); document.addEventListener('touchend', function (evt) { if (touchStartX === null) return; if (!evt.target.closest('#cw-modal')) { touchStartX = null; return; } var deltaX = evt.changedTouches[0].clientX - touchStartX; touchStartX = null; var revealEl = qs('#cw-modal-reveal'); if (deltaX < -60 &#038;&#038; quizState.answered &#038;&#038; revealEl &#038;&#038; !revealEl.hidden) { goToNextQuestion(); } }, { passive: true }); } /* --------------------------------------------------------------------- Init &mdash; רץ מיד, כי בתוך ווידג'ט HTML של Elementor הסקריפט מגיע אחרי שה-DOM שלו כבר קיים בעמוד (אין צורך להמתין ל-DOMContentLoaded, אבל שומרים גם fallback ליתר ביטחון). חשוב: initModalEvents() (שמחבר את הכפתור \"בואו נתחיל!\" ואת שאר האינטראקציות) רץ ב-try/catch נפרד מ-initStaticText(), כדי שאם משהו נכשל בעדכון הטקסטים (למשל בגלל שינוי מבני שנעשה לתוכן ב- Elementor/וורדפרס) זה לא יעצור את שאר הסקריפט ולא ימנע מהכפתורים לעבוד. כל שגיאה תודפס ל-console לצורך דיבוג, במקום להיבלע בשקט. --------------------------------------------------------------------- */ function cwqInit() { var root = document.querySelector('.cw-questions-page'); if (!root || root.dataset.cwqInitialized === 'true') return; root.dataset.cwqInitialized = 'true'; try { initStaticText(); } catch (err) { if (window.console &#038;&#038; console.error) { console.error('[cw-questions-page] שגיאה בטעינת טקסטים סטטיים:', err); } } try { initModalEvents(); } catch (err) { if (window.console &#038;&#038; console.error) { console.error('[cw-questions-page] שגיאה בחיבור אירועי המודל/כפתורים:', err); } } } if (document.readyState === 'loading') { document.addEventListener('DOMContentLoaded', cwqInit, { once: true }); } else { cwqInit(); } /* פולבאק נוסף: אם מסיבה כלשהי (למשל תוסף Delay JS ב-WordPress ששינה את סדר/עיתוי הריצה) cwqInit לא רץ עדיין עד ל-load המלא של העמוד, ננסה שוב כאן. מוגן על ידי data-cwq-initialized כך שלא ירוץ פעמיים. */ window.addEventListener('load', cwqInit); /* רשת ביטחון נוספת אחרונה: חשיפה גלובלית שנקראת ישירות מה-onclick שעל כפתור \"בואו נתחיל!\" בעצמו (raו-tag בה-HTML). הדבר הזה עובד גם אם מסיבה כלשהי הסקריפט הראשי (IIFE) לא רץ בכלל (נחסם על ידי wpautop/תוסף שמצנצר תוכן, או שה-widget נטען ב-lazy load והסקריפט רץ לפני שה-DOM קיים), כיון שהוא מחובר ישירות לכפתור דרך המאפיין attribute (בלי תלות ב-JS הפנימי). */ window.cwqStartQuizFallback = function (btnEl) { try { if (!document.querySelector('.cw-questions-page').dataset.cwqInitialized) { cwqInit(); } startQuiz(btnEl); } catch (err) { if (window.console &#038;&#038; console.error) { console.error('[cw-questions-page] שגיאה ב-fallback של כפתור \"בואו נתחיל!\":', err); } } }; })();",
+      "html": "<script>/* =========================================================================\n   cw-questions-page &mdash; script.js\n   JavaScript רגיל (ללא תלות בספריות), מבודד ללוגיקה של העמוד.\n   הותאם ל-Elementor: מוגן מפני הפעלה כפולה אם הווידג'ט נטען שוב\n   בעורך (data-cwq-initialized), ומופעל ישירות בלי להמתין ל-load\n   כיוון שהתוכן כבר קיים ב-DOM כשה-<script> רץ בתוך ווידג'ט ה-HTML.\n   ========================================================================= */</p>\n<p>(function () {\n  'use strict';</p>\n<p>  var CW_CONTENT = {\n    page: {\n      eyebrow: \"כל מה שרציתם לדעת על הים... ולא ידעתם את מי לשאול\",\n      titleLine1: \"הקיץ הכי מסקרן באילת\",\n      titleLine2: \"מתחיל כאן!\",\n      slogan: \"גלו את העולם שמתחת למים &ndash; בלי להירטב\",\n      intro: [\n        \"המצפה התת־ימי באילת מזמין אתכם לחוויה מרתקת לכל המשפחה: שוניות אלמוגים מרהיבות, כרישים, צבים ודגים נדירים &ndash; הכל מקרוב ובסביבה טבעית.\"\n      ],\n      heroButton: \"הזמינו כרטיסים עכשיו\",\n      heroButtonUrl: \"https://coralworld.co.il/tickets/?step=1\",\n      questionsEyebrow: \"אבל לפני שאתם ממשיכים&hellip;\",\n      questionsHeading: \"ענו על 10 שאלות וזכו בהטבה שווה במיוחד 🎁\",\n      quizTeaser: \"בדקו מה אתם יודעים על החיים בים האדום ואולי תגלו משהו חדש 😉\",\n      congratsTeaser: \"🎁 מסיימים את השאלון? מחכה לכם הטבה שווה!\",\n      quizStartLabel: \"בואו נתחיל!\",\n      quizNextLabel: \"לשאלה הבאה &larr;\",\n      quizFinishLabel: \"לתוצאות שלי 🎉\",\n      didYouKnowHeading: \"הידעת?\",\n      congratsHeading: \"כל הכבוד! השלמתם את החידון 🎉\",\n      couponCtaLabel: \"לחשוף את ההטבה שלי 🎁\",\n      couponCode: \"Welcome10\",\n      couponNote: \"השתמשו בקוד הזה בהזמנת הכרטיסים שלכם ותיהנו מהטבה מיוחדת.\",\n      couponCopyLabel: \"העתקת הקוד\",\n      couponCopiedLabel: \"הקוד הועתק ✓\",\n      closingEyebrow: \"עכשיו נשארה רק שאלה אחת...\",\n      closingTitleLine1: \"מתי באים לראות\",\n      closingTitleLine2: \"את כל זה באמת?\",\n      closingText: \"עולם שלם מחכה לכם מתחת לפני הים... בלי שנורקל, בלי להירטב ועם הרבה יותר תשובות ממה שנכנס בעמוד אחד.\",\n      closingButton: \"להזמנת כרטיסים\",\n      closingButtonUrl: \"https://coralworld.co.il/tickets/?step=1\",\n      secondaryLinkText: \"רוצים קודם לבדוק שעות ופעילויות?\",\n      secondaryLinkUrl: \"https://coralworld.co.il/visit-park/\"\n    },\n    questions: [\n      {\n        number: 1, id: \"fish-drink-water\", question: \"האם דגים שותים מים?\",\n        answer: [\n          \"כן, אבל זה תלוי איפה הם חיים.\",\n          \"דגי ים מאבדים מים באופן טבעי בגלל המליחות הגבוהה של הים, ולכן הם שותים מי ים באופן קבוע. כדי שלא יצטבר בגופם יותר מדי מלח, הם מסלקים אותו דרך הזימים והכליות.\",\n          \"לעומתם, דגי מים מתוקים כמעט לא שותים בכלל, על מנת לשמור על המליחות שלהם.\"\n        ],\n        didYouKnow: \"הזימים של הדגים לא רק מאפשרים להם לנשום... הם גם עוזרים להם לשמור על איזון המים והמלחים בגוף.\",\n        link: null,\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_08.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה האם דגים שותים מים\",\n        quiz: {\n          options: [\n            \"כל הדגים שותים מים כל הזמן\",\n            \"זה תלוי אם הם חיים במים מלוחים או מתוקים\",\n            \"דגים אף פעם לא שותים מים\",\n            \"רק כרישים שותים מים\"\n          ],\n          correctIndex: 1,\n          feedbackCorrect: \"מדויק! דגי ים שותים כדי לפצות על המלח, ודגי מים מתוקים כמעט לא צריכים.\",\n          feedbackWrong: \"לא בדיוק... אבל התשובה האמיתית מפתיעה לא פחות.\",\n          ctaLabel: \"לגלות איך זה עובד באמת 🌊\"\n        }\n      },\n      {\n        number: 2, id: \"octopus-hearts\", question: \"כמה לבבות יש לתמנון?\",\n        answer: [\n          \"לתמנון יש שלושה לבבות.\",\n          \"שניים מהם מזרימים דם אל הזימים, שם הדם קולט חמצן מהמים. הלב השלישי מזרים את הדם המחומצן לכל חלקי הגוף.\",\n          \"בזמן שהתמנון שוחה, הלב הראשי כמעט מפסיק לפעול, ולכן השחייה דורשת ממנו הרבה אנרגיה. זו גם אחת הסיבות שתמנונים מעדיפים בדרך כלל לזחול על הקרקעית במקום לשחות למרחקים.\"\n        ],\n        didYouKnow: \"הדם של התמנון הוא כחול, משום שהוא מכיל נחושת במקום ברזל.\",\n        link: { label: \"לעוד דברים מפתיעים על תמנונים\", url: \"https://coralworld.co.il/%D7%AA%D7%9E%D7%A0%D7%95%D7%A0%D7%99%D7%9D-%D7%91%D7%A9%D7%9C%D7%9C-%D7%92%D7%93%D7%9C%D7%99%D7%9D/\" },\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_06.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה כמה לבבות יש לתמנון\",\n        quiz: {\n          options: [\"אחד\", \"שניים\", \"שלושה\", \"ארבעה\"],\n          correctIndex: 2,\n          feedbackCorrect: \"בול! ולכל לב יש תפקיד אחר לגמרי.\",\n          feedbackWrong: \"טעות אנוש... לתמנון יש יותר לבבות ממה שחשבתם.\",\n          ctaLabel: \"לגלות למה יש לו כל כך הרבה 💙\"\n        }\n      },\n      {\n        number: 3, id: \"coral-animal-or-plant\", question: \"אלמוג זה צמח או חיה?\",\n        answer: [\n          \"אלמוג הוא בעל חיים.\",\n          \"כל אלמוג מורכב מאלפי יצורים זעירים שנקראים פוליפים. כל פוליפ בונה סביבו שלד גירני, ולאורך השנים נוצרת שונית האלמוגים.\",\n          \"בתוך רקמת האלמוג חיות אצות מיקרוסקופיות שמייצרות עבורו מזון בעזרת אור השמש, ובתמורה האלמוג מעניק להן בית מוגן. שיתוף הפעולה הזה הוא אחד המופלאים בטבע.\"\n        ],\n        didYouKnow: \"שוניות האלמוגים מכסות פחות מאחוז אחד מקרקעית הים, אבל הן מהוות בית לכִרבע מכל מיני בעלי החיים הימיים.\",\n        link: { label: \"לקריאה נוספת על אלמוגים\", url: \"https://coralworld.co.il/almogim/\" },\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_02.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה אלמוג זה צמח או חיה\",\n        quiz: {\n          options: [\"צמח\", \"חיה\", \"פטרייה\", \"מינרל\"],\n          correctIndex: 1,\n          feedbackCorrect: \"נכון! אלמוג הוא בעל חיים לכל דבר.\",\n          feedbackWrong: \"לא בדיוק... זו אחת הטעויות הכי נפוצות על הים.\",\n          ctaLabel: \"לגלות למה כולם טועים בזה 🪸\"\n        }\n      },\n      {\n        number: 4, id: \"shark-male-or-female\", question: \"איך מבדילים בין כריש לכרישה?\",\n        answer: [\n          \"ברוב מיני הכרישים ההבדל בין זכר לנקבה נמצא דווקא באזור הבטן.\",\n          \"לזכר יש שני איברי רבייה חיצוניים שנקראים קלספרים, שנמצאים ליד סנפירי האגן. לנקבה אין אותם.\",\n          \"מבחינת צבע, גודל או צורת הגוף, ברוב המינים קשה מאוד להבדיל ביניהם במבט ראשון. במינים מסוימים הנקבות אפילו גדולות יותר מהזכרים, משום שהן צריכות מקום בגופן להתפתחות העוברים או הביצים.\"\n        ],\n        didYouKnow: \"כרישים קיימים כבר יותר מ־400 מיליון שנה... הרבה לפני שהדינוזאורים הופיעו על פני כדור הארץ.\",\n        link: { label: \"לצפייה בסרטון\", url: \"https://www.facebook.com/coralworld/videos/1371109690078154/\" },\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_05.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה איך מבדילים בין כריש לכרישה\",\n        quiz: {\n          options: [\n            \"לפי הצבע\",\n            \"לפי הגודל בלבד\",\n            \"לפי איבר מיוחד באזור הבטן\",\n            \"אי אפשר להבדיל בכלל\"\n          ],\n          correctIndex: 2,\n          feedbackCorrect: \"מדויק! זה נקרא קלספר, ורק לזכרים יש אותו.\",\n          feedbackWrong: \"לא זו הדרך... ההבדל האמיתי נמצא במקום מפתיע.\",\n          ctaLabel: \"לגלות איך מזהים נכון 🦈\"\n        }\n      },\n      {\n        number: 5, id: \"sea-turtle-sleep\", question: \"איך צבי ים ישנים?\",\n        answer: [\n          \"למרות שהם חיים במים, צבי ים חייבים לעלות אל פני הים כדי לנשום אוויר.\",\n          \"בזמן מנוחה או שינה הם יכולים להישאר מתחת למים בין שעה לכמה שעות, תלוי בגיל הצב, מין הצב, עומק וטמפרטורת המים.\",\n          \"הם נחים בין סלעים, בתוך שוניות אלמוגים על קרקעית הים וגם על פני הים. כשהגיע הזמן לנשום הם עולים לפני המים, לוקחים נשימה אחת, וחוזרים אל השקט שמתחת לפני הים.\"\n        ],\n        didYouKnow: \"צבי ים חוזרים לעיתים להטיל ביצים בדיוק באותו חוף שבו בקעו בעצמם לפני עשרות שנים.\",\n        link: null,\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_04.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה איך צבי ים ישנים\",\n        quiz: {\n          options: [\n            \"הם ישנים על החוף כל לילה\",\n            \"הם ישנים מתחת למים ועולים לנשום\",\n            \"הם לא ישנים בכלל\",\n            \"הם ישנים רק כשהם צפים על פני המים\"\n          ],\n          correctIndex: 1,\n          feedbackCorrect: \"נכון מאוד! הם יכולים להישאר מתחת למים שעות ארוכות.\",\n          feedbackWrong: \"כמעט... אבל צבי הים ישנים במקום אחר לגמרי.\",\n          ctaLabel: \"לגלות איפה הם באמת ישנים 🐢\"\n        }\n      },\n      {\n        number: 6, id: \"octopus-change-color\", question: \"איך תמנון משנה צבע?\",\n        answer: [\n          \"לתמנון יש מיליוני תאי צבע מיוחדים בעור שנקראים כרומטופורים.\",\n          \"הוא שולט בהם באמצעות מערכת העצבים, ולכן מסוגל לשנות צבע ודוגמאות בתוך שברירי שנייה.\",\n          \"השינוי הזה עוזר לו להסתוות בסביבה, לתקשר עם תמנונים אחרים, להרשים בני זוג ואפילו להרתיע טורפים.\",\n          \"בנוסף לצבע, התמנון יכול גם לשנות את מרקם העור שלו כך שייראה כמו סלע, אלמוג או אבן.\"\n        ],\n        didYouKnow: \"לתמנון אין שלד, ולכן הוא מסוגל להידחק דרך פתחים קטנים כמעט בגודל המקור שלו.\",\n        link: { label: \"לעוד דברים מפתיעים על תמנונים\", url: \"https://coralworld.co.il/%D7%AA%D7%9E%D7%A0%D7%95%D7%A0%D7%99%D7%9D-%D7%91%D7%A9%D7%9C%D7%9C-%D7%92%D7%93%D7%9C%D7%99%D7%9D/\" },\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_07.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה איך תמנון משנה צבע\",\n        quiz: {\n          options: [\n            \"הוא מחליף עור כמו נחש\",\n            \"יש לו תאי צבע מיוחדים בעור\",\n            \"הוא סופג את צבע הסביבה לתוך הגוף\",\n            \"זו אשליה אופטית בלבד\"\n          ],\n          correctIndex: 1,\n          feedbackCorrect: \"בדיוק! הם נקראים כרומטופורים והוא שולט בהם ברגע.\",\n          feedbackWrong: \"לא זה... הסוד נמצא בתאים מיוחדים בעור שלו.\",\n          ctaLabel: \"לגלות את הסוד שמאחורי זה 🐙\"\n        }\n      },\n      {\n        number: 7, id: \"seahorse-speed\", question: \"סוסון הים שוחה מהר?\",\n        answer: [\n          \"ממש לא. סוסון הים הוא אחד הדגים האיטיים בעולם.\",\n          \"הוא נע בעזרת סנפיר קטן בגב שמתנופף עשרות פעמים בשנייה, אבל למרות זאת ההתקדמות שלו איטית מאוד.\",\n          \"בגלל שהוא שחיין חלש, הוא משתמש בזנב הארוך שלו כדי להיאחז באלמוגים, באצות או בצמחי ים וכך לא להיסחף עם הזרם.\"\n        ],\n        didYouKnow: \"אצל סוסוני הים דווקא הזכר הוא שנושא את ההיריון. הנקבה מטילה את הביצים לתוך כיס מיוחד בגופו של הזכר, והוא זה שמגן עליהן עד שהסוסונים הקטנים בוקעים ויוצאים לעולם.\",\n        link: null,\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_03.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה האם סוסון הים שוחה מהר\",\n        quiz: {\n          options: [\n            \"כן, הוא אחד הדגים המהירים בים\",\n            \"לא, הוא אחד הדגים האיטיים בעולם\",\n            \"הוא שוחה במהירות ממוצעת\",\n            \"הוא לא שוחה בכלל, רק צף\"\n          ],\n          correctIndex: 1,\n          feedbackCorrect: \"נכון! הוא אחד השחיינים הכי איטיים שיש.\",\n          feedbackWrong: \"ההפך הוא הנכון... וזה דווקא חלק מהקסם שלו.\",\n          ctaLabel: \"לגלות איך הוא בכל זאת שורד 🌊\"\n        }\n      },\n      {\n        number: 8, id: \"fastest-red-sea-animal\", question: \"מי בעל החיים הכי מהיר בים האדום?\",\n        answer: [\n          \"אחד השחיינים המהירים ביותר בים האדום הוא דג המפרשן.\",\n          \"הוא מסוגל להגיע למהירויות של יותר מ־100 קמ״ש בפרצי שחייה קצרים בזמן ציד.\",\n          \"הסנפיר הגבוה שלו, שנראה כמו מפרש, בדרך כלל מקופל בזמן השחייה כדי להפחית את התנגדות המים.\",\n          \"המפרשן צד להקות של דגים קטנים ומשתמש במהירות ובדיוק מרשימים כדי ללכוד אותם.\"\n        ],\n        didYouKnow: \"למרות המהירות העצומה שלו, המפרשן לא שוחה כך כל הזמן... הוא משתמש במהירות בעיקר בזמן ציד או בריחה.\",\n        link: null,\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_09.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה מי בעל החיים הכי מהיר בים האדום\",\n        quiz: {\n          options: [\"הכריש הלבנשן\", \"דג המפרשן\", \"הדולפין\", \"הצב הירוק\"],\n          correctIndex: 1,\n          feedbackCorrect: \"מדויק! הוא מגיע למהירויות מדהימות.\",\n          feedbackWrong: \"לא הוא... זהו אלוף המהירות המפתיע של הים האדום.\",\n          ctaLabel: \"לגלות עד כמה הוא מהיר 🏊\"\n        }\n      },\n      {\n        number: 9, id: \"fish-find-food\", question: \"איך דגים מוצאים אוכל בים?\",\n        answer: [\n          \"לדגים יש חושים מפותחים במיוחד.\",\n          \"הם משתמשים בראייה, בחוש הריח ובחוש הטעם, אבל גם באיבר מיוחד שנקרא קו הצד.\",\n          \"איבר זה מאפשר להם להרגיש תנודות ותנועות במים, גם כאשר הם לא יכולים לראות היטב.\",\n          \"כך הם מזהים טרף, נמנעים מטורפים ושומרים על מיקומם בתוך להקה.\"\n        ],\n        didYouKnow: \"יש דגים שמסוגלים להריח מזון ממרחק של מאות מטרים, אפילו כשהמים עכורים מאוד.\",\n        link: null,\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/200726_summerBanner_noText_01.jpg',\n        imageAlt: \"תמונת קמפיין עבור השאלה איך דגים מוצאים אוכל בים\",\n        quiz: {\n          options: [\n            \"רק בעזרת הראייה\",\n            \"בעזרת חושים מפותחים, כולל איבר מיוחד\",\n            \"רק בעזרת הריח\",\n            \"הם עוקבים אחרי דגים אחרים בלבד\"\n          ],\n          correctIndex: 1,\n          feedbackCorrect: \"כל הכבוד! זה נקרא קו הצד, וזה ממש חוש-על.\",\n          feedbackWrong: \"לא רק זה... יש להם כלי נוסף ומפתיע.\",\n          ctaLabel: \"לגלות מהו חוש העל שלהם 🐟\"\n        }\n      },\n      {\n        number: 10, id: \"why-red-sea\", question: \"למה הים האדום נקרא ים אדום?\",\n        answer: [\n          \"למרות שמימיו נראים כחולים, מקור השם ים סוף או הים האדום אינו חד משמעי.\",\n          \"אחת ההשערות היא שלעיתים מתרחשת פריחה של אצות זעירות שמעניקה למים גוון אדמדם.\",\n          \"השערה אחרת היא שהשם מגיע מהרים אדמדמים המקיפים חלקים מהים.\",\n          \"יש גם חוקרים הסבורים שהשם קשור לשמות קדומים של כיווני השמיים, שבהם הצבע האדום סימל את הדרום.\"\n        ],\n        didYouKnow: \"הים האדום הוא אחד הימים המלוחים בעולם, והוא גם נחשב לאחד מאזורי האלמוגים השמורים והעשירים ביותר במגוון ביולוגי.\",\n        link: null,\n        image: 'https://coralworld.co.il/wp-content/uploads/2026/07/RED-SEA.png',\n        imageAlt: \"תמונת קמפיין עבור השאלה למה הים האדום נקרא ים אדום\",\n        quiz: {\n          options: [\n            \"כי המים בו אדומים תמיד\",\n            \"יש כמה השערות, ואף אחת לא ודאית\",\n            \"כי כל האלמוגים בו אדומים\",\n            \"על שם דג נדיר שנקרא כך\"\n          ],\n          correctIndex: 1,\n          feedbackCorrect: \"נכון! גם החוקרים לא לגמרי בטוחים בתשובה.\",\n          feedbackWrong: \"לא בדיוק... האמת היא שאף אחד לא בטוח ב-100%.\",\n          ctaLabel: \"לגלות את ההשערות המפתיעות 🔴\"\n        }\n      }\n    ]\n  };</p>\n<p>  /* ---------------------------------------------------------------------\n     עזרי DOM\n     --------------------------------------------------------------------- */\n  function qs(sel, ctx) { return (ctx || document).querySelector(sel); }\n  function el(tag, cls, text) {\n    var e = document.createElement(tag);\n    if (cls) e.className = cls;\n    if (text !== undefined) e.textContent = text;\n    return e;\n  }</p>\n<p>  /* ---------------------------------------------------------------------\n     אתחול טקסטים סטטיים מה-content\n     --------------------------------------------------------------------- */\n  function initStaticText() {\n    var p = CW_CONTENT.page;</p>\n<p>    var eyebrow = qs('#cw-eyebrow');\n    if (eyebrow) eyebrow.remove();</p>\n<p>    var heroTitle = qs('#cw-hero-title');\n    heroTitle.innerHTML = '';\n    heroTitle.appendChild(document.createTextNode(p.titleLine1));\n    heroTitle.appendChild(document.createElement('br'));\n    var accent = el('span', 'cw-title-accent', p.titleLine2);\n    heroTitle.appendChild(accent);</p>\n<p>    qs('#cw-hero-slogan').textContent = p.slogan;</p>\n<p>    var introHost = qs('#cw-hero-intro');\n    introHost.innerHTML = '';\n    p.intro.forEach(function (paragraph) {\n      introHost.appendChild(el('p', null, paragraph));\n    });</p>\n<p>    qs('#cw-hero-btn-label').textContent = p.heroButton;\n    var heroBtn = qs('#cw-hero-btn');\n    heroBtn.href = p.heroButtonUrl && p.heroButtonUrl.length ? p.heroButtonUrl : '#';\n    heroBtn.target = '_blank';\n    heroBtn.rel = 'noopener noreferrer';</p>\n<p>    qs('#cw-questions-eyebrow').textContent = p.questionsEyebrow;\n    qs('#cw-questions-heading').textContent = p.questionsHeading;\n    qs('#cw-quiz-teaser').textContent = p.quizTeaser;\n    qs('#cw-quiz-start-label').textContent = p.quizStartLabel;</p>\n<p>    qs('#cw-closing-eyebrow').textContent = p.closingEyebrow;</p>\n<p>    var closingTitle = qs('#cw-closing-title');\n    closingTitle.innerHTML = '';\n    closingTitle.appendChild(document.createTextNode(p.closingTitleLine1));\n    closingTitle.appendChild(document.createElement('br'));\n    closingTitle.appendChild(document.createTextNode(p.closingTitleLine2));</p>\n<p>    qs('#cw-closing-text').textContent = p.closingText;\n    qs('#cw-closing-btn-label').textContent = p.closingButton;</p>\n<p>    var closingBtn = qs('#cw-closing-btn');\n    closingBtn.href = p.closingButtonUrl && p.closingButtonUrl.length ? p.closingButtonUrl : '#';\n    closingBtn.target = '_blank';\n    closingBtn.rel = 'noopener noreferrer';</p>\n<p>    var secondaryLink = qs('#cw-secondary-link');\n    if (p.secondaryLinkText && p.secondaryLinkText.length) {\n      secondaryLink.textContent = p.secondaryLinkText;\n      secondaryLink.href = p.secondaryLinkUrl && p.secondaryLinkUrl.length ? p.secondaryLinkUrl : '#';\n      secondaryLink.target = '_blank';\n      secondaryLink.rel = 'noopener noreferrer';\n    } else {\n      secondaryLink.hidden = true;\n    }\n  }</p>\n<p>  /* ---------------------------------------------------------------------\n     ניהול ה-Modal וזרימת החידון (שאלה אחת גדולה בכל פעם, עם מעבר ברצף)\n     --------------------------------------------------------------------- */\n  var lastFocusedTrigger = null;\n  var reduceMotion = window.matchMedia && window.matchMedia('(prefers-reduced-motion: reduce)').matches;\n  var quizState = { index: 0, answered: false, correct: 0, wrong: 0, isRunning: false };</p>\n<p>  function updateStats() {\n    var total = CW_CONTENT.questions.length;\n    var remaining = total - quizState.index - (quizState.answered ? 1 : 0);\n    qs('#cw-modal-stat-remaining').textContent = remaining;\n    qs('#cw-modal-stat-correct').textContent = quizState.correct;\n    qs('#cw-modal-stat-wrong').textContent = quizState.wrong;\n  }</p>\n<p>  function openModalShell() {\n    var modal = qs('#cw-modal');\n    qs('#cw-quiz-start-btn').hidden = true;\n    qs('#cw-quiz-teaser').hidden = true;\n    modal.hidden = false;</p>\n<p>    window.requestAnimationFrame(function () {\n      modal.classList.add('cw-is-open');\n    });</p>\n<p>    window.setTimeout(function () {\n      qs('#cw-modal-close').focus({ preventScroll: true });\n    }, reduceMotion ? 0 : 60);</p>\n<p>    document.addEventListener('keydown', onModalKeydown, true);\n  }</p>\n<p>  function startQuiz(triggerEl) {\n    if (quizState.isRunning) return; /* מגן מפני הפעלה כפולה אם גם ה-delegation וגם ה-onclick הישר תפסו את אותה לחיצה */\n    quizState.isRunning = true;\n    lastFocusedTrigger = triggerEl;\n    quizState.index = 0;\n    quizState.answered = false;\n    quizState.correct = 0;\n    quizState.wrong = 0;</p>\n<p>    var couponEl = qs('#cw-modal-coupon');\n    couponEl.hidden = true;\n    couponEl.classList.remove('cw-is-entering');\n    qs('#cw-modal-coupon-cta').hidden = false;\n    qs('#cw-modal-congrats').hidden = true;\n    qs('#cw-modal-congrats').classList.remove('cw-is-entering');\n    qs('#cw-modal-stats').hidden = false;</p>\n<p>    openModalShell();\n    renderQuestion(0);\n  }</p>\n<p>  function renderQuestion(index) {\n    var q = CW_CONTENT.questions[index];\n    quizState.index = index;\n    quizState.answered = false;</p>\n<p>    qs('#cw-modal-number').textContent = 'שאלה ' + (index + 1) + ' מתוך ' + CW_CONTENT.questions.length;\n    qs('#cw-modal-title').textContent = q.question;\n    updateStats();</p>\n<p>    var imgHost = qs('#cw-modal-image');\n    imgHost.innerHTML = '';\n    if (q.image) {\n      var img = el('img');\n      img.src = q.image;\n      img.alt = q.imageAlt || '';\n      img.decoding = 'async';\n      img.fetchPriority = 'high';\n      imgHost.appendChild(img);</p>\n<p>      var nextQ = CW_CONTENT.questions[index + 1];\n      if (nextQ && nextQ.image) {\n        new Image().src = nextQ.image;\n      }\n      imgHost.hidden = false;\n    } else {\n      imgHost.hidden = true;\n    }</p>\n<p>    var answerHost = qs('#cw-modal-answer');\n    answerHost.innerHTML = '';\n    q.answer.forEach(function (paragraph) {\n      answerHost.appendChild(el('p', null, paragraph));\n    });</p>\n<p>    var dyk = qs('#cw-modal-didyouknow');\n    if (q.didYouKnow) {\n      qs('#cw-modal-didyouknow-heading').textContent = CW_CONTENT.page.didYouKnowHeading;\n      qs('#cw-modal-didyouknow-text').textContent = q.didYouKnow;\n      dyk.hidden = false;\n    } else {\n      dyk.hidden = true;\n    }</p>\n<p>    var linkEl = qs('#cw-modal-link');\n    if (q.link && q.link.url) {\n      linkEl.textContent = q.link.label || '';\n      linkEl.href = q.link.url;\n      linkEl.hidden = false;\n    } else {\n      linkEl.hidden = true;\n      linkEl.removeAttribute('href');\n    }</p>\n<p>    var isLast = index === CW_CONTENT.questions.length - 1;\n    qs('#cw-modal-next').textContent = isLast ? CW_CONTENT.page.quizFinishLabel : CW_CONTENT.page.quizNextLabel;</p>\n<p>    renderQuizOptions(q);\n    qs('#cw-modal').scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' });\n  }</p>\n<p>  /* בניית 4 אפשרויות התשובה לשאלה הנוכחית */\n  function renderQuizOptions(q) {\n    var optionsHost = qs('#cw-modal-quiz-options');\n    optionsHost.innerHTML = '';</p>\n<p>    q.quiz.options.forEach(function (optionText, idx) {\n      var btn = el('button', 'cw-modal__quiz-option', optionText);\n      btn.type = 'button';\n      btn.addEventListener('click', function () {\n        handleQuizAnswer(q, idx, optionsHost);\n      });\n      optionsHost.appendChild(btn);\n    });</p>\n<p>    var quizEl = qs('#cw-modal-quiz');\n    var revealEl = qs('#cw-modal-reveal');\n    qs('#cw-modal-feedback-text').hidden = true;\n    quizEl.hidden = false;\n    quizEl.classList.remove('cw-is-leaving');\n    revealEl.hidden = true;\n    revealEl.classList.remove('cw-is-entering');\n  }</p>\n<p>  var CW_CONFETTI_COLORS = ['#17c5c4', '#f6a62f', '#2f9e44', '#ff6f61', '#0d3b66'];</p>\n<p>  function spawnConfetti(container, originBtn) {\n    var originX = originBtn.offsetLeft + originBtn.offsetWidth / 2;\n    var originY = originBtn.offsetTop + originBtn.offsetHeight / 2;\n    for (var i = 0; i < 20; i++) { var piece = document.createElement('span'); piece.className = 'cw-confetti-piece'; piece.style.background = CW_CONFETTI_COLORS[i % CW_CONFETTI_COLORS.length]; piece.style.left = (originX + (Math.random() * 160 - 80)) + 'px'; piece.style.top = originY + 'px'; piece.style.animationDelay = (Math.random() * 120) + 'ms'; container.appendChild(piece); piece.addEventListener('animationend', function () { this.remove(); }); } } function handleQuizAnswer(q, chosenIndex, optionsHost) { if (quizState.answered) return; quizState.answered = true; var buttons = optionsHost.querySelectorAll('.cw-modal__quiz-option'); var isCorrect = chosenIndex === q.quiz.correctIndex; if (isCorrect) { quizState.correct += 1; } else { quizState.wrong += 1; } updateStats(); Array.prototype.forEach.call(buttons, function (btn, idx) { btn.disabled = true; if (idx === q.quiz.correctIndex) { btn.classList.add('cw-is-correct'); } else if (idx === chosenIndex) { btn.classList.add('cw-is-wrong'); } }); if (isCorrect &#038;&#038; !reduceMotion) { spawnConfetti(optionsHost, buttons[q.quiz.correctIndex]); } var feedbackText = qs('#cw-modal-feedback-text'); feedbackText.textContent = isCorrect ? q.quiz.feedbackCorrect : q.quiz.feedbackWrong; feedbackText.hidden = false; var quizEl = qs('#cw-modal-quiz'); var revealEl = qs('#cw-modal-reveal'); var revealNow = function () { quizEl.hidden = true; quizEl.classList.remove('cw-is-leaving'); qs('#cw-modal-image').hidden = true; revealEl.classList.add('cw-is-entering'); revealEl.hidden = false; window.requestAnimationFrame(function () { revealEl.classList.remove('cw-is-entering'); }); qs('#cw-modal-next').focus({ preventScroll: true }); }; if (reduceMotion) { quizEl.hidden = true; qs('#cw-modal-image').hidden = true; revealEl.hidden = false; } else { window.setTimeout(function () { quizEl.classList.add('cw-is-leaving'); window.setTimeout(revealNow, 250); }, 900); } } function goToNextQuestion() { var nextIndex = quizState.index + 1; if (nextIndex >= CW_CONTENT.questions.length) {\n      showCongrats();\n      return;\n    }\n    renderQuestion(nextIndex);\n  }</p>\n<p>  function showCongrats() {\n    var revealEl = qs('#cw-modal-reveal');\n    var congratsEl = qs('#cw-modal-congrats');</p>\n<p>    qs('#cw-modal-congrats-heading').textContent = CW_CONTENT.page.congratsHeading;\n    qs('#cw-modal-congrats-teaser').textContent = CW_CONTENT.page.congratsTeaser;\n    qs('#cw-modal-coupon-cta').textContent = CW_CONTENT.page.couponCtaLabel;\n    qs('#cw-modal-image').hidden = true;\n    qs('#cw-modal-title').textContent = '';\n    qs('#cw-modal-number').textContent = '';\n    qs('#cw-modal-stats').hidden = true;</p>\n<p>    var finish = function () {\n      revealEl.hidden = true;\n      revealEl.classList.remove('cw-is-leaving');\n      congratsEl.hidden = false;\n      congratsEl.classList.add('cw-is-entering');\n      window.requestAnimationFrame(function () {\n        congratsEl.classList.remove('cw-is-entering');\n      });\n      qs('#cw-modal-coupon-cta').focus({ preventScroll: true });\n      qs('#cw-modal').scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth', block: 'start' });\n    };</p>\n<p>    if (reduceMotion) {\n      finish();\n    } else {\n      revealEl.classList.add('cw-is-leaving');\n      window.setTimeout(finish, 250);\n    }\n  }</p>\n<p>  function revealCoupon(triggerBtn) {\n    var p = CW_CONTENT.page;\n    var couponEl = qs('#cw-modal-coupon');</p>\n<p>    qs('#cw-modal-coupon-code').textContent = p.couponCode;\n    qs('#cw-modal-coupon-note').textContent = p.couponNote;\n    qs('#cw-modal-coupon-copy').textContent = p.couponCopyLabel;</p>\n<p>    var bookBtn = qs('#cw-modal-coupon-book');\n    bookBtn.textContent = p.closingButton;\n    bookBtn.href = p.closingButtonUrl && p.closingButtonUrl.length ? p.closingButtonUrl : '#';</p>\n<p>    if (!reduceMotion) {\n      spawnConfetti(qs('#cw-modal-congrats'), triggerBtn);\n    }</p>\n<p>    triggerBtn.hidden = true;\n    couponEl.hidden = false;\n    couponEl.classList.add('cw-is-entering');\n    window.requestAnimationFrame(function () {\n      couponEl.classList.remove('cw-is-entering');\n    });\n  }</p>\n<p>  function copyCoupon() {\n    var p = CW_CONTENT.page;\n    var btn = qs('#cw-modal-coupon-copy');\n    var done = function () {\n      btn.textContent = p.couponCopiedLabel;\n      window.setTimeout(function () {\n        btn.textContent = p.couponCopyLabel;\n      }, 1800);\n    };\n    if (navigator.clipboard && navigator.clipboard.writeText) {\n      navigator.clipboard.writeText(p.couponCode).then(done, done);\n    } else {\n      done();\n    }\n  }</p>\n<p>  function closeModal() {\n    var modal = qs('#cw-modal');\n    modal.classList.remove('cw-is-open');\n    document.removeEventListener('keydown', onModalKeydown, true);</p>\n<p>    var finish = function () {\n      modal.hidden = true;\n      qs('#cw-quiz-start-btn').hidden = false;\n      qs('#cw-quiz-teaser').hidden = false;\n      if (lastFocusedTrigger) {\n        lastFocusedTrigger.focus({ preventScroll: true });\n      }\n    };</p>\n<p>    quizState.isRunning = false;</p>\n<p>    if (reduceMotion) {\n      finish();\n    } else {\n      window.setTimeout(finish, 260);\n    }\n  }</p>\n<p>  function onModalKeydown(evt) {\n    if (evt.key === 'Escape' || evt.key === 'Esc') {\n      evt.preventDefault();\n      closeModal();\n    }\n  }</p>\n<p>  /* חשוב &mdash; Event Delegation:\n     כל הלחיצות (סגירה, \"בואו נתחיל!\", \"לשאלה הבאה\", חשיפת הקופון,\n     העתקת הקוד) מנוהלות דרך מאזין אחד על ה-document, ולא דרך חיבור\n     ישיר לכל כפתור בנפרד. הסיבה: בתוך Elementor/וורדפרס יש לפעמים\n     טעינה דחויה (lazy load) של ווידג'טים, בנייה מחדש של ה-DOM על ידי\n     תוספי קאש/אופטימיזציה, או עיתוי ריצה שונה מהצפוי &mdash; ואם הסקריפט\n     מנסה \"לתפוס\" כפתור ספציפי לפני שהוא קיים, ה-addEventListener\n     פשוט לא נתפס והכפתור נשאר \"מת\". עם delegation, גם אם הכפתור\n     מתעדכן/נבנה מחדש אחרי הריצה הראשונית, הלחיצה עדיין נתפסת נכון\n     כי המאזין יושב ברמת ה-document ובודק בכל קליק \"האם זו הלחיצה\n     שמעניינת אותי\" (closest). */\n  function initModalEvents() {\n    document.addEventListener('click', function (evt) {\n      var target = evt.target;</p>\n<p>      var closeBtn = target.closest('#cw-modal-close');\n      if (closeBtn) {\n        closeModal();\n        return;\n      }</p>\n<p>      var startBtn = target.closest('#cw-quiz-start-btn');\n      if (startBtn) {\n        startQuiz(startBtn);\n        return;\n      }</p>\n<p>      var nextBtn = target.closest('#cw-modal-next');\n      if (nextBtn) {\n        goToNextQuestion();\n        return;\n      }</p>\n<p>      var couponCtaBtn = target.closest('#cw-modal-coupon-cta');\n      if (couponCtaBtn) {\n        revealCoupon(couponCtaBtn);\n        return;\n      }</p>\n<p>      var copyBtn = target.closest('#cw-modal-coupon-copy');\n      if (copyBtn) {\n        copyCoupon();\n        return;\n      }\n    });</p>\n<p>    var touchStartX = null;\n    document.addEventListener('touchstart', function (evt) {\n      if (!evt.target.closest('#cw-modal')) return;\n      touchStartX = evt.touches[0].clientX;\n    }, { passive: true });\n    document.addEventListener('touchend', function (evt) {\n      if (touchStartX === null) return;\n      if (!evt.target.closest('#cw-modal')) { touchStartX = null; return; }\n      var deltaX = evt.changedTouches[0].clientX - touchStartX;\n      touchStartX = null;\n      var revealEl = qs('#cw-modal-reveal');\n      if (deltaX < -60 &#038;&#038; quizState.answered &#038;&#038; revealEl &#038;&#038; !revealEl.hidden) {\n        goToNextQuestion();\n      }\n    }, { passive: true });\n  }\n\n  /* ---------------------------------------------------------------------\n     Init &mdash; רץ מיד, כי בתוך ווידג'ט HTML של Elementor הסקריפט מגיע\n     אחרי שה-DOM שלו כבר קיים בעמוד (אין צורך להמתין ל-DOMContentLoaded,\n     אבל שומרים גם fallback ליתר ביטחון).\n\n     חשוב: initModalEvents() (שמחבר את הכפתור \"בואו נתחיל!\" ואת שאר\n     האינטראקציות) רץ ב-try/catch נפרד מ-initStaticText(), כדי שאם\n     משהו נכשל בעדכון הטקסטים (למשל בגלל שינוי מבני שנעשה לתוכן ב-\n     Elementor/וורדפרס) זה לא יעצור את שאר הסקריפט ולא ימנע מהכפתורים\n     לעבוד. כל שגיאה תודפס ל-console לצורך דיבוג, במקום להיבלע בשקט.\n     --------------------------------------------------------------------- */\n  function cwqInit() {\n    var root = document.querySelector('.cw-questions-page');\n    if (!root || root.dataset.cwqInitialized === 'true') return;\n    root.dataset.cwqInitialized = 'true';\n\n    try {\n      initStaticText();\n    } catch (err) {\n      if (window.console &#038;&#038; console.error) {\n        console.error('[cw-questions-page] שגיאה בטעינת טקסטים סטטיים:', err);\n      }\n    }\n\n    try {\n      initModalEvents();\n    } catch (err) {\n      if (window.console &#038;&#038; console.error) {\n        console.error('[cw-questions-page] שגיאה בחיבור אירועי המודל/כפתורים:', err);\n      }\n    }\n  }\n\n  if (document.readyState === 'loading') {\n    document.addEventListener('DOMContentLoaded', cwqInit, { once: true });\n  } else {\n    cwqInit();\n  }\n\n  /* פולבאק נוסף: אם מסיבה כלשהי (למשל תוסף Delay JS ב-WordPress ששינה\n     את סדר/עיתוי הריצה) cwqInit לא רץ עדיין עד ל-load המלא של העמוד,\n     ננסה שוב כאן. מוגן על ידי data-cwq-initialized כך שלא ירוץ פעמיים. */\n  window.addEventListener('load', cwqInit);\n\n  /* רשת ביטחון נוספת אחרונה: חשיפה גלובלית שנקראת ישירות מה-onclick שעל\n     כפתור \"בואו נתחיל!\" בעצמו (raו-tag בה-HTML). הדבר הזה עובד גם אם\n     מסיבה כלשהי הסקריפט הראשי (IIFE) לא רץ בכלל (נחסם על ידי wpautop/תוסף\n     שמצנצר תוכן, או שה-widget נטען ב-lazy load והסקריפט רץ לפני שה-DOM קיים), כיון\n     שהוא מחובר ישירות לכפתור דרך המאפיין attribute (בלי תלות ב-JS הפנימי). */\n  window.cwqStartQuizFallback = function (btnEl) {\n    try {\n      if (!document.querySelector('.cw-questions-page').dataset.cwqInitialized) {\n        cwqInit();\n      }\n      startQuiz(btnEl);\n    } catch (err) {\n      if (window.console &#038;&#038; console.error) {\n        console.error('[cw-questions-page] שגיאה ב-fallback של כפתור \"בואו נתחיל!\":', err);\n      }\n    }\n  };\n\n})();</script>"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/loader.gif",
+      "alt": "",
+      "width": 500,
+      "height": 223
+    },
+    {
+      "type": "cta",
+      "text": "✕",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "היי! כאן הצב על הקו, איך אפשר לעזור?"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://backend.chatbase.co/storage/v1/object/public/chat-icons/4a2b9ace-2b3e-43c3-a2d2-a4cd539125cd/IMvz_3tPuoquPeC5bnwkE.jpg",
+      "alt": "צב על הקו",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "iframe",
+      "src": "https://12949398.fls.doubleclick.net/activityi;src=12949398;type=invmedia;cat=coral0;rcb=10;ord=5991066852887;npa=0;auiddc=1919266235.1791095297;uaa=x86;uab=64;uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69u2v9181812485z89225483744za20gzb9225483744zd9225483744xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938465~115938468~118897920~118897930~120213116~120385423~120469145~120469153;epver=2;dc_random=1791095319_CwTy69Z3QoEYAvy7qNEkxuZpSxsX4Hb3mg;_dc_test=1;~oref=https%3A%2F%2Fcoralworld.co.il%2F%25D7%25A9%25D7%2590%25D7%259C%25D7%2595%25D7%25AA-%25D7%2595%25D7%25AA%25D7%25A9%25D7%2595%25D7%2591%25D7%2595%25D7%25AA%2F?",
+      "title": null
+    },
+    {
+      "type": "iframe",
+      "src": "https://coralworld.co.il/%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%95%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA/",
+      "title": "צב על הקו"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A9%D7%90%D7%9C%D7%95%D7%AA-%D7%95%D7%AA%D7%A9%D7%95%D7%91%D7%95%D7%AA/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f0b9d4109-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

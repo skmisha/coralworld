@@ -1,0 +1,485 @@
+{
+  "source": "https://coralworld.co.il/%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%9D-%D7%9E%D7%9F-%D7%94%D7%90%D7%97%D7%93/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.827Z",
+  "seo": {
+    "title": "טובים השניים מן האחד | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "טובים השניים מן האחד | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/",
+      "twitter:card": "summary",
+      "twitter:title": "טובים השניים מן האחד | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#article",
+            "name": "טובים השניים מן האחד | המצפה התת ימי",
+            "headline": "טובים השניים מן האחד",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/נקאי-גדול-מקודד.jpg",
+              "width": 788,
+              "height": 517,
+              "caption": "דג הנקאי – Labroides dimidiatus"
+            },
+            "datePublished": "2020-06-11T17:21:15+03:00",
+            "dateModified": "2022-07-07T13:11:33+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#listItem",
+                  "name": "טובים השניים מן האחד"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#listItem",
+                "position": 3,
+                "name": "טובים השניים מן האחד",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#webpage",
+            "url": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/",
+            "name": "טובים השניים מן האחד | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/נקאי-גדול-מקודד.jpg",
+              "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#mainImage",
+              "width": 788,
+              "height": 517,
+              "caption": "דג הנקאי – Labroides dimidiatus"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/#mainImage"
+            },
+            "datePublished": "2020-06-11T17:21:15+03:00",
+            "dateModified": "2022-07-07T13:11:33+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "טובים השניים מן האחד"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/",
+    "x-default": "https://coralworld.co.il/%d7%98%d7%95%d7%91%d7%99%d7%9d-%d7%94%d7%a9%d7%a0%d7%99%d7%99%d7%9d-%d7%9e%d7%9f-%d7%94%d7%90%d7%97%d7%93/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A0%D7%A7%D7%90%D7%99-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "דג הנקאי – Labroides dimidiatus",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "טובים השניים מן האחד"
+    },
+    {
+      "type": "paragraph",
+      "text": "דג הנקאי – Labroides dimidiatus",
+      "html": "דג הנקאי – Labroides dimidiatus"
+    },
+    {
+      "type": "paragraph",
+      "text": "העולם התת ימי משופע בפלאים שונים וייחודיים. תופעת דג הנקאי היא תוצר של סימביוזה (חיי שיתוף), המאפיינת יותר לדעתי את החיים מתחת למים. טובים השניים מן האחד. אין אנו יודעים בוודאות כיצד החל דג הנקאי לנקות ולטפח את מטופליו, אך אנו בטוחים כי תקרית חד פעמית לפני מיליוני שנים היא הבסיס לתופעת דג הנקאי. דג הנקאי, ממשפחת השפתוניים, כגודל אחת מאצבעותינו, בעל גוף בהיר ופס כהה לאורך גופו הוא אחד הדגים המעניינים אך גם מהממזריים בשונית. אם מזדמן לכם באחת הצלילות להיתקל בהתקהלות דגים מסביב לאזור מסוים בשונית, כנראה שהגעתם לתחנת ניקוי. בתחנת הניקוי הנקאי מנקה ומטפח מטופלים בעזרת פיו המותאם לתלישה מבוקרת של טפילים ועיניים חדות המסוגלות לאתר גם את הטפילים הקטנים ביותר. טפילים: סרטנים מיקרוסקופיים בעלי שריון ויכולת למצוץ דם. בכל תחנת ניקוי ניתן למצוא עד זוג נקאים, אך באזורים בעלי צפיפות יתכן ובכל תחנה מספר הנקאים ישתנה. הנקאי מזמין את מטופליו לתחנה ע\"י ריקוד המסמן לכל הדגים את כוונותיו ואמינותו של השירות אותו הוא מציע. השירות כולל הוצאת טפילים, סידור קשקשים, הורדת עור פגום והוצאת שאריות אוכל מבין השיניים. מרגע תחילת הניקוי, מאותת הנקאי ע\"י ריקוד כי התחנה פתוחה, נאספים הדגים ולא פעם ניתן לראות המתנה בתור. בהגיעו לתחילת התור לא פעם מסמן המטופל לנקאי את האזור הנגוע ע\"י הרמת סנפיר, סיבוב זנב, פתיחת פה…. . הדגים הטורפים אינם מחכים בתור, עם הגעתם מתפזר התור כולל המטופל ובמרץ יוצא הנקאי \"לקליינט החדש\" כאן אנו עדים למראה מרהיב בו נכנס ויוצא ללא פחד הנקאי לתוך פיו הגדול של הטורף ומוציא ממנו שאריות אוכל. תהליך זה נקרא סימביוזה: על שום הקשר בו שיתוף בין שני בעלי חיים המרוויחים מקשר זה. נקאים מרוויחים מקשר זה מזון והגנה. מזונו של הנקאי הוא אותם טפילים, שאריות אוכל, פיסות עור פגומות אותם בעצם הוא מסיר מגופם של מטופליו. טפילים אלו קטנים וממחקרים שנעשו נמצא שנקאי ניזון מעד-1200 טפילים ביום. בתמורה לשירות זה מקבל הגנה מפני טורפים. תופעה נוספת היא החיקוי. דג החקאי מנצל את דמיונו לדג הנקאי ומקים תחנת ניקוי מדומה. ע\"י תנועות ריקוד זהות החקאי מזמין את הדגים לניקוי. הדגים אשר מורגלים בשגרת הניקוי מוסרים עצמם לחקאי לטיפול. החקאי מנצל את חוסר זהירותם ונוגס נתח הגון מבשרם ובורח לתוך השונית. זוהי אחת הסיבות לחששם של דגים מנקאים חדשים ותחנות ניקוי לא מוכרות. עם פתיחת תחנה חדשה מתחיל הנקאי את ריקודו במרץ ומכריז על הימצאותו בשחייה מרהיבה \"הנקאי כאן\". דגי השונית מתקבצים אך אינם ניגשים לניקוי ומחכים לאותו \"אמיץ\" אשר ייגש לבחון/להתנקות ראשון. הנקאי יודע שסיפוקו של המטופל הראשון יבטיח לעצמו עבודה (מזון). אך זוהי לא הסיבה היחידה. ידועה העובדה כי דגי הנקאי מרמים לפעמים. מה קורה ואין טפילים על הדגים? הנקאי נישאר רעב? לא בדיוק ידוע כי דגי נקאי מרמים מטופליהם במצבים בהם הם רעבים, ע\"י נגיסה של בשר מהדגים. הנקאים עושים זאת בחוכמה ולעולם לא ירמו כשיש תור בתחנה, ע\"מ למנוע בריחת המטופלים. מי מנקה את הנקאים? הנקאים מנקים האחד את השני. פעילות הניקוי אינה מוגבלת לנקאי ולדגים בלבד. ישנם סרטנים ארוכי בטן בני כמה סוגים המבצעים עבודתם כדג הנקאי בסילוק טפילים. כמו כן ישנם כמה מיני דגים אשר בצעירותם משמשים כנקאים ומכך מבטיחים הישרדותם. הנקאים מצביעים על קשר התנהגותי היכול להתפתח בין מספר רב של מינים וליצור התנהגות משותפת נרחבת המאפשרת לשותפים לחיות בצורה טובה יותר ביחד. יכולתם המופלאה של הנקאים להסתדר ולחיות בהרמוניה עם מגוון גדול מדגי השונית מצביע על קשריו החברתיים המוצלחים. בשונית בריאה מספר תחנות הניקוי גדולות ופעילות ללא הפסק. בצלילותיי האחרונות במפרץ אילת, אני עד להתמעטות תחנות הניקוי בשונית. הסיבה לירידת מספר תחנות הניקוי היא עקב התמעטות הדגים בשונית. שוב ושוב אנו עדים לפגיעות וזיהומים מגורמים שונים הפוגעים במפרץ ובחיים הקסומים מתחת למים ללא אבחנה. עתיד מפרץ אילת והחיים בו תלוי בנו בני האדם. רק על ידי עבודה משותפת בין הגורמים השונים ואכיפת החוקים נצליח לשמור על מפרץ אילת לדורות הבאים.",
+      "html": "העולם התת ימי משופע בפלאים שונים וייחודיים. תופעת דג הנקאי היא תוצר של סימביוזה (חיי שיתוף), המאפיינת יותר לדעתי את החיים מתחת למים. טובים השניים מן האחד.<br> אין אנו יודעים בוודאות כיצד החל דג הנקאי לנקות ולטפח את מטופליו, אך אנו בטוחים כי תקרית חד פעמית לפני מיליוני שנים היא הבסיס לתופעת דג הנקאי.<br> דג הנקאי, ממשפחת השפתוניים, כגודל אחת מאצבעותינו, בעל גוף בהיר ופס כהה לאורך גופו הוא אחד הדגים המעניינים אך גם מהממזריים בשונית.<br> אם מזדמן לכם באחת הצלילות להיתקל בהתקהלות דגים מסביב לאזור מסוים בשונית, כנראה שהגעתם לתחנת ניקוי. בתחנת הניקוי הנקאי מנקה ומטפח מטופלים בעזרת פיו המותאם לתלישה מבוקרת של טפילים ועיניים חדות המסוגלות לאתר גם את הטפילים הקטנים ביותר. טפילים: סרטנים מיקרוסקופיים בעלי שריון ויכולת למצוץ דם.<br> בכל תחנת ניקוי ניתן למצוא עד זוג נקאים, אך באזורים בעלי צפיפות יתכן ובכל תחנה מספר הנקאים ישתנה. הנקאי מזמין את מטופליו לתחנה ע\"י ריקוד המסמן לכל הדגים את כוונותיו ואמינותו של השירות אותו הוא מציע. השירות כולל הוצאת טפילים, סידור קשקשים, הורדת עור פגום והוצאת שאריות אוכל מבין השיניים.<br> מרגע תחילת הניקוי, מאותת הנקאי ע\"י ריקוד כי התחנה פתוחה, נאספים הדגים ולא פעם ניתן לראות המתנה בתור. בהגיעו לתחילת התור לא פעם מסמן המטופל לנקאי את האזור הנגוע ע\"י הרמת סנפיר, סיבוב זנב, פתיחת פה…. .<br> הדגים הטורפים אינם מחכים בתור, עם הגעתם מתפזר התור כולל המטופל ובמרץ יוצא הנקאי \"לקליינט החדש\" כאן אנו עדים למראה מרהיב בו נכנס ויוצא ללא פחד הנקאי לתוך פיו הגדול של הטורף ומוציא ממנו שאריות אוכל.<br> תהליך זה נקרא סימביוזה: על שום הקשר בו שיתוף בין שני בעלי חיים המרוויחים מקשר זה. נקאים מרוויחים מקשר זה מזון והגנה. מזונו של הנקאי הוא אותם טפילים, שאריות אוכל, פיסות עור פגומות אותם בעצם הוא מסיר מגופם של מטופליו. טפילים אלו קטנים וממחקרים שנעשו נמצא שנקאי ניזון מעד-1200 טפילים ביום. בתמורה לשירות זה מקבל הגנה מפני טורפים. תופעה נוספת היא החיקוי.<br> דג החקאי מנצל את דמיונו לדג הנקאי ומקים תחנת ניקוי מדומה. ע\"י תנועות ריקוד זהות החקאי מזמין את הדגים לניקוי. הדגים אשר מורגלים בשגרת הניקוי מוסרים עצמם לחקאי לטיפול. החקאי מנצל את חוסר זהירותם ונוגס נתח הגון מבשרם ובורח לתוך השונית. זוהי אחת הסיבות לחששם של דגים מנקאים חדשים ותחנות ניקוי לא מוכרות. עם פתיחת תחנה חדשה מתחיל הנקאי את ריקודו במרץ ומכריז על הימצאותו בשחייה מרהיבה \"הנקאי כאן\". דגי השונית מתקבצים אך אינם ניגשים לניקוי ומחכים לאותו \"אמיץ\" אשר ייגש לבחון/להתנקות ראשון. הנקאי יודע שסיפוקו של המטופל הראשון יבטיח לעצמו עבודה (מזון).<br> אך זוהי לא הסיבה היחידה.<br> ידועה העובדה כי דגי הנקאי מרמים לפעמים.<br> מה קורה ואין טפילים על הדגים? הנקאי נישאר רעב? לא בדיוק<br> ידוע כי דגי נקאי מרמים מטופליהם במצבים בהם הם רעבים, ע\"י נגיסה של בשר מהדגים. הנקאים עושים זאת בחוכמה ולעולם לא ירמו כשיש תור בתחנה, ע\"מ למנוע בריחת המטופלים.<br> מי מנקה את הנקאים?<br> הנקאים מנקים האחד את השני.<br> פעילות הניקוי אינה מוגבלת לנקאי ולדגים בלבד. ישנם סרטנים ארוכי בטן בני כמה סוגים המבצעים עבודתם כדג הנקאי בסילוק טפילים. כמו כן ישנם כמה מיני דגים אשר בצעירותם משמשים כנקאים ומכך מבטיחים הישרדותם.<br> הנקאים מצביעים על קשר התנהגותי היכול להתפתח בין מספר רב של מינים וליצור התנהגות משותפת נרחבת המאפשרת לשותפים לחיות בצורה טובה יותר ביחד.<br> יכולתם המופלאה של הנקאים להסתדר ולחיות בהרמוניה עם מגוון גדול מדגי השונית מצביע על קשריו החברתיים המוצלחים.<br> בשונית בריאה מספר תחנות הניקוי גדולות ופעילות ללא הפסק.<br> בצלילותיי האחרונות במפרץ אילת, אני עד להתמעטות תחנות הניקוי בשונית. הסיבה לירידת מספר תחנות הניקוי היא עקב התמעטות הדגים בשונית.<br> שוב ושוב אנו עדים לפגיעות וזיהומים מגורמים שונים הפוגעים במפרץ ובחיים הקסומים מתחת למים ללא אבחנה. עתיד מפרץ אילת והחיים בו תלוי בנו בני האדם. רק על ידי עבודה משותפת בין הגורמים השונים ואכיפת החוקים נצליח לשמור על מפרץ אילת לדורות הבאים."
+    },
+    {
+      "type": "paragraph",
+      "text": "כתב: אביב לוי – המנהל המדעי של פארק המצפה התת ימי",
+      "html": "כתב: אביב לוי – המנהל המדעי של פארק המצפה התת ימי"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%98%D7%95%D7%91%D7%99%D7%9D-%D7%94%D7%A9%D7%A0%D7%99%D7%99%D7%9D-%D7%9E%D7%9F-%D7%94%D7%90%D7%97%D7%93/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f4015bebc-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

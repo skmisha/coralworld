@@ -1,0 +1,503 @@
+{
+  "source": "https://coralworld.co.il/%D7%A1%D7%95%D7%A1%D7%95%D7%A0%D7%99-%D7%99%D7%9D-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%90%D7%91%D7%95%D7%91%D7%95%D7%A0%D7%99%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.837Z",
+  "seo": {
+    "title": "סוסוני-ים משפחת האבובוניים | המצפה התת ימי",
+    "description": "סוסוני הים הם דגים לכל דבר. במפרץ אילת חיים לפחות 7 סוגים ובעולם כ-200 מינים. הראש דומה לראש של סוס וזה מקור השם סוסון ים בואו ללמוד עוד על עולמם המלהיב!",
+    "canonical": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "סוסוני-ים משפחת האבובוניים | המצפה התת ימי",
+      "og:description": "סוסוני הים הם דגים לכל דבר. במפרץ אילת חיים לפחות 7 סוגים ובעולם כ-200 מינים. הראש דומה לראש של סוס וזה מקור השם סוסון ים בואו ללמוד עוד על עולמם המלהיב!",
+      "og:url": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "סוסוני-ים משפחת האבובוניים | המצפה התת ימי",
+      "twitter:description": "סוסוני הים הם דגים לכל דבר. במפרץ אילת חיים לפחות 7 סוגים ובעולם כ-200 מינים. הראש דומה לראש של סוס וזה מקור השם סוסון ים בואו ללמוד עוד על עולמם המלהיב!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#article",
+            "name": "סוסוני-ים משפחת האבובוניים | המצפה התת ימי",
+            "headline": "סוסוני-ים משפחת האבובוניים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/waterhorse.jpg",
+              "width": 602,
+              "height": 357,
+              "caption": "סוס ים"
+            },
+            "datePublished": "2020-05-27T10:01:03+03:00",
+            "dateModified": "2022-10-06T12:08:30+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#listItem",
+                  "name": "סוסוני-ים משפחת האבובוניים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "סוסוני-ים משפחת האבובוניים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/",
+            "name": "סוסוני-ים משפחת האבובוניים | המצפה התת ימי",
+            "description": "סוסוני הים הם דגים לכל דבר. במפרץ אילת חיים לפחות 7 סוגים ובעולם כ-200 מינים. הראש דומה לראש של סוס וזה מקור השם סוסון ים בואו ללמוד עוד על עולמם המלהיב!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/waterhorse.jpg",
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#mainImage",
+              "width": 602,
+              "height": 357,
+              "caption": "סוס ים"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-05-27T10:01:03+03:00",
+            "dateModified": "2022-10-06T12:08:30+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "סוסוני-ים משפחת האבובוניים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d-%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%90%d7%91%d7%95%d7%91%d7%95%d7%a0%d7%99%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/waterhorse.jpg",
+      "alt": "סוס ים",
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "סוסוני-ים משפחת האבובוניים"
+    },
+    {
+      "type": "paragraph",
+      "text": "סוסוני הים הם דגים לכל דבר. במפרץ אילת חיים לפחות 7 סוגים ובעולם כ-200 מינים. הראש דומה לראש של סוס וזה מקור השם סוסון ים. מבנה גופם מעוטר בחלקם קוצים ובחלקם מכוסה גבשושיות. שלא כמו רוב הדגים, סוסוני הים מכוסים סיבי שלד חיצוני, כשריון שנועד לספק להם הגנה מפני טורפים. פיו חסר שיניים. בגלל מורכבות גופו הוא נחשב לשחיין חלש. סנפירי הגב והחזה, משמשים לשחייתו בים, ואילו הזנב משמש לאחיזה(שוחה בצורה אנכית).",
+      "html": "סוסוני הים הם דגים לכל דבר. במפרץ אילת חיים לפחות 7 סוגים ובעולם כ-200 מינים.<br> הראש דומה לראש של סוס וזה מקור השם <a title=\"סוס ים\" href=\"https://coralworld.co.il/%d7%a1%d7%95%d7%a1%d7%95%d7%a0%d7%99-%d7%99%d7%9d/\">סוסון ים</a>. מבנה גופם מעוטר בחלקם קוצים ובחלקם מכוסה גבשושיות.<br> שלא כמו רוב הדגים, סוסוני הים מכוסים סיבי שלד חיצוני, כשריון שנועד לספק להם הגנה מפני טורפים. פיו חסר שיניים. בגלל מורכבות גופו הוא נחשב לשחיין חלש. סנפירי הגב והחזה, משמשים לשחייתו בים, ואילו הזנב משמש לאחיזה(שוחה בצורה אנכית)."
+    },
+    {
+      "type": "paragraph",
+      "text": "סוסוני הים מסוגלים להחליף צבעים בתוך זמן קצר, מחום צהבהב ועד לצבעים עזים וססגוניים. מטרת שינוי הצבעים היא להתאים את עצמם לסביבה ולסייע להם להסוות את עצמם מפני אויבים. מצוי בעיקר במשטחי עשב ים בו הזרמים חלשים וההסוואה שלהם מפני טורפים מושלמת. גודלם מסנטימטר וחצי ועד ארבעים סנטימטרים. ניזון בעיקר מסרטנים זעירים (פלנקטון) ומחסרי חוליות שאותם הוא שואב בעזרת פיו המוארך. אורך חייהם נע בין 4-2 שנים.",
+      "html": "סוסוני הים מסוגלים להחליף צבעים בתוך זמן קצר, מחום צהבהב ועד לצבעים עזים וססגוניים. מטרת שינוי הצבעים היא להתאים את עצמם לסביבה ולסייע להם להסוות את עצמם מפני אויבים.<br> מצוי בעיקר במשטחי עשב ים בו הזרמים חלשים וההסוואה שלהם מפני טורפים מושלמת.<br> גודלם מסנטימטר וחצי ועד ארבעים סנטימטרים.<br> ניזון בעיקר מסרטנים זעירים (פלנקטון) ומחסרי חוליות שאותם הוא שואב בעזרת פיו המוארך.<br> אורך חייהם נע בין 4-2 שנים."
+    },
+    {
+      "type": "paragraph",
+      "text": "הזכר בהריון בטנו של הזכר עגולה ותפוחה ויש בה כיס. בבטן הנקבה ישנו צינור הטלה. בבוא זמן הרבייה, הזכר מתחיל ב- \"ריקוד\" חיזור להודיע לנקבה שהוא מוכן. בעונת הרבייה, הזכר והנקבה נכרכים זו מסביב לזה. הנקבה מטילה לתוך כיסו של הזכר, והזכר מפרה את הביצים. הזכר מדגיר (כמו באינקובאטור) את הביצים בכיסו, ובזמן הזה ניזונים העוברים מחומרי תזונה (נוטריינטים) שבתוך הביצית.",
+      "html": "הזכר בהריון<br> בטנו של הזכר עגולה ותפוחה ויש בה כיס. בבטן הנקבה ישנו צינור הטלה.<br> בבוא זמן הרבייה, הזכר מתחיל ב- \"ריקוד\" חיזור להודיע לנקבה שהוא מוכן. בעונת הרבייה, הזכר והנקבה נכרכים זו מסביב לזה. הנקבה מטילה לתוך כיסו של הזכר, והזכר מפרה את הביצים.<br> הזכר מדגיר (כמו באינקובאטור) את הביצים בכיסו, ובזמן הזה ניזונים העוברים מחומרי תזונה (נוטריינטים) שבתוך הביצית."
+    },
+    {
+      "type": "paragraph",
+      "text": "לאחר כ- 10 ימים ועד שבועיים , תלוי בטמפרטורת המים, בוקעים מתוך כיס הזכר סוסוני ים בגודל של 1 ס\"מ. הסוסונים יוצאים מתוך כיס הזכר ומתפזרים במים רדודים. צורתם המיוחדת ניכרת כבר בגיל צעיר, פרט לחיידקם הגדל עם הגיל.",
+      "html": "לאחר כ- 10 ימים ועד שבועיים , תלוי בטמפרטורת המים, בוקעים מתוך כיס הזכר סוסוני ים בגודל של 1 ס\"מ. הסוסונים יוצאים מתוך כיס הזכר ומתפזרים במים רדודים.<br> צורתם המיוחדת ניכרת כבר בגיל צעיר, פרט לחיידקם הגדל עם הגיל."
+    },
+    {
+      "type": "paragraph",
+      "text": "בסביבות שוניות אילת ישנם 2 מינים מתוך 7",
+      "html": "בסביבות שוניות אילת ישנם 2 מינים מתוך 7"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. סוסון ים דרבני- המאופיין בכתר בעל ארבעה קוצים בקדקודו. הגוף והראש מכוסים קוצים רבים וחדים. 2. סוסון ים חלק- בעל קוץ אחד המצוי על קדקודו. הגוף ללא קוצים בולטים, אלא חלק פחות או יותר.",
+      "html": "1. סוסון ים דרבני- המאופיין בכתר בעל ארבעה קוצים בקדקודו. הגוף והראש מכוסים קוצים רבים וחדים.<br> 2. סוסון ים חלק- בעל קוץ אחד המצוי על קדקודו. הגוף ללא קוצים בולטים, אלא חלק פחות או יותר."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A1%D7%95%D7%A1%D7%95%D7%A0%D7%99-%D7%99%D7%9D-%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%90%D7%91%D7%95%D7%91%D7%95%D7%A0%D7%99%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f336c7b88-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

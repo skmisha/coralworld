@@ -1,0 +1,961 @@
+{
+  "source": "https://coralworld.co.il/%D7%9E%D7%A4%D7%AA-%D7%94%D7%A4%D7%90%D7%A8%D7%A7/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.834Z",
+  "seo": {
+    "title": "מפה אינטראקטיבית | המצפה התת ימי",
+    "description": "נווטו בפארק המצפה התת ימי באילת באמצעות מפה אינטראקטיבית לנוחותכם! מקווים לראותכם בקרוב בפארק!",
+    "canonical": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "מפה אינטראקטיבית | המצפה התת ימי",
+      "og:description": "נווטו בפארק המצפה התת ימי באילת באמצעות מפה אינטראקטיבית לנוחותכם! מקווים לראותכם בקרוב בפארק!",
+      "og:url": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/",
+      "twitter:card": "summary",
+      "twitter:title": "מפה אינטראקטיבית | המצפה התת ימי",
+      "twitter:description": "נווטו בפארק המצפה התת ימי באילת באמצעות מפה אינטראקטיבית לנוחותכם! מקווים לראותכם בקרוב בפארק!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#listItem",
+                  "name": "מפה אינטראקטיבית"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#listItem",
+                "position": 2,
+                "name": "מפה אינטראקטיבית",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#webpage",
+            "url": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/",
+            "name": "מפה אינטראקטיבית | המצפה התת ימי",
+            "description": "נווטו בפארק המצפה התת ימי באילת באמצעות מפה אינטראקטיבית לנוחותכם! מקווים לראותכם בקרוב בפארק!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/#breadcrumblist"
+            },
+            "datePublished": "2023-08-27T13:24:59+03:00",
+            "dateModified": "2024-01-07T11:20:57+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/",
+    "x-default": "https://coralworld.co.il/%d7%9e%d7%a4%d7%aa-%d7%94%d7%a4%d7%90%d7%a8%d7%a7/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מפת הפארק"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/edited-park-map.jpg",
+      "alt": "",
+      "width": 1360,
+      "height": 808
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1 Xברוכים הבאים לאקווריום המרובעדרך נהדרת להתחיל את ביקורכם בפארק, באקווריום זה תוכלו להתרשם משונית אלמוגים אופיינית בים סוף.",
+        "2 Xשונית ים סוףכאן תוכלו לצפות בהעתק מדויק של שונית מפרץ אילת המדהימה. אקווריום מעגלי עם מושבות אלמוגים מפוארות ודגים מרהיבים ביופיים.",
+        "3 Xסטינג רייבריכת חתולי הים הבוגרים.בבריכה זו תוכלו להצטרף אלינו לצלילת היכרות - דייב אין יחד עם צולל מקצועי, שילווה אתכם לאורך כל ההרפתקה, תצללו להנאתכם, מבעד לזכוכית הגדולה תוכלו לנופף למשפחה שלכם. בתוך המים, בשקט המוחלט, תפגשו עושר בעלי חיים תת ימיים מופלאים ותשחו לצידם כמו צוללים מקצועיים.בהזמנה מראש ובתוספת תשלום.הצלילה מגיל 8 ומעלה",
+        "4 Xבריכות צביםבריכת הצבים מדמה את תנאי הטבע וחיים בה מעל 10 צבים משני סוגים.בשנים האחרונות בקעו בה עשרות צבים, אותם אנו מגדלים ומשחררים לים בבגרותם ובכך תורמים להגדלת אוכלוסיית הצבים, המוגדרים כבעלי חיים מוגנים.",
+        "5 Xבריכת שנירקול בואו להרגיש כמו דגים לפגוש מקרוב את בעלי החיים הימיים ולשחות בין אלמוגים. שנירקול בפארק הוא חוויית אקשן מרתקת שהילדים לא יפסיקו לדבר עליה גם אחרי שהחופשה תסתיים.בהזמנה מראש ובתוספת תשלום.",
+        "6 Xבריכת ליטוף והאכלהמוזמנים לקבל טעימה אינטראקטיבית מהחיים הימיים וליהנות מהאכלה וליטוף של הדגים החיים בה. מבטיחים שילדכם לא ירצו לעזוב אותהניתן להשיג מזון מותאם במזנון הסמוך לבריכה זו (בתשלום נוסף).",
+        "7 Xעולם הכרישיםכאן תפגשו מקרוב את טורפי העל של הים האדום. מתחם הכרישים משתרע על פני 1000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו. כאן, ממרחק נגיעה, תזכו למפגש נדיר ומרגש עם עולמם של כרישים, עטלפי ים, חתולי ים, להקות דגים ואלמוגים.",
+        "8 Xאקווה דום- חדש!! חוויה ויזואלית עוצרת נשימהמפגש מרגש עם עולמו המסתורי של הלוויתן באולם קולנוע יחיד מסוגו בארץ, המאפשר לחוות את עוצמת המפגש עם היונקים הענקיים של הים בגודל מלא, בטכנולוגיית תלת מימד מתקדמת וב 360- מעלות.",
+        "9 Xבריכות הסבר",
+        "10 Xמגדל המצפה התת ימי היחיד מסוגו בעולםבואו לגלות מקרוב את סודות השונית, \"לצלול\" 6 מטרים לעומק הים ולצפות מקרוב במאות מיני דגים, אלמוגים וחסרי חוליות החיים בסביבתם הטבעית.מוזמנים לחוויה נפלאה ויוצאת דופן",
+        "11 Xמרפסת השלוםממעלה המגדל בגובה 23 מטר מעל פני הים, תוכלו להשקיף מ\"מרפסת השלום\" על כל מפרץ אילת וארבע המדינות הסובבות אותו: ישראל, ירדן, ערב הסעודית ומצרים.",
+        "12 Xיצורים ממעמקיםהכירו בעלי חיים ימיים שאפילו צוללים מנוסים לא פוגשים! יצורים מעוררי פליאה החיים בעומקים של מאות מטרים, בחושך מוחלט ותועדו בסרטונים נדירים שצולמו באמצעות צוללות מיוחדות ורובוטים משוכללים. התצוגה חושפת את פניו האמיתיות של עומק הים ואת האוצרות המרהיבים המצויים רק שם.",
+        "13 Xסודות הפניניםפעילות קסומה המתקיימת בחנות התכשיטים ובה תוכלו להתרשם מפנינים המוסרות מצדפות. באותה הזדמנות תוכלו להתרשם מהתכשיטים שלנו ולרכוש לעצמכם תכשיט ייחודי.",
+        "14 Xאקווריום דגים נדיריםמתחם ובו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים נדירים ויפהפים, אלמוגים ובעלי חיים מופלאים.הסיור במתחם יאפשר לכם להכיר דגים צבעוניים עם סיפורים מרתקים, טורפים ערמומיים, חסרי חוליות יפהפיים, וגם - לצפות ב\"מופע\" מדוזות מהפנט ובתצוגת חושך החושפת שפע נסתר וססגוני של בעלי חיים זוהרים.",
+        "15 Xמרכז חינוכיבמרכז החינוכי אנו מקיימים הרצאות ומפגשי לימוד רבים.תוכלו לצפות בפרויקטים של שיקום אלמוגים וסוסוני ים",
+        "16 Xשייט בקורל 2000מוזמנים לצאת איתנו לשייט מרתק אל שמורת האלמוגים והגנים היפנים הקסומים בסירת זכוכית עמוקה עם חלונות תת ימיים, מהם תוכלו להשקיף אל פלאי הים האדום - דגים נדירים, מושבות אלמוגים ובעלי חיים מופלאים."
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "1",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "ברוכים הבאים לאקווריום המרובע",
+      "html": "<strong>ברוכים הבאים לאקווריום המרובע</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "דרך נהדרת להתחיל את ביקורכם בפארק, באקווריום זה תוכלו להתרשם משונית אלמוגים אופיינית בים סוף.",
+      "html": "דרך נהדרת להתחיל את ביקורכם בפארק, באקווריום זה תוכלו להתרשם משונית אלמוגים אופיינית בים סוף."
+    },
+    {
+      "type": "cta",
+      "text": "2",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "שונית ים סוף",
+      "html": "<strong>שונית ים סוף</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "כאן תוכלו לצפות בהעתק מדויק של שונית מפרץ אילת המדהימה. אקווריום מעגלי עם מושבות אלמוגים מפוארות ודגים מרהיבים ביופיים.",
+      "html": "כאן תוכלו לצפות בהעתק מדויק של שונית מפרץ אילת המדהימה.<br> אקווריום מעגלי עם מושבות אלמוגים מפוארות ודגים מרהיבים ביופיים."
+    },
+    {
+      "type": "cta",
+      "text": "3",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "סטינג ריי",
+      "html": "<strong>סטינג ריי</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "בריכת חתולי הים הבוגרים.",
+      "html": "בריכת חתולי הים הבוגרים."
+    },
+    {
+      "type": "paragraph",
+      "text": "בבריכה זו תוכלו להצטרף אלינו לצלילת היכרות - דייב אין יחד עם צולל מקצועי, שילווה אתכם לאורך כל ההרפתקה, תצללו להנאתכם, מבעד לזכוכית הגדולה תוכלו לנופף למשפחה שלכם. בתוך המים, בשקט המוחלט, תפגשו עושר בעלי חיים תת ימיים מופלאים ותשחו לצידם כמו צוללים מקצועיים.",
+      "html": "<strong>בבריכה זו תוכלו להצטרף אלינו לצלילת היכרות - דייב אין&nbsp;</strong><br> יחד עם צולל מקצועי, שילווה אתכם לאורך כל ההרפתקה, תצללו להנאתכם, מבעד לזכוכית הגדולה תוכלו לנופף למשפחה שלכם.<br> בתוך המים, בשקט המוחלט, תפגשו עושר בעלי חיים תת ימיים מופלאים ותשחו לצידם כמו צוללים מקצועיים."
+    },
+    {
+      "type": "paragraph",
+      "text": "בהזמנה מראש ובתוספת תשלום.",
+      "html": "בהזמנה מראש ובתוספת תשלום."
+    },
+    {
+      "type": "paragraph",
+      "text": "הצלילה מגיל 8 ומעלה",
+      "html": "הצלילה מגיל 8 ומעלה"
+    },
+    {
+      "type": "cta",
+      "text": "4",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "בריכות צבים",
+      "html": "<strong>בריכות צבים</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "בריכת הצבים מדמה את תנאי הטבע וחיים בה מעל 10 צבים משני סוגים.",
+      "html": "בריכת הצבים מדמה את תנאי הטבע וחיים בה מעל 10 צבים משני סוגים."
+    },
+    {
+      "type": "paragraph",
+      "text": "בשנים האחרונות בקעו בה עשרות צבים, אותם אנו מגדלים ומשחררים לים בבגרותם ובכך תורמים להגדלת אוכלוסיית הצבים, המוגדרים כבעלי חיים מוגנים.",
+      "html": "בשנים האחרונות בקעו בה עשרות צבים, אותם אנו מגדלים ומשחררים לים בבגרותם ובכך תורמים להגדלת אוכלוסיית הצבים, המוגדרים כבעלי חיים מוגנים."
+    },
+    {
+      "type": "cta",
+      "text": "5",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "בריכת שנירקול",
+      "html": "<strong><span dir=\"RTL\" lang=\"HE\">בריכת שנירקול </span></strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "בואו להרגיש כמו דגים לפגוש מקרוב את בעלי החיים הימיים ולשחות בין אלמוגים. שנירקול בפארק הוא חוויית אקשן מרתקת שהילדים לא יפסיקו לדבר עליה גם אחרי שהחופשה תסתיים.",
+      "html": "<span dir=\"RTL\" lang=\"HE\">בואו להרגיש כמו דגים</span><br> <span dir=\"RTL\" lang=\"HE\">לפגוש מקרוב את בעלי החיים הימיים ולשחות בין אלמוגים</span>.<br> <span dir=\"RTL\" lang=\"HE\">שנירקול בפארק הוא חוויית אקשן מרתקת שהילדים לא יפסיקו לדבר עליה גם אחרי שהחופשה תסתיים</span>."
+    },
+    {
+      "type": "paragraph",
+      "text": "בהזמנה מראש ובתוספת תשלום.",
+      "html": "<span dir=\"RTL\" lang=\"HE\">בהזמנה מראש ובתוספת תשלום</span>."
+    },
+    {
+      "type": "cta",
+      "text": "6",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "בריכת ליטוף והאכלה",
+      "html": "<strong><span dir=\"RTL\" lang=\"HE\">בריכת ליטוף והאכלה</span></strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "מוזמנים לקבל טעימה אינטראקטיבית מהחיים הימיים וליהנות מהאכלה וליטוף של הדגים החיים בה. מבטיחים שילדכם לא ירצו לעזוב אותה",
+      "html": "<span dir=\"RTL\" lang=\"HE\">מוזמנים לקבל טעימה אינטראקטיבית מהחיים הימיים וליהנות מהאכלה וליטוף של הדגים החיים בה. מבטיחים שילדכם לא ירצו לעזוב אותה</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "ניתן להשיג מזון מותאם במזנון הסמוך לבריכה זו (בתשלום נוסף).",
+      "html": "<span dir=\"RTL\" lang=\"HE\">ניתן להשיג מזון מותאם במזנון הסמוך לבריכה זו (בתשלום נוסף)</span>."
+    },
+    {
+      "type": "cta",
+      "text": "7",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "עולם הכרישים",
+      "html": "<strong>עולם הכרישים</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "כאן תפגשו מקרוב את טורפי העל של הים האדום. מתחם הכרישים משתרע על פני 1000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו. כאן, ממרחק נגיעה, תזכו למפגש נדיר ומרגש עם עולמם של כרישים, עטלפי ים, חתולי ים, להקות דגים ואלמוגים.",
+      "html": "כאן תפגשו מקרוב את טורפי העל של הים האדום.<br> מתחם הכרישים משתרע על פני 1000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו. כאן, ממרחק נגיעה, תזכו למפגש נדיר ומרגש עם עולמם של כרישים, עטלפי ים, חתולי ים, להקות דגים ואלמוגים."
+    },
+    {
+      "type": "cta",
+      "text": "8",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "אקווה דום- חדש!! חוויה ויזואלית עוצרת נשימה",
+      "html": "אקווה דום- חדש!!<br> חוויה ויזואלית עוצרת נשימה"
+    },
+    {
+      "type": "paragraph",
+      "text": "מפגש מרגש עם עולמו המסתורי של הלוויתן באולם קולנוע יחיד מסוגו בארץ, המאפשר לחוות את עוצמת המפגש עם היונקים הענקיים של הים בגודל מלא, בטכנולוגיית תלת מימד מתקדמת וב 360- מעלות.",
+      "html": "מפגש מרגש עם עולמו המסתורי של הלוויתן באולם קולנוע יחיד מסוגו בארץ, המאפשר לחוות את עוצמת המפגש עם היונקים הענקיים של הים בגודל מלא, בטכנולוגיית תלת מימד מתקדמת וב 360- מעלות."
+    },
+    {
+      "type": "cta",
+      "text": "9",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "בריכות הסבר",
+      "html": "<strong>בריכות הסבר</strong>"
+    },
+    {
+      "type": "cta",
+      "text": "10",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "מגדל המצפה התת ימי היחיד מסוגו בעולם",
+      "html": "<strong>מגדל המצפה התת ימי היחיד מסוגו בעולם</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "בואו לגלות מקרוב את סודות השונית, \"לצלול\" 6 מטרים לעומק הים ולצפות מקרוב במאות מיני דגים, אלמוגים וחסרי חוליות החיים בסביבתם הטבעית.",
+      "html": "בואו לגלות מקרוב את סודות השונית, \"לצלול\" 6 מטרים לעומק הים ולצפות מקרוב במאות מיני דגים, אלמוגים וחסרי חוליות החיים בסביבתם הטבעית."
+    },
+    {
+      "type": "paragraph",
+      "text": "מוזמנים לחוויה נפלאה ויוצאת דופן",
+      "html": "מוזמנים לחוויה נפלאה ויוצאת דופן"
+    },
+    {
+      "type": "cta",
+      "text": "11",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "מרפסת השלום",
+      "html": "<strong>מרפסת השלום</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "ממעלה המגדל בגובה 23 מטר מעל פני הים, תוכלו להשקיף מ\"מרפסת השלום\" על כל מפרץ אילת וארבע המדינות הסובבות אותו: ישראל, ירדן, ערב הסעודית ומצרים.",
+      "html": "ממעלה המגדל בגובה 23 מטר מעל פני הים, תוכלו להשקיף מ\"מרפסת השלום\" על כל מפרץ אילת וארבע המדינות הסובבות אותו: ישראל, ירדן, ערב הסעודית ומצרים."
+    },
+    {
+      "type": "cta",
+      "text": "12",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "יצורים ממעמקים",
+      "html": "<strong>יצורים ממעמקים</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "הכירו בעלי חיים ימיים שאפילו צוללים מנוסים לא פוגשים! יצורים מעוררי פליאה החיים בעומקים של מאות מטרים, בחושך מוחלט ותועדו בסרטונים נדירים שצולמו באמצעות צוללות מיוחדות ורובוטים משוכללים. התצוגה חושפת את פניו האמיתיות של עומק הים ואת האוצרות המרהיבים המצויים רק שם.",
+      "html": "הכירו בעלי חיים ימיים שאפילו צוללים מנוסים לא פוגשים!<br> יצורים מעוררי פליאה החיים בעומקים של מאות מטרים, בחושך מוחלט ותועדו בסרטונים נדירים שצולמו באמצעות צוללות מיוחדות ורובוטים משוכללים. התצוגה חושפת את פניו האמיתיות של עומק הים ואת האוצרות המרהיבים המצויים רק שם."
+    },
+    {
+      "type": "cta",
+      "text": "13",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "סודות הפנינים",
+      "html": "<strong>סודות הפנינים</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "פעילות קסומה המתקיימת בחנות התכשיטים ובה תוכלו להתרשם מפנינים המוסרות מצדפות. באותה הזדמנות תוכלו להתרשם מהתכשיטים שלנו ולרכוש לעצמכם תכשיט ייחודי.",
+      "html": "פעילות קסומה המתקיימת בחנות התכשיטים ובה תוכלו להתרשם מפנינים המוסרות מצדפות. באותה הזדמנות תוכלו להתרשם מהתכשיטים שלנו ולרכוש לעצמכם תכשיט ייחודי."
+    },
+    {
+      "type": "cta",
+      "text": "14",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "אקווריום דגים נדירים",
+      "html": "<strong>אקווריום דגים נדירים</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "מתחם ובו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים נדירים ויפהפים, אלמוגים ובעלי חיים מופלאים.",
+      "html": "מתחם ובו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים נדירים ויפהפים, אלמוגים ובעלי חיים מופלאים."
+    },
+    {
+      "type": "paragraph",
+      "text": "הסיור במתחם יאפשר לכם להכיר דגים צבעוניים עם סיפורים מרתקים, טורפים ערמומיים, חסרי חוליות יפהפיים, וגם - לצפות ב\"מופע\" מדוזות מהפנט ובתצוגת חושך החושפת שפע נסתר וססגוני של בעלי חיים זוהרים.",
+      "html": "הסיור במתחם יאפשר לכם להכיר דגים צבעוניים עם סיפורים מרתקים, טורפים<br> ערמומיים, חסרי חוליות יפהפיים, וגם - לצפות ב\"מופע\" מדוזות מהפנט ובתצוגת חושך החושפת שפע נסתר וססגוני של בעלי חיים זוהרים."
+    },
+    {
+      "type": "cta",
+      "text": "15",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "מרכז חינוכי",
+      "html": "<strong>מרכז חינוכי</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "במרכז החינוכי אנו מקיימים הרצאות ומפגשי לימוד רבים.",
+      "html": "במרכז החינוכי אנו מקיימים הרצאות ומפגשי לימוד רבים."
+    },
+    {
+      "type": "paragraph",
+      "text": "תוכלו לצפות בפרויקטים של שיקום אלמוגים וסוסוני ים",
+      "html": "תוכלו לצפות בפרויקטים של שיקום אלמוגים וסוסוני ים"
+    },
+    {
+      "type": "cta",
+      "text": "16",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "שייט בקורל 2000",
+      "html": "<strong>שייט בקורל 2000</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "מוזמנים לצאת איתנו לשייט מרתק אל שמורת האלמוגים והגנים היפנים הקסומים בסירת זכוכית עמוקה עם חלונות תת ימיים, מהם תוכלו להשקיף אל פלאי הים האדום - דגים נדירים, מושבות אלמוגים ובעלי חיים מופלאים.",
+      "html": "מוזמנים לצאת איתנו לשייט מרתק אל שמורת האלמוגים והגנים היפנים הקסומים<br> בסירת זכוכית עמוקה עם חלונות תת ימיים, מהם תוכלו להשקיף אל פלאי הים האדום - דגים נדירים, מושבות אלמוגים ובעלי חיים מופלאים."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/kiosk-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/information-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/photo-store-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/jewelry-store-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/souvenirs-store-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/cafeteria-icon.png",
+      "alt": "",
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/aquadome-3d-1.png",
+      "alt": "",
+      "width": 46,
+      "height": 20
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1האקווריום המרובע",
+        "2שונית אלמוגים ים סוף",
+        "3מערת הסטינג ריי",
+        "4בריכות צבים",
+        "5בריכת שנירקול",
+        "6בריכת ליטוף והאכלה",
+        "7עולם הכרישים",
+        "8אקווה דום",
+        "9בריכות הסבר",
+        "10המצפה התת ימי",
+        "11מרפסת השלום",
+        "12יצורים ממעמקים",
+        "13סודות הפנינים",
+        "14אקווריום דגים נדירים",
+        "15מרכז חינוכי",
+        "16שייט באילת בקורל 2000*"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "1האקווריום המרובע",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "2שונית אלמוגים ים סוף",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "3מערת הסטינג ריי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "4בריכות צבים",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "5בריכת שנירקול",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "6בריכת ליטוף והאכלה",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "7עולם הכרישים",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "8אקווה דום",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "9בריכות הסבר",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "10המצפה התת ימי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "11מרפסת השלום",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "12יצורים ממעמקים",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "13סודות הפנינים",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "14אקווריום דגים נדירים",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "15מרכז חינוכי",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "16שייט באילת בקורל 2000*",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "*בהזמנה מראש ובתוספת תשלום",
+      "html": "<span class=\"star\">*</span><span class=\"desc\">בהזמנה מראש ובתוספת תשלום</span>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מרכז מידע",
+        "קפיטריה",
+        "קיוסק",
+        "חנות תכשיטים",
+        "חנות מזכרות",
+        "חנות צילום"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "למפה המלאה לחץ וסובב את המכשיר",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/rotate-icon-white.jpg",
+      "alt": "אייקון סיבוב",
+      "width": 47,
+      "height": 38
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%9E%D7%A4%D7%AA-%D7%94%D7%A4%D7%90%D7%A8%D7%A7/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1edee51200-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

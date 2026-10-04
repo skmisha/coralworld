@@ -1,0 +1,1624 @@
+{
+  "source": "https://coralworld.co.il/en/visit-park/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.817Z",
+  "seo": {
+    "title": "Park Visit | The Underwater Observatory Tower",
+    "description": "Join us on an amazing journey of discovery at the heart of the Red Sea coral reef, a place full of spectacular fish, coral and marine creatures",
+    "canonical": "https://coralworld.co.il/en/visit-park/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Park Visit | The Underwater Observatory Tower",
+      "og:description": "Join us on an amazing journey of discovery at the heart of the Red Sea coral reef, a place full of spectacular fish, coral and marine creatures",
+      "og:url": "https://coralworld.co.il/en/visit-park/",
+      "twitter:card": "summary",
+      "twitter:title": "Park Visit | The Underwater Observatory Tower",
+      "twitter:description": "Join us on an amazing journey of discovery at the heart of the Red Sea coral reef, a place full of spectacular fish, coral and marine creatures"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/visit-park/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/visit-park/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/visit-park/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/visit-park/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/visit-park/#listItem",
+                  "name": "Park Visit"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/visit-park/#listItem",
+                "position": 2,
+                "name": "Park Visit",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/visit-park/#webpage",
+            "url": "https://coralworld.co.il/en/visit-park/",
+            "name": "Park Visit | The Underwater Observatory Tower",
+            "description": "Join us on an amazing journey of discovery at the heart of the Red Sea coral reef, a place full of spectacular fish, coral and marine creatures",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/visit-park/#breadcrumblist"
+            },
+            "datePublished": "2020-05-26T13:25:05+03:00",
+            "dateModified": "2026-01-08T14:57:50+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [],
+  "alternates": {
+    "he": "https://coralworld.co.il/visit-park/",
+    "en": "https://coralworld.co.il/en/visit-park/",
+    "x-default": "https://coralworld.co.il/visit-park/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/main-banner-compressed-6.jpg",
+      "alt": "",
+      "width": 1920,
+      "height": 810
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Get ready for the experience of a lifetime"
+    },
+    {
+      "type": "paragraph",
+      "text": "Join us on an amazing journey of discovery at the heart of the Red Sea coral reef, a place full of spectacular fish, coral and marine creatures.",
+      "html": "Join us on an amazing journey of discovery at the heart of the Red Sea coral reef, a place full of spectacular fish, coral and marine creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory, is without a doubt, one of the world's most fascinating sites, where you can have the deepest available experience of the Red Sea.",
+      "html": "The Underwater Observatory, is without a doubt, one of the world's most fascinating sites, where you can have the deepest available experience of the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park offers many chances to watch feeding of sea creatures, enjoy rich tutorials and experience the breathtaking underwater world. We are proud to have the famous Observatory Tower, the only one of its kind in the world, which allows you to observe marine life in its natural habitat, without getting wet.",
+      "html": "The Park offers many chances to watch feeding of sea creatures, enjoy rich tutorials and experience the breathtaking underwater world.&nbsp;&nbsp;&nbsp;We are proud to have the famous Observatory Tower, the only one of its kind in the world, which allows you to observe marine life in its natural habitat, without getting wet."
+    },
+    {
+      "type": "paragraph",
+      "text": "Entrance ticket is valid for 3 consecutive days.",
+      "html": "Entrance ticket is valid for 3 consecutive days."
+    },
+    {
+      "type": "paragraph",
+      "text": "Free admission for children under 3 years of age.",
+      "html": "Free admission for children under 3 years of age."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Recommendations for a Perfect Visit"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Take a park map at the entrance and make sure you note down the animal feeding hours.",
+        "Join the Park's ''Challenge of the Deep\" family activity and put yourself in line for a prize. This action-packed activity is filled with quizzes and fun."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "? Questions",
+      "html": "<strong>? </strong>Questions"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park's dedicated team are available to answer anything, well, about marine life in the Red Sea, so please find a guide and get some answers.",
+      "html": "The Park's dedicated team are available to answer anything, well, about marine life in the Red Sea, so please find a guide and get some answers."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How to get here"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/waze.png",
+      "alt": "וויז",
+      "width": 46,
+      "height": 42
+    },
+    {
+      "type": "paragraph",
+      "text": "For arrival by car, type :",
+      "html": "&nbsp;For arrival by car, type :"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"Underwater Observatory Marine Park\" in the Waze App or Google Maps.",
+      "html": "\"<strong>Underwater Observatory Marine Park</strong>\" in the Waze App or Google Maps."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/bus.png",
+      "alt": "אוטובוס",
+      "width": 47,
+      "height": 43
+    },
+    {
+      "type": "paragraph",
+      "text": "For arrival by public transport:",
+      "html": "For arrival by public transport:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Line 15 from Eilat's Central Bus Station",
+      "html": "Line 15 from Eilat's Central Bus Station"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recommendation!",
+      "html": "Recommendation!"
+    },
+    {
+      "type": "paragraph",
+      "text": "During summer, holidays and peak seasons, take public transport as parking is limited.",
+      "html": "During summer, holidays and peak seasons, take public transport as parking is limited."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/moovit.png",
+      "alt": "מוביט",
+      "width": 38,
+      "height": 40
+    },
+    {
+      "type": "cta",
+      "text": "Click for Arrival Map",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "How to get here"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d13889.68558991878!2d34.9191528!3d29.5040739!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x1e108dfe2565a60c!2z16TXkNeo16cg15TXntem16TXlCDXlNeq16og15nXnteZ!5e0!3m2!1siw!2sil!4v1595916558030!5m2!1siw!2sil",
+      "title": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Opening Hours"
+    },
+    {
+      "type": "paragraph",
+      "text": "The park is open 7 days a week, between 9:00-16:00",
+      "html": "The park is open 7 days a week, between 9:00-16:00"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Accessibility"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/accessibility.png",
+      "alt": "נגישות",
+      "width": 35,
+      "height": 47
+    },
+    {
+      "type": "paragraph",
+      "text": "We have made great efforts to make the Park accessible and to ensure a pleasant, friendly and fun experience for all our visitors.",
+      "html": "We have made great efforts to make the Park accessible and to ensure a pleasant, friendly and fun experience for all our visitors."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you need our help, we are at your service!",
+      "html": "If you need our help, we are at your service!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Please contact Hanny Rubin, Accessibility Coordinator",
+      "html": "Please contact Hanny Rubin, Accessibility Coordinator"
+    },
+    {
+      "type": "paragraph",
+      "text": "08-6364215",
+      "html": "08-6364215"
+    },
+    {
+      "type": "paragraph",
+      "text": "hanny@coralworld.com",
+      "html": "<a href=\"mailto:hanny@coralworld.com\">hanny@coralworld.com</a>"
+    },
+    {
+      "type": "cta",
+      "text": "For more info & discounts",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Accessibility"
+    },
+    {
+      "type": "paragraph",
+      "text": "Discounts & Accessibility at the Park Ticket Office",
+      "html": "Discounts &amp; Accessibility at the Park Ticket Office"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Visitors with a Disability Eligible for a 20% discount on park admission tickets upon presentation of a valid disability certificate. Entry to AquaDome and CORAL 2000 activities requires an additional fee.",
+        "Disability Certificate Including “Free Entry for an Escort” Grants the escort free admission to the park upon presentation of the relevant certificate.",
+        "Disability Certificate Including “Queue Exemption” Please approach the security guard at the entrance, who will escort you to an internal ticket counter.",
+        "Holders of a Blind Person Certificate Eligible for a 50% discount on park admission.",
+        "Blind Person Certificate Including “Free Entry for an Escort” Grants the escort free admission to the park upon presentation of the appropriate certificate."
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "* Discounts are available only when purchasing tickets at the park ticket office.",
+      "html": "* Discounts are available only when purchasing tickets at the park ticket office."
+    },
+    {
+      "type": "paragraph",
+      "text": "Accessible Restrooms",
+      "html": "<strong>Accessible Restrooms</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "The park has two accessible restroom facilities, fully compliant with accessibility regulations:",
+      "html": "The park has two accessible restroom facilities, fully compliant with accessibility regulations:"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Near the park entrance (left side)",
+        "Adjacent to the Shark Pool"
+      ]
+    },
+    {
+      "type": "paragraph",
+      "text": "Accessibility Coordinator",
+      "html": "Accessibility Coordinator"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hanny Rubin - 📞 +972-8-636-4215 ✉️ hanny@coralworld.com",
+      "html": "Hanny Rubin -<br> 📞 +972-8-636-4215<br> ✉️ hanny@coralworld.com"
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Jewelry and Souvenir ShopsGifts to treasure!Our souvenir shop offers a variety of sea and holiday inspired gifts and souvenirs, book, games and a selection of exclusive items.The Park has two jewelry shops with a spectacular selection of original and unique jewelry, created by leading Israeli and international artisans.Purchase tickets and activities for over 800 shekels and get free one year entrance pass.To schedule a visit to the Park's jewelry shops only, please call 08-6364225.",
+        "Park RestaurantsDelicious!The Park's restaurant offers a fantastic selection of vegetarian and non-vegetarian meals for children and adults, a range of fresh sandwiches, pizza, ice cream, desserts and refreshing drinks.Then there is also the Park's cafeteria and coffee bar, located on the entrance floor of the Observatory Tower and near the Aqua Dome. Here you can enjoy a variety of light meals, snacks and drinks.Bon Appetite!",
+        "Educational CenterThe David Friedman Educational CenterAt the Underwater Observatory we hope for a future where people protect and advocate for the health of the Red Sea. With this in mind, we created the David Friedman Educational Center.The classroom, established 17 years ago by David Friedman, the park's first scientific director is an interactive and engaging environment for students to learn about the marine life of the Red Sea and how to conserve it.These classes are given for various schools in the city of Eilat and expose the students to the wonders of the Red Sea, while taking part in the restoration of the reef and its surroundings.We believe that our role is to teach our children to respect, understand and love the Red Sea and in these classes children are given the chance to understand conservation projects that takes place in the Underwater Observatory such as: reproduction and rehabilitation project of sea turtles, seahorses and more"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Jewelry and Souvenir Shops"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Gifts to treasure!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Our souvenir shop offers a variety of sea and holiday inspired gifts and souvenirs, book, games and a selection of exclusive items.",
+      "html": "Our souvenir shop offers a variety of sea and holiday inspired gifts and souvenirs, book, games and a selection of exclusive items."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park has two jewelry shops with a spectacular selection of original and unique jewelry, created by leading Israeli and international artisans.",
+      "html": "The Park has two jewelry shops with a spectacular selection of original and unique jewelry, created by leading Israeli and international artisans."
+    },
+    {
+      "type": "paragraph",
+      "text": "Purchase tickets and activities for over 800 shekels and get free one year entrance pass.",
+      "html": "Purchase tickets and activities for over 800 shekels and get free one year entrance pass."
+    },
+    {
+      "type": "paragraph",
+      "text": "To schedule a visit to the Park's jewelry shops only, please call 08-6364225.",
+      "html": "To schedule a visit to the Park's jewelry shops only, please call 08-6364225."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Park Restaurants"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Delicious!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park's restaurant offers a fantastic selection of vegetarian and non-vegetarian meals for children and adults, a range of fresh sandwiches, pizza, ice cream, desserts and refreshing drinks.",
+      "html": "The Park's restaurant offers a fantastic selection of vegetarian and non-vegetarian meals for children and adults, a range of fresh sandwiches, pizza, ice cream, desserts and refreshing drinks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Then there is also the Park's cafeteria and coffee bar, located on the entrance floor of the Observatory Tower and near the Aqua Dome. Here you can enjoy a variety of light meals, snacks and drinks.",
+      "html": "Then there is also the Park's cafeteria and coffee bar, located on the entrance floor of the Observatory Tower and near the Aqua Dome. Here you can enjoy a variety of light meals, snacks and drinks."
+    },
+    {
+      "type": "paragraph",
+      "text": "Bon Appetite!",
+      "html": "<strong>Bon Appetite!</strong>"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Educational Center"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "The David Friedman Educational Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "At the Underwater Observatory we hope for a future where people protect and advocate for the health of the Red Sea. With this in mind, we created the David Friedman Educational Center.",
+      "html": "At the Underwater Observatory we hope for a future where people protect and advocate for the health of the Red Sea. With this in mind, we created the David Friedman Educational Center."
+    },
+    {
+      "type": "paragraph",
+      "text": "The classroom, established 17 years ago by David Friedman, the park's first scientific director is an interactive and engaging environment for students to learn about the marine life of the Red Sea and how to conserve it.",
+      "html": "The classroom, established 17 years ago by David Friedman, the park's first scientific director is an interactive and engaging environment for students to learn about the marine life of the Red Sea and how to conserve it."
+    },
+    {
+      "type": "paragraph",
+      "text": "These classes are given for various schools in the city of Eilat and expose the students to the wonders of the Red Sea, while taking part in the restoration of the reef and its surroundings.",
+      "html": "These classes are given for various schools in the city of Eilat and expose the students to the wonders of the Red Sea, while taking part in the restoration of the reef and its surroundings."
+    },
+    {
+      "type": "paragraph",
+      "text": "We believe that our role is to teach our children to respect, understand and love the Red Sea and in these classes children are given the chance to understand conservation projects that takes place in the Underwater Observatory such as: reproduction and rehabilitation project of sea turtles, seahorses and more",
+      "html": "We believe that our role is to teach our children to respect, understand and love the Red Sea and in these classes children are given the chance to understand conservation projects that takes place in the Underwater Observatory such as: reproduction and rehabilitation project of sea turtles, seahorses and more"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Park Map"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/edited-park-map.jpg",
+      "alt": "",
+      "width": 1360,
+      "height": 808
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1 XThe Welcome AquariumA great way to start !See a characteristic Red Sea coral reef, from all angles,from the minute you enter the park.",
+        "2 XRed Sea Coral Reef Aquarium.Description: This is a huge circular aquarium showing a replica of the magnificent coral reef of Eilat.It is one of the largest replica reefs in the world and boasts a number of real corals.Watch the Red sea in action here!",
+        "3 XThe Sting-ray caveDescription: In the Sting-ray cave resides giant sting rays measuring 2 meters and more. Take this photo opportunity and wave to your family from inside the aquarium, just like a professional diver.More Information:Advanced booking is required, only availablefrom age 8 upward.Diving is from age 8.",
+        "4 XThe Turtle PoolDescription: The turtle pool is a beautiful habitat for two types of Turtle species.In a comfortable and warm recreation of their natural living conditions, our turtle pool is a great place for you to peek in on the everyday habits of these intriguing animals.Take a look!",
+        "5 XSnorkelling poolIn the Snorkeling pool, there is, you guessed it, an opportunity to snorkel.This is also the only place you can view coral in the Underwater Observatory from an aerial view.",
+        "6 XPetting and Feeding PoolDescription: Get an interactive taste of marine life and join in by feeding and petting our Coyfish.Keep your children engaged and entertained!Details may be subject to change.",
+        "7 XShark WorldDescription: Featuring a huge shark pool, an interactive activity center and a transparent tunnel.Come face-to-fin with the predators of the Red Sea, including sharks, sting rays, manta rays, schools of fish and vibrant colonies of coral.Start a shark adventure!",
+        "8 XAquadomeDescription: Join us in the Aquadome for an intense 360 ° visual experience of whales. Uncover the many secrets from their fascinating lives and immerse yourself into a sensory experience. Dive in today!",
+        "9 XExplanation PoolsDescription: At this spot, our instructors provide in-depth information about our aquatic residents.Details may be subject to change",
+        "10 XUnderwater Observatory TowerDescription: The Observatory sits on the coral reef reserve. You can enter the Observatory and view the reef from the inside by walking down the stairs, to 6 meters below sea level.Here you can watch hundreds of species of fish, coral and invertebrates living in the magnificent Red Sea.This is a totally unique experience!",
+        "11 XPeace TerraceLook out over 4 different countries from our Peace Terrace, located at the Underwater Observatory Tower.See Israel, Jordan, Egypt and Saudi Arabia!",
+        "12 XCreatures of the DeepDescription: With several video panels screens, the Creatures of the Deep exhibition boasts intriguing and rare coverage of animals that live more than 1000 meters below the surface.This is a dark and challenging place with unique lifeforms, unreachable for the majority of people, including experienced divers.",
+        "13 XPearl Secrets.Description: Watch pearls being removed from their shells in this timeless and magical activity. Then if you so wish, pop into our Jewelry store and purchase something beautiful, rare and unique.",
+        "14 XRare Fish AquariumDescription: The Rare Fish Aquarium has 35 aquariums and over 800 species of rare and beautiful fish, coral and spectacular marine creatures.Discover the colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat!",
+        "15 XEducation CenterIn the Education center, we hold many lectures and in-depth learning sessions. You can view our conservation projects, including the rehabilitation of coral, one of our cornerstone sustainability projects",
+        "16 XCoral 2000Description: Coral 2000 is a submersible boat with 48 incredible underwater windows. Rather than looking down, the Coral 2000 gives you a panoramic view of the reef.Take this chance to meet rare fish, coral colonies and amazing sea creatures in their natural habitat. More information: * Advanced booking is required The boat departs from the Coral Pier located on the bridge leading to the Observation Tower"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "1",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "The Welcome Aquarium",
+      "html": "The Welcome Aquarium"
+    },
+    {
+      "type": "paragraph",
+      "text": "A great way to start !",
+      "html": "A great way to start !"
+    },
+    {
+      "type": "paragraph",
+      "text": "See a characteristic Red Sea coral reef, from all angles,from the minute you enter the park.",
+      "html": "See a characteristic Red Sea coral reef, from all angles,from the minute you enter the park."
+    },
+    {
+      "type": "cta",
+      "text": "2",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Red Sea Coral Reef Aquarium.",
+      "html": "Red Sea Coral Reef Aquarium."
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: This is a huge circular aquarium showing a replica of the magnificent coral reef of Eilat.",
+      "html": "Description: This is a huge circular aquarium showing a replica of the magnificent coral reef of Eilat."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is one of the largest replica reefs in the world and boasts a number of real corals.",
+      "html": "It is one of the largest replica reefs in the world and boasts a number of real corals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch the Red sea in action here!",
+      "html": "Watch the Red sea in action here!"
+    },
+    {
+      "type": "cta",
+      "text": "3",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sting-ray cave",
+      "html": "The Sting-ray cave"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: In the Sting-ray cave resides giant sting rays measuring 2 meters and more. Take this photo opportunity and wave to your family from inside the aquarium, just like a professional diver.",
+      "html": "Description:&nbsp; In the Sting-ray cave resides giant sting rays measuring 2 meters and more. Take this photo opportunity and wave to your family from inside the aquarium, just like a professional diver."
+    },
+    {
+      "type": "paragraph",
+      "text": "More Information:",
+      "html": "More Information:"
+    },
+    {
+      "type": "paragraph",
+      "text": "Advanced booking is required, only available",
+      "html": "Advanced booking is required, only available"
+    },
+    {
+      "type": "paragraph",
+      "text": "from age 8 upward.",
+      "html": "from age 8 upward."
+    },
+    {
+      "type": "paragraph",
+      "text": "Diving is from age 8.",
+      "html": "Diving is from age 8."
+    },
+    {
+      "type": "cta",
+      "text": "4",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "The Turtle Pool",
+      "html": "The Turtle Pool"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: The turtle pool is a beautiful habitat for two types of Turtle species.",
+      "html": "Description:&nbsp; The turtle pool is a beautiful habitat for two types of Turtle species."
+    },
+    {
+      "type": "paragraph",
+      "text": "In a comfortable and warm recreation of their natural living conditions, our turtle pool is a great place for you to peek in on the everyday habits of these intriguing animals.",
+      "html": "In a comfortable and warm recreation of their natural living conditions, our turtle pool is a great place for you to peek in on the everyday habits of these intriguing animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a look!",
+      "html": "Take a look!"
+    },
+    {
+      "type": "cta",
+      "text": "5",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Snorkelling pool",
+      "html": "Snorkelling pool"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Snorkeling pool, there is, you guessed it, an opportunity to snorkel.",
+      "html": "In the Snorkeling pool, there is, you guessed it, an opportunity to snorkel."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is also the only place you can view coral in the Underwater Observatory from an aerial view.",
+      "html": "This is also the only place you can view&nbsp; coral in the Underwater Observatory from an aerial view."
+    },
+    {
+      "type": "cta",
+      "text": "6",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Petting and Feeding Pool",
+      "html": "Petting and Feeding Pool"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: Get an interactive taste of marine life and join in by feeding and petting our Coyfish.",
+      "html": "Description:&nbsp; Get an interactive taste of marine life and join in by feeding and petting our Coyfish."
+    },
+    {
+      "type": "paragraph",
+      "text": "Keep your children engaged and entertained!",
+      "html": "Keep your children engaged and entertained!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Details may be subject to change.",
+      "html": "Details may be subject to change."
+    },
+    {
+      "type": "cta",
+      "text": "7",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Shark World",
+      "html": "Shark World"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: Featuring a huge shark pool, an interactive activity center and a transparent tunnel.",
+      "html": "Description:&nbsp; Featuring a huge shark pool, an interactive activity center and a transparent tunnel."
+    },
+    {
+      "type": "paragraph",
+      "text": "Come face-to-fin with the predators of the Red Sea, including sharks, sting rays, manta rays, schools of fish and vibrant colonies of coral.",
+      "html": "Come face-to-fin with the predators of the Red Sea, including sharks, sting rays, manta rays, schools of fish and vibrant colonies of coral."
+    },
+    {
+      "type": "paragraph",
+      "text": "Start a shark adventure!",
+      "html": "Start a shark adventure!"
+    },
+    {
+      "type": "cta",
+      "text": "8",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Aquadome",
+      "html": "Aquadome"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: Join us in the Aquadome for an intense 360 ° visual experience of whales. Uncover the many secrets from their fascinating lives and immerse yourself into a sensory experience.",
+      "html": "Description:&nbsp; Join us in the Aquadome for an intense 360 ° visual experience of whales. Uncover the many secrets from their fascinating lives and immerse yourself into a sensory experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "Dive in today!",
+      "html": "Dive in today!"
+    },
+    {
+      "type": "cta",
+      "text": "9",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Explanation Pools",
+      "html": "Explanation Pools"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: At this spot, our instructors provide in-depth information about our aquatic residents.",
+      "html": "Description:&nbsp; At this spot, our instructors provide in-depth information about our aquatic residents."
+    },
+    {
+      "type": "paragraph",
+      "text": "Details may be subject to change",
+      "html": "Details may be subject to change"
+    },
+    {
+      "type": "cta",
+      "text": "10",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Underwater Observatory Tower",
+      "html": "Underwater Observatory Tower"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: The Observatory sits on the coral reef reserve. You can enter the Observatory and view the reef from the inside by walking down the stairs, to 6 meters below sea level.",
+      "html": "Description:&nbsp; The Observatory sits on the coral reef reserve. You can enter the Observatory and view the reef from the inside by walking down the stairs, to 6 meters below sea level."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here you can watch hundreds of species of fish, coral and invertebrates living in the magnificent Red Sea.",
+      "html": "Here you can watch hundreds of species of fish, coral and invertebrates living in the magnificent Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a totally unique experience!",
+      "html": "This is a totally unique experience!"
+    },
+    {
+      "type": "cta",
+      "text": "11",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Peace Terrace",
+      "html": "Peace Terrace"
+    },
+    {
+      "type": "paragraph",
+      "text": "Look out over 4 different countries from our Peace Terrace, located at the Underwater Observatory Tower.",
+      "html": "Look out over 4 different countries from our Peace Terrace, located at the Underwater Observatory Tower."
+    },
+    {
+      "type": "paragraph",
+      "text": "See Israel, Jordan, Egypt and Saudi Arabia!",
+      "html": "See Israel, Jordan, Egypt and Saudi Arabia!"
+    },
+    {
+      "type": "cta",
+      "text": "12",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Creatures of the Deep",
+      "html": "Creatures of the Deep"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: With several video panels screens, the Creatures of the Deep exhibition boasts intriguing and rare coverage of animals that live more than 1000 meters below the surface.",
+      "html": "Description: With several video panels screens, the Creatures of the Deep exhibition boasts intriguing and rare coverage of animals that live more than&nbsp; 1000 meters below the surface."
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a dark and challenging place with unique lifeforms, unreachable for the majority of people, including experienced divers.",
+      "html": "This is a dark and challenging place with unique lifeforms, unreachable for the majority of people, including experienced divers."
+    },
+    {
+      "type": "cta",
+      "text": "13",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Pearl Secrets.",
+      "html": "Pearl Secrets."
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: Watch pearls being removed from their shells in this timeless and magical activity. Then if you so wish, pop into our Jewelry store and purchase something beautiful, rare and unique.",
+      "html": "Description: Watch pearls being removed from their shells in this timeless and magical activity. Then if you so wish, pop into our Jewelry store and purchase something beautiful, rare and unique."
+    },
+    {
+      "type": "cta",
+      "text": "14",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Rare Fish Aquarium",
+      "html": "Rare Fish Aquarium"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: The Rare Fish Aquarium has 35 aquariums and over 800 species of rare and beautiful fish, coral and spectacular marine creatures.",
+      "html": "Description:&nbsp; The Rare Fish Aquarium has 35 aquariums and over 800 species of rare and beautiful fish, coral and spectacular marine creatures."
+    },
+    {
+      "type": "paragraph",
+      "text": "Discover the colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat!",
+      "html": "Discover the colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat!"
+    },
+    {
+      "type": "cta",
+      "text": "15",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Education Center",
+      "html": "Education Center"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Education center, we hold many lectures and in-depth learning sessions. You can view our conservation projects, including the rehabilitation of coral, one of our cornerstone sustainability projects",
+      "html": "In the Education center, we hold many lectures and in-depth learning sessions. You can view our conservation projects, including the rehabilitation of coral, one of our cornerstone sustainability projects"
+    },
+    {
+      "type": "cta",
+      "text": "16",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "Coral 2000",
+      "html": "Coral 2000"
+    },
+    {
+      "type": "paragraph",
+      "text": "Description: Coral 2000 is a submersible boat with 48 incredible underwater windows. Rather than looking down, the Coral 2000 gives you a panoramic view of the reef.",
+      "html": "Description: Coral 2000 is a submersible boat with 48 incredible underwater windows. Rather than looking down, the Coral 2000 gives you a panoramic view of the reef."
+    },
+    {
+      "type": "paragraph",
+      "text": "Take this chance to meet rare fish, coral colonies and amazing sea creatures in their natural habitat",
+      "html": "Take this chance to meet rare fish, coral colonies and amazing sea creatures in their natural habitat"
+    },
+    {
+      "type": "paragraph",
+      "text": ". More information: * Advanced booking is required The boat departs from the Coral Pier located on the bridge leading to the Observation Tower",
+      "html": ".<br> More information: * Advanced booking is required<br> The boat departs from the Coral Pier located on the bridge leading to the Observation Tower"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/kiosk-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/information-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/photo-store-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/jewelry-store-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/souvenirs-store-icon.png",
+      "alt": "",
+      "width": 27,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/cafeteria-icon.png",
+      "alt": "",
+      "width": 28,
+      "height": 28
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/aquadome-3d-1.png",
+      "alt": "",
+      "width": 46,
+      "height": 20
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "1 The Welcome Aquarium",
+        "2Red Sea Coral Aquarium",
+        "3Sting-ray cave",
+        "4The Turtle Pool",
+        "5Reservoir",
+        "6Petting and Feeding Pool",
+        "7Shark Pool Complex",
+        "8Aquadome*",
+        "9Explanation Pools",
+        "10Underwater Observatory Tower",
+        "11Peace Terrace",
+        "12Creatures of the Deep",
+        "13Pearl Secrets",
+        "14Rare Fish Aquarium",
+        "15Education Center",
+        "16Coral 2000*"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "1 The Welcome Aquarium",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "2Red Sea Coral Aquarium",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "3Sting-ray cave",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "4The Turtle Pool",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "5Reservoir",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "6Petting and Feeding Pool",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "7Shark Pool Complex",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "8Aquadome*",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "9Explanation Pools",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "10Underwater Observatory Tower",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "11Peace Terrace",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "12Creatures of the Deep",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "13Pearl Secrets",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "14Rare Fish Aquarium",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "15Education Center",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "16Coral 2000*",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "*For pre-order and extra charge",
+      "html": "<span class=\"star\">*</span><span class=\"desc\">For pre-order and extra charge</span>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Info Center",
+        "Restaurants",
+        "Kiosk",
+        "Jewelry Stores",
+        "Gift Store",
+        "Photo Shop"
+      ]
+    },
+    {
+      "type": "cta",
+      "text": "For a full map view, click and rotate the device",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/rotate-icon-white.jpg",
+      "alt": "אייקון סיבוב",
+      "width": 47,
+      "height": 38
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "01How much does it cost to go to the Underwater Observatory? All the Underwater Observatory's ticket prices, special offers and packages are found here.",
+        "02What is the best time to visit the Underwater Observatory? The Underwater Observatory is open daily from 9:00am to 16:00pm. Our marine park is spacious and offers a variety of activities, so whatever time you choose to come, you'll have plenty to do! To maximize your visit we recommend that you plan for both tours led by our guides and to be watch the animals at feeding times (posted here on the website).",
+        "03What time do they feed the fish and marine creatures? Feeding times and guided tour schedules can be viewed here.",
+        "04How long is a visit to the Underwater Observatory? The Underwater Observatory has lots to see and explore and we recommend that you plan a 3 - 4 hour visit, including a stop at one of our top quality on-site restaurants.",
+        "05Can I get to the Underwater Observatory by public transport? Egged, the Israeli intercity bus service stop sat the entrance of the Underwater Observatory - the bus line number is 15.",
+        "06Is there parking available? The Underwater Observatory has large on-site parking facilities. Please take into account that on busy days and in peak season the car park is full. That's why we recommend taking public transport - Egged's bus line 15, which stops at the entrance to the Underwater Observatory.",
+        "07Do I need to print my tickets before I get to the Underwater Observatory, if I book online? There is no need to print your tickets before you arrive, you can collect them at the kiosk next to the Ticket Office.",
+        "08What credit cards do you take? The Underwater Observatory accepts all types of credit cards."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "How much does it cost to go to the Underwater Observatory?"
+    },
+    {
+      "type": "paragraph",
+      "text": "All the Underwater Observatory's ticket prices, special offers and packages are found here.",
+      "html": "All the Underwater Observatory's ticket prices, special offers and packages are found <a href=\"https://coralworld.co.il/en/tickets/\">here</a>."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What is the best time to visit the Underwater Observatory?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory is open daily from 9:00am to 16:00pm.",
+      "html": "The Underwater Observatory is open daily from 9:00am to 16:00pm."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our marine park is spacious and offers a variety of activities, so whatever time you choose to come, you'll have plenty to do!",
+      "html": "Our marine park is spacious and offers a variety of activities, so whatever time you choose to come, you'll have plenty to do!"
+    },
+    {
+      "type": "paragraph",
+      "text": "To maximize your visit we recommend that you plan for both tours led by our guides and to be watch the animals at feeding times (posted here on the website).",
+      "html": "To maximize your visit we recommend that you plan for both tours led by our guides and to be watch the animals at feeding times (posted here on the website)."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What time do they feed the fish and marine creatures?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Feeding times and guided tour schedules can be viewed here.",
+      "html": "Feeding times and guided tour schedules can be viewed <a href=\"#park-activities\">here</a>."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "How long is a visit to the Underwater Observatory?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory has lots to see and explore and we recommend that you plan a 3 - 4 hour visit, including a stop at one of our top quality on-site restaurants.",
+      "html": "The Underwater Observatory has lots to see and explore and we recommend that you plan a 3 - 4 hour visit, including a stop at one of our top quality on-site restaurants."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Can I get to the Underwater Observatory by public transport?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Egged, the Israeli intercity bus service stop sat the entrance of the Underwater Observatory - the bus line number is 15.",
+      "html": "Egged, the Israeli intercity bus service stop sat the entrance of the Underwater Observatory - the bus line number is 15."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Is there parking available?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory has large on-site parking facilities.",
+      "html": "The Underwater Observatory has large on-site parking facilities."
+    },
+    {
+      "type": "paragraph",
+      "text": "Please take into account that on busy days and in peak season the car park is full.",
+      "html": "Please take into account that on busy days and in peak season the car park is full."
+    },
+    {
+      "type": "paragraph",
+      "text": "That's why we recommend taking public transport - Egged's bus line 15, which stops at the entrance to the Underwater Observatory.",
+      "html": "That's why we recommend taking public transport - Egged's bus line 15, which stops at the entrance to the Underwater Observatory."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Do I need to print my tickets before I get to the Underwater Observatory, if I book online?"
+    },
+    {
+      "type": "paragraph",
+      "text": "There is no need to print your tickets before you arrive, you can collect them at the kiosk next to the Ticket Office.",
+      "html": "There is no need to print your tickets before you arrive, you can collect them at the kiosk next to the Ticket Office."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "What credit cards do you take?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory accepts all types of credit cards.",
+      "html": "The Underwater Observatory accepts all types of credit cards."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "09Does the Underwater Observatory take Loyalty Clubs? The Underwater Observatory collaborates with a host of Loyalty Clubs. If you are a member of a Loyalty Club, please check with the club directly to find out if they collaborate with us.",
+        "10From what age do I have to pay for children? Children under the age of 3 enjoy free entrance to the Underwater Observatory.",
+        "11Does the Underwater Observatory have a place to store personal items? Of course! For you to comfortably explore the Underwater Observatory you can rent a locker for your bags and belongings for just 5 NIS. The size of the locker is approximately the size of a small suitcase.",
+        "12Am I allowed to photograph the displays and exhibitions? Yes! For the wellbeing of our marine creatures, please ensure to take photos without using a flash! Feel free to upload photos of your visit on the various social networks - don't forget to tag us!",
+        "13Can I use my ticket more than once? Yes! The ticket you purchase is valid for 3 consecutive days from the date of your first entry. Please note :To extend your ticket for an additional two days, contact the photo booth located opposite the Underwater Observatory's entrance, get your photo taken and bring the photo with you when you want to return.",
+        "14Are wheelchairs available? Definitely! Please contact the security guard at the Underwater Observatory entrance and he will provide you with a wheelchair. For your convenience, we recommend contacting us in advance at 08-6364209 to reserve a wheelchair during your visit.",
+        "15Does the Underwater Observatory have an area I can nurse my baby? Of course! The Underwater Observatory accomodates for nursing mothers and provides a particularly intimate and comfortable nursing area in the souvenir shop.",
+        "16Is the Underwater Observatory equipped with First Aid equipment and medical staff? First aid equipment is available at the Underwater Observatory's main office. Medics are always on-site and will assist if necessary."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Does the Underwater Observatory take Loyalty Clubs?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory collaborates with a host of Loyalty Clubs.",
+      "html": "The Underwater Observatory collaborates with a host of Loyalty Clubs."
+    },
+    {
+      "type": "paragraph",
+      "text": "If you are a member of a Loyalty Club, please check with the club directly to find out if they collaborate with us.",
+      "html": "If you are a member of a Loyalty Club, please check with the club directly to find out if they collaborate with us."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "From what age do I have to pay for children?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Children under the age of 3 enjoy free entrance to the Underwater Observatory.",
+      "html": "Children under the age of 3 enjoy free entrance to the Underwater Observatory."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Does the Underwater Observatory have a place to store personal items?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course!",
+      "html": "Of course!"
+    },
+    {
+      "type": "paragraph",
+      "text": "For you to comfortably explore the Underwater Observatory you can rent a locker for your bags and belongings for just 5 NIS.",
+      "html": "For you to comfortably explore the Underwater Observatory you can rent a locker for your bags and belongings for just 5 NIS."
+    },
+    {
+      "type": "paragraph",
+      "text": "The size of the locker is approximately the size of a small suitcase.",
+      "html": "The size of the locker is approximately the size of a small suitcase."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Am I allowed to photograph the displays and exhibitions?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes! For the wellbeing of our marine creatures, please ensure to take photos without using a flash!",
+      "html": "Yes! For the wellbeing of our marine creatures, please ensure to take photos without using a flash!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Feel free to upload photos of your visit on the various social networks - don't forget to tag us!",
+      "html": "Feel free to upload photos of your visit on the various social networks - don't forget to tag us!"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Can I use my ticket more than once?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes! The ticket you purchase is valid for 3 consecutive days from the date of your first entry.",
+      "html": "Yes! The ticket you purchase is valid for 3 consecutive days from the date of your first entry."
+    },
+    {
+      "type": "paragraph",
+      "text": "Please note :",
+      "html": "Please note :"
+    },
+    {
+      "type": "paragraph",
+      "text": "To extend your ticket for an additional two days, contact the photo booth located opposite the Underwater Observatory's entrance, get your photo taken and bring the photo with you when you want to return.",
+      "html": "To extend your ticket for an additional two days, contact the photo booth located opposite the Underwater Observatory's entrance, get your photo taken and bring the photo with you when you want to return."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Are wheelchairs available?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Definitely!",
+      "html": "Definitely!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Please contact the security guard at the Underwater Observatory entrance and he will provide you with a wheelchair.",
+      "html": "Please contact the security guard at the Underwater Observatory entrance and he will provide you with a wheelchair."
+    },
+    {
+      "type": "paragraph",
+      "text": "For your convenience, we recommend contacting us in advance at 08-6364209 to reserve a wheelchair during your visit.",
+      "html": "For your convenience, we recommend contacting us in advance at 08-6364209 to reserve a wheelchair during your visit."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Does the Underwater Observatory have an area I can nurse my baby?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Of course!",
+      "html": "Of course!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory accomodates for nursing mothers and provides a particularly intimate and comfortable nursing area in the souvenir shop.",
+      "html": "The Underwater Observatory accomodates for nursing mothers and provides a particularly intimate and comfortable nursing area in the souvenir shop."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "Is the Underwater Observatory equipped with First Aid equipment and medical staff?"
+    },
+    {
+      "type": "paragraph",
+      "text": "First aid equipment is available at the Underwater Observatory's main office.",
+      "html": "First aid equipment is available at the Underwater Observatory's main office."
+    },
+    {
+      "type": "paragraph",
+      "text": "Medics are always on-site and will assist if necessary.",
+      "html": "Medics are always on-site and will assist if necessary."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/visit-park/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f53911fc9-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

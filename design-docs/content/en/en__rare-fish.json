@@ -1,0 +1,860 @@
+{
+  "source": "https://coralworld.co.il/en/rare-fish/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.812Z",
+  "seo": {
+    "title": "Rare Fish Aquarium | The Underwater Observatory Tower",
+    "description": "We have 35 aquariums which are home to colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat.",
+    "canonical": "https://coralworld.co.il/en/rare-fish/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Rare Fish Aquarium | The Underwater Observatory Tower",
+      "og:description": "We have 35 aquariums which are home to colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat.",
+      "og:url": "https://coralworld.co.il/en/rare-fish/",
+      "twitter:card": "summary",
+      "twitter:title": "Rare Fish Aquarium | The Underwater Observatory Tower",
+      "twitter:description": "We have 35 aquariums which are home to colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat."
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/rare-fish/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/rare-fish/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/rare-fish/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/rare-fish/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/rare-fish/#listItem",
+                  "name": "Rare Fish Aquarium"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/rare-fish/#listItem",
+                "position": 2,
+                "name": "Rare Fish Aquarium",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/rare-fish/#webpage",
+            "url": "https://coralworld.co.il/en/rare-fish/",
+            "name": "Rare Fish Aquarium | The Underwater Observatory Tower",
+            "description": "We have 35 aquariums which are home to colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat.",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/rare-fish/#breadcrumblist"
+            },
+            "datePublished": "2020-05-20T16:09:45+03:00",
+            "dateModified": "2024-01-07T11:58:35+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "Rare Fish Aquarium"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/rare-fish/",
+    "en": "https://coralworld.co.il/en/rare-fish/",
+    "x-default": "https://coralworld.co.il/rare-fish/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Rare Fish Aquarium"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Uncover the hidden secrets"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "of the reef!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Meet over 800 species of rare and beautiful fish, coral and spectacular marine creatures. This exhibit reveals parts of the reef previously unseen, even to experienced divers.",
+      "html": "Meet over 800 species of rare and beautiful fish, coral and spectacular marine creatures. This exhibit reveals parts of the reef previously unseen, even to experienced divers."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have 35 aquariums which are home to colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat.",
+      "html": "We have 35 aquariums which are home to colorful and unusual predators, invertebrates, corals and fish – only found in the Gulf of Eilat."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you know?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Frogfish strikes prey 50 times faster than the blink of an eye.",
+      "html": "The Frogfish strikes prey 50 times faster than the blink of an eye."
+    },
+    {
+      "type": "paragraph",
+      "text": "Come and see them all day, or watch them dine at:",
+      "html": "Come and see them all day, or watch them dine at:"
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "12:00.p.m"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Stonefish",
+        "Sea Horse",
+        "Anthias (Sea Goldie)",
+        "Lionfish",
+        "Frogfish",
+        "Octopus"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Stonefish"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stonefish are one of the most dangerous fish in the Red Sea.",
+      "html": "Stonefish are one of the most dangerous fish in the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stonefish are camouflaged by their stone-like appearance and lack of movement. This makes them barely visible on the sea floor.",
+      "html": "Stonefish are camouflaged by their stone-like appearance and lack of movement. This makes them barely visible on the sea floor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whilst this camouflage helps them hunt for food, it is dangerous for anyone in the sea, who can easily be stung by the poisonous spines on its back.",
+      "html": "Whilst this camouflage helps them hunt for food, it is dangerous for anyone in the sea, who can easily be stung by the poisonous spines on its back."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember!",
+      "html": "Remember!"
+    },
+    {
+      "type": "paragraph",
+      "text": "A sting from a stonefish needs immediate treatment.",
+      "html": "A sting from a stonefish needs immediate treatment."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Lives on the seabed and makes almost no movement",
+        "Size Up to 40 cm",
+        "Weight Up to 3 KG",
+        "Food Feeds on fish"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/avnoon-big.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sea Horse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seahorses are a true phenomenom of nature.",
+      "html": "Seahorses are a true phenomenom of nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are the only known creatures on planet earth where the males carry and give birth to baby seahorses, not the females.",
+      "html": "They are the only known creatures on planet earth where the males carry and give birth to baby seahorses, not the females."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, as mind-boggling as it is - the boys have the the babies.",
+      "html": "Yes, as mind-boggling as it is - the boys have the the babies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not only that, their mating habits are fascinating! In the mating season, the female and the male perform a ritual dance for three days before the female deposits her eggs in a breeding pouch on the male’s abdomen.",
+      "html": "Not only that, their mating habits are fascinating! In the mating season, the female and the male perform a ritual dance for three days before the female deposits her eggs in a breeding pouch on the male’s abdomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "The male fertilizes the eggs and then remains in a “male gestation period” for two weeks, after which the newborns are released.",
+      "html": "The male fertilizes the eggs and then remains in a “male gestation period” for two weeks, after which the newborns are released."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Hides from predators among weeds and sea grass",
+        "Size Up to 22 cm",
+        "Weight Up to 510 grams",
+        "Food Feeds on tiny crustaceans and tiny invertebrates"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/horse-big.jpg",
+      "alt": "סוסוני ים",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Anthias (Sea Goldie)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anthias live in schools and like 2% of all fish, are gender fluid.",
+      "html": "Anthias live in schools and like 2% of all fish, are gender fluid."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are all born female and they change their sex according to the needs of their community or \"school\".",
+      "html": "They are all born female and they change their sex according to the needs of their community or \"school\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "True to its middle eastern orgins, the male retains a harem of ten females. After he dies, this all changes and he is replaced by the largest, strongest and most dominant female who herself, experiences a remarkable sex reversal - taking his place as head of the group.",
+      "html": "True to its middle eastern orgins, the male retains a harem of ten females. After he dies, this all changes and he is replaced by the largest, strongest and most dominant female who herself, experiences a remarkable sex reversal - taking his place as head of the group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The males and females can be distinguished according to coloring. The males are large and dark, while the females are small, orange and lighter colored.",
+      "html": "The males and females can be distinguished according to coloring. The males are large and dark, while the females are small, orange and lighter colored."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Lives along the coral reef and in single coral colonies",
+        "Size Males up to 15 cm, females up to 8 cm",
+        "Weight 10 grams",
+        "Food Feeds on plankton"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/pazit-big.jpg",
+      "alt": "אלמוג ודג",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lionfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Lionfish belongs to the Scorpion fish family, a predatory fish with venomous spines on their back. They use these as protection from attackers.",
+      "html": "The Lionfish belongs to the Scorpion fish family, a predatory fish with venomous spines on their back. They use these as protection from attackers."
+    },
+    {
+      "type": "paragraph",
+      "text": "They can live without food for up to 3 months, only losing 10% of their body mass. Due to their large fins, Lionfish are one of the slowest moving fish.",
+      "html": "They can live without food for up to 3 months, only losing 10% of their body mass. Due to their large fins, Lionfish are one of the slowest moving fish."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lionfish are invasive and are colonizing both the Atlantic Ocean and the Mediterranean Sea, currently breeding at a phenomenal rate.",
+      "html": "Lionfish are invasive and are colonizing both the Atlantic Ocean and the Mediterranean Sea, currently breeding at a phenomenal rate."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Active during the day and night, usually prefer to spend the daytime in caves",
+        "Size Up to 35 cm",
+        "Weight Up to 2 KG",
+        "Food Feed on fish and invertebrates"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/zahron-big.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Frogfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Frogfish has a strange appearance and a tactical and sophisticated hunting method.",
+      "html": "The Frogfish has a strange appearance and a tactical and sophisticated hunting method."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a member of the Angler Fish family, the Frogfish, has a sponge-like appearance. The method that the Frogfish uses to hunt is fascinating and complex: First, the Frogfish changes colour to match the environment and then it tries to attract its prey by dangling a 'lure' as bait before it attacks at a tremendous speed!",
+      "html": "As a member of the Angler Fish family, the Frogfish, has a sponge-like appearance. The method that the Frogfish uses to hunt is fascinating and complex: First, the Frogfish changes colour to match the environment and then it tries to attract its prey by dangling a 'lure' as bait before it attacks at a tremendous speed!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Red Sea, the Frogfish is usually a black colour, but may also be found in shades of red and white.",
+      "html": "In the Red Sea, the Frogfish is usually a black colour, but may also be found in shades of red and white."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Lives along the reef wall, and in close proximity to artificial objects",
+        "Size Up to 40 cm",
+        "Weight Up to 3 KG",
+        "Food Feeds on fish"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/pitaon-big.jpg",
+      "alt": "צבעים וההסוואה אצל דגים",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Octopus"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Octopus belongs to the eight-limbed mollusc family.",
+      "html": "The Octopus belongs to the eight-limbed mollusc family."
+    },
+    {
+      "type": "paragraph",
+      "text": "Octopuses are territorial and are highly intelligent creatures. They develop deep and personal connections with their caregivers and demand a lot of attention.",
+      "html": "Octopuses are territorial and are highly intelligent creatures. They develop deep and personal connections with their caregivers and demand a lot of attention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amazing to see, and the ultimate in 'smoke and mirrors acts', when they are in danger, the octopus has a range of diversionary tactics: They have the ability to change colours with incredible speed and the “ink-sac” releases a black fluid that acts as a smoke screen.",
+      "html": "Amazing to see, and the ultimate in 'smoke and mirrors acts', when they are in danger, the octopus has a range of diversionary tactics: They have the ability to change colours with incredible speed and the “ink-sac” releases a black fluid that acts as a smoke screen."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Usually found in shallow water. Switches colour in seconds according to the environment",
+        "Size Up to 80 cm - including arm span",
+        "Weight Up to 2 KG",
+        "Food Feed on fish, crustaceans and molluscs"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%AA%D7%9E%D7%A0%D7%95%D7%9F-big.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Stonefish"
+    },
+    {
+      "type": "paragraph",
+      "text": "Stonefish are one of the most dangerous fish in the Red Sea.",
+      "html": "Stonefish are one of the most dangerous fish in the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Stonefish are camouflaged by their stone-like appearance and lack of movement. This makes them barely visible on the sea floor.",
+      "html": "Stonefish are camouflaged by their stone-like appearance and lack of movement. This makes them barely visible on the sea floor."
+    },
+    {
+      "type": "paragraph",
+      "text": "Whilst this camouflage helps them hunt for food, it is dangerous for anyone in the sea, who can easily be stung by the poisonous spines on its back.",
+      "html": "Whilst this camouflage helps them hunt for food, it is dangerous for anyone in the sea, who can easily be stung by the poisonous spines on its back."
+    },
+    {
+      "type": "paragraph",
+      "text": "Remember!",
+      "html": "Remember!"
+    },
+    {
+      "type": "paragraph",
+      "text": "A sting from a stonefish needs immediate treatment.",
+      "html": "A sting from a stonefish needs immediate treatment."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sea Horse"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seahorses are a true phenomenom of nature.",
+      "html": "Seahorses are a true phenomenom of nature."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are the only known creatures on planet earth where the males carry and give birth to baby seahorses, not the females.",
+      "html": "They are the only known creatures on planet earth where the males carry and give birth to baby seahorses, not the females."
+    },
+    {
+      "type": "paragraph",
+      "text": "Yes, as mind-boggling as it is - the boys have the the babies.",
+      "html": "Yes, as mind-boggling as it is - the boys have the the babies."
+    },
+    {
+      "type": "paragraph",
+      "text": "Not only that, their mating habits are fascinating! In the mating season, the female and the male perform a ritual dance for three days before the female deposits her eggs in a breeding pouch on the male’s abdomen.",
+      "html": "Not only that, their mating habits are fascinating! In the mating season, the female and the male perform a ritual dance for three days before the female deposits her eggs in a breeding pouch on the male’s abdomen."
+    },
+    {
+      "type": "paragraph",
+      "text": "The male fertilizes the eggs and then remains in a “male gestation period” for two weeks, after which the newborns are released.",
+      "html": "The male fertilizes the eggs and then remains in a “male gestation period” for two weeks, after which the newborns are released."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Anthias (Sea Goldie)"
+    },
+    {
+      "type": "paragraph",
+      "text": "Anthias live in schools and like 2% of all fish, are gender fluid.",
+      "html": "Anthias live in schools and like 2% of all fish, are gender fluid."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are all born female and they change their sex according to the needs of their community or \"school\".",
+      "html": "They are all born female and they change their sex according to the needs of their community or \"school\"."
+    },
+    {
+      "type": "paragraph",
+      "text": "True to its middle eastern orgins, the male retains a harem of ten females. After he dies, this all changes and he is replaced by the largest, strongest and most dominant female who herself, experiences a remarkable sex reversal - taking his place as head of the group.",
+      "html": "True to its middle eastern orgins, the male retains a harem of ten females. After he dies, this all changes and he is replaced by the largest, strongest and most dominant female who herself, experiences a remarkable sex reversal - taking his place as head of the group."
+    },
+    {
+      "type": "paragraph",
+      "text": "The males and females can be distinguished according to coloring. The males are large and dark, while the females are small, orange and lighter colored.",
+      "html": "The males and females can be distinguished according to coloring. The males are large and dark, while the females are small, orange and lighter colored."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Lionfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Lionfish belongs to the Scorpion fish family, a predatory fish with venomous spines on their back. They use these as protection from attackers.",
+      "html": "The Lionfish belongs to the Scorpion fish family, a predatory fish with venomous spines on their back. They use these as protection from attackers."
+    },
+    {
+      "type": "paragraph",
+      "text": "They can live without food for up to 3 months, only losing 10% of their body mass. Due to their large fins, Lionfish are one of the slowest moving fish.",
+      "html": "They can live without food for up to 3 months, only losing 10% of their body mass. Due to their large fins, Lionfish are one of the slowest moving fish."
+    },
+    {
+      "type": "paragraph",
+      "text": "Lionfish are invasive and are colonizing both the Atlantic Ocean and the Mediterranean Sea, currently breeding at a phenomenal rate.",
+      "html": "Lionfish are invasive and are colonizing both the Atlantic Ocean and the Mediterranean Sea, currently breeding at a phenomenal rate."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Frogfish"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Frogfish has a strange appearance and a tactical and sophisticated hunting method.",
+      "html": "The Frogfish has a strange appearance and a tactical and sophisticated hunting method."
+    },
+    {
+      "type": "paragraph",
+      "text": "As a member of the Angler Fish family, the Frogfish, has a sponge-like appearance. The method that the Frogfish uses to hunt is fascinating and complex: First, the Frogfish changes colour to match the environment and then it tries to attract its prey by dangling a 'lure' as bait before it attacks at a tremendous speed!",
+      "html": "As a member of the Angler Fish family, the Frogfish, has a sponge-like appearance. The method that the Frogfish uses to hunt is fascinating and complex: First, the Frogfish changes colour to match the environment and then it tries to attract its prey by dangling a 'lure' as bait before it attacks at a tremendous speed!"
+    },
+    {
+      "type": "paragraph",
+      "text": "In the Red Sea, the Frogfish is usually a black colour, but may also be found in shades of red and white.",
+      "html": "In the Red Sea, the Frogfish is usually a black colour, but may also be found in shades of red and white."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Octopus"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Octopus belongs to the eight-limbed mollusc family.",
+      "html": "The Octopus belongs to the eight-limbed mollusc family."
+    },
+    {
+      "type": "paragraph",
+      "text": "Octopuses are territorial and are highly intelligent creatures. They develop deep and personal connections with their caregivers and demand a lot of attention.",
+      "html": "Octopuses are territorial and are highly intelligent creatures. They develop deep and personal connections with their caregivers and demand a lot of attention."
+    },
+    {
+      "type": "paragraph",
+      "text": "Amazing to see, and the ultimate in 'smoke and mirrors acts', when they are in danger, the octopus has a range of diversionary tactics: They have the ability to change colours with incredible speed and the “ink-sac” releases a black fluid that acts as a smoke screen.",
+      "html": "Amazing to see, and the ultimate in 'smoke and mirrors acts', when they are in danger, the octopus has a range of diversionary tactics: They have the ability to change colours with incredible speed and the “ink-sac” releases a black fluid that acts as a smoke screen."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/rare-fish/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f61b71333-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

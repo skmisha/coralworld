@@ -1,0 +1,544 @@
+{
+  "source": "https://coralworld.co.il/turtles/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.865Z",
+  "seo": {
+    "title": "בריכת צבים בפארק המצפה | המצפה התת ימי",
+    "description": "בריכת הצבים במצפה התת ימי - כשתראו את ראשם מבצבץ לפתע מתוך המים, תבינו מיד מדוע צבי הים - הענקים העדינים, הם בעלי חיים אהובים ומסקרנים כל כך!",
+    "canonical": "https://coralworld.co.il/turtles/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "בריכת צבים בפארק המצפה | המצפה התת ימי",
+      "og:description": "בריכת הצבים במצפה התת ימי - כשתראו את ראשם מבצבץ לפתע מתוך המים, תבינו מיד מדוע צבי הים - הענקים העדינים, הם בעלי חיים אהובים ומסקרנים כל כך!",
+      "og:url": "https://coralworld.co.il/turtles/",
+      "twitter:card": "summary",
+      "twitter:title": "בריכת צבים בפארק המצפה | המצפה התת ימי",
+      "twitter:description": "בריכת הצבים במצפה התת ימי - כשתראו את ראשם מבצבץ לפתע מתוך המים, תבינו מיד מדוע צבי הים - הענקים העדינים, הם בעלי חיים אהובים ומסקרנים כל כך!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/turtles/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/turtles/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/turtles/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/turtles/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/turtles/#listItem",
+                  "name": "צבים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/turtles/#listItem",
+                "position": 2,
+                "name": "צבים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/turtles/#webpage",
+            "url": "https://coralworld.co.il/turtles/",
+            "name": "בריכת צבים בפארק המצפה | המצפה התת ימי",
+            "description": "בריכת הצבים במצפה התת ימי - כשתראו את ראשם מבצבץ לפתע מתוך המים, תבינו מיד מדוע צבי הים - הענקים העדינים, הם בעלי חיים אהובים ומסקרנים כל כך!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/turtles/#breadcrumblist"
+            },
+            "datePublished": "2020-05-25T16:31:19+03:00",
+            "dateModified": "2021-07-22T11:16:16+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "בריכת הצבים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/turtles/",
+    "en": "https://coralworld.co.il/en/turtles/",
+    "x-default": "https://coralworld.co.il/turtles/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "בריכת הצבים"
+    },
+    {
+      "type": "paragraph",
+      "text": "כשתראו את ראשם מבצבץ לפתע מתוך המים, תבינו מיד מדוע צבי הים - הענקים העדינים, הם בעלי חיים אהובים ומסקרנים כל כך. בריכת הצבים בפארק מדמה את תנאי הטבע וחיים בה מעל 10 צבים משני סוגים.",
+      "html": "כשתראו את ראשם מבצבץ לפתע מתוך המים, תבינו מיד מדוע צבי<br> הים - הענקים העדינים, הם בעלי חיים אהובים ומסקרנים כל כך.<br> בריכת הצבים בפארק מדמה את תנאי הטבע וחיים בה מעל 10 צבים<br> משני סוגים."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "אוכלוסיית הצבים בפארק"
+    },
+    {
+      "type": "paragraph",
+      "text": "בשנים האחרונות בקעו בה עשרות צבים, אותם אנחנו מגדלים ומשחררים לים בבגרותם ובכך תורמים להגדלת אוכלוסיית הצבים, המוגדרים כבעלי חיים מוגנים.",
+      "html": "בשנים האחרונות בקעו בה עשרות צבים, אותם אנחנו<br> מגדלים ומשחררים לים בבגרותם ובכך תורמים להגדלת אוכלוסיית<br> הצבים, המוגדרים כבעלי חיים מוגנים."
+    },
+    {
+      "type": "paragraph",
+      "text": "התנהלות האדם במשך השנים, גרמה לכך שכל שמונת מיני צבי הים החיים בעולם, כמעט ונעלמו ונמצאים בסכנת הכחדה.",
+      "html": "<img class=\"size-full wp-image-199 alignnone\" src=\"/wp-content/uploads/svg/toknow.svg\" alt=\"הידעתם\" width=\"91\" height=\"21\"> התנהלות האדם במשך השנים, גרמה לכך שכל שמונת<br> מיני צבי הים החיים בעולם, כמעט ונעלמו ונמצאים בסכנת הכחדה."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/svg/toknow.svg",
+      "alt": "הידעתם",
+      "width": 466,
+      "height": 107
+    },
+    {
+      "type": "paragraph",
+      "text": "קראו עוד על צב הים הירוק",
+      "html": "קראו עוד על <a href=\"https://coralworld.co.il/%D7%A6%D7%91-%D7%99%D7%9D-%D7%99%D7%A8%D7%95%D7%A7/\">צב הים הירוק</a>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "צנינית",
+        "צב ים קרני",
+        "צב ים ירוק"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "צנינית"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול מים פתוחים, מגיע לאזור השונית לתחנות הניקוי ולחיפוש מזון מזדמן",
+        "גודל גודל ממוצא עד 1.0 מטרים, אם כי ידוע על בוגרים שהגיעו ל- 1.70 מטרים",
+        "משקל עד 80 קילוגרם",
+        "תזונה סרטנים ודגים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%A0%D7%99%D7%A0%D7%99%D7%AA-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "דג",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "צב ים קרני"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול לאורך חופים ושוניות, עד עומק של 25 מטרים",
+        "גודל עד 1.0 מטרים",
+        "משקל עד 100 קילוגרם",
+        "תזונה ניזון ממלפפוני ים, שושנות ים, ספוגים ומדוזות"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%91-%D7%99%D7%9D-%D7%A7%D7%A8%D7%A0%D7%99-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "צב ים קרני",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "צב ים ירוק"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול לאורך החופים עד עומק של 40 מטרים",
+        "גודל עד 1.20 מטרים",
+        "משקל עד 250 קילוגרם",
+        "תזונה ניזון מאצות, עשבי ים, מדוזות ו... חסה"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%91-%D7%99%D7%9D-%D7%99%D7%A8%D7%95%D7%A7-%D7%91%D7%A8%D7%99%D7%9B%D7%AA-%D7%94%D7%A6%D7%91%D7%99%D7%9D-3-scaled.jpg",
+      "alt": "צב ים ירוק",
+      "width": 2560,
+      "height": 1709
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "צנינית"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "צב ים קרני"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "צב ים ירוק"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/turtles/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1ee1b061e1-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

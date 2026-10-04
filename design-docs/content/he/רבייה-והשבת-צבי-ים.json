@@ -1,0 +1,485 @@
+{
+  "source": "https://coralworld.co.il/%D7%A8%D7%91%D7%99%D7%99%D7%94-%D7%95%D7%94%D7%A9%D7%91%D7%AA-%D7%A6%D7%91%D7%99-%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.848Z",
+  "seo": {
+    "title": "רבייה והשבת צבי ים | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "רבייה והשבת צבי ים | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "רבייה והשבת צבי ים | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#article",
+            "name": "רבייה והשבת צבי ים | המצפה התת ימי",
+            "headline": "רבייה והשבת צבי ים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/main-banner2.jpg",
+              "width": 1920,
+              "height": 810,
+              "caption": "רבייה והשבת צבי ים"
+            },
+            "datePublished": "2020-06-11T16:55:56+03:00",
+            "dateModified": "2024-10-21T09:25:08+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#listItem",
+                  "name": "רבייה והשבת צבי ים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "רבייה והשבת צבי ים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/",
+            "name": "רבייה והשבת צבי ים | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/main-banner2.jpg",
+              "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#mainImage",
+              "width": 1920,
+              "height": 810,
+              "caption": "רבייה והשבת צבי ים"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-06-11T16:55:56+03:00",
+            "dateModified": "2024-10-21T09:25:08+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "רבייה והשבת צבי ים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%a8%d7%91%d7%99%d7%99%d7%94-%d7%95%d7%94%d7%a9%d7%91%d7%aa-%d7%a6%d7%91%d7%99-%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/main-banner2-1536x648.jpg",
+      "alt": "רבייה והשבת צבי ים",
+      "width": 1439,
+      "height": 607
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "רבייה והשבת צבי ים"
+    },
+    {
+      "type": "paragraph",
+      "text": "צבי הים נמצאים בסכנת הכחדה בים סוף ובעולם כולו. צבי הים הינם זוחלים ימיים בעלי ריאות והם צריכים לעלות לנשום על פני המים. צבים שנלכדים ברשתות דייגים, אינם יכולים לעלות לנשום וטובעים. סיבה נוספת ועיקרית להכחדתם היא שקיות ניילון. צבי הים מהסוג הקרני, הנפוצים ביותר בים סוף, ניזונים בעיקר מרכיכות וספוגים. מדוזות נכללות בתפריט זה. שקיות ניילון הנסחפות לים נראות לצבים כמו מדוזות, הם אוכלים אותן ונחנקים. חלקם בולעים את השקית אשר מתנפחת להם בקיבה וגורמת להם לתחושת שובע וכך הצבים מתים מרעב על \"בטן מלאה\" בשקיות.",
+      "html": "צבי הים נמצאים בסכנת הכחדה בים סוף ובעולם כולו.<br> צבי הים הינם זוחלים ימיים&nbsp; בעלי ריאות והם צריכים לעלות לנשום על פני המים. צבים שנלכדים ברשתות דייגים, אינם יכולים לעלות לנשום וטובעים. סיבה נוספת ועיקרית להכחדתם היא שקיות ניילון. צבי הים מהסוג הקרני, הנפוצים ביותר בים סוף, ניזונים בעיקר מרכיכות וספוגים. מדוזות נכללות בתפריט זה. שקיות ניילון הנסחפות לים נראות לצבים כמו מדוזות, הם אוכלים אותן ונחנקים. חלקם בולעים את השקית אשר מתנפחת להם בקיבה וגורמת להם לתחושת שובע וכך הצבים מתים מרעב על \"בטן מלאה\" בשקיות."
+    },
+    {
+      "type": "paragraph",
+      "text": "לאור הנתונים האלה, החל בפארק המצפה התת ימי פרויקט רביית צבים והשבתם לטבע. בעונת האביב הזכר שלנו \"זכריה\" מפרה את הנקבות ולאחר חודשיים הן עולות על האי החולי שנמצא במרכז הבריכה ומשמש משטח להטלת ביצים ושם הן חופרות בור בעזרת הגפיים האחוריות שלהן ומטילות לתוכו כ- 30 עד 80 ביצים. בסוף ההטלה הנקבות מכסות את הבור בחול,מטשטשות וחוזרות למים. החול והשמש הם אלו שבעצם מבצעים את תהליך הדגירה ממש כמו אינקובאטור טבעי. תוך כמה שבועות (בערך חודשיים) הביצים יבקעו ומתוכם יצאו צבים קטנטנים בגודל של קופסת גפרורים וישקלו כ- 15 גרם בלבד. כמעט כל בעל חיים יכול לאכול אותם בשלב זה, בטבע הם ירוצו לקצף הגלים ויטרפו ע\"י ציפורים, סרטנים ודגים גדולים יותר. רק אחד מתוך אל צבים יגיע לבגרות בטבע! אצלנו, בפארק המצפה התת ימי, ברגע הבקיעה אנו אוספים את הצבים הקטנטנים ומגדלים אותם בבריכות מאחורי הקלעים. כל צב מקבל שלוש ארוחות ביום (האוכל ניתן להם בעזרת פינצטה) בנוסף לאוכל הצבים מקבלים לטיפול אינטנסיבי של מדידה ושקילה. כך אנו מגדלים אותם עד לגיל שנה ואז מעבירים אותם אל \"הפעוטון\" (הבריכה שצמודה לבריכת הצבים הבוגרים) ובגיל שנתיים אל \"גן החובה\" בריכת הצבים. ובגיל 3 כאשר הם כבר חזקים והשריון מוצק ויש להם סיכוי לשרוד בטבע אנחנו משחררים אותם אל הים הפתוח במפרץ ים סוף. פארק המצפה התת ימי באילת הוא המקום הראשון בעולם בו הצליחו להרבות מין זה בתנאי שבי. ההצלחה נובעת מלמידת התנאים הסביבתיים ויישומם בכל שלבי הרבייה של צבים אלו.",
+      "html": "לאור הנתונים האלה, החל בפארק המצפה התת ימי פרויקט רביית צבים והשבתם לטבע.<br> בעונת האביב הזכר שלנו \"זכריה\" מפרה את הנקבות ולאחר חודשיים הן עולות על האי החולי שנמצא במרכז הבריכה ומשמש משטח להטלת ביצים ושם הן חופרות בור בעזרת הגפיים האחוריות שלהן ומטילות לתוכו כ- 30 עד 80 ביצים. בסוף ההטלה הנקבות מכסות את הבור בחול,מטשטשות וחוזרות למים. החול והשמש הם אלו שבעצם מבצעים את תהליך הדגירה ממש כמו אינקובאטור טבעי. תוך כמה שבועות (בערך חודשיים) הביצים יבקעו ומתוכם יצאו צבים קטנטנים בגודל של קופסת גפרורים וישקלו כ- 15 גרם בלבד. כמעט כל בעל חיים יכול לאכול אותם בשלב זה, בטבע הם ירוצו לקצף הגלים ויטרפו ע\"י ציפורים, סרטנים ודגים גדולים יותר. רק אחד מתוך אל צבים יגיע לבגרות בטבע!<br> אצלנו, בפארק המצפה התת ימי, ברגע הבקיעה אנו אוספים את הצבים הקטנטנים ומגדלים אותם בבריכות מאחורי הקלעים.<br> כל צב מקבל שלוש ארוחות ביום (האוכל ניתן להם בעזרת פינצטה) בנוסף לאוכל הצבים מקבלים לטיפול אינטנסיבי של מדידה ושקילה. כך אנו מגדלים אותם עד לגיל שנה ואז מעבירים אותם אל \"הפעוטון\" (הבריכה שצמודה לבריכת הצבים הבוגרים) ובגיל שנתיים אל \"גן החובה\" בריכת הצבים.<br> ובגיל 3 כאשר הם כבר חזקים והשריון מוצק ויש להם סיכוי לשרוד בטבע אנחנו משחררים אותם אל הים הפתוח במפרץ ים סוף.<br> פארק המצפה התת ימי באילת הוא המקום הראשון בעולם בו הצליחו להרבות מין זה בתנאי שבי. ההצלחה נובעת מלמידת התנאים הסביבתיים ויישומם בכל שלבי הרבייה של צבים אלו."
+    },
+    {
+      "type": "iframe",
+      "src": "https://my.wildlifecomputers.com/data/map/?id=66f4138154a42016e003e9f7",
+      "title": null
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A8%D7%91%D7%99%D7%99%D7%94-%D7%95%D7%94%D7%A9%D7%91%D7%AA-%D7%A6%D7%91%D7%99-%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f19fdfbe3-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

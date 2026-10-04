@@ -23,6 +23,9 @@ export function normalizeUrl(u, base = BASE) {
     const url = new URL(u, base);
     if (!/^https?:$/.test(url.protocol)) return null;
     url.hash = '';
+    // canonical percent-encoding (%d7 vs %D7) and trailing slash so one page = one URL
+    try { url.pathname = encodeURI(decodeURI(url.pathname)); } catch {}
+    if (!url.pathname.endsWith('/') && !/\.[a-z0-9]{2,5}$/i.test(url.pathname)) url.pathname += '/';
     for (const k of [...url.searchParams.keys()]) if (/^(utm_|fbclid|gclid|_ga)/.test(k)) url.searchParams.delete(k);
     url.hostname = url.hostname.replace(/^www\./, '') === host ? new URL(BASE).hostname : url.hostname;
     return url.toString();

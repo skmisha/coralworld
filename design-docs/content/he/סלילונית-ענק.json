@@ -1,0 +1,462 @@
+{
+  "source": "https://coralworld.co.il/%D7%A1%D7%9C%D7%99%D7%9C%D7%95%D7%A0%D7%99%D7%AA-%D7%A2%D7%A0%D7%A7/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.842Z",
+  "seo": {
+    "title": "סלילונית ענק | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "סלילונית ענק | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/",
+      "twitter:card": "summary",
+      "twitter:title": "סלילונית ענק | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#article",
+            "name": "סלילונית ענק | המצפה התת ימי",
+            "headline": "סלילונית ענק",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "datePublished": "2020-06-11T15:45:54+03:00",
+            "dateModified": "2020-08-13T09:30:20+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#listItem",
+                  "name": "סלילונית ענק"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#listItem",
+                "position": 3,
+                "name": "סלילונית ענק",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#webpage",
+            "url": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/",
+            "name": "סלילונית ענק | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "datePublished": "2020-06-11T15:45:54+03:00",
+            "dateModified": "2020-08-13T09:30:20+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "סלילונית ענק"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/",
+    "x-default": "https://coralworld.co.il/%d7%a1%d7%9c%d7%99%d7%9c%d7%95%d7%a0%d7%99%d7%aa-%d7%a2%d7%a0%d7%a7/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/%D7%A1%D7%9C%D7%99%D7%9C%D7%95%D7%A0%D7%99%D7%AA-%D7%A2%D7%A0%D7%A7/",
+      "alt": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "סלילונית ענק"
+    },
+    {
+      "type": "paragraph",
+      "text": "תולעת רב-זיפית אחד הנציגים היפים והצבעוניים של השונית, בן משפחת הצינוריתיים. המין סלילונית ענק מאפיין את שונית האלמוגים בעולם בצבעיהם הרבים: כחול, צהוב, כתום, סגול, חום, אדום ועוד. הם בולטים על גבי מינים של אלמוגים שיחניים ובעיקר גושיים כמו: חרירן, כוכבן, שיטית ואלמוג האש צורבן. את הצבעוניות מעניק לתולעת זר בחנינים (איבר בולט שעליו ריכוז של תאי תחושה). הסלילונית אינה קודחת או חופרת מחילות בשלד האלמוג, אלה מתיישבת על גבי הרקמה החיה של האלמוג, ובונה שלד של נרתיק גירני על גבי האלמוג. גופה נתון בתוך נרתיק מגן וזר בחנינים נשלף או מתכנס דרך פתחו. האלמוג הבונה את שלדו מכסה ברוב המקרים את מרבית הנרתיק, כשרק הפתח חשוף ומהווה קשר מתמיד עם המדיום המימי מסביב. דרך פתח זה מתבצעים התזונה, הנשימה ושחרור תוצרי הרבייה למים. התולעת חייבת לשמור על קצב הגידול והבנייה של הנרתיק באופן שימנע את כיסויו וסתימתו על- ידי שלד האלמוג. לאחר מותה היא מתכסה כליל על-ידי שלד האלמוג. פריטים של מין זה מגיעים לגודל שבין 5-6 ס\"מ. זר הבחנינים עשוי שתי מניפות דמויות משפך סלילוני, המופנות זו לעומת זו. בניגוד לתולעים החופשיות, בהן מוצאים ראש בקדמת הגוף, התנוון הראש בתולעים הישיבות, ובמקומו התפתחו מניפות הסינון המשמשות לאיסוף מזון. תזונת התולעת מתבססת על סינון של חלקיקי מזון אורגניים מן המים. פעולת הסינון מתבצעת על-ידי תנועה מכוונת של ריסים הממוקמים על גבי זר הסינון. תנועת הריסים מזרימה את המים דרך הזר וחלקיקים הנלכדים מועברים הלאה לכיוון הפה. תנועת הריסים אף מאפשרת הזרמה מחודשת של מים \"טריים\" בחמצן לצורך תהליך הנשימה. עם שינוי פתאומי בתאורה כגון הטלת צללים, מתכנסת התולעת במהירות אל תוך הנרתיק וזר הבחנינים הצבעוני נעלם. יכולת ההתכנסות המהירה וסגירת מכסה הנרתיק התפתחו כאמצעי הגנה בפני טריפה.",
+      "html": "תולעת רב-זיפית<br> אחד הנציגים היפים והצבעוניים של השונית, בן משפחת הצינוריתיים.<br> המין סלילונית ענק מאפיין את שונית האלמוגים בעולם בצבעיהם הרבים: כחול, צהוב, כתום, סגול, חום, אדום ועוד.<br> הם בולטים על גבי מינים של אלמוגים שיחניים ובעיקר גושיים כמו: חרירן, כוכבן, שיטית ואלמוג האש צורבן. את הצבעוניות מעניק לתולעת זר בחנינים (איבר בולט שעליו ריכוז של תאי תחושה).<br> הסלילונית אינה קודחת או חופרת מחילות בשלד האלמוג, אלה מתיישבת על גבי הרקמה החיה של האלמוג, ובונה שלד של נרתיק גירני על גבי האלמוג.<br> גופה נתון בתוך נרתיק מגן וזר בחנינים נשלף או מתכנס דרך פתחו. האלמוג הבונה את שלדו מכסה ברוב המקרים את מרבית הנרתיק, כשרק הפתח חשוף ומהווה קשר מתמיד עם המדיום המימי מסביב.<br> דרך פתח זה מתבצעים התזונה, הנשימה ושחרור תוצרי הרבייה למים. התולעת חייבת לשמור על קצב הגידול והבנייה של הנרתיק באופן שימנע את כיסויו וסתימתו על- ידי שלד האלמוג. לאחר מותה היא מתכסה כליל על-ידי שלד האלמוג.<br> פריטים של מין זה מגיעים לגודל שבין 5-6 ס\"מ.<br> זר הבחנינים עשוי שתי מניפות דמויות משפך סלילוני, המופנות זו לעומת זו.<br> בניגוד לתולעים החופשיות, בהן מוצאים ראש בקדמת הגוף, התנוון הראש בתולעים הישיבות, ובמקומו התפתחו מניפות הסינון המשמשות לאיסוף מזון. תזונת התולעת מתבססת על סינון של חלקיקי מזון אורגניים מן המים. פעולת הסינון מתבצעת על-ידי תנועה מכוונת של ריסים הממוקמים על גבי זר הסינון. תנועת הריסים מזרימה את המים דרך הזר וחלקיקים הנלכדים מועברים הלאה לכיוון הפה. תנועת הריסים אף מאפשרת הזרמה מחודשת של מים \"טריים\" בחמצן לצורך תהליך הנשימה.<br> עם שינוי פתאומי בתאורה כגון הטלת צללים, מתכנסת התולעת במהירות אל תוך הנרתיק וזר הבחנינים הצבעוני נעלם.<br> יכולת ההתכנסות המהירה וסגירת מכסה הנרתיק התפתחו כאמצעי הגנה בפני טריפה."
+    },
+    {
+      "type": "paragraph",
+      "text": "מערכת יחסי- הגומלין של תולעת הסלילונית ישיבה על האלמוגים הנה הכרחית מבחינת התולעים, אך אין כך מבחינת האלמוג. ההתיישבות על גבי מצע חי כמו אלמוגים, מקנה לתולעים יתרון מבחינת התחרות שלהן על מקום ומזון עם בע\"ח ישיבים אחרים. למרות שאין התולעים קודחות בשלד האלמוג הרי שבמידה מסוימת הן יוצרות חללים בשלדו העלולים להחליש את עמידותו של האלמוג בסערות. לעומת זאת, יתכן כי הזרמת המים על ידי זר הבחנינים של הסלילונית מגבירה את מחזור המים בסמוך לאלמוג ומביאה עמה חלקיקי מזון נוספים אל הפוליפים שלו.",
+      "html": "מערכת יחסי- הגומלין של תולעת הסלילונית<br> ישיבה על האלמוגים הנה הכרחית מבחינת התולעים, אך אין כך מבחינת האלמוג. ההתיישבות על גבי מצע חי כמו אלמוגים, מקנה לתולעים יתרון מבחינת התחרות שלהן על מקום ומזון עם בע\"ח ישיבים אחרים. למרות שאין התולעים קודחות בשלד האלמוג הרי שבמידה מסוימת הן יוצרות חללים בשלדו העלולים להחליש את עמידותו של האלמוג בסערות. לעומת זאת, יתכן כי הזרמת המים על ידי זר הבחנינים של הסלילונית מגבירה את מחזור המים בסמוך לאלמוג ומביאה עמה חלקיקי מזון נוספים אל הפוליפים שלו."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A1%D7%9C%D7%99%D7%9C%D7%95%D7%A0%D7%99%D7%AA-%D7%A2%D7%A0%D7%A7/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f46a32261-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

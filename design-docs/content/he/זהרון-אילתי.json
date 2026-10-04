@@ -1,0 +1,921 @@
+{
+  "source": "https://coralworld.co.il/%D7%96%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%99%D7%9C%D7%AA%D7%99/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.826Z",
+  "seo": {
+    "title": "זהרון אילתי | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "זהרון אילתי | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/",
+      "twitter:card": "summary",
+      "twitter:title": "זהרון אילתי | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#article",
+            "name": "זהרון אילתי | המצפה התת ימי",
+            "headline": "זהרון אילתי",
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/זהרון-הדור-דג-השמש.-דגים-נדירים.jpg",
+              "width": 800,
+              "height": 532,
+              "caption": "זהרון הדור – דג ממשפחת העקרבנוניים"
+            },
+            "datePublished": "2025-12-21T09:44:30+02:00",
+            "dateModified": "2025-12-22T11:33:40+02:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#webpage"
+            },
+            "articleSection": "זני דגים, זהרון, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%96%d7%a0%d7%99-%d7%93%d7%92%d7%99%d7%9d/#listItem",
+                  "name": "זני דגים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%96%d7%a0%d7%99-%d7%93%d7%92%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "זני דגים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%96%d7%a0%d7%99-%d7%93%d7%92%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#listItem",
+                  "name": "זהרון אילתי"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#listItem",
+                "position": 4,
+                "name": "זהרון אילתי",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/%d7%96%d7%a0%d7%99-%d7%93%d7%92%d7%99%d7%9d/#listItem",
+                  "name": "זני דגים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/galistudio_manage/#author",
+            "url": "https://coralworld.co.il/author/galistudio_manage/",
+            "name": "galistudio_manage",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/7453ffa50b6081fd08b7769605589f75193e16022b9c2f2416594ee9f4423172?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "galistudio_manage"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#webpage",
+            "url": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/",
+            "name": "זהרון אילתי | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/galistudio_manage/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/זהרון-הדור-דג-השמש.-דגים-נדירים.jpg",
+              "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#mainImage",
+              "width": 800,
+              "height": 532,
+              "caption": "זהרון הדור – דג ממשפחת העקרבנוניים"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/#mainImage"
+            },
+            "datePublished": "2025-12-21T09:44:30+02:00",
+            "dateModified": "2025-12-22T11:33:40+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "הזהרון האילתי"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/",
+    "x-default": "https://coralworld.co.il/%d7%96%d7%94%d7%a8%d7%95%d7%9f-%d7%90%d7%99%d7%9c%d7%aa%d7%99/"
+  },
+  "blocks": [
+    {
+      "type": "cta",
+      "text": "פתח תפריט נגישות",
+      "href": "https://coralworld.co.il/%D7%96%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%99%D7%9C%D7%AA%D7%99/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-white.png",
+      "alt": "Handicapped logo white",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-black.png",
+      "alt": "Handicapped logo black",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נגישות"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מונוכרום",
+        "ניגודיות גבוה",
+        "הדגש קישורים",
+        "אבג | טקסט קטן",
+        "אבג | טקסט בינוני",
+        "אבג | טקסט גדול",
+        "גודל טקסט רגיל",
+        "אפס הגדרות"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/01/new-logo-white.png",
+      "alt": "",
+      "width": 2800,
+      "height": 1419
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/he.png",
+      "alt": "Heb",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Eng",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/flags/egypt-flag-s.png",
+      "alt": "ערבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png",
+      "alt": "צרפתית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png",
+      "alt": "רוסית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fi.png",
+      "alt": "פינית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png",
+      "alt": "גרמנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png",
+      "alt": "איטלקית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/lv.png",
+      "alt": "לטבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png",
+      "alt": "פולנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אטרקציות למשפחה באילתאטרקציות למשפחה באילתצלילה עם כרישיםקורל 2000סיור מאחורי הקלעיםתכנון ביקור בפארקארועיםקבוצותמשחקים אינטראקטיבייםחוברת יצירה לילדים – הרפתקאה במעמקי היםמפה אינטראקטיביתביתביתבית",
+        "תצוגות ובעלי חייםמגדל המצפה התת ימיעולם הכרישיםאקווריום דגים נדיריםשונית ים סוףבריכת צביםיצורים ממעמקיםביתביתבית",
+        "אקווה דום",
+        "סיפור הים האדוםפרוייקט שחרור צבים-מעקב LIVEסיפור הים האדוםידידי הים האדוםעמותת ‘צלול’- שומרים על הים, החופים והנחלים כבר 25 שנהלחיי הים הזה!ביתבית",
+        "חדשות ומאמרים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/lionfish.svg",
+      "alt": "",
+      "width": 215,
+      "height": 150
+    },
+    {
+      "type": "paragraph",
+      "text": "הזהרון האילתי (Pterois miles) הוא מהדגים הבולטים ביותר בשוניות אילת. השילוב בין יופי עוצר נשימה למנגנוני הגנה מתוחכמים הופך אותו לאחד היצורים המרתקים ביותר לצפייה מקרוב (ובבטחה). הוא שייך למשפחת העקרבנוניים – משפחה של דגים יפים אך כאלו שדורשים כבוד וזהירות.",
+      "html": "הזהרון האילתי (<span class=\"italic font-serif text-park-cyan\">Pterois miles</span>) הוא מהדגים הבולטים ביותר בשוניות אילת. השילוב בין יופי עוצר נשימה למנגנוני הגנה מתוחכמים הופך אותו לאחד היצורים המרתקים ביותר לצפייה מקרוב (ובבטחה).\nהוא שייך למשפחת <strong class=\"text-white font-bold text-park-cyan\">העקרבנוניים</strong> – משפחה של דגים יפים אך כאלו שדורשים כבוד וזהירות."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/lionfish-F.svg",
+      "alt": "",
+      "width": 215,
+      "height": 150
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "איך מזהים זהרון?"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/%D7%96%D7%91%D7%A8%D7%94-%D7%AA%D7%AA-%D7%99%D7%9E%D7%99%D7%AA-100.jpg",
+      "alt": "זברה תת ימית",
+      "width": 600,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "זברה תת-ימית"
+    },
+    {
+      "type": "paragraph",
+      "text": "גוף מעוטר בפסים אדומים-חומים, לבנים ושחורים.",
+      "html": "גוף מעוטר בפסים אדומים-חומים, לבנים ושחורים."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/%D7%A1%D7%A0%D7%A4%D7%99%D7%A8%D7%99-%D7%9E%D7%A0%D7%99%D7%A4%D7%94-100.jpg",
+      "alt": "סנפירי מניפה",
+      "width": 601,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סנפירי מניפה"
+    },
+    {
+      "type": "paragraph",
+      "text": "סנפירי חזה ארוכים ופרושים כמניפה מרשימה.",
+      "html": "סנפירי חזה ארוכים ופרושים כמניפה מרשימה."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/13-%D7%A7%D7%95%D7%A6%D7%99%D7%9D-100.jpg",
+      "alt": "13 קוצים",
+      "width": 601,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "13 קוצים"
+    },
+    {
+      "type": "paragraph",
+      "text": "קוצים זקופים בסנפירי הגב שבהם מצוי הארס.",
+      "html": "קוצים זקופים בסנפירי הגב שבהם מצוי הארס."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/%D7%AA%D7%A0%D7%95%D7%A2%D7%94-%D7%9E%D7%A8%D7%97%D7%A4%D7%AA-100.jpg",
+      "alt": "תנועה מרחפת",
+      "width": 601,
+      "height": 600
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תנועה מרחפת"
+    },
+    {
+      "type": "paragraph",
+      "text": "תנועה איטית, לרוב בקרבת סלעים, אלמוגים ומערות.",
+      "html": "תנועה איטית, לרוב בקרבת סלעים, אלמוגים ומערות."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/12/dreamstime_xxl_217407826_800x450.jpg",
+      "alt": "Lionfish swimming",
+      "width": 800,
+      "height": 450
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אורח חיים והתנהגות"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "פעיל בלילה"
+    },
+    {
+      "type": "paragraph",
+      "text": "ביום הוא נח במקומות מוצלים, ובלילה יוצא לטרוף דגים וסרטנים.",
+      "html": "ביום הוא נח במקומות מוצלים, ובלילה יוצא לטרוף דגים וסרטנים."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "אשף ההסוואה"
+    },
+    {
+      "type": "paragraph",
+      "text": "דג איטי המשתמש בסנפיריו הגדולים כדי להיראות כ\"חבצלת ים\", מה שמבלבל את הטרף.",
+      "html": "דג איטי המשתמש בסנפיריו הגדולים כדי להיראות כ\"חבצלת ים\", מה שמבלבל את הטרף."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "שואב אבק ימי"
+    },
+    {
+      "type": "paragraph",
+      "text": "אין לו שיניים! הוא שולף את הלסת ושואב את הטרף ביניקה חזקה ומהירה במיוחד.",
+      "html": "אין לו שיניים! הוא שולף את הלסת ושואב את הטרף ביניקה חזקה ומהירה במיוחד."
+    },
+    {
+      "type": "paragraph",
+      "text": "חשוב לדעת! הזהרון אמנם ארסי – אך אינו תוקפני ומגיב רק כשמרגיש מאויים.",
+      "html": "<i class=\"fa-solid fa-circle-info ml-2 text-park-orange\"></i> חשוב לדעת! הזהרון אמנם ארסי – אך אינו תוקפני ומגיב רק כשמרגיש מאויים."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "יופי עם אזהרה"
+    },
+    {
+      "type": "paragraph",
+      "text": "בקוצים של הזהרון מצוי ארס שיכול לגרום לכאב חזק ונפיחות. הצבעים הבולטים אינם מקריים – אלו צבעי אזהרה טבעיים שאומרים: \"אני ארסי – שמרו מרחק\".",
+      "html": "בקוצים של הזהרון מצוי ארס שיכול לגרום לכאב חזק ונפיחות. הצבעים הבולטים אינם מקריים – אלו <strong class=\"text-park-orange\">צבעי אזהרה טבעיים</strong> שאומרים: \"אני ארסי – שמרו מרחק\"."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "רוצים לדעת עוד?"
+    },
+    {
+      "type": "paragraph",
+      "text": "במצפה התת ימי תוכלו לפגוש את הזהרון מקרוב וללמוד עוד על הזהרונים ודגים ארסיים אחרים.",
+      "html": "במצפה התת ימי תוכלו לפגוש את הזהרון מקרוב וללמוד עוד על הזהרונים ודגים ארסיים אחרים."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "זהרון מקומי – וכוכב בינלאומי"
+    },
+    {
+      "type": "paragraph",
+      "text": "הסיפור הכפול של הזהרון בעולם",
+      "html": "הסיפור הכפול של הזהרון בעולם"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "בים האדום (אצלנו)"
+    },
+    {
+      "type": "paragraph",
+      "text": "כאן באילת, הזהרון הוא חלק טבעי, עתיק ובלתי נפרד מהשונית. הוא חי באיזון אקולוגי מושלם עם הסביבה.",
+      "html": "כאן באילת, הזהרון הוא חלק טבעי, עתיק ובלתי נפרד מהשונית. הוא חי באיזון אקולוגי מושלם עם הסביבה."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "בעולם (האוקיינוס האטלנטי)"
+    },
+    {
+      "type": "paragraph",
+      "text": "שם הוא נחשב מין פולש והרסני. ללא טורפים טבעיים, הוא מתרבה במהירות ופוגע באוכלוסיות הדגים המקומיות.",
+      "html": "שם הוא נחשב <strong>מין פולש והרסני</strong>. ללא טורפים טבעיים, הוא מתרבה במהירות ופוגע באוכלוסיות הדגים המקומיות."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "הידעתם?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תרופה מהטבע?"
+    },
+    {
+      "type": "paragraph",
+      "text": "חוקרים בודקים שימושים רפואיים עתידיים לארס הזהרון.",
+      "html": "חוקרים בודקים שימושים רפואיים עתידיים לארס הזהרון."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "אשליה אופטית"
+    },
+    {
+      "type": "paragraph",
+      "text": "הצבעים משמשים גם להסוואה וגם לאזהרה – תלוי במרחק ובתאורה.",
+      "html": "הצבעים משמשים גם להסוואה וגם לאזהרה – תלוי במרחק ובתאורה."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מלך הים"
+    },
+    {
+      "type": "paragraph",
+      "text": "לזהרונים בוגרים כמעט ואין טורפים טבעיים בים.",
+      "html": "לזהרונים בוגרים כמעט ואין טורפים טבעיים בים."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "זהרון בצלחת?"
+    },
+    {
+      "type": "paragraph",
+      "text": "הארס מתפרק בחום, ובמדינות מסוימות אוכלים אותם כפתרון לפלישה.",
+      "html": "הארס מתפרק בחום, ובמדינות מסוימות אוכלים אותם כפתרון לפלישה."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "איך פוגשים זהרון במצפה התת-ימי?"
+    },
+    {
+      "type": "paragraph",
+      "text": "לצפות בזהרון מקרוב ובבטחה",
+      "html": "לצפות בזהרון מקרוב ובבטחה"
+    },
+    {
+      "type": "paragraph",
+      "text": "להבין את חוכמת הטבע",
+      "html": "להבין את חוכמת הטבע"
+    },
+    {
+      "type": "paragraph",
+      "text": "ללמוד על החיים מתחת לים",
+      "html": "ללמוד על החיים מתחת לים"
+    },
+    {
+      "type": "paragraph",
+      "text": "\"רק מביטים. לא נוגעים. ומתרשמים מכל רגע.\"",
+      "html": "\"רק מביטים. לא נוגעים. ומתרשמים מכל רגע.\""
+    },
+    {
+      "type": "cta",
+      "text": "רכשו כרטיס כניסה עכשיו",
+      "href": "https://coralworld.co.il/tickets/?step=1"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/loader.gif",
+      "alt": "",
+      "width": 500,
+      "height": 223
+    },
+    {
+      "type": "cta",
+      "text": "✕",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "היי! כאן הצב על הקו, איך אפשר לעזור?"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://backend.chatbase.co/storage/v1/object/public/chat-icons/4a2b9ace-2b3e-43c3-a2d2-a4cd539125cd/IMvz_3tPuoquPeC5bnwkE.jpg",
+      "alt": "צב על הקו",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "iframe",
+      "src": "https://12949398.fls.doubleclick.net/activityi;src=12949398;type=invmedia;cat=coral0;rcb=11;ord=8499709796444;npa=0;auiddc=1919266235.1791095297;uaa=x86;uab=64;uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe6a10h2v9181812485z89225483744za20gzb9225483744zd9225483744xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616985~115938466~115938469~118897920~118897930~120213116~120385423~120469145~120469153~121246027~121246035;epver=2;dc_random=1791095387_saY466gv1bhI2dv4v7USprPz7ufXFuOvJw;_dc_test=1;~oref=https%3A%2F%2Fcoralworld.co.il%2F%25D7%2596%25D7%2594%25D7%25A8%25D7%2595%25D7%259F-%25D7%2590%25D7%2599%25D7%259C%25D7%25AA%25D7%2599%2F?",
+      "title": null
+    },
+    {
+      "type": "iframe",
+      "src": "https://coralworld.co.il/%D7%96%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%99%D7%9C%D7%AA%D7%99/",
+      "title": "צב על הקו"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%96%D7%94%D7%A8%D7%95%D7%9F-%D7%90%D7%99%D7%9C%D7%AA%D7%99/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1eee1661cd-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [
+      {
+        "text": "בואו לראות אותו",
+        "href": "https://coralworld.co.il/tickets/?step=1"
+      }
+    ],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

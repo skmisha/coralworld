@@ -1,0 +1,505 @@
+{
+  "source": "https://coralworld.co.il/%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%AA-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.819Z",
+  "seo": {
+    "title": "אלמוג ושונית האלמוגים | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "אלמוג ושונית האלמוגים | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "אלמוג ושונית האלמוגים | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#article",
+            "name": "אלמוג ושונית האלמוגים | המצפה התת ימי",
+            "headline": "אלמוג ושונית האלמוגים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/pazit-big.jpg",
+              "width": 788,
+              "height": 517,
+              "caption": "אלמוג ודג"
+            },
+            "datePublished": "2020-06-11T16:09:59+03:00",
+            "dateModified": "2022-07-07T13:54:39+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                  "name": "אלמוג ושונית האלמוגים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "אלמוג ושונית האלמוגים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+            "name": "אלמוג ושונית האלמוגים | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/pazit-big.jpg",
+              "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage",
+              "width": 788,
+              "height": 517,
+              "caption": "אלמוג ודג"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-06-11T16:09:59+03:00",
+            "dateModified": "2022-07-07T13:54:39+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "אלמוג ושונית האלמוגים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%90%d7%9c%d7%9e%d7%95%d7%92-%d7%95%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/pazit-big.jpg",
+      "alt": "אלמוג ודג",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "אלמוג ושונית האלמוגים"
+    },
+    {
+      "type": "paragraph",
+      "text": "אלמוג הנו בע\"ח החי במושבות של פוליפים.",
+      "html": "אלמוג הנו בע\"ח החי במושבות של פוליפים."
+    },
+    {
+      "type": "paragraph",
+      "text": "בקצהו של כל פוליפ, זרועות צייד ובמרכזן מצוי הפה. בעזרת זרועות הצייד לוכד הפוליפ את מזונו – יצורי ים זעירים. כל פוליפ במושבה עצמאי. חלק מן האלמוגים בעלי פוליפ בודד אולם לרובם רקמה משותפת המחברת בין הפוליפים. האלמוגים מחולקים ל-2 קבוצות עיקריות: אלמוגי שש ואלמוגי שמונה. אלמוגי שש הנם אלמוגי אבן, בכל פוליפ שש זרועות צייד או כפולות של שש. אלמוגי אבן מפרישים סידן מימנו נבנה שלד האלמוג. אלמוגי ה-שש מתחלקים לתת קבוצות: אלמוגי אבן מסיביים, אלמוגי אבן מסועפים, אלמוגי אבן מרפדים ואלמוגי אבן שתופיים. אלמוגי אבן מסיביים הנם אלמוגים בוני שונית משום שהאלמוג הגדל כלפי מעלה חי בחלקה העליון והבסיס שאינו חשוף לאור מת ומהווה מצע להתיישבות אלמוגים. אלמוגי השמונה הנם האלמוגים הרכים. לכל פוליפ שמונה זרועות בלבד ולחלקן מחטי שלד גירניות לאורך הרקמה, כל אלמוגי השש וחלק מאלמוגי השמונה, מכילים ברקמת גופם אצות חד-תאיות. האצות והאלמוג חיים חיי שיתוף. האלמוג מגן על האצה מפני טורפים ואילו האצה מספקת חלק ממרכיבי התזונה של האלמוג, וכן לוקחת חלק בתהליך השקעת הסידן ובניית השלד הסידני של האלמוג. קיום אצות אלה דורש אור וזאת לתהליך ההטמעה שבו תא הצמח מייצר בעזרת אנרגיית אור את החומרים הדרושים לגידולו, לכן אלמוגי אבן חיים בעומקים שקרינת השמש מגיעה אליהם. כל האלמוגים ניזונים מיצורי ים זעירים הנקראים: פלנקטון. האלמוגים מתרבים ברוויה מינית וברוויה אל מינית.",
+      "html": "בקצהו של כל פוליפ, זרועות צייד ובמרכזן מצוי הפה. בעזרת זרועות הצייד לוכד הפוליפ את מזונו – יצורי ים זעירים. כל פוליפ במושבה עצמאי. חלק מן האלמוגים בעלי פוליפ בודד אולם לרובם רקמה משותפת המחברת בין הפוליפים.<br> האלמוגים מחולקים ל-2 קבוצות עיקריות: אלמוגי שש ואלמוגי שמונה.<br> אלמוגי שש הנם אלמוגי אבן, בכל פוליפ שש זרועות צייד או כפולות של שש. אלמוגי אבן מפרישים סידן מימנו נבנה שלד האלמוג. אלמוגי ה-שש מתחלקים לתת קבוצות:<br> אלמוגי אבן מסיביים, אלמוגי אבן מסועפים, אלמוגי אבן מרפדים ואלמוגי אבן שתופיים. אלמוגי אבן מסיביים הנם אלמוגים בוני שונית משום שהאלמוג הגדל כלפי מעלה חי בחלקה העליון והבסיס שאינו חשוף לאור מת ומהווה מצע להתיישבות אלמוגים. אלמוגי השמונה הנם האלמוגים הרכים. לכל פוליפ שמונה זרועות בלבד ולחלקן מחטי שלד גירניות לאורך הרקמה, כל אלמוגי השש וחלק מאלמוגי השמונה, מכילים ברקמת גופם אצות חד-תאיות. האצות והאלמוג חיים חיי שיתוף. האלמוג מגן על האצה מפני טורפים ואילו האצה מספקת חלק ממרכיבי התזונה של האלמוג, וכן לוקחת חלק בתהליך השקעת הסידן ובניית השלד הסידני של האלמוג.<br> קיום אצות אלה דורש אור וזאת לתהליך ההטמעה שבו תא הצמח מייצר בעזרת אנרגיית אור את החומרים הדרושים לגידולו, לכן אלמוגי אבן חיים בעומקים שקרינת השמש מגיעה אליהם.<br> כל האלמוגים ניזונים מיצורי ים זעירים הנקראים: פלנקטון.<br> האלמוגים מתרבים ברוויה מינית וברוויה אל מינית."
+    },
+    {
+      "type": "paragraph",
+      "text": "אלמוגים – הבנייה הביולוגית של מושבות האלמוגים בשונית נעשית על-ידי יחידות מבנה הנקראות פוליפים. יחידות אלו יוצרות מושבות אלמוגים, בעלי – חיים פשוטים יחסית, שיכולתם להשקיע שלד גירני מסיבי המביא ליצירת השונית. האלמוגים מהווים את אבני הבניין של השונית ואילו אצות גירניות, המסוגלות לבנות אף הן שלד עשוי גיר, מהוות את ה\"דבק\" המלכד ומאחד את אבני הבניין ליצירת המבנה כולו. אלמוגי אבן הינם המרכיב העיקרי של השונית.",
+      "html": "אלמוגים – הבנייה הביולוגית של מושבות האלמוגים בשונית נעשית על-ידי יחידות מבנה הנקראות פוליפים. יחידות אלו יוצרות מושבות אלמוגים, בעלי – חיים פשוטים יחסית, שיכולתם להשקיע שלד גירני מסיבי המביא ליצירת השונית. האלמוגים מהווים את אבני הבניין של השונית ואילו אצות גירניות, המסוגלות לבנות אף הן שלד עשוי גיר, מהוות את ה\"דבק\" המלכד ומאחד את אבני הבניין ליצירת המבנה כולו. אלמוגי אבן הינם המרכיב העיקרי של השונית."
+    },
+    {
+      "type": "paragraph",
+      "text": "פלנולה – פגית, השלב הראשון של הפוליפ לפני התיישבותו ובניית האלמוג. הפגית נוצרת מביצית שהוטלה ע\"י פוליפ נקבי אל מי-הים והופרתה ע\"י זרע שנפלט למים ע\"י פוליפ זכרי. הפגית שטה במי- הים, בעזרת שוטונים המצויים בצידי גופה. עד שהיא מוצאת מקום עליו תתיישב, תגדל, תהפוך לפוליפ ובהמשך תיצור אלמוג ושונית אלמוגים.",
+      "html": "פלנולה – פגית, השלב הראשון של הפוליפ לפני התיישבותו ובניית האלמוג.<br> הפגית נוצרת מביצית שהוטלה ע\"י פוליפ נקבי אל מי-הים והופרתה ע\"י זרע שנפלט למים ע\"י פוליפ זכרי.<br> הפגית שטה במי- הים, בעזרת שוטונים המצויים בצידי גופה. עד שהיא מוצאת מקום עליו תתיישב, תגדל, תהפוך לפוליפ ובהמשך תיצור אלמוג ושונית אלמוגים."
+    },
+    {
+      "type": "paragraph",
+      "text": "פוליפ- בעל-חיים קטן, בעל 6 זרועות או יותר. ניזון מפלנקטון המרחף על פני הים. לפוליפ פה הנמצא במרכז בין זרועותיו. הפוליפ מפריש מגופו חומר המכיל סידן, אשר מסייע בבניית שלד קשיח המקיף אותו, שלד זה הוא האלמוג. בפוליפ מתבצעת פעולת הנצה. כלומר, מתוך פוליפ אחד יכולים להתפתח פוליפים נוספים וכך מושבת הפוליפים גדלה. כל פוליפ מפריש סידן, האלמוג גדל והשונית מתפתחת.",
+      "html": "פוליפ- בעל-חיים קטן, בעל 6 זרועות או יותר. ניזון מפלנקטון המרחף על פני הים.<br> לפוליפ פה הנמצא במרכז בין זרועותיו.<br> הפוליפ מפריש מגופו חומר המכיל סידן, אשר מסייע בבניית שלד קשיח המקיף אותו, שלד זה הוא האלמוג.<br> בפוליפ מתבצעת פעולת הנצה. כלומר, מתוך פוליפ אחד יכולים להתפתח פוליפים נוספים וכך מושבת הפוליפים גדלה. כל פוליפ מפריש סידן, האלמוג גדל והשונית מתפתחת."
+    },
+    {
+      "type": "paragraph",
+      "text": "פלנקטון- אורגניזמים (בעלי חיים וצמחים) זעירים הצפים ומרחפים מתחת לפני המים ונסחפים עם זרמי המים בעיקר בימים וגם במים מתוקים. הפלנקטון על מרכיביו משמש מקור מזונם העיקרי של בעלי החיים בים.",
+      "html": "פלנקטון- אורגניזמים (בעלי חיים וצמחים) זעירים הצפים ומרחפים מתחת לפני המים ונסחפים עם זרמי המים בעיקר בימים וגם במים מתוקים. הפלנקטון על מרכיביו משמש מקור מזונם העיקרי של בעלי החיים בים."
+    },
+    {
+      "type": "paragraph",
+      "text": "שונית האלמוגים – סביבה ימית עשירה המשמשת בית גידול ליצורים ימיים רבים. שוניות מתפתחות בימים ואוקיינוסים טרופיים וסוב טרופיים( tropikos מיוונית סיבובי- , אזור כדור הארץ שמשני עברי קו המשווה ובסמוך אליהם) ביו קווי המשווה 30 מעלות צפונה ו- 30 מעלות דרום, הסיבה העיקרית לכך היא טמפ' המים החמימה שאינה יורדת מ- 20 מעלות צלזיוס ואינה עולה על 30 מעלות. שוניות האלמוגים בעולם נמצאות באוסטרליה, איי מיקרונזיה, פפואה-גינאה החדשה, איי פולינזיה הצרפתית, פיליפינים, הוואי וביפן שבאוקיינוס השקט, איים מאלדאביים, מדגסקר ובאיי סיישל שבאוקיינוס ההודי, איים קריביים באוקיינוס האטלנטי ובסיני שבצפון ים-סוף.שונית האלמוגים שבים סוף היא הצפונית ביותר.",
+      "html": "שונית האלמוגים – סביבה ימית עשירה המשמשת בית גידול ליצורים ימיים רבים. שוניות מתפתחות בימים ואוקיינוסים טרופיים וסוב טרופיים( tropikos מיוונית סיבובי- , אזור כדור הארץ שמשני עברי קו המשווה ובסמוך אליהם) ביו קווי המשווה 30 מעלות צפונה ו- 30 מעלות דרום, הסיבה העיקרית לכך היא טמפ' המים החמימה שאינה יורדת מ- 20 מעלות צלזיוס ואינה עולה על 30 מעלות. שוניות האלמוגים בעולם נמצאות באוסטרליה, איי מיקרונזיה, פפואה-גינאה החדשה, איי פולינזיה הצרפתית, פיליפינים, הוואי וביפן שבאוקיינוס השקט, איים מאלדאביים, מדגסקר ובאיי סיישל שבאוקיינוס ההודי, איים קריביים באוקיינוס האטלנטי ובסיני שבצפון ים-סוף.שונית האלמוגים שבים סוף היא הצפונית ביותר."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%90%D7%9C%D7%9E%D7%95%D7%92-%D7%95%D7%A9%D7%95%D7%A0%D7%99%D7%AA-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f37a58988-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,563 @@
+{
+  "source": "https://coralworld.co.il/en/aquadome/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.808Z",
+  "seo": {
+    "title": "The Underwater Observatory Tower | 3D Theater | AquaDome",
+    "description": "Experience a 3D humpback whale encounter! Witness these giants like never before at our Aquadome, Underwater Observatory Tower - Eilat.",
+    "canonical": "https://coralworld.co.il/en/aquadome/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "The Underwater Observatory Tower | 3D Theater | AquaDome",
+      "og:description": "Experience a 3D humpback whale encounter! Witness these giants like never before at our Aquadome, Underwater Observatory Tower - Eilat.",
+      "og:url": "https://coralworld.co.il/en/aquadome/",
+      "twitter:card": "summary",
+      "twitter:title": "The Underwater Observatory Tower | 3D Theater | AquaDome",
+      "twitter:description": "Experience a 3D humpback whale encounter! Witness these giants like never before at our Aquadome, Underwater Observatory Tower - Eilat."
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/aquadome/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/aquadome/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/aquadome/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/aquadome/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/aquadome/#listItem",
+                  "name": "AquaDome"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/aquadome/#listItem",
+                "position": 2,
+                "name": "AquaDome",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/aquadome/#webpage",
+            "url": "https://coralworld.co.il/en/aquadome/",
+            "name": "The Underwater Observatory Tower | 3D Theater | AquaDome",
+            "description": "Experience a 3D humpback whale encounter! Witness these giants like never before at our Aquadome, Underwater Observatory Tower - Eilat.",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/aquadome/#breadcrumblist"
+            },
+            "datePublished": "2020-01-20T11:39:35+02:00",
+            "dateModified": "2024-03-06T14:07:12+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "New! An exciting journey into the kingdom of whales.",
+    "אקווה דום- להביט ללוייתנים בעיניים!"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/aquadome/",
+    "en": "https://coralworld.co.il/en/aquadome/",
+    "x-default": "https://coralworld.co.il/aquadome/"
+  },
+  "blocks": [
+    {
+      "type": "video",
+      "src": "https://coral-world.s3.eu-central-1.amazonaws.com/aqua_doom.mp4",
+      "poster": "https://coralworld.co.il/en/aquadome/"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/07/aquadom-logo-138-e1709718454643.png",
+      "alt": "aquadome",
+      "width": 122,
+      "height": 68
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/07/aquadone-mobile.png",
+      "alt": "",
+      "width": 138,
+      "height": 81
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "New! An exciting journey into the kingdom of whales."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "When was the last time a whale soared inches over your head?"
+    },
+    {
+      "type": "paragraph",
+      "text": "The AquaDome breaks the deep-sea barrier, bringing you eye-to-eye with Maui's humpback whales in their realm beneath the waves. Explore the kingdom of these incredible ocean mammals in our 3D AquaDome experience. Dive into their world and uncover the secrets of the humpback whales. Discover these intelligent and spiritual creatures' dynamic lives, journeys, and social bonds underwater in the first-of-its-kind 3D AquaDome at the Underwater Observatory Eilat.",
+      "html": "The AquaDome breaks the deep-sea barrier, bringing you eye-to-eye with Maui's humpback whales in their realm beneath the waves. Explore the kingdom of these incredible ocean mammals in our 3D AquaDome experience. Dive into their world and uncover the secrets of the humpback whales. Discover these intelligent and spiritual creatures' dynamic lives, journeys, and social bonds underwater in the first-of-its-kind 3D AquaDome at the Underwater Observatory Eilat."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/02/Dome-Palma-Aquarium-1.jpg",
+      "alt": "aquadome1",
+      "width": 1157,
+      "height": 896
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "אקווה דום- להביט ללוייתנים בעיניים!"
+    },
+    {
+      "type": "paragraph",
+      "text": "חוויה עוצמתית וחדשה בפארק המצפה התת ימי- אולם קולנוע ייחודי המאפשר לצפות ולחוש בלוויתנים בגודל מלא וב 360 מעלות! בואו והצטרפו לחוויה (נוספת) ובלתי נשכחת ותחוו היכרות עם יונקי הענק הכי ידידותיים שיש!",
+      "html": "<b>חוויה עוצמתית וחדשה בפארק המצפה התת ימי- אולם קולנוע ייחודי המאפשר לצפות ולחוש בלוויתנים בגודל מלא וב 360 מעלות! בואו והצטרפו לחוויה (נוספת) ובלתי נשכחת ותחוו היכרות עם יונקי הענק הכי ידידותיים שיש!</b>"
+    },
+    {
+      "type": "paragraph",
+      "text": "דמיינו אתכם נכנסים לתוך מבנה עם כיפה עגולה. אתם מתיישבים בכיסאות יחד עם קהל שהגיע לביקור בפארק המצפה התת ימי בדיוק כמוכם, ומתרווחים. ואז חשיכה משתררת ואתם נכנסים בחושך מוחלט היישר לאוקיינוס- לעולמם המיסתורי של הלוויתנים, וליתר דיוק- של לוויתני הגבנון (לוויתן גדול סנפיר), חוויה שעוטפת אתכם מכל כיוון, 360 מעלות, קהל המבקרים מתרגש סביבכם, מבוגרים כילדים, כי בעצם כולכם חווים יחד את התחושה של צוללנים שצוללים לצד היונקים המופלאים הללו, מתקרבים אליהם, מקשיבים לקולותיהם ומתאהבים בהם.",
+      "html": "דמיינו אתכם נכנסים לתוך מבנה עם כיפה עגולה. אתם מתיישבים בכיסאות יחד עם קהל שהגיע לביקור בפארק המצפה התת ימי בדיוק כמוכם, ומתרווחים. ואז חשיכה משתררת ואתם נכנסים בחושך מוחלט היישר לאוקיינוס- לעולמם המיסתורי של הלוויתנים, וליתר דיוק- של לוויתני הגבנון (לוויתן גדול סנפיר), חוויה שעוטפת אתכם מכל כיוון, 360 מעלות, קהל המבקרים מתרגש סביבכם, מבוגרים כילדים, כי בעצם כולכם חווים יחד את התחושה של צוללנים שצוללים לצד היונקים המופלאים הללו, מתקרבים אליהם, מקשיבים לקולותיהם ומתאהבים בהם."
+    },
+    {
+      "type": "paragraph",
+      "text": "פארק המצפה התת ימי מספק אטרקציות למשפחה באילת ולא חדל מלהפתיע, ומדי כמה שנים מחליט לקרב אותנו, קצת יותר, לעולמם של יצורי הים המופלאים, והפעם בחרו עבורנו את הלוויתנים, היונקים הענקיים, האינטיליגנטיים והמרתקים השוכנים במעמקי הים והאוקיינוס. בכיפת האקווה דום תוזמנו לחוות צפייה בסרט שצולם בטכנולוגיה מיוחדת, כך שחווית הצפייה בו היא מרגשת במיוחד והקרובה ביותר לתחושה של צוללן אמיתי במים- 360 מעלות, כך שתוכלו לצפות ביונקים המסקרנים לפרטי פרטים, ולהאזין לקולותיהם, תנועותיהם וכמובן צורת התקשורת הייחודית שלהם- שירים ומזמורים!",
+      "html": "פארק המצפה התת ימי מספק <a href=\"https://coralworld.co.il/%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa_%d7%9c%d7%9e%d7%a9%d7%a4%d7%97%d7%94_%d7%91%d7%90%d7%99%d7%9c%d7%aa/\"><u>אטרקציות למשפחה באילת</u></a> ולא חדל מלהפתיע, ומדי כמה שנים מחליט לקרב אותנו, קצת יותר, לעולמם של יצורי הים המופלאים, והפעם בחרו עבורנו את הלוויתנים, היונקים הענקיים, האינטיליגנטיים והמרתקים השוכנים במעמקי הים והאוקיינוס. בכיפת האקווה דום תוזמנו לחוות צפייה בסרט שצולם בטכנולוגיה מיוחדת, כך שחווית הצפייה בו היא מרגשת במיוחד והקרובה ביותר לתחושה של צוללן אמיתי במים- 360 מעלות, כך שתוכלו לצפות ביונקים המסקרנים לפרטי פרטים, ולהאזין לקולותיהם, תנועותיהם וכמובן צורת התקשורת הייחודית שלהם- שירים ומזמורים!&nbsp;"
+    },
+    {
+      "type": "paragraph",
+      "text": "חווית הצפייה אף מתעצמת כשתוכלו לצפות ביצורים המדהימים הללו בגודל טבעי ולהתפעל מכך שלמרות שהם עצומים בגודלם, הם עדינים וידידותיים להפליא! הסרט מלווה במוסיקה מרגשת ובדיבוב עדין המוסיף לתחושת החוויה. וכדי שתדעו שחשבו כאן על הכל- הילדים מוזמנים לשכב על הגב במתחם מיוחד המחופה בשטיח ולצפות בסרט בשכיבה, חוויה נהדרת במיוחד!",
+      "html": "חווית הצפייה אף מתעצמת כשתוכלו לצפות ביצורים המדהימים הללו בגודל טבעי ולהתפעל מכך שלמרות שהם עצומים בגודלם, הם עדינים וידידותיים להפליא! הסרט מלווה במוסיקה מרגשת ובדיבוב עדין המוסיף לתחושת החוויה. וכדי שתדעו שחשבו כאן על הכל- הילדים מוזמנים לשכב על הגב במתחם מיוחד המחופה בשטיח ולצפות בסרט בשכיבה, חוויה נהדרת במיוחד!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אקווה דום אילת– בואו ללמוד כמה עובדות מעניינות על לוויתני הגבנון:"
+    },
+    {
+      "type": "paragraph",
+      "text": "הלוויתן הגבנוני הוא יונק ימי ממשפחת לוויתני הענק. אורכו יכול להגיע ל-15 מטרים ומשקלו מגיע בקלות ל-27 טון",
+      "html": "הלוויתן הגבנוני הוא יונק ימי ממשפחת לוויתני הענק. אורכו יכול להגיע ל-15 מטרים ומשקלו מגיע בקלות ל-27 טון"
+    },
+    {
+      "type": "paragraph",
+      "text": "למה קוראים לו לוויתן גבנון? מפני שיש לו גב כהה, בטן בהירה, קפלים על הגרון וגיבנת קטנה מול סנפיר הגב, מה שמוביל לשם הנפוץ ״גבנון״",
+      "html": "למה קוראים לו לוויתן גבנון? מפני שיש לו גב כהה, בטן בהירה, קפלים על הגרון וגיבנת קטנה מול סנפיר הגב, מה שמוביל לשם הנפוץ ״גבנון״"
+    },
+    {
+      "type": "paragraph",
+      "text": "הוא יודע לשיר! הלוויתן הגבנוני מעניין במיוחד בזכות שירת המזמורים שלו, שנשמעת למרחקים של מאות ואלפי קילומטרים! למעשה, מדובר בלוויתנים הקולניים והפטפטניים ביותר מכל הלווייתנים, המשמיעים מגוון גדול של צלילים, החל מגניחות, בכי ואפילו נחרות, ומחברים אותם יחד ליצירת שירים קסומים הנמשכים דקות אחדות ועד שעות שלמות!",
+      "html": "הוא יודע לשיר! הלוויתן הגבנוני מעניין במיוחד בזכות שירת המזמורים שלו, שנשמעת למרחקים של מאות ואלפי קילומטרים! למעשה, מדובר בלוויתנים הקולניים והפטפטניים ביותר מכל הלווייתנים, המשמיעים מגוון גדול של צלילים, החל מגניחות, בכי ואפילו נחרות, ומחברים אותם יחד ליצירת שירים קסומים הנמשכים דקות אחדות ועד שעות שלמות!"
+    },
+    {
+      "type": "paragraph",
+      "text": "לוויתני הגבנון הם שחיינים רבי עוצמה, המשתמשים בסנפירי הזנב האדירים שלהם כדי להניע את עצמם דרך המים ולפעמים לצאת מהם לחלוטין בזינוק והתזה אדירים.",
+      "html": "לוויתני הגבנון הם שחיינים רבי עוצמה, המשתמשים בסנפירי הזנב האדירים שלהם כדי להניע את עצמם דרך המים ולפעמים לצאת מהם לחלוטין בזינוק והתזה אדירים."
+    },
+    {
+      "type": "paragraph",
+      "text": "מספר לווייתני הגבנון הצטמצם מאוד לפני האיסור על ציד לווייתנים מסחרי ב-1985, אך מאז השתפרו המספרים בקבוצות אוכלוסייה רבות. כיום, האיומים הגדולים ביותר על לווייתני הגבנון הם התנגשויות עם ספינות והסתבכות בציוד דיג.",
+      "html": "מספר לווייתני הגבנון הצטמצם מאוד לפני האיסור על ציד לווייתנים מסחרי ב-1985, אך מאז השתפרו המספרים בקבוצות אוכלוסייה רבות. כיום, האיומים הגדולים ביותר על לווייתני הגבנון הם התנגשויות עם ספינות והסתבכות בציוד דיג."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אטרקציות למשפחה באילת- תירצו לדעת כמה הושקע ביצירת הסרט בכדי שתחוו את עולמם המיסתורי של הלוויתנים?"
+    },
+    {
+      "type": "paragraph",
+      "text": "הכל החל מזה שחיפשנו שידרוג לטכנולוגיה שתחליף את האושנריום, טכנולוגיה שהיא לא מלאכותית שבה אתם תוכלו להיות ולחוות חלק מההתרחשות. כאן הצלחנו, לראשונה בעולם, לקיים הקרנה של סרט אמיתי בתלת מימד של 360 מעלות ולייצר חוויה אישית שהצופה מהווה חלק ממנה.",
+      "html": "הכל החל מזה שחיפשנו שידרוג לטכנולוגיה שתחליף את האושנריום, טכנולוגיה שהיא לא מלאכותית שבה אתם תוכלו להיות ולחוות חלק מההתרחשות. כאן הצלחנו, לראשונה בעולם, לקיים הקרנה של סרט אמיתי בתלת מימד של 360 מעלות ולייצר חוויה אישית שהצופה מהווה חלק ממנה."
+    },
+    {
+      "type": "paragraph",
+      "text": "צילום הסרט נעשה באמצעות ארבע (!) מצלמות שצילמו את הלווייתנים ב 360 מעלות, ובאמצעות תוכנה מיוחדת, חיברנו את כל זוויות הצילום לתמונה אחת ולסרט אחד.",
+      "html": "צילום הסרט נעשה באמצעות ארבע (!) מצלמות שצילמו את הלווייתנים ב 360 מעלות, ובאמצעות תוכנה מיוחדת, חיברנו את כל זוויות הצילום לתמונה אחת ולסרט אחד."
+    },
+    {
+      "type": "paragraph",
+      "text": "האתגר הבא שעמד בפנינו היה לצלם בטבע בעל חיים שלא תמיד משתף פעולה וכמובן תנאי מזג אויר ושקיפות של המים, ולקח לנו 2 עונות שלמות באיזור הוואי עד שהצלחנו לקבל מספיק חומרי גלם שיאפשר לנו לערוך את הסרט המדהים שצפיתם בו.",
+      "html": "האתגר הבא שעמד בפנינו היה לצלם בטבע בעל חיים שלא תמיד משתף פעולה וכמובן תנאי מזג אויר ושקיפות של המים, ולקח לנו 2 עונות שלמות באיזור הוואי עד שהצלחנו לקבל מספיק חומרי גלם שיאפשר לנו לערוך את הסרט המדהים שצפיתם בו."
+    },
+    {
+      "type": "paragraph",
+      "text": "בסרט שבו צפיתם או תיצפו מופיעים ארבעה לוויתנים ועוד כמה ״ניצבי משנה״ מהלהקה.",
+      "html": "בסרט שבו צפיתם או תיצפו מופיעים ארבעה לוויתנים ועוד כמה ״ניצבי משנה״ מהלהקה."
+    },
+    {
+      "type": "paragraph",
+      "text": "בצד הטכני, זו מערכת הקרנה של מסך שהוא למעשה חצי כדור, עם שני מקרנים שכל אחד מהם נותן 180 מעלות וביחד 360 מעלות ואז מצליחים לראות תמונה שלמה.",
+      "html": "בצד הטכני, זו מערכת הקרנה של מסך שהוא למעשה חצי כדור, עם שני מקרנים שכל אחד מהם נותן 180 מעלות וביחד 360 מעלות ואז מצליחים לראות תמונה&nbsp; שלמה.&nbsp;"
+    },
+    {
+      "type": "paragraph",
+      "text": "אז קדימה, בואו לביקור בשלל אטרקציות באילת, בפארק המצפה התת ימי ובאקווה דום, הנאה מובטחת- מילה של ליוויתן!",
+      "html": "אז קדימה, בואו לביקור בשלל <a href=\"https://coralworld.co.il/%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa_%d7%9c%d7%9e%d7%a9%d7%a4%d7%97%d7%94_%d7%91%d7%90%d7%99%d7%9c%d7%aa/\"><u>אטרקציות באילת</u></a>, בפארק המצפה התת ימי ובאקווה דום, הנאה מובטחת- מילה של ליוויתן!"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/03/female-humpback-whale-2022-03-07-23-59-34-utc-1024x684.jpeg",
+      "alt": "כריש לוויתן",
+      "width": 1024,
+      "height": 684
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/03/humpback-whales-swimming-underwater-2022-03-04-01-55-08-utc-1024x683.jpg",
+      "alt": "כריש לוויתן",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/03/underwater-view-of-diver-photographing-humpback-wh-2022-03-07-23-57-05-utc-1024x683.jpg",
+      "alt": "כריש לוויתן",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/03/underwater-view-of-humpback-whale-revillagigedo-i-2022-03-07-23-53-47-utc-1024x683.jpg",
+      "alt": "כריש לוויתן",
+      "width": 1024,
+      "height": 683
+    },
+    {
+      "type": "paragraph",
+      "text": "Previous Next",
+      "html": "Previous<br> Next"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Cutting-edge visual and audio technology elevates the AquaDome experience."
+    },
+    {
+      "type": "paragraph",
+      "text": "The AquaDome marks a new era in the confluence of technology and marine observation. This groundbreaking 360-degree experience enables you to connect with humpback whales in their world through 4k imagery, 3D active glasses, and a 7.1 surround sound system. It was crafted with the support and collaboration of science and technology experts, achieving what was previously thought impossible. Developed, produced, and directed by Daniel Opitz of Ocean Mind, the film includes footage from two seasons in the waters around Maui.",
+      "html": "The AquaDome marks a new era in the confluence of technology and marine observation. This groundbreaking 360-degree experience enables you to connect with humpback whales in their world through 4k imagery, 3D active glasses, and a 7.1 surround sound system. It was crafted with the support and collaboration of science and technology experts, achieving what was previously thought impossible. Developed, produced, and directed by Daniel Opitz of Ocean Mind, the film includes footage from two seasons in the waters around Maui."
+    },
+    {
+      "type": "paragraph",
+      "text": "Join us at one of Eilats best attractions: the new AquaDome!",
+      "html": "Join us at one of Eilats best attractions: the new AquaDome!"
+    },
+    {
+      "type": "paragraph",
+      "text": "*The AquaDome is open every day between 10 am and 3 pm, with showings running every hour. No reservations are required. The AquaDome is not suitable for children 3 and under.",
+      "html": "<em>*The AquaDome is open every day between 10 am and 3 pm, with showings running every hour. No reservations are required. The AquaDome is not suitable for children 3 and under.</em>"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/aquadome/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1ebf25475b-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

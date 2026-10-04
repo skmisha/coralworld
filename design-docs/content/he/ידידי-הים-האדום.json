@@ -1,0 +1,751 @@
+{
+  "source": "https://coralworld.co.il/%D7%99%D7%93%D7%99%D7%93%D7%99-%D7%94%D7%99%D7%9D-%D7%94%D7%90%D7%93%D7%95%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.828Z",
+  "seo": {
+    "title": "ידידי הים האדום | המצפה התת ימי",
+    "description": "המצפה התת ימי הוא חלק בלתי נפרד ממפרץ אילת. אנו פועלים לשמירת האיזון הטבעי של המפרץ ובעלי החיים שעבורם הוא בית. הצטרפו אל ידידי הים האדום כדי שנוכל ליהנות מיופיו ומעוצמתו של הטבע",
+    "canonical": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "ידידי הים האדום | המצפה התת ימי",
+      "og:description": "המצפה התת ימי הוא חלק בלתי נפרד ממפרץ אילת. אנו פועלים לשמירת האיזון הטבעי של המפרץ ובעלי החיים שעבורם הוא בית. הצטרפו אל ידידי הים האדום כדי שנוכל ליהנות מיופיו ומעוצמתו של הטבע",
+      "og:url": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "ידידי הים האדום | המצפה התת ימי",
+      "twitter:description": "המצפה התת ימי הוא חלק בלתי נפרד ממפרץ אילת. אנו פועלים לשמירת האיזון הטבעי של המפרץ ובעלי החיים שעבורם הוא בית. הצטרפו אל ידידי הים האדום כדי שנוכל ליהנות מיופיו ומעוצמתו של הטבע"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/#listItem",
+                  "name": "ידידי הים האדום"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/#listItem",
+                "position": 2,
+                "name": "ידידי הים האדום",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/",
+            "name": "ידידי הים האדום | המצפה התת ימי",
+            "description": "המצפה התת ימי הוא חלק בלתי נפרד ממפרץ אילת. אנו פועלים לשמירת האיזון הטבעי של המפרץ ובעלי החיים שעבורם הוא בית. הצטרפו אל ידידי הים האדום כדי שנוכל ליהנות מיופיו ומעוצמתו של הטבע",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/#breadcrumblist"
+            },
+            "datePublished": "2020-11-10T09:35:47+02:00",
+            "dateModified": "2022-10-06T12:36:34+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "ידידי הים האדום"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%99%d7%93%d7%99%d7%93%d7%99-%d7%94%d7%99%d7%9d-%d7%94%d7%90%d7%93%d7%95%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "ידידי הים האדום"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/big-icon.jpg",
+      "alt": "",
+      "width": 135,
+      "height": 112
+    },
+    {
+      "type": "paragraph",
+      "text": "במשך למעלה מארבעה עשורים, מאז הקמנו את המצפה, אנחנו פועלים לשמירת האיזון הטבעי של המפרץ ובעלי החיים שעבורם הוא בית. למענם, וכדי שכולנו נוכל להמשיך ליהנות מיופיו ומעוצמתו של הטבע התת ימי אנחנו מזמינים אתכם להצטרף אל ידידי הים האדום",
+      "html": "במשך למעלה מארבעה עשורים, מאז הקמנו את המצפה, אנחנו פועלים לשמירת האיזון הטבעי של המפרץ ובעלי החיים שעבורם הוא בית. למענם, וכדי שכולנו נוכל להמשיך ליהנות מיופיו ומעוצמתו של הטבע התת ימי אנחנו מזמינים אתכם להצטרף אל<br> <strong>ידידי הים האדום</strong>&nbsp;<img class=\"alignnone size-full wp-image-3066\" src=\"https://coralworld.co.il/wp-content/uploads/2020/11/small-intext-icon.png\" alt=\"\" width=\"21\" height=\"18\">"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/small-intext-icon.png",
+      "alt": "",
+      "width": 21,
+      "height": 18
+    },
+    {
+      "type": "paragraph",
+      "text": "מפרץ אילת נחשב ל\"ים סגור\" המתאפיין בגלים חלשים יחסית ובכניסה מועטה של מזהמים מהים הפתוח. מזג האוויר האזורי, המכתיב מיעוט גשמים וטמפרטורות גבוהות, גורם לאידוי מואץ של מי הים וכתוצאה מכך להעלאת מליחות המים. מאפיינים אלה תורמים לשקיפות המים ולחדירה רבה יותר של קרני שמש לעומקם. כל אלה מהווים תנאים אידיאלים להיווצרות מושבות אלמוגים, שמעבר ליופיין, הן מקור משיכה למאות הדגים ובעלי החיים המאכלסים את מי המפרץ. והים הנפלא הזה הוא חלק מאיתנו",
+      "html": "מפרץ אילת נחשב ל\"ים סגור\" המתאפיין בגלים חלשים יחסית ובכניסה מועטה של מזהמים מהים הפתוח. מזג האוויר האזורי, המכתיב מיעוט גשמים וטמפרטורות גבוהות, גורם לאידוי מואץ של מי הים וכתוצאה מכך להעלאת מליחות המים.<br> מאפיינים אלה תורמים לשקיפות המים ולחדירה רבה יותר של קרני שמש לעומקם. כל אלה מהווים תנאים אידיאלים להיווצרות מושבות אלמוגים, שמעבר ליופיין, הן מקור משיכה למאות הדגים ובעלי החיים המאכלסים את מי המפרץ.<br> <strong>והים הנפלא הזה הוא חלק מאיתנו</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "פגעים רבים, הנובעים מתנופת הפיתוח של מפרץ אילת ואכלוסו, מאיימים על אוצרותיו וגורמים נזק למימיו, ביניהם: פיתוח החופים, כלי שייט, דייג לא מבוקר, פסולת פלסטיק, זליגת ביוב עירוני, עומס יתר של צוללים וכדומה.",
+      "html": "פגעים רבים, הנובעים מתנופת הפיתוח של מפרץ אילת ואכלוסו, מאיימים על אוצרותיו וגורמים נזק למימיו, ביניהם: פיתוח החופים, כלי שייט, דייג לא מבוקר, פסולת פלסטיק, זליגת ביוב עירוני, עומס יתר של צוללים וכדומה."
+    },
+    {
+      "type": "paragraph",
+      "text": "כדי לבלום ולמזער את תוצאות ההרס של כל אלה, אנחנו משקיעים את מירב המשאבים - כלכליים, אנושיים וחינוכיים. במשך שנים אנו פועלים ללא לאות לשימור ולהצלת הטבע התת ימי המתקיים במימי מפרץ אילת, להעלאת המודעות והמעורבות בהגנה על אוצרותיו ולחינוך הדורות הבאים להתחשבות ולשמירה עליו, ועל הסביבה בה כולנו חיים.",
+      "html": "כדי לבלום ולמזער את תוצאות ההרס של כל אלה, אנחנו משקיעים את מירב המשאבים - כלכליים, אנושיים וחינוכיים.<br> במשך שנים אנו פועלים ללא לאות לשימור ולהצלת הטבע התת ימי המתקיים במימי מפרץ אילת, להעלאת המודעות והמעורבות בהגנה על אוצרותיו ולחינוך הדורות הבאים להתחשבות ולשמירה עליו, ועל הסביבה בה כולנו חיים."
+    },
+    {
+      "type": "paragraph",
+      "text": "לאורך השנים אנחנו מנהלים אינספור פעולות הצלה, שיקום ושחרור של בעלי חיים ימיים וכן מגוון פרויקטים מתמשכים כגון: טיפוח הרבייה של צבי ים וסוסוני ים והשבת צאצאיהם לטבע, טיפול באלמוגים פגועים ושיקום שוניות האלמוגים, ופרויקטים נוספים של טיפול בבעלי חיים פצועים שאותרו בים עד שחרורם חזרה למי המפרץ.",
+      "html": "<strong>לאורך השנים אנחנו מנהלים אינספור פעולות הצלה, שיקום ושחרור של בעלי חיים ימיים וכן מגוון פרויקטים מתמשכים כגון: טיפוח הרבייה של צבי ים וסוסוני ים והשבת צאצאיהם לטבע, טיפול באלמוגים פגועים ושיקום שוניות האלמוגים, ופרויקטים נוספים של טיפול בבעלי חיים פצועים שאותרו בים עד שחרורם חזרה למי המפרץ.</strong>"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/join-icon.jpg",
+      "alt": "",
+      "width": 48,
+      "height": 39
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "לשמור על חופים נקיים ולא להשליך בהם פסולת",
+        "להפסיק את השימוש בפלסטיק ובכלים חד פעמיים",
+        "לעבור לשימוש בכלים רב פעמיים בחופים",
+        "לאסוף פסולת שנתקלנו בה בחופים או בים",
+        "לשמור מרחק מהאלמוגים ומשאר בעלי החיים",
+        "להימנע מלהאכיל את בעלי החיים הימיים",
+        "להימנע מהעלאת חול ביציאה מהים עם סנפירים",
+        "למחזר בחוכמה פסולת שאנחנו זורקים"
+      ]
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "paragraph",
+      "text": "יחד אתכם, בסבלנות וברגישות, נצליח לשמור על בעלי החיים במפרץ אילת שנחשב לים הצבעוני בעולם",
+      "html": "יחד אתכם, בסבלנות וברגישות,<br> נצליח לשמור על בעלי החיים במפרץ אילת שנחשב לים הצבעוני בעולם"
+    },
+    {
+      "type": "paragraph",
+      "text": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת.",
+      "html": "<input class=\"wpcf7-form-control wpcf7-submit has-spinner\" type=\"submit\" value=\"שלח\"><span class=\"wpcf7-spinner\"></span><span class=\"wpcf7-form-control-wrap\" data-name=\"rsf-accept\"><span class=\"wpcf7-form-control wpcf7-checkbox wpcf7-validates-as-required\"><span class=\"wpcf7-list-item first last\"><label><input type=\"checkbox\" name=\"rsf-accept[]\" value=\"אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת.\"><span class=\"wpcf7-list-item-label\">אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת.</span></label></span></span></span>"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/5.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/1.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/2.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/3.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/4.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "paragraph",
+      "text": "הצלת צבי הים הנמצאים בסכנת הכחדה!",
+      "html": "<strong>הצלת צבי הים</strong> הנמצאים בסכנת הכחדה!"
+    },
+    {
+      "type": "paragraph",
+      "text": "במפרץ אילת, כמו בכל העולם, צבי הים נמצאים בסכנת הכחדה. זוחלים ימיים אלה, שהינם בעלי ריאות, צריכים לעלות על פני המים כדי לנשום. צבים הנלכדים ברשתות דייגים ובחבלים, אינם יכולים לעלות לנשום ועלולים לטבוע.",
+      "html": "במפרץ אילת, כמו בכל העולם, צבי הים נמצאים בסכנת הכחדה. זוחלים ימיים אלה, שהינם בעלי ריאות, צריכים לעלות על פני המים כדי לנשום. צבים הנלכדים ברשתות דייגים ובחבלים, אינם יכולים לעלות לנשום ועלולים לטבוע."
+    },
+    {
+      "type": "cta",
+      "text": "קרא עוד",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "גורם נוסף וקטלני המוביל להכחדתם הוא שקיות ניילון. צבי הים, הניזונים בעיקר מרכיכות ומספוגים, טועים לזהות את שקיות הניילון הנסחפות לים כמדוזות. הם אוכלים אותן וכתוצאה מכך סובלים מחסימות במערכת העיכול המובילות במקרים רבים לחנק.",
+      "html": "גורם נוסף וקטלני המוביל להכחדתם הוא שקיות ניילון. צבי הים, הניזונים בעיקר מרכיכות ומספוגים, טועים לזהות את שקיות הניילון הנסחפות לים כמדוזות. הם אוכלים אותן וכתוצאה מכך סובלים מחסימות במערכת העיכול המובילות במקרים רבים לחנק."
+    },
+    {
+      "type": "paragraph",
+      "text": "מחקרים מקיפים שביצענו בפארק המצפה התת ימי אפשרו לנו למצוא דרך לעזור לצבי הים ולשמור על אוכלוסייתם.",
+      "html": "מחקרים מקיפים שביצענו בפארק המצפה התת ימי אפשרו לנו למצוא דרך לעזור לצבי הים ולשמור על אוכלוסייתם."
+    },
+    {
+      "type": "paragraph",
+      "text": "במסגרת הפרויקט אנחנו אוספים את הצבים הקטנטנים עם בקיעתם ומגדלים אותם בבריכות שנבנו במיוחד עבורם. שם אנחנו דואגים להם לארוחות מבוקרות ומבצעים אחריהם מעקב מדידה ושקילה.",
+      "html": "במסגרת הפרויקט אנחנו אוספים את הצבים הקטנטנים עם בקיעתם ומגדלים אותם בבריכות שנבנו במיוחד עבורם. שם אנחנו דואגים להם לארוחות מבוקרות ומבצעים אחריהם מעקב מדידה ושקילה."
+    },
+    {
+      "type": "paragraph",
+      "text": "בהגיעם לגיל 3, כשהם כבר חזקים, השריון שלהם מוצק ויש להם סיכוי לשרוד בטבע, אנחנו משחררים אותם אל הים הפתוח במפרץ ים סוף. פארק המצפה התת ימי באילת הוא המקום הראשון בעולם בו הצליחו להרבות מין זה של צבי ים בתנאים מורכבים. ההצלחה נובעת מתהליך מחקר מתמשך ומקיף שכלל לימוד התנאים הסביבתיים ויישומם בכל שלבי הרבייה של הצבים.",
+      "html": "בהגיעם לגיל 3, כשהם כבר חזקים, השריון שלהם מוצק ויש להם סיכוי לשרוד בטבע, אנחנו משחררים אותם אל הים הפתוח במפרץ ים סוף.<br> פארק המצפה התת ימי באילת הוא המקום הראשון בעולם בו הצליחו להרבות מין זה של צבי ים בתנאים מורכבים. ההצלחה נובעת מתהליך מחקר מתמשך ומקיף שכלל לימוד התנאים הסביבתיים ויישומם בכל שלבי הרבייה של הצבים."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/5-1.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/1-1.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/2-1.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/3-1.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/4-1.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "paragraph",
+      "text": "שיקום אלמוגים פרויקט שזכה בפרס חינוך ארצי",
+      "html": "<strong>שיקום אלמוגים</strong> פרויקט שזכה בפרס חינוך ארצי"
+    },
+    {
+      "type": "paragraph",
+      "text": "מיזם נוסף שאנחנו מובילים וגאים בו במשך שנים. מטרת הפרויקט לטפל ולשקם אלמוגים שנפגעו כתוצאה מזיהומים, סערות, כלי שייט וצוללים. מראהו ה\"צומח\" של האלמוג עשוי אולי להטעות, אולם למעשה זהו בעל חיים שבתנאים אופטימליים ממשיך לגדול כל הזמן וניתן אף לטיפול ולשיקום.",
+      "html": "מיזם נוסף שאנחנו מובילים וגאים בו במשך שנים.<br> מטרת הפרויקט לטפל ולשקם אלמוגים שנפגעו כתוצאה מזיהומים, סערות, כלי שייט וצוללים.<br> מראהו ה\"צומח\" של האלמוג עשוי אולי להטעות, אולם למעשה זהו בעל חיים שבתנאים אופטימליים<br> ממשיך לגדול כל הזמן וניתן אף לטיפול ולשיקום."
+    },
+    {
+      "type": "cta",
+      "text": "קרא עוד",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "המשימה שלנו היא לאתר מושבות אלמוגים פגועות במפרץ אילת, לשקמן ולהחזירן לים. במחקר שביצענו נוכחנו לגלות שמכל שבר בודד של אלמוג, גם כאלה שגודלם פחות סנטימטר, ניתן תוך מספר שנים לבנות מושבת אלמוגים עצמאית, ענקית וצבעונית.",
+      "html": "המשימה שלנו היא לאתר מושבות&nbsp;<a href=\"https://coralworld.co.il/he/ArticleItem/144\">אלמוגים</a>&nbsp;פגועות במפרץ אילת, לשקמן ולהחזירן לים.<br> במחקר שביצענו נוכחנו לגלות שמכל שבר בודד של אלמוג, גם כאלה שגודלם פחות סנטימטר, ניתן תוך מספר שנים לבנות מושבת אלמוגים עצמאית, ענקית וצבעונית."
+    },
+    {
+      "type": "paragraph",
+      "text": "במסגרת פעילות השיקום אנחנו נעזרים בשונית מלאכותית כדי ליצור בית גידול מושלם ומהיר ביותר עבור שוכני הים, ואכן, אחוזי ההצלחה שלנו גבוהים באופן מרשים. בניית שונית אלמוגים מפריגמנטים (שברים חלקיים) הנו רעיון ראשוני מסוגו בעולם שפותח על ידי חוקרי פארק המצפה התת-ימי באילת. הודות לניסיון ומחקר של שנים הפכה שיטה זו שפיתחנו למיטבית והידועה ביותר בעולם לשיקום שוניות האלמוגים.",
+      "html": "במסגרת פעילות השיקום אנחנו נעזרים בשונית מלאכותית כדי ליצור בית גידול מושלם ומהיר ביותר עבור שוכני הים, ואכן, אחוזי ההצלחה שלנו גבוהים באופן מרשים.<br> בניית&nbsp;שונית אלמוגים&nbsp;מפריגמנטים (שברים חלקיים) הנו רעיון ראשוני מסוגו בעולם שפותח על ידי חוקרי פארק המצפה התת-ימי באילת. הודות לניסיון ומחקר של שנים הפכה שיטה זו שפיתחנו למיטבית והידועה ביותר בעולם לשיקום שוניות האלמוגים."
+    },
+    {
+      "type": "paragraph",
+      "text": "במהלך השנה אנו מארחים באופן קבוע תלמידים מבתי הספר באילת שמטפלים, מאכילים, שוקלים, מנקים ועוקבים אחר קצב הגידול וההחלמה של האלמוגים הפגועים. בסוף השנה צוות הצוללים של הפארק בשיתוף התלמידים \"שותלים\" את האלמוגים חזרה בשונית הקרובה לחלונות התת ימיים של מגדל המצפה.",
+      "html": "במהלך השנה אנו מארחים באופן קבוע תלמידים מבתי הספר באילת שמטפלים, מאכילים, שוקלים, מנקים ועוקבים אחר קצב הגידול וההחלמה של האלמוגים הפגועים.<br> בסוף השנה צוות הצוללים של הפארק בשיתוף התלמידים \"שותלים\" את האלמוגים חזרה בשונית הקרובה לחלונות התת ימיים של מגדל המצפה."
+    },
+    {
+      "type": "paragraph",
+      "text": "מטרתו המרכזית של הפרויקט - לגדל דור צעיר של שוחרי סביבה הנחשף לסכנות ולאתגרים שהשונית נתקלת בהם כיום, דור של שגרירים שיגדל וידע להוביל ולקבל את ההחלטות הנכונות לשמירת שלומה של השונית בעתיד, לטובת הדורות הבאים.",
+      "html": "מטרתו המרכזית של הפרויקט - לגדל דור צעיר של שוחרי סביבה הנחשף לסכנות ולאתגרים שהשונית נתקלת בהם כיום, דור של שגרירים שיגדל וידע להוביל ולקבל את ההחלטות הנכונות לשמירת שלומה של השונית בעתיד, לטובת הדורות הבאים."
+    },
+    {
+      "type": "paragraph",
+      "text": "שיתוף הפעולה בין המצפה התת ימי באילת לבתי הספר בעיר זכה בפרס חינוך בשנת 2012, והפעילות המתרחבת שלו מעצימה את חשיבות השמירה על מושבות האלמוגים בים.",
+      "html": "שיתוף הפעולה בין המצפה התת ימי באילת לבתי הספר בעיר <strong>זכה בפרס חינוך בשנת 2012</strong>, והפעילות המתרחבת שלו מעצימה את חשיבות השמירה על מושבות האלמוגים בים."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/4-2.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/1-2.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/2-2.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/11/3-2.jpg",
+      "alt": null,
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "paragraph",
+      "text": "רבייה והשבת סוסוני ים למפרץ אילת",
+      "html": "<strong>רבייה והשבת סוסוני ים</strong> למפרץ אילת"
+    },
+    {
+      "type": "paragraph",
+      "text": "פרויקט מרתק שאנחנו מובילים במסירות ובאהבה רבה. סוסון הים הוא בעל חיים עדין מאוד הנמצא בסכנת הכחדה. כדג האיטי ביותר בים, הסוואה היא האמצעי היחיד המאפשר לו להתמודד עם שלל הסכנות המקיפות אותו.",
+      "html": "פרויקט מרתק שאנחנו מובילים במסירות ובאהבה רבה.<br> סוסון הים הוא בעל חיים עדין מאוד הנמצא בסכנת הכחדה. כדג האיטי ביותר בים,<br> הסוואה היא האמצעי היחיד המאפשר לו להתמודד עם שלל הסכנות המקיפות אותו."
+    },
+    {
+      "type": "cta",
+      "text": "קרא עוד",
+      "href": null
+    },
+    {
+      "type": "paragraph",
+      "text": "כדי להגדיל את סיכוייהם של צאצאי סוסון הים להגיע לבגרות, אנחנו מעבירים אותם לאקווריום נפרד עד לגיל בו יהיו גדולים וחזקים דיים לחזור לחיות באזור הצמחייה הימית הטבעית.",
+      "html": "כדי להגדיל את סיכוייהם של צאצאי סוסון הים להגיע לבגרות, אנחנו מעבירים אותם לאקווריום נפרד עד לגיל בו יהיו גדולים וחזקים דיים לחזור לחיות באזור הצמחייה הימית הטבעית."
+    },
+    {
+      "type": "paragraph",
+      "text": "בתוך האקווריום אנו מטפלים בהם, מזינים אותם ובשלב מתקדם יותר מכשירים אותם לתנאי הסביבה הימית הטבעית באמצעות צמחייה מדומה המאפשרת להם להתרגל לזו שבה יחיו עם חזרתם לעולמם האמיתי.",
+      "html": "בתוך האקווריום אנו מטפלים בהם, מזינים אותם ובשלב מתקדם יותר מכשירים אותם לתנאי הסביבה הימית הטבעית באמצעות צמחייה מדומה המאפשרת להם להתרגל לזו שבה יחיו עם חזרתם לעולמם האמיתי."
+    },
+    {
+      "type": "paragraph",
+      "text": "ביום השחרור, צוות הצוללים של הפארק יורד איתם אל סביבתם הטבעית ומשחרר אותם לחופשי.",
+      "html": "ביום השחרור, צוות הצוללים של הפארק יורד איתם אל סביבתם הטבעית ומשחרר אותם לחופשי."
+    },
+    {
+      "type": "paragraph",
+      "text": "צוללי הפארק מתארים את הרגע הזה כהתרוממות רוח לכל הסובבים והמעורבים בגידול סוסוני הים והרחבת מעגל החיים, שלהם ובכלל.",
+      "html": "צוללי הפארק מתארים את הרגע הזה כהתרוממות רוח לכל הסובבים והמעורבים בגידול סוסוני הים והרחבת מעגל החיים, שלהם ובכלל."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%99%D7%93%D7%99%D7%93%D7%99-%D7%94%D7%99%D7%9D-%D7%94%D7%90%D7%93%D7%95%D7%9D/#wpcf7-f2982-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "rsf-fullname",
+          "id": null,
+          "required": false,
+          "label": "שם מלא:"
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "rsf-email",
+          "id": null,
+          "required": false,
+          "label": "כתובת מייל:"
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "rsf-accept[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%99%D7%93%D7%99%D7%93%D7%99-%D7%94%D7%99%D7%9D-%D7%94%D7%90%D7%93%D7%95%D7%9D/#wpcf7-f160-o2",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f6eceb9c1-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

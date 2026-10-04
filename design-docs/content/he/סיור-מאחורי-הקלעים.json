@@ -1,0 +1,461 @@
+{
+  "source": "https://coralworld.co.il/%D7%A1%D7%99%D7%95%D7%A8-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%A7%D7%9C%D7%A2%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.841Z",
+  "seo": {
+    "title": "סיור מאחורי הקלעים – חוויה בלתי נשכחת",
+    "description": "מחפשים אטרקציות באילת? במצפה התת ימי אילת תיהנו ממגוון אטרקציות! שנירקול בפארק לילדים או צלילה עם כרישים, שייט בסירת זכוכית, צלילת היכרות עם צולל מקצועי, שנירקול ועוד. היכנסו!",
+    "canonical": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "סיור מאחורי הקלעים – חוויה בלתי נשכחת",
+      "og:description": "מחפשים אטרקציות באילת? במצפה התת ימי אילת תיהנו ממגוון אטרקציות! שנירקול בפארק לילדים או צלילה עם כרישים, שייט בסירת זכוכית, צלילת היכרות עם צולל מקצועי, שנירקול ועוד. היכנסו!",
+      "og:url": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "סיור מאחורי הקלעים – חוויה בלתי נשכחת",
+      "twitter:description": "מחפשים אטרקציות באילת? במצפה התת ימי אילת תיהנו ממגוון אטרקציות! שנירקול בפארק לילדים או צלילה עם כרישים, שייט בסירת זכוכית, צלילת היכרות עם צולל מקצועי, שנירקול ועוד. היכנסו!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/#listItem",
+                  "name": "סיור מאחורי הקלעים – חוויה בלתי נשכחת!"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "סיור מאחורי הקלעים – חוויה בלתי נשכחת!",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/",
+            "name": "סיור מאחורי הקלעים – חוויה בלתי נשכחת",
+            "description": "מחפשים אטרקציות באילת? במצפה התת ימי אילת תיהנו ממגוון אטרקציות! שנירקול בפארק לילדים או צלילה עם כרישים, שייט בסירת זכוכית, צלילת היכרות עם צולל מקצועי, שנירקול ועוד. היכנסו!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/#breadcrumblist"
+            },
+            "datePublished": "2025-11-19T14:01:37+02:00",
+            "dateModified": "2026-07-12T10:37:01+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "סיור מאחורי הקלעים – חוויה בלתי נשכחת!"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%a1%d7%99%d7%95%d7%a8-%d7%9e%d7%90%d7%97%d7%95%d7%a8%d7%99-%d7%94%d7%a7%d7%9c%d7%a2%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/n0ZktKwzjg8?rel=0&controls=1&showinfo=0&autoplay=0&playsinline=1&loop=1&playlist=n0ZktKwzjg8&enablejsapi=1",
+      "title": "סיור חוויתי אל מאחורי הקלעים"
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "סיור מאחורי הקלעים – חוויה בלתי נשכחת!"
+    },
+    {
+      "type": "paragraph",
+      "text": "סיור מאחורי הקלעים – חוויה בלתי נשכחת!",
+      "html": "<span lang=\"he\" data-olk-copy-source=\"MessageBody\">סיור מאחורי הקלעים – חוויה בלתי נשכחת!</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "בואו לגלות מה באמת קורה מאחורי הקלעים של המצפה התת-ימי עם מדריך צמוד שילווה אתכם למסע מרתק אל הצדדים הנסתרים של הפארק, המקומות שאף מבקר לא נכנס אליהם! תיחשפו למה שקורה מאחורי האקווריומים - איך מטפלים בבעלי החיים, איך מכינים את הארוחות לדגים ולכרישים ואפילו תאכילו צבים בעצמכם! תפגשו צולל שיספר לכם איך נכנסים להאכיל את הכרישים ונשארים רגועים.",
+      "html": "<span lang=\"he\">בואו לגלות מה באמת קורה מאחורי הקלעים של המצפה התת-ימי עם מדריך צמוד שילווה אתכם למסע מרתק אל הצדדים הנסתרים של הפארק, המקומות שאף מבקר לא נכנס אליהם!<br> תיחשפו למה שקורה מאחורי האקווריומים - איך מטפלים בבעלי החיים, איך מכינים את הארוחות לדגים ולכרישים ואפילו תאכילו צבים בעצמכם! תפגשו צולל שיספר לכם איך נכנסים להאכיל את הכרישים ונשארים רגועים</span><span dir=\"ltr\">.</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "זה לא עוד ביקור - זה להציץ אל המערכות שמחזיקות את הכל יחד, לשמוע סיפורים ממקור ראשון, ולהיות חלק מהרגעים המיוחדים ביותר שלנו",
+      "html": "<span lang=\"he\">זה לא עוד ביקור - זה להציץ אל המערכות שמחזיקות את הכל יחד, לשמוע סיפורים ממקור ראשון, ולהיות חלק מהרגעים המיוחדים ביותר שלנו</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "הסיור שמתאים לכל המשפחה וארוך כשעה. קבוצה מונה עד 10 אנשים",
+      "html": "<span lang=\"he\">הסיור שמתאים לכל המשפחה וארוך כשעה. קבוצה מונה עד 10 אנשים</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "הסיור מתחיל ב- 10:30. נקודת המפגש – ליד המפה בכניסה. נא להגיע כ-10 דקות קודם*",
+      "html": "<span lang=\"HE\" data-olk-copy-source=\"MessageBody\">הסיור מתחיל ב- 10:30</span><span dir=\"LTR\">.<br> </span><b><span lang=\"HE\">נקודת המפגש – ליד המפה בכניסה</span></b><b><span dir=\"LTR\">.<br> </span></b><span dir=\"LTR\">נא להגיע כ-10 דקות קודם*</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "עלות השתתפות בסיור – 30 שח לאדם בהזמנה מראש.",
+      "html": "<b><span lang=\"he\">עלות השתתפות בסיור – 30 שח לאדם בהזמנה מראש.</span></b>"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/11/DSC08221-1-1536x1024.jpg",
+      "alt": "",
+      "width": 1439,
+      "height": 959
+    },
+    {
+      "type": "paragraph",
+      "text": "סיור מאחורי הקלעים – חוויה בלתי נשכחת!",
+      "html": "<span lang=\"he\" data-olk-copy-source=\"MessageBody\">סיור מאחורי הקלעים – חוויה בלתי נשכחת!</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "בואו לגלות מה באמת קורה מאחורי הקלעים של המצפה התת-ימי עם מדריך צמוד שילווה אתכם למסע מרתק אל הצדדים הנסתרים של הפארק, המקומות שאף מבקר לא נכנס אליהם! תיחשפו למה שקורה מאחורי האקווריומים - איך מטפלים בבעלי החיים, איך מכינים את הארוחות לדגים ולכרישים ואפילו תאכילו צבים בעצמכם! תפגשו צולל שיספר לכם איך נכנסים להאכיל את הכרישים ונשארים רגועים.",
+      "html": "<span lang=\"he\">בואו לגלות מה באמת קורה מאחורי הקלעים של המצפה התת-ימי עם מדריך צמוד שילווה אתכם למסע מרתק אל הצדדים הנסתרים של הפארק, המקומות שאף מבקר לא נכנס אליהם!<br> תיחשפו למה שקורה מאחורי האקווריומים - איך מטפלים בבעלי החיים, איך מכינים את הארוחות לדגים ולכרישים ואפילו תאכילו צבים בעצמכם! תפגשו צולל שיספר לכם איך נכנסים להאכיל את הכרישים ונשארים רגועים</span><span dir=\"ltr\">.</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "זה לא עוד ביקור - זה להציץ אל המערכות שמחזיקות את הכל יחד, לשמוע סיפורים ממקור ראשון, ולהיות חלק מהרגעים המיוחדים ביותר שלנו",
+      "html": "<span lang=\"he\">זה לא עוד ביקור - זה להציץ אל המערכות שמחזיקות את הכל יחד, לשמוע סיפורים ממקור ראשון, ולהיות חלק מהרגעים המיוחדים ביותר שלנו</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "הסיור שמתאים לכל המשפחה וארוך כשעה. קבוצה מונה עד 10 אנשים",
+      "html": "<span lang=\"he\">הסיור שמתאים לכל המשפחה וארוך כשעה. קבוצה מונה עד 10 אנשים</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "הסיור מתחיל ב- 10:30. נקודת המפגש – ליד המפה בכניסה. נא להגיע כ-10 דקות קודם*",
+      "html": "<span lang=\"HE\" data-olk-copy-source=\"MessageBody\">הסיור מתחיל ב- 10:30</span><span dir=\"LTR\">.<br> </span><b><span lang=\"HE\">נקודת המפגש – ליד המפה בכניסה</span></b><b><span dir=\"LTR\">.<br> </span></b><span dir=\"LTR\">נא להגיע כ-10 דקות קודם*</span>"
+    },
+    {
+      "type": "paragraph",
+      "text": "עלות השתתפות בסיור – 30 שח לאדם בהזמנה מראש.",
+      "html": "<b><span lang=\"he\">עלות השתתפות בסיור – 30 שח לאדם בהזמנה מראש.</span></b>"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A1%D7%99%D7%95%D7%A8-%D7%9E%D7%90%D7%97%D7%95%D7%A8%D7%99-%D7%94%D7%A7%D7%9C%D7%A2%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f55a759bb-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

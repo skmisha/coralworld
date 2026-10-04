@@ -1,0 +1,500 @@
+{
+  "source": "https://coralworld.co.il/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%A0%D7%A4%D7%95%D7%97%D7%99%D7%AA%D7%99%D7%99%D7%9D-%D7%90%D7%91%D7%95-%D7%A0%D7%A4%D7%97%D7%90/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.835Z",
+  "seo": {
+    "title": "משפחת הנפוחיתיים (אבו –נפחא) | המצפה התת ימי",
+    "description": "דג הנפוחית (אבו נפחא), הוא שחיין איטי החי באזור השונית. גודלם של דגים אלו נע בין : 5 ס\"מ ל- 50 ס\"מ. הגוף עבה, מוארךונהיה צר בהדרגה לכיוון הזנב. בואו ללמוד עוד על עולמם המלהיב!",
+    "canonical": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "משפחת הנפוחיתיים (אבו –נפחא) | המצפה התת ימי",
+      "og:description": "דג הנפוחית (אבו נפחא), הוא שחיין איטי החי באזור השונית. גודלם של דגים אלו נע בין : 5 ס\"מ ל- 50 ס\"מ. הגוף עבה, מוארךונהיה צר בהדרגה לכיוון הזנב. בואו ללמוד עוד על עולמם המלהיב!",
+      "og:url": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/",
+      "twitter:card": "summary",
+      "twitter:title": "משפחת הנפוחיתיים (אבו –נפחא) | המצפה התת ימי",
+      "twitter:description": "דג הנפוחית (אבו נפחא), הוא שחיין איטי החי באזור השונית. גודלם של דגים אלו נע בין : 5 ס\"מ ל- 50 ס\"מ. הגוף עבה, מוארךונהיה צר בהדרגה לכיוון הזנב. בואו ללמוד עוד על עולמם המלהיב!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#article",
+            "name": "משפחת הנפוחיתיים (אבו –נפחא) | המצפה התת ימי",
+            "headline": "משפחת הנפוחיתיים (אבו –נפחא)",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "datePublished": "2020-06-11T15:44:01+03:00",
+            "dateModified": "2022-10-06T12:00:35+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#listItem",
+                  "name": "משפחת הנפוחיתיים (אבו –נפחא)"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#listItem",
+                "position": 3,
+                "name": "משפחת הנפוחיתיים (אבו –נפחא)",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#webpage",
+            "url": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/",
+            "name": "משפחת הנפוחיתיים (אבו –נפחא) | המצפה התת ימי",
+            "description": "דג הנפוחית (אבו נפחא), הוא שחיין איטי החי באזור השונית. גודלם של דגים אלו נע בין : 5 ס\"מ ל- 50 ס\"מ. הגוף עבה, מוארךונהיה צר בהדרגה לכיוון הזנב. בואו ללמוד עוד על עולמם המלהיב!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "datePublished": "2020-06-11T15:44:01+03:00",
+            "dateModified": "2022-10-06T12:00:35+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "משפחת הנפוחיתיים (אבו –נפחא)"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/",
+    "x-default": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a0%d7%a4%d7%95%d7%97%d7%99%d7%aa%d7%99%d7%99%d7%9d-%d7%90%d7%91%d7%95-%d7%a0%d7%a4%d7%97%d7%90/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%A0%D7%A4%D7%95%D7%97%D7%99%D7%AA%D7%99%D7%99%D7%9D-%D7%90%D7%91%D7%95-%D7%A0%D7%A4%D7%97%D7%90/",
+      "alt": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "משפחת הנפוחיתיים (אבו –נפחא)"
+    },
+    {
+      "type": "paragraph",
+      "text": "דג הנפוחית, הוא שחיין איטי החי באזור השונית. גודלם של דגים אלו נע בין : 5 ס\"מ ל- 50 ס\"מ. הגוף עבה, מוארך במקצת והולך ונהיה צר בהדרגה לכיוון הזנב. קדמת הראש מתארכת לחרטום קצר, שבקצהו הפה. מן הפה בולט מקור קצר וחזק, שנוצר מאיחוי 4 שיניים. העיניים קבועות גבוה בצידי הראש. סנפירי הגב והשת (החלק התחתון בגוף) קצרים וקבועים בחלקו האחורי של הגוף, סנפיר הזנב מעוגל. העור עבה ונושא קשקשי קוצים רבים. ניזונים מכרסום אצות, ספוגים, חסרי חוליות, רכיכות, קווצי עור, תולעים וסרטנים. דבר אשר מתאפשר תודות לשיניהם החזקות.",
+      "html": "דג הנפוחית, הוא שחיין איטי החי באזור השונית. גודלם של דגים אלו נע בין : 5 ס\"מ ל- 50 ס\"מ.<br> הגוף עבה, מוארך במקצת והולך ונהיה צר בהדרגה לכיוון הזנב. קדמת הראש מתארכת לחרטום קצר, שבקצהו הפה. מן הפה בולט מקור קצר וחזק, שנוצר מאיחוי 4 שיניים. העיניים קבועות גבוה בצידי הראש. סנפירי הגב והשת (החלק התחתון בגוף) קצרים וקבועים בחלקו האחורי של הגוף, סנפיר הזנב מעוגל. העור עבה ונושא קשקשי קוצים רבים.<br> ניזונים מכרסום אצות, ספוגים, חסרי חוליות, רכיכות, קווצי עור, תולעים וסרטנים. דבר אשר מתאפשר תודות לשיניהם החזקות."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מה עושה האבו נפחא בעת סכנה?"
+    },
+    {
+      "type": "paragraph",
+      "text": "בעת סכנה, בולעים דגים אלו כמות גדולה של מים או אוויר, אל תוך כיס הנמשך מן הקיבה ומקבלים צורת כדור ומכאן השם \"אבו נפחא\" שניתן בפי הדייגים הערבים. כמה מאיבריו מכילים רעל ולכן מסוכן למאכל ועלול להיות קטלני !!!!. הרעל ועוצמתו משתנים על פי האזור, עונות השנה והמינים השונים במשפחה. בשעת סכנה מופרש הרעל בצורת ריר על פני הגוף ומשמש להם כהגנה.",
+      "html": "בעת סכנה, בולעים דגים אלו כמות גדולה של מים או אוויר, אל תוך כיס הנמשך מן הקיבה ומקבלים צורת כדור ומכאן השם \"<strong>אבו נפחא</strong>\" שניתן בפי הדייגים הערבים.<br> כמה מאיבריו מכילים רעל ולכן מסוכן למאכל ועלול להיות קטלני !!!!. הרעל ועוצמתו משתנים על פי האזור, עונות השנה והמינים השונים במשפחה. בשעת סכנה מופרש הרעל בצורת ריר על פני הגוף ומשמש להם כהגנה."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "פוגו: אכילת דג ביפן (סוג של אבו נפחה), נודע לשמצה בזכות עשרות הקורבנות שהוא גובה בשנה."
+    },
+    {
+      "type": "paragraph",
+      "text": "המשימה העומדת בפניי טבח הפוגו (הלומד שנים רבות, ממש כמו כירורג) היא לבתר את הדג ולהוציא את הכבד בשלמותו, אשר בו מצוי הרעל, כף שאף טיפה מיקרוסקופית לא תטפטף על בשר הדג. במידה והמשימה לא תבוצע בהצלחה, סוף הסועד והסעודה הם עניין של דקות ספורות.",
+      "html": "המשימה העומדת בפניי טבח הפוגו (הלומד שנים רבות, ממש כמו כירורג) היא לבתר את הדג ולהוציא את הכבד בשלמותו, אשר בו מצוי הרעל, כף שאף טיפה מיקרוסקופית לא תטפטף על בשר הדג. במידה והמשימה לא תבוצע בהצלחה, סוף הסועד והסעודה הם עניין של דקות ספורות."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נפוחית לבנת כתמים"
+    },
+    {
+      "type": "paragraph",
+      "text": "מין זה הוא אחד האויבים הקשים של כוכב – הים הענקי, כוכבן קוצני. פעיל בעיקר בשעות אחר הצהרים והלילה. ביום מסתתר במקומות מוצלים שבשונית ועד לעומק 10 מטר לערך.",
+      "html": "מין זה הוא אחד האויבים הקשים של כוכב – הים הענקי, כוכבן קוצני. פעיל בעיקר בשעות אחר הצהרים והלילה. ביום מסתתר במקומות מוצלים שבשונית ועד לעומק 10 מטר לערך."
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "פנינון גמדי"
+    },
+    {
+      "type": "paragraph",
+      "text": "גודלו, כבוגר, עד 5 ס\"מ. חי כבודד או בקבוצות קטנות בשטח הפתוח הפזור בכוכים קטנים. גם הוא כמו שאר משפחת הנפוחיתיים, בשעת סכנה, מפריש מגופו ריר רעלי.",
+      "html": "גודלו, כבוגר, עד 5 ס\"מ. חי כבודד או בקבוצות קטנות בשטח הפתוח הפזור בכוכים קטנים. גם הוא כמו שאר משפחת הנפוחיתיים, בשעת סכנה, מפריש מגופו ריר רעלי."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%A0%D7%A4%D7%95%D7%97%D7%99%D7%AA%D7%99%D7%99%D7%9D-%D7%90%D7%91%D7%95-%D7%A0%D7%A4%D7%97%D7%90/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f3528a754-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,638 @@
+{
+  "source": "https://coralworld.co.il/sharks-world/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.863Z",
+  "seo": {
+    "title": "עולם הכרישים - לצלול עם כרישים באילת | המצפה התת ימי",
+    "description": "מתחם הכרישים באילת משתרע על פני 1,000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו.",
+    "canonical": "https://coralworld.co.il/sharks-world/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "עולם הכרישים - לצלול עם כרישים באילת | המצפה התת ימי",
+      "og:description": "מתחם הכרישים באילת משתרע על פני 1,000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו.",
+      "og:url": "https://coralworld.co.il/sharks-world/",
+      "twitter:card": "summary",
+      "twitter:title": "עולם הכרישים - לצלול עם כרישים באילת | המצפה התת ימי",
+      "twitter:description": "מתחם הכרישים באילת משתרע על פני 1,000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו."
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/sharks-world/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/sharks-world/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/sharks-world/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/sharks-world/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/sharks-world/#listItem",
+                  "name": "עולם הכרישים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/sharks-world/#listItem",
+                "position": 2,
+                "name": "עולם הכרישים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/sharks-world/#webpage",
+            "url": "https://coralworld.co.il/sharks-world/",
+            "name": "עולם הכרישים - לצלול עם כרישים באילת | המצפה התת ימי",
+            "description": "מתחם הכרישים באילת משתרע על פני 1,000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו.",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/sharks-world/#breadcrumblist"
+            },
+            "datePublished": "2020-05-25T15:24:06+03:00",
+            "dateModified": "2022-11-28T15:20:41+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "עולם הכרישים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/sharks-world/",
+    "en": "https://coralworld.co.il/en/sharks-world/",
+    "x-default": "https://coralworld.co.il/sharks-world/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "עולם הכרישים"
+    },
+    {
+      "type": "paragraph",
+      "text": "בתצוגת הדגל של הפארק תפגשו מקרוב את טורפי העל של הים האדום! מתחם הכרישים משתרע על פני 1000 מ\"ר וכולל בריכת כרישים ענקית, מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים בין בעלי החיים המדהימים השוחים בו. כאן, ממרחק נגיעה, תזכו למפגש נדיר ומרגש עם עולמם של כרישים, עטלפי ים, חתולי ים, להקות דגים ואלמוגים.",
+      "html": "בתצוגת הדגל של הפארק תפגשו מקרוב את טורפי העל של הים האדום!<br> מתחם הכרישים משתרע על פני 1000 מ\"ר וכולל בריכת כרישים ענקית,<br> מרכז פעילות אינטראקטיבי ומנהרה שקופה דרכה עוברים המבקרים<br> בין בעלי החיים המדהימים השוחים בו. כאן, ממרחק נגיעה, תזכו למפגש<br> נדיר ומרגש עם עולמם של כרישים, עטלפי ים, חתולי ים, להקות דגים<br> ואלמוגים."
+    },
+    {
+      "type": "paragraph",
+      "text": "רוב הכרישים חייבים לשחות על מנת לנשום. כריש שיעצור את שחייתו, יטבע.",
+      "html": "<img class=\"alignnone size-full wp-image-199\" src=\"/wp-content/uploads/svg/toknow.svg\" alt=\"\" width=\"91\" height=\"21\"> רוב הכרישים חייבים לשחות על מנת לנשום.<br> כריש שיעצור את שחייתו, יטבע."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/svg/toknow.svg",
+      "alt": "",
+      "width": 466,
+      "height": 107
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "צלילה עם כרישים – חוויה בלתי נשכחת"
+    },
+    {
+      "type": "paragraph",
+      "text": "אם חשבתם שתוכלו לפגוש את הכרישים רק דרך חלון ענק בבריכת הכרישים אז יש לנו הפתעה בשבילכם. בפארק המצפה התת ימי אפשר גם ליהנות מחוויה בלתי נשכחת של צלילה עם כרישים באילת. כן, זה נשמע יוצא דופן ובאמת החוויה מדהימה, להיות כל כך קרובים אל בעלי החיים המרשימים של הים האדום. ואם כבר יצא לכם לעשות צלילה באילת אתם בוודאי יודעים שלא בכל יום רואים כריש, אבל כאן במצפה התת ימי ההנאה שלמה ומובטחת.",
+      "html": "אם חשבתם שתוכלו לפגוש את הכרישים רק דרך חלון ענק בבריכת הכרישים אז יש לנו הפתעה בשבילכם.<br> בפארק המצפה התת ימי אפשר גם ליהנות מחוויה בלתי נשכחת של<br> <a href=\"https://coralworld.co.il/sharks-world/\"><span style=\"text-decoration: underline;\">צלילה עם כרישים באילת</span></a>.<br> כן, זה נשמע יוצא דופן ובאמת החוויה מדהימה, להיות כל כך קרובים<br> אל בעלי החיים המרשימים של הים האדום.<br> ואם כבר יצא לכם לעשות צלילה באילת אתם בוודאי יודעים<br> שלא בכל יום רואים כריש,<br> אבל כאן במצפה התת ימי ההנאה שלמה ומובטחת."
+    },
+    {
+      "type": "paragraph",
+      "text": "שימו לב בבקשה, פעילות צלילה עם כרישים אצלנו מחייבת ברישיון וביטוח צלילה בתוקף, כולל רענון בהתאם לחוק, וגם שמספר המקומות מוגבל לכן שריינו את מקומכם מראש. לפרטים נוספים והרשמה>> לחצו כאן",
+      "html": "<strong>שימו לב בבקשה,<br> פעילות צלילה עם כרישים אצלנו מחייבת ברישיון וביטוח צלילה בתוקף,<br> כולל רענון בהתאם לחוק, וגם שמספר המקומות מוגבל לכן שריינו את מקומכם מראש.<br> לפרטים נוספים והרשמה&gt;&gt; <a href=\"https://coralworld.co.il/tickets/\">לחצו כאן</a></strong>"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "זנבתן מנומר",
+        "עטלף ים",
+        "פטישן",
+        "כריש סנפירתן",
+        "כריש שחור סנפירים",
+        "כריש גדול-שן"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "זנבתן מנומר"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול חי באזורים רדודים טרופיים באזור ההודו- פסיפי וגם בים האדום. מצוי למרגלות השונית על קרקע חולית",
+        "גודל אורך ממוצע 2.50 מטרים, ויכול להגיע עד 4.0 מטרים",
+        "משקל משקל ממוצע - עד 55 ק\"ג",
+        "תזונה ניזון מחסרי חוליות שעל הקרקע או בתוכה, ומדגים קטנים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%96%D7%A0%D7%91%D7%AA%D7%9F-%D7%9E%D7%A0%D7%95%D7%9E%D7%A8-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "עטלף ים"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול חי למרגלות השונית",
+        "גודל אורך ממוצע 1.80 מטרים עד מקסימום 3.50 מטרים",
+        "משקל משקל ממוצע 50 ק\"ג עד מקסימום 180 ק\"ג",
+        "תזונה ניזון מרכיכות שונות אותן הוא מפצח באמצעות שיניו המיוחדות"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A2%D7%98%D7%9C%D7%A3-%D7%99%D7%9D-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "כריש הזנבתן מנומר",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "פטישן"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול כריש מים עליונים המשייט בכל הימים הטרופיים בעומקים של 3 עד 25 מטרים",
+        "גודל בין 3.60 ל-4.30 מטרים. ישנם 9 סוגי של כרישי פטיש - הקטן ביותר באורך 90 ס\"מ והארוך ביותר באורך 6 מ'",
+        "משקל משקל ממוצע של פריט בוגר - עד 150 ק\"ג",
+        "תזונה ניזון בעיקר מדגים וחסרי חוליות כגון : דיונונים, לובסטרים, סרטנים, שרימפסים, חתולי ים ואף כרישים ממינים אחרים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A4%D7%98%D7%99%D7%A9%D7%9F-788X517_%D7%90%D7%A8%D7%98%D7%99%D7%95%D7%9D.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כריש סנפירתן"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול כריש מים עליונים, ים תיכון. הגיע למפרץ אילת דרך תעלת סואץ",
+        "גודל אורך ממוצע 2.50 מטרים",
+        "משקל משקל ממוצע 50 ק\"ג",
+        "תזונה ניזון מדגים וחסרי חוליות המצויים על הקרקע וליד השונית"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A1%D7%A0%D7%A4%D7%99%D7%A8%D7%AA%D7%9F-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "כריש",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כריש שחור סנפירים"
+    },
+    {
+      "type": "paragraph",
+      "text": ".כריש שחור סנפיר מאופיין בכתמים שחורים בקצות הסנפירים הוא הנפוץ בין כרישי ים סוף ומצוי בלהקות קטנות על \"שולחן שונית האלמוגים\". כרישים אלה, הידועים כזריזים וגמישים משריצים כרישים חיים ולא ביצים. הזכרים מגיעים לבגרות מינית בגיל 4 .והנקבות רק בגיל 7 ואינו נחשב מסוכן לאדם",
+      "html": ".כריש שחור סנפיר מאופיין בכתמים שחורים בקצות הסנפירים\nהוא הנפוץ בין כרישי ים סוף ומצוי בלהקות קטנות על \"שולחן שונית\nהאלמוגים\". כרישים אלה, הידועים כזריזים וגמישים משריצים\nכרישים חיים ולא ביצים. הזכרים מגיעים לבגרות מינית בגיל 4\n.והנקבות רק בגיל 7 ואינו נחשב מסוכן לאדם"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול משייט בכל הימים הסבטרופיים בעומקים של 2–75 מטרים",
+        "גודל אורך ממוצע עד 1.5 מטרים",
+        "משקל משקל ממוצע של פריט בוגר - עד 15 ק\"ג",
+        "תזונה ניזון בעיקר מדגים, וכן מסרטנים, דיונונים ורכיכות אחרות"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A9%D7%97%D7%95%D7%A8-%D7%A1%D7%A0%D7%A4%D7%99%D7%A8%D7%99%D7%9D.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כריש גדול-שן"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול נפוץ במים טרופים וסבטרופים",
+        "גודל אורך ממוצע 3.0 מטרים",
+        "משקל משקל ממוצע 60 ק\"ג",
+        "תזונה ניזון מדגים ודיונונים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%92%D7%93%D7%95%D7%9C-%D7%A9%D7%9F-%D7%9C%D7%90%D7%AA%D7%A8--scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1362
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "זנבתן מנומר"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "עטלף ים"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "פטישן"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כריש סנפירתן"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כריש שחור סנפירים"
+    },
+    {
+      "type": "paragraph",
+      "text": ".כריש שחור סנפיר מאופיין בכתמים שחורים בקצות הסנפירים הוא הנפוץ בין כרישי ים סוף ומצוי בלהקות קטנות על \"שולחן שונית האלמוגים\". כרישים אלה, הידועים כזריזים וגמישים משריצים כרישים חיים ולא ביצים. הזכרים מגיעים לבגרות מינית בגיל 4 .והנקבות רק בגיל 7 ואינו נחשב מסוכן לאדם",
+      "html": ".כריש שחור סנפיר מאופיין בכתמים שחורים בקצות הסנפירים\nהוא הנפוץ בין כרישי ים סוף ומצוי בלהקות קטנות על \"שולחן שונית\nהאלמוגים\". כרישים אלה, הידועים כזריזים וגמישים משריצים\nכרישים חיים ולא ביצים. הזכרים מגיעים לבגרות מינית בגיל 4\n.והנקבות רק בגיל 7 ואינו נחשב מסוכן לאדם"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "כריש גדול-שן"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/sharks-world/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f66073987-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

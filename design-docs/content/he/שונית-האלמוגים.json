@@ -1,0 +1,493 @@
+{
+  "source": "https://coralworld.co.il/%D7%A9%D7%95%D7%A0%D7%99%D7%AA-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.850Z",
+  "seo": {
+    "title": "שונית האלמוגים | המצפה התת ימי",
+    "description": "שונית האלמוגים היא המרכז והבסיס של המערכת האקולוגית של אוקיינוסים טרופיים. ללא שוניות לא היה קיים עולם עשיר ומופלא זה. היא הבסיס הפיזי עליו בנויות מדינות שלמות! בואו לקרוא עוד!",
+    "canonical": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "שונית האלמוגים | המצפה התת ימי",
+      "og:description": "שונית האלמוגים היא המרכז והבסיס של המערכת האקולוגית של אוקיינוסים טרופיים. ללא שוניות לא היה קיים עולם עשיר ומופלא זה. היא הבסיס הפיזי עליו בנויות מדינות שלמות! בואו לקרוא עוד!",
+      "og:url": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "שונית האלמוגים | המצפה התת ימי",
+      "twitter:description": "שונית האלמוגים היא המרכז והבסיס של המערכת האקולוגית של אוקיינוסים טרופיים. ללא שוניות לא היה קיים עולם עשיר ומופלא זה. היא הבסיס הפיזי עליו בנויות מדינות שלמות! בואו לקרוא עוד!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#article",
+            "name": "שונית האלמוגים | המצפה התת ימי",
+            "headline": "שונית האלמוגים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/almog.jpg",
+              "width": 602,
+              "height": 357,
+              "caption": "שונית אלמוגים"
+            },
+            "datePublished": "2020-05-27T10:02:33+03:00",
+            "dateModified": "2022-10-06T12:21:51+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                  "name": "שונית האלמוגים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "שונית האלמוגים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+            "name": "שונית האלמוגים | המצפה התת ימי",
+            "description": "שונית האלמוגים היא המרכז והבסיס של המערכת האקולוגית של אוקיינוסים טרופיים. ללא שוניות לא היה קיים עולם עשיר ומופלא זה. היא הבסיס הפיזי עליו בנויות מדינות שלמות! בואו לקרוא עוד!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/almog.jpg",
+              "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage",
+              "width": 602,
+              "height": 357,
+              "caption": "שונית אלמוגים"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-05-27T10:02:33+03:00",
+            "dateModified": "2022-10-06T12:21:51+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "שונית האלמוגים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%a9%d7%95%d7%a0%d7%99%d7%aa-%d7%94%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/almog.jpg",
+      "alt": "שונית אלמוגים",
+      "width": 602,
+      "height": 357
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "שונית האלמוגים"
+    },
+    {
+      "type": "paragraph",
+      "text": "שונית האלמוגים היא המרכז והבסיס של המערכת האקולוגית של האוקיינוסים הטרופיים. ללא שוניות לא היה קיים בכלל עולם עשיר ומופלא זה.התלות בשונית היא לא רק מתחת למים, גם מעל למים השונית היא הבסיס הפיזי שעליו בנויות מדינות שלמות. כמו כן, ללא השונית לא היה קיים השטח הפיזי שנוצר על השוניות שעליהם הקימו בני האדם עולם עשיר בתרבויות ולעיתים גם המורשת החברתית והדתית היא תוצר של החיים במים-השונית. מדינות אחרות מכילות שוניות אלמוגים גדולות ומורכבות אשר מפרנסים מדי יום מיליוני אנשים. שפע השונית הטרופית הוא הבסיס של החלבונים בתפריט היומי של עשרות מיליוני אנשים. בנוסף מספקת השונית שובר גלים טבעי השומר על קו החוף.את רוב השוניות ניתן למצוא בעיקר במדינות עניות, וכך מיליוני אנשים ממדינות עשירות מטיילים ונופשים במדינות עניות כלכלית, אבל עשירות בשוניות אלמוגים.החשיבות הכלכלית של שוניות האלמוגים גבוהה מאוד, ולעתים היא גם הבסיס של רוב הכלכלה המקומית והכנסת כסף זר. שונית האלמוגים הן ממערכות החיים העשירות והמורכבות ביותר בעולם. הן הבית של לא פחות ממיליון מינים של יצורים חיים-צמחים, דגים, תולעים, צדפות ועוד, המקיימים ביניהם מערכות יחסים סבוכות. אבל יצור ימי אחד בולט בחשיבותו בבניית השונית – פוליפ. גופם של האלמוגים נקרא פוליפ, והם מפרישים סביב עצמם שלד גירני הדומה לסלע. סלע/שלד זה הוא המפתח לכל השוניות בעולם. על רוב שוניות האלמוגים בעולם מאיימת סכנה להישרדותן. חלק מהן אף בסכנת הכחדה ממשית ! למרות שיש גם איומים טבעיים, הסכנה הגדולה ביותר אשר מאיימת על שונית האלמוגים היא הפעילות שלנו- בני האדם. אבל לא מאוחר לעזור לשוניות.",
+      "html": "שונית האלמוגים היא המרכז והבסיס של המערכת האקולוגית של האוקיינוסים הטרופיים.<br> ללא שוניות לא היה קיים בכלל עולם עשיר ומופלא זה.התלות בשונית היא לא רק מתחת<br> למים, גם מעל למים השונית היא הבסיס הפיזי שעליו בנויות מדינות שלמות. כמו כן, ללא<br> השונית לא היה קיים השטח הפיזי שנוצר על השוניות שעליהם הקימו בני האדם עולם עשיר<br> בתרבויות ולעיתים גם המורשת החברתית והדתית היא תוצר של החיים במים-השונית.<br> מדינות אחרות מכילות שוניות אלמוגים גדולות ומורכבות אשר מפרנסים מדי יום מיליוני<br> אנשים. שפע השונית הטרופית הוא הבסיס של החלבונים בתפריט היומי של עשרות מיליוני<br> אנשים. בנוסף מספקת השונית שובר גלים טבעי השומר על קו החוף.את רוב השוניות ניתן<br> למצוא בעיקר במדינות עניות, וכך מיליוני אנשים ממדינות עשירות מטיילים ונופשים<br> במדינות עניות כלכלית, אבל עשירות בשוניות אלמוגים.החשיבות הכלכלית של שוניות<br> האלמוגים גבוהה מאוד, ולעתים היא גם הבסיס של רוב הכלכלה המקומית והכנסת כסף זר.<br> שונית האלמוגים הן ממערכות החיים העשירות והמורכבות ביותר בעולם. הן הבית של לא<br> פחות ממיליון מינים של יצורים חיים-צמחים, דגים, תולעים, צדפות ועוד, המקיימים ביניהם<br> מערכות יחסים סבוכות. אבל יצור ימי אחד בולט בחשיבותו בבניית השונית – פוליפ. גופם של<br> האלמוגים נקרא פוליפ, והם מפרישים סביב עצמם שלד גירני הדומה לסלע. סלע/שלד זה<br> הוא המפתח לכל השוניות בעולם. על רוב שוניות האלמוגים בעולם מאיימת סכנה<br> להישרדותן. חלק מהן אף בסכנת הכחדה ממשית ! למרות שיש גם איומים טבעיים, הסכנה<br> הגדולה ביותר אשר מאיימת על שונית האלמוגים היא הפעילות שלנו- בני האדם. אבל לא<br> מאוחר לעזור לשוניות."
+    },
+    {
+      "type": "paragraph",
+      "text": "מוגשת רשימה של נושאים אשר בה כל אחד יכול לעזור: 1 .לתמוך בעסקים העוזרים בשמירה על השונית 2 .לא להשתמש בחומרי הדברה בעלי תוספים כימיקלים (חלק גדול מחומרים אלו מגיעים בסופו של דבר אל הים או מקורות המים שלנו.) 3 .התנדב למבצעי ניקיון מעל ומתחת למים 4 .בזמן ביקור בשונית האלמוגים הקפד על כל חוקי העזר המקומיים. 5 .הפץ את השמועה: ניתן להציל את השוניות. 6 .הפוך לצרכן מודע, אל תהיה חלק מהתעשייה העולמית של מזכרות ימיות. 7 .אל תזהם !!! גם לכלוך על היבשה מגיע בסופו של דבר לים. 8 .למחזר, על ידי כך פחות זבל מגיע לים. 9 .חסוך במים. 10 .דווח על כל פעילות לא חוקית הפוגעת בחופים ובשוניות, הגופים האחראים לכך זקוקים לכל זוג עיניים נוסף. 11 .שמור על הניקיון, זה לא בושה לאסוף זבל של אחרים. 12 .בזמן ביקור בשוניות מסביב לעולם השתמש במדריכים מקומיים. 13 .אל תעגון על השונית, השתמש במצופים המיועדים לעגינה. 14 .בזמן צלילה לא לגעת, לא להרחיף חול ולהשאיר את השונית נקייה 15 .התנדב לארגונים המסייעים בשמירה על השונית 16 .תמוך ביצירת שמורות טבע. 17 .חנך את עצמך, למד ולמד איך אפשר לעזור בהעברת חוקים השומרים על השונית.",
+      "html": "<strong>מוגשת רשימה של נושאים אשר בה כל אחד יכול לעזור:</strong><br> 1 .לתמוך בעסקים העוזרים בשמירה על השונית<br> 2 .לא להשתמש בחומרי הדברה בעלי תוספים כימיקלים (חלק גדול מחומרים אלו מגיעים<br> בסופו של דבר אל הים או מקורות המים שלנו.)<br> 3 .התנדב למבצעי ניקיון מעל ומתחת למים<br> 4 .בזמן ביקור בשונית האלמוגים הקפד על כל חוקי העזר המקומיים.<br> 5 .הפץ את השמועה: ניתן להציל את השוניות.<br> 6 .הפוך לצרכן מודע, אל תהיה חלק מהתעשייה העולמית של מזכרות ימיות.<br> 7 .אל תזהם !!! גם לכלוך על היבשה מגיע בסופו של דבר לים.<br> 8 .למחזר, על ידי כך פחות זבל מגיע לים.<br> 9 .חסוך במים.<br> 10 .דווח על כל פעילות לא חוקית הפוגעת בחופים ובשוניות, הגופים האחראים לכך זקוקים<br> לכל זוג עיניים נוסף.<br> 11 .שמור על הניקיון, זה לא בושה לאסוף זבל של אחרים.<br> 12 .בזמן ביקור בשוניות מסביב לעולם השתמש במדריכים מקומיים.<br> 13 .אל תעגון על השונית, השתמש במצופים המיועדים לעגינה.<br> 14 .בזמן צלילה לא לגעת, לא להרחיף חול ולהשאיר את השונית נקייה<br> 15 .התנדב לארגונים המסייעים בשמירה על השונית<br> 16 .תמוך ביצירת שמורות טבע.<br> 17 .חנך את עצמך, למד ולמד איך אפשר לעזור בהעברת חוקים השומרים על השונית."
+    },
+    {
+      "type": "paragraph",
+      "text": "מדו\"ח המילניום עולה, כי בעשורים האחרונים נהרסו %20 משוניות האלמוגים, והסיכוי להתאוששותן בלתי סביר. בנוסף לכך, %70 משוניות האלמוגים מדורדרות במידה זו או אחרת, בייחוד באזור הקריביים ובחלקים של דרום מזרח אסיה. תהליך הדרדור החמור ביותר מתרחש במדינות המתפתחות, שבהן נמצאות רוב שוניות האלמוגים.",
+      "html": "מדו\"ח המילניום עולה, כי בעשורים האחרונים נהרסו %20 משוניות האלמוגים, והסיכוי<br> להתאוששותן בלתי סביר. בנוסף לכך, %70 משוניות האלמוגים מדורדרות במידה זו או<br> אחרת, בייחוד באזור הקריביים ובחלקים של דרום מזרח אסיה. תהליך הדרדור החמור ביותר<br> מתרחש במדינות המתפתחות, שבהן נמצאות רוב שוניות האלמוגים."
+    },
+    {
+      "type": "paragraph",
+      "text": "כתב: אביב לוי – המנהל המדעי של פארק המצפה התת ימי",
+      "html": "כתב: אביב לוי – המנהל המדעי של פארק המצפה התת ימי"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A9%D7%95%D7%A0%D7%99%D7%AA-%D7%94%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f3332195d-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

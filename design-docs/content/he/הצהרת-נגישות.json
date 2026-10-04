@@ -1,0 +1,394 @@
+{
+  "source": "https://coralworld.co.il/%D7%94%D7%A6%D7%94%D7%A8%D7%AA-%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.825Z",
+  "seo": {
+    "title": "הצהרת נגישות | המצפה התת ימי",
+    "description": "אנו ממשיכים בכל עת לשפר את ממשק הנגישות, להוסיף, לעדכן ולשפר אותו ואת חלקיו, וכן להתאים ואף לפתח טכנולוגיות חדשות על מנת להגיע לרמת הנגישות האופטימלית ביותר האפשרית",
+    "canonical": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "הצהרת נגישות | המצפה התת ימי",
+      "og:description": "אנו ממשיכים בכל עת לשפר את ממשק הנגישות, להוסיף, לעדכן ולשפר אותו ואת חלקיו, וכן להתאים ואף לפתח טכנולוגיות חדשות על מנת להגיע לרמת הנגישות האופטימלית ביותר האפשרית",
+      "og:url": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/",
+      "twitter:card": "summary",
+      "twitter:title": "הצהרת נגישות | המצפה התת ימי",
+      "twitter:description": "אנו ממשיכים בכל עת לשפר את ממשק הנגישות, להוסיף, לעדכן ולשפר אותו ואת חלקיו, וכן להתאים ואף לפתח טכנולוגיות חדשות על מנת להגיע לרמת הנגישות האופטימלית ביותר האפשרית"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/#listItem",
+                  "name": "הצהרת נגישות"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/#listItem",
+                "position": 2,
+                "name": "הצהרת נגישות",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/#webpage",
+            "url": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/",
+            "name": "הצהרת נגישות | המצפה התת ימי",
+            "description": "אנו ממשיכים בכל עת לשפר את ממשק הנגישות, להוסיף, לעדכן ולשפר אותו ואת חלקיו, וכן להתאים ואף לפתח טכנולוגיות חדשות על מנת להגיע לרמת הנגישות האופטימלית ביותר האפשרית",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/#breadcrumblist"
+            },
+            "datePublished": "2020-07-20T15:29:52+03:00",
+            "dateModified": "2024-01-07T11:30:05+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "הצהרת נגישות"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/",
+    "x-default": "https://coralworld.co.il/%d7%94%d7%a6%d7%94%d7%a8%d7%aa-%d7%a0%d7%92%d7%99%d7%a9%d7%95%d7%aa/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "paragraph",
+      "text": "אמצעי הנגישות באתר: אתר זה עומד בדרישות תקנות שוויון זכויות לאנשים עם מוגבלות (התאמות נגישות לשירות), התשע\"ג 2013. התאמות הנגישות בוצעו עפ\"י הנחיות הנגישות בתקן הישראלי 5568 \"קווים מנחים לנגישות תכנים באינטרנט” והתכנים באתר הונגשו לרמת נגישות AA . תקן זה זהה למסמך הקווים המנחים של הארגון הבינלאומי שעוסק בתקינה ברשת Web Content Accessibility Guidelines (WCAG) 2.0. בין היתר, הותקנו באתר אמצעי הנגישות הבאים: התאמה לדפדפנים – האתר נתמך ע”י הדפדפנים נפוצים, בגרסתם העדכנית ביותר. באתר תוסף נגישות בצד המסך, לחיצה עליו מאפשרת פתיחת כפתורי ההנגשה הבאים: שינוי צבעי המסך למונוכרום, שינוי ניגודיות צבעים- \"ניגודיות גבוהה\" ו\"תצוגה רגילה\", הדגשת קישורים באתר, שינוי פונטים ל-3 גדלים ואפשרות חזרה לפונט רגיל. הגדלת התצוגה באתר – גולשים המתקשים בראייה ומעוניינים להגדיל את התצוגה באתר יכולים לעשות זאת ע”י לחיצה בו זמנית על המקשים Ctrl”” ו \"+” (קונטרול ופלוס). כל לחיצה על צמד המקשים האלו תגדיל את התצוגה ב-10%. כדי להקטין את התצוגה יש ללחוץ בו זמנית על המקשים \"Ctrl” ו \"-” (קונטרול ומינוס). הפעלת האתר באמצעות מקלדת – גולשים המתקשים בהפעלת עכבר יכולים לגלוש באתר באמצעות מקלדת. לחיצה חוזרת ונשנית על המקש Tab תעביר בין הקישורים השונים בעמוד. לחיצה על Enter תפעיל את הקישור המסומן. תמיכה בטכנולוגיות מסייעות – אתר זה הינו אתר נגיש המותאם לצפייה גם לאנשים עם מוגבלות ומאפשר תמיכה בתוכנת קריאת מסך. כדי לוודא את נגישות תוכן האתר, האתר נבדק בתוכנת קרא מסך NVDA. הבהרה: אתר זה ממשיך להתעדכן באופן שוטף, למרות מאמצנו הרבים לאפשר את התאמת האתר ברמה הטובה ביותר, יתכן ויתגלו דפים או חלקים באתר הדורשים מאמצי הנגשה נוספים. יחד עם זאת, אנו ממשיכים בכל עת לשפר את ממשק הנגישות, להוסיף, לעדכן ולשפר אותו ואת חלקיו, וכן להתאים ואף לפתח טכנולוגיות חדשות על מנת להגיע לרמת הנגישות האופטימלית ביותר האפשרית, ובהתאם להתקדמות הטכנולוגית. במידה ואיתרתם תוכן באתר אשר אינו מונגש, הנכם מוזמנים לפנות לממונה הנגישות ואנו נטפל בפנייתכם בהקדם. פרסום הצהרת הנגישות: הצהרת הנגישות עודכנה ביום: 19.10.2020",
+      "html": "אמצעי הנגישות באתר:<br> אתר זה עומד בדרישות תקנות שוויון זכויות לאנשים עם מוגבלות (התאמות נגישות לשירות), התשע\"ג 2013.<br> התאמות הנגישות בוצעו עפ\"י הנחיות הנגישות בתקן הישראלי 5568 \"קווים מנחים לנגישות תכנים באינטרנט” והתכנים באתר הונגשו לרמת נגישות AA . תקן זה זהה למסמך הקווים המנחים של הארגון הבינלאומי שעוסק בתקינה ברשת Web Content Accessibility Guidelines (WCAG) 2.0.<br> בין היתר, הותקנו באתר אמצעי הנגישות הבאים: התאמה לדפדפנים – האתר נתמך ע”י הדפדפנים נפוצים, בגרסתם העדכנית ביותר.<br> באתר תוסף נגישות בצד המסך, לחיצה עליו מאפשרת פתיחת כפתורי ההנגשה הבאים:<br> שינוי צבעי המסך למונוכרום, שינוי ניגודיות צבעים- \"ניגודיות גבוהה\" ו\"תצוגה רגילה\", הדגשת קישורים באתר, שינוי פונטים ל-3 גדלים ואפשרות חזרה לפונט רגיל.<br> הגדלת התצוגה באתר – גולשים המתקשים בראייה ומעוניינים להגדיל את התצוגה באתר יכולים לעשות זאת ע”י לחיצה בו זמנית על המקשים Ctrl”” ו \"+” (קונטרול ופלוס). כל לחיצה על צמד המקשים האלו תגדיל את התצוגה<br> ב-10%. כדי להקטין את התצוגה יש ללחוץ בו זמנית על המקשים \"Ctrl” ו \"-” (קונטרול ומינוס).<br> הפעלת האתר באמצעות מקלדת – גולשים המתקשים בהפעלת עכבר יכולים לגלוש באתר באמצעות מקלדת. לחיצה חוזרת ונשנית על המקש Tab תעביר בין הקישורים השונים בעמוד. לחיצה על Enter תפעיל את הקישור המסומן.<br> תמיכה בטכנולוגיות מסייעות – אתר זה הינו אתר נגיש המותאם לצפייה גם לאנשים עם מוגבלות ומאפשר תמיכה בתוכנת קריאת מסך. כדי לוודא את נגישות תוכן האתר, האתר נבדק בתוכנת קרא מסך NVDA.<br> הבהרה:<br> אתר זה ממשיך להתעדכן באופן שוטף, למרות מאמצנו הרבים לאפשר את התאמת האתר ברמה הטובה ביותר, יתכן ויתגלו דפים או חלקים באתר הדורשים מאמצי הנגשה נוספים. יחד עם זאת, אנו ממשיכים בכל עת לשפר את ממשק הנגישות, להוסיף, לעדכן ולשפר אותו ואת חלקיו, וכן להתאים ואף לפתח טכנולוגיות חדשות על מנת להגיע לרמת הנגישות האופטימלית ביותר האפשרית, ובהתאם להתקדמות הטכנולוגית. במידה ואיתרתם תוכן באתר אשר אינו מונגש, הנכם מוזמנים לפנות לממונה הנגישות ואנו נטפל בפנייתכם בהקדם.<br> פרסום הצהרת הנגישות:<br> הצהרת הנגישות עודכנה ביום: 19.10.2020"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%94%D7%A6%D7%94%D7%A8%D7%AA-%D7%A0%D7%92%D7%99%D7%A9%D7%95%D7%AA/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f685b6482-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

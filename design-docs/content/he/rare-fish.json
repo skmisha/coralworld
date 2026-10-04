@@ -1,0 +1,673 @@
+{
+  "source": "https://coralworld.co.il/rare-fish/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.860Z",
+  "seo": {
+    "title": "אקווריום דגים נדירים באילת | המצפה התת ימי",
+    "description": "אקווריום דגים נדירים- אטרקציה לילדים ומשפחות באילת. מתחם בו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים יפהפיים ואפילו לצפות במופע מדוזות מהפנט בתצוגת חושך!",
+    "canonical": "https://coralworld.co.il/rare-fish/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "אקווריום דגים נדירים באילת | המצפה התת ימי",
+      "og:description": "אקווריום דגים נדירים- אטרקציה לילדים ומשפחות באילת. מתחם בו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים יפהפיים ואפילו לצפות במופע מדוזות מהפנט בתצוגת חושך!",
+      "og:url": "https://coralworld.co.il/rare-fish/",
+      "twitter:card": "summary",
+      "twitter:title": "אקווריום דגים נדירים באילת | המצפה התת ימי",
+      "twitter:description": "אקווריום דגים נדירים- אטרקציה לילדים ומשפחות באילת. מתחם בו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים יפהפיים ואפילו לצפות במופע מדוזות מהפנט בתצוגת חושך!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/rare-fish/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/rare-fish/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/rare-fish/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/rare-fish/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/rare-fish/#listItem",
+                  "name": "דגים נדירים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/rare-fish/#listItem",
+                "position": 2,
+                "name": "דגים נדירים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/rare-fish/#webpage",
+            "url": "https://coralworld.co.il/rare-fish/",
+            "name": "אקווריום דגים נדירים באילת | המצפה התת ימי",
+            "description": "אקווריום דגים נדירים- אטרקציה לילדים ומשפחות באילת. מתחם בו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים יפהפיים ואפילו לצפות במופע מדוזות מהפנט בתצוגת חושך!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/rare-fish/#breadcrumblist"
+            },
+            "datePublished": "2020-05-20T16:09:45+03:00",
+            "dateModified": "2021-07-22T10:28:27+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "אקווריום דגים נדירים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/rare-fish/",
+    "en": "https://coralworld.co.il/en/rare-fish/",
+    "x-default": "https://coralworld.co.il/rare-fish/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "אקווריום דגים נדירים"
+    },
+    {
+      "type": "paragraph",
+      "text": "מתחם ובו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים נדירים ויפהפיים, אלמוגים ובעלי חיים מופלאים. הסיור במתחם יאפשר לכם להכיר דגים צבעוניים עם סיפורים מרתקים, טורפים ערמומיים, חסרי חוליות יפהפיים, וגם - לצפות ב\"מופע\" מדוזות מהפנט ובתצוגת חושך החושפת שפע נסתר וססגוני של בעלי חיים זוהרים.",
+      "html": "מתחם ובו 35 אקווריומים בהם תוכלו לפגוש מעל 800 סוגי דגים<br> נדירים ויפהפיים, אלמוגים ובעלי חיים מופלאים. הסיור במתחם<br> יאפשר לכם להכיר דגים צבעוניים עם סיפורים מרתקים, טורפים<br> ערמומיים, חסרי חוליות יפהפיים, וגם - לצפות ב\"מופע\" מדוזות<br> מהפנט ובתצוגת חושך החושפת שפע נסתר וססגוני של בעלי חיים<br> זוהרים."
+    },
+    {
+      "type": "paragraph",
+      "text": "דג הפתיונאי מפתה דגים קטנים באמצעות \"חכה\" המחוברת לפיו וטורף אותם כשהם מתקרבים אליה.",
+      "html": "<img class=\"alignnone size-full wp-image-199\" src=\"/wp-content/uploads/svg/toknow.svg\" alt=\"הידעתם\" width=\"91\" height=\"21\"> דג הפתיונאי מפתה דגים קטנים באמצעות \"חכה\"<br> המחוברת לפיו וטורף אותם כשהם מתקרבים אליה."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/svg/toknow.svg",
+      "alt": "הידעתם",
+      "width": 466,
+      "height": 107
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אבנונית",
+        "סוסון ים",
+        "פזית ים סוף",
+        "זהרון",
+        "פתיונאי",
+        "תמנון"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אבנונית"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול חיים על קרקעית הים כמעט ללא תזוזה",
+        "גודל עד 40 ס\"מ",
+        "משקל עד 3 קילוגרם",
+        "תזונה ניזון מדגים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/avnoon-big.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "סוסון ים"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול מסתתר בין עשבים ואצות כדי שטורפים לא ימצאהו",
+        "גודל עד 22 ס\"מ",
+        "משקל עד 510 גרם",
+        "תזונה ניזון מסרטנים זעירים וחסרי חוליות קטנטנים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/horse-big.jpg",
+      "alt": "סוסוני ים",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "פזית ים סוף"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול לאורך שונית האלמוגים ובגושי אלמוגים בודדים",
+        "גודל זכרים עד 15 ס\"מ ונקבות עד 8 ס\"מ",
+        "משקל 10 גרם",
+        "תזונה ניזונות מפלנקטון"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/pazit-big.jpg",
+      "alt": "אלמוג ודג",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "זהרון"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול פעילי יום ולילה, לרוב נמצאים במערות בשעות היום",
+        "גודל עד 35 ס\"מ",
+        "משקל עד 2 קילוגרם",
+        "תזונה ניזון מדגים ומחסרי חוליות"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/zahron-big.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "פתיונאי"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול לאורך קיר השונית, ניתן לראותו גם צמוד לאוביקטים מלאכותיים",
+        "גודל עד 40 ס\"מ",
+        "משקל עד 3 קילוגרם",
+        "תזונה ניזון מדגים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/pitaon-big.jpg",
+      "alt": "צבעים וההסוואה אצל דגים",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "תמנון"
+    },
+    {
+      "type": "paragraph",
+      "text": "לתמנון, השייך למשפחת הרכיכות, שמונה זרועות.",
+      "html": "לתמנון, השייך למשפחת הרכיכות, שמונה זרועות."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"שק הדיו\" - בלוטה דמויית שק המצויה בגופו, מפרישה למים נוזל שחור המשמש לו הסוואה בשעת סכנה.",
+      "html": "\"שק הדיו\" - בלוטה דמויית שק המצויה בגופו, מפרישה למים נוזל שחור המשמש לו הסוואה בשעת סכנה."
+    },
+    {
+      "type": "paragraph",
+      "text": "התמנונים הינם טריטוריאלים ונחשבים לבעלי חיים אינטליגנטים.",
+      "html": "התמנונים הינם טריטוריאלים ונחשבים לבעלי חיים אינטליגנטים."
+    },
+    {
+      "type": "paragraph",
+      "text": "הם מפתחים קשר אישי עמוק עם המטפלים שלהם ודורשים",
+      "html": "הם מפתחים קשר אישי עמוק עם המטפלים שלהם ודורשים"
+    },
+    {
+      "type": "paragraph",
+      "text": "תשומת לב מרובה. לתמנונים יכולת להחליף צבעים במהירות",
+      "html": "תשומת לב מרובה. לתמנונים יכולת להחליף צבעים במהירות"
+    },
+    {
+      "type": "paragraph",
+      "text": "מדהימה בשעת סכנה ובעונת הרבייה.",
+      "html": "מדהימה בשעת סכנה ובעונת הרבייה."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "בית גידול נמצא לרוב במים רדודים. מחליף צבעים בשניות לפי הסביבה בא הוא נמצא",
+        "גודל עד 80 ס\"מ, כולל הזרועות",
+        "משקל עד 2 קילוגרם",
+        "תזונה ניזון מדגים, סרטנים ורכיכות"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%AA%D7%9E%D7%A0%D7%95%D7%9F-big.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אבנונית"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "סוסון ים"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "פזית ים סוף"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "זהרון"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "פתיונאי"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "תמנון"
+    },
+    {
+      "type": "paragraph",
+      "text": "לתמנון, השייך למשפחת הרכיכות, שמונה זרועות.",
+      "html": "לתמנון, השייך למשפחת הרכיכות, שמונה זרועות."
+    },
+    {
+      "type": "paragraph",
+      "text": "\"שק הדיו\" - בלוטה דמויית שק המצויה בגופו, מפרישה למים נוזל שחור המשמש לו הסוואה בשעת סכנה.",
+      "html": "\"שק הדיו\" - בלוטה דמויית שק המצויה בגופו, מפרישה למים נוזל שחור המשמש לו הסוואה בשעת סכנה."
+    },
+    {
+      "type": "paragraph",
+      "text": "התמנונים הינם טריטוריאלים ונחשבים לבעלי חיים אינטליגנטים.",
+      "html": "התמנונים הינם טריטוריאלים ונחשבים לבעלי חיים אינטליגנטים."
+    },
+    {
+      "type": "paragraph",
+      "text": "הם מפתחים קשר אישי עמוק עם המטפלים שלהם ודורשים",
+      "html": "הם מפתחים קשר אישי עמוק עם המטפלים שלהם ודורשים"
+    },
+    {
+      "type": "paragraph",
+      "text": "תשומת לב מרובה. לתמנונים יכולת להחליף צבעים במהירות",
+      "html": "תשומת לב מרובה. לתמנונים יכולת להחליף צבעים במהירות"
+    },
+    {
+      "type": "paragraph",
+      "text": "מדהימה בשעת סכנה ובעונת הרבייה.",
+      "html": "מדהימה בשעת סכנה ובעונת הרבייה."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/rare-fish/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f60de33f3-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

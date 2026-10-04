@@ -1,0 +1,553 @@
+{
+  "source": "https://coralworld.co.il/seaturtlefacts/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.862Z",
+  "seo": {
+    "title": "10 עובדות מדהימות שלא ידעתם על צבי הים! | בואו ללמוד ולהכיר אותם | המצפה התת ימי",
+    "description": "ה-16 ביוני הוא יום צבי הים העולמי. יש הרבה עובדות מדהימות שכדאי לדעת על היצורים המרתקים הללו באשר לגילם, האנטומיה הייחודית שלהם והיכולות הגופניות יוצאות הדופן שלהם בואו לקרוא!",
+    "canonical": "https://coralworld.co.il/seaturtlefacts/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "10 עובדות מדהימות שלא ידעתם על צבי הים! | בואו ללמוד ולהכיר אותם | המצפה התת ימי",
+      "og:description": "ה-16 ביוני הוא יום צבי הים העולמי. יש הרבה עובדות מדהימות שכדאי לדעת על היצורים המרתקים הללו באשר לגילם, האנטומיה הייחודית שלהם והיכולות הגופניות יוצאות הדופן שלהם בואו לקרוא!",
+      "og:url": "https://coralworld.co.il/seaturtlefacts/",
+      "twitter:card": "summary",
+      "twitter:title": "10 עובדות מדהימות שלא ידעתם על צבי הים! | בואו ללמוד ולהכיר אותם | המצפה התת ימי",
+      "twitter:description": "ה-16 ביוני הוא יום צבי הים העולמי. יש הרבה עובדות מדהימות שכדאי לדעת על היצורים המרתקים הללו באשר לגילם, האנטומיה הייחודית שלהם והיכולות הגופניות יוצאות הדופן שלהם בואו לקרוא!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/seaturtlefacts/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/seaturtlefacts/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/seaturtlefacts/#article",
+            "name": "10 עובדות מדהימות שלא ידעתם על צבי הים! | בואו ללמוד ולהכיר אותם | המצפה התת ימי",
+            "headline": "מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC00851.jpg",
+              "width": 2500,
+              "height": 1667,
+              "caption": "צב ים- מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?"
+            },
+            "datePublished": "2022-03-21T07:25:50+02:00",
+            "dateModified": "2022-06-23T20:01:15+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/seaturtlefacts/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/seaturtlefacts/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/seaturtlefacts/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/seaturtlefacts/#listItem",
+                  "name": "מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/seaturtlefacts/#listItem",
+                "position": 3,
+                "name": "מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/seaturtlefacts/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/seaturtlefacts/#webpage",
+            "url": "https://coralworld.co.il/seaturtlefacts/",
+            "name": "10 עובדות מדהימות שלא ידעתם על צבי הים! | בואו ללמוד ולהכיר אותם | המצפה התת ימי",
+            "description": "ה-16 ביוני הוא יום צבי הים העולמי. יש הרבה עובדות מדהימות שכדאי לדעת על היצורים המרתקים הללו באשר לגילם, האנטומיה הייחודית שלהם והיכולות הגופניות יוצאות הדופן שלהם בואו לקרוא!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/seaturtlefacts/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC00851.jpg",
+              "@id": "https://coralworld.co.il/seaturtlefacts/#mainImage",
+              "width": 2500,
+              "height": 1667,
+              "caption": "צב ים- מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/seaturtlefacts/#mainImage"
+            },
+            "datePublished": "2022-03-21T07:25:50+02:00",
+            "dateModified": "2022-06-23T20:01:15+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/seaturtlefacts/",
+    "x-default": "https://coralworld.co.il/seaturtlefacts/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?"
+    },
+    {
+      "type": "paragraph",
+      "text": "כתיבה ועריכה: יעל לרנריעוץ מדעי: אביב לוי",
+      "html": "כתיבה ועריכה: יעל לרנר<br>יעוץ מדעי: אביב לוי"
+    },
+    {
+      "type": "paragraph",
+      "text": "הם חושבים שמדוזות הן מעדן, נחשבים כ״מכסחות הדשא של הים״, הם יכולים לעצור את נשימתם ל- 5 שעות (!) מתחת למים, בעלי חוש כיוון מצוין וטמפרטורה חמה יכולה להכתיב את המין של הצאצאים שלהם. גבירותיי ורבותיי, קבלו את צבי הים!",
+      "html": "<strong>הם חושבים שמדוזות הן מעדן, נחשבים כ״מכסחות הדשא של הים״, הם יכולים לעצור את נשימתם ל- 5 שעות (!) מתחת למים, בעלי חוש כיוון מצוין וטמפרטורה חמה יכולה להכתיב את המין של הצאצאים שלהם. גבירותיי ורבותיי, קבלו את צבי הים!</strong>"
+    },
+    {
+      "type": "paragraph",
+      "text": "ה-16 ביוני הוא יום צבי הים העולמי ולמרות שכולנו מניחים שאנחנו מכירים את צבי הים ויודעים לדקלם שהצאצאים שלהם (אבקועים) ממהרים למים אחרי שהם בוקעים מהביצים, ושהם לעתים קרובות הופכים לקורבנות של פסולת הפלסטיק שבני האדם משליכים לים, יש הרבה עובדות מדהימות שכדאי לדעת על היצורים המרתקים הללו באשר לגילם, האנטומיה הייחודית שלהם והיכולות הגופניות יוצאות הדופן שלהם, שבהחלט מצדיקות לציין אותם ביום משלהם. אצלנו תוכלו ליהנות כל יום ממגוון אטרקציות למשפחה באילת, בהן תוכלו לפגוש גם את צבי הים.",
+      "html": "ה-16 ביוני הוא יום צבי הים העולמי ולמרות שכולנו מניחים שאנחנו מכירים את צבי הים ויודעים לדקלם שהצאצאים שלהם (אבקועים) ממהרים למים אחרי שהם בוקעים מהביצים, ושהם לעתים קרובות הופכים לקורבנות של פסולת הפלסטיק שבני האדם משליכים לים, יש הרבה עובדות מדהימות שכדאי לדעת על היצורים המרתקים הללו באשר לגילם, האנטומיה הייחודית שלהם והיכולות הגופניות יוצאות הדופן שלהם, שבהחלט מצדיקות לציין אותם ביום משלהם. <span lang=\"he-IL\"><span style=\"font-size: medium;\">אצלנו תוכלו ליהנות כל יום ממגוון </span><a href=\"https://coralworld.co.il/%d7%90%d7%98%d7%a8%d7%a7%d7%a6%d7%99%d7%95%d7%aa_%d7%9c%d7%9e%d7%a9%d7%a4%d7%97%d7%94_%d7%91%d7%90%d7%99%d7%9c%d7%aa/\"><span style=\"color: #1155cc;\"><u><span style=\"font-size: medium;\">אטרקציות למשפחה באילת</span></u></span></a></span><span style=\"font-family: Arial, serif;\"><span lang=\"en\"><span style=\"font-size: medium;\">, </span></span></span><span lang=\"he-IL\"><span style=\"font-size: medium;\">בהן תוכלו לפגוש גם את צבי הים.</span></span>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "בואו ליהנות ממגוון אטרקציות באילת ולגלות עוד על הצבים:"
+    },
+    {
+      "type": "paragraph",
+      "text": "1. הם חושבים שמדוזות טעימות!צבים אוכלים מדוזות בעיקר בגיל צעיר. המדוזה היא מזון זמין שקל לתפוס ושקית הניילון ששוחה בזרם דומה למדוזה. הצבים אוכלים את הניילונים ונחנקים או הפלסטיק גורם להם לסתימה במערכת העיכול.",
+      "html": "1. הם חושבים שמדוזות טעימות!<br>צבים אוכלים מדוזות בעיקר בגיל צעיר. המדוזה היא מזון זמין שקל לתפוס ושקית הניילון ששוחה בזרם דומה למדוזה. הצבים אוכלים את הניילונים ונחנקים או הפלסטיק גורם להם לסתימה במערכת העיכול."
+    },
+    {
+      "type": "paragraph",
+      "text": "2. הם נחשבים ל״מכסחות הדשא״ של הים!לצבי ים ירוקים יש יותר תזונה צמחית והם אוהבים לאכול עשב ים, וכך עוזרים בשמירה על עשב ים באורך קצר, וכך הם מונעים ממנו להתנשא מעלה ולפגוע ביצורים ימיים אחרים.",
+      "html": "2. הם נחשבים ל״מכסחות הדשא״ של הים!<br>לצבי ים ירוקים יש יותר תזונה צמחית והם אוהבים לאכול עשב ים, וכך עוזרים בשמירה על עשב ים באורך קצר, וכך הם מונעים ממנו להתנשא מעלה ולפגוע ביצורים ימיים אחרים."
+    },
+    {
+      "type": "paragraph",
+      "text": "3. הם אינם יכולים לסגת לתוך השריון שלהם כמו צבים אחרים.מכיוון שהם לא צריכים להגן על עצמם מפני טורפים בתוך הים במשך רוב חייהם, צבי ים אינם יכולים לסגת ולהכניס את ראשם וגופם לתוך השריון שלהם. אך שימו לב, המבנה האנטומי המיוחד שלהם הופך אותם לזריזים יותר כשהם מתחת לים, אך פגיעים מאוד כשהם יוצאים מהים בזמן קינון ובקיעה.",
+      "html": "3. הם אינם יכולים לסגת לתוך השריון שלהם כמו צבים אחרים.<br>מכיוון שהם לא צריכים להגן על עצמם מפני טורפים בתוך הים במשך רוב חייהם, צבי ים אינם יכולים לסגת ולהכניס את ראשם וגופם לתוך השריון שלהם. אך שימו לב, המבנה האנטומי המיוחד שלהם הופך אותם לזריזים יותר כשהם מתחת לים, אך פגיעים מאוד כשהם יוצאים מהים בזמן קינון ובקיעה."
+    },
+    {
+      "type": "paragraph",
+      "text": "4. הטמפרטורה מכתיבה את המין של הצאצאים שלהם- קן חם יותר- נקבה, קר- זכר!בניגוד ליונקים, אצל צבי ים כמו אצל שאר הזוחלים, מין הילוד לא נקבע על ידי הורשה גנטית, אלא על ידי חום הקרקע שהביצה מתפתחת בו. קנים חמים יותר מובילים ליותר נקבות וקנים קרירים מביאים ליותר זכרים – וזו הסיבה ששינויי אקלים עלולים להשפיע באופן דרסטי על אוכלוסיותיהם על ידי יצירת יותר מדי נקבות ופחות מדי זכרים, מה שישפיע על הרבייה שלהם.",
+      "html": "4. הטמפרטורה מכתיבה את המין של הצאצאים שלהם- קן חם יותר- נקבה, קר- זכר!<br>בניגוד ליונקים, אצל צבי ים כמו אצל שאר הזוחלים, מין הילוד לא נקבע על ידי הורשה גנטית, אלא על ידי חום הקרקע שהביצה מתפתחת בו. קנים חמים יותר מובילים ליותר נקבות וקנים קרירים מביאים ליותר זכרים – וזו הסיבה ששינויי אקלים עלולים להשפיע באופן דרסטי על אוכלוסיותיהם על ידי יצירת יותר מדי נקבות ופחות מדי זכרים, מה שישפיע על הרבייה שלהם."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מבקרים עם הילדים בבריכת צבים? הם בטח ישמחו ללמוד גם ש:"
+    },
+    {
+      "type": "paragraph",
+      "text": "5. הם קיימים הרבה מאוד זמן.על פי ההערכות, צבי הים קיימים על פני כדור הארץ כבר כ -110 מיליון שנים, מה שאומר שפעם הם ודינוזאורים אחרים, (כמו הטי רקס, למשל), חלקו את אותו כוכב לכת!",
+      "html": "5. הם קיימים הרבה מאוד זמן.<br>על פי ההערכות, צבי הים קיימים על פני כדור הארץ כבר כ -110 מיליון שנים, מה שאומר שפעם הם ודינוזאורים אחרים, (כמו הטי רקס, למשל), חלקו את אותו כוכב לכת!"
+    },
+    {
+      "type": "paragraph",
+      "text": "6. הם יכולים לעצור את נשימתם במשך חמש שעות מתחת למים!כדי להשיג הישג אדיר זה צבי הים מאטים את קצב הלב שלהם עד לתשע דקות הפסקה בין פעימת לב אחת לשנייה על מנת לחסוך בחמצן.",
+      "html": "6. הם יכולים לעצור את נשימתם במשך חמש שעות מתחת למים!<br>כדי להשיג הישג אדיר זה צבי הים מאטים את קצב הלב שלהם עד לתשע דקות הפסקה בין פעימת לב אחת לשנייה על מנת לחסוך בחמצן."
+    },
+    {
+      "type": "paragraph",
+      "text": "7. הם חיים עד גיל 100, ויש זנים שיכולים לחיות אפילו עד לגיל של 250 שנה!וזו גם בערך כמות הביצים שהם מטילים בכל פעם שהם מקננים",
+      "html": "7. הם חיים עד גיל 100, ויש זנים שיכולים לחיות אפילו עד לגיל של 250 שנה!<br>וזו גם בערך כמות הביצים שהם מטילים בכל פעם שהם מקננים"
+    },
+    {
+      "type": "paragraph",
+      "text": "8. הכלב הוא אינו חברו הטוב ביותר של צב ים.למרות שהם בעלי חיים ימיים, חלק מהטורפים הטבעיים שלהם כוללים כלבים שחופרים בחול בו מוטמנות הביצים שלהם, וזוללים את הביצים.",
+      "html": "8. הכלב הוא אינו חברו הטוב ביותר של צב ים.<br>למרות שהם בעלי חיים ימיים, חלק מהטורפים הטבעיים שלהם כוללים כלבים שחופרים בחול בו מוטמנות הביצים שלהם, וזוללים את הביצים."
+    },
+    {
+      "type": "paragraph",
+      "text": "9. יש להם חוש כיוון מצוין.צבי ים יכולים לזהות את השדה המגנטי של כדור הארץ והם משתמשים בו כמצפן.",
+      "html": "9. יש להם חוש כיוון מצוין.<br>צבי ים יכולים לזהות את השדה המגנטי של כדור הארץ והם משתמשים בו כמצפן."
+    },
+    {
+      "type": "paragraph",
+      "text": "10. מספר הציפורניים יכול לגלות לנו מה התזונה המועדפת על הצב.לצב ים הירוק הצמחוני יש ציפורן אחת כי את האצות שהם אוכלים יותר קל לקרוע, לעומת זאת, הצבים הקרניים הם אוכלי בשר והם אוכלים סרטנים וספוגים, להם יש שתי ציפורנים כי כדי לקרוע ספוג או מלפפון ים צריך להפעיל יותר כוח.",
+      "html": "10. מספר הציפורניים יכול לגלות לנו מה התזונה המועדפת על הצב.<br>ל<span style=\"text-decoration: underline;\"><a href=\"https://coralworld.co.il/%D7%A6%D7%91-%D7%99%D7%9D-%D7%99%D7%A8%D7%95%D7%A7/\">צב ים הירוק</a></span>&nbsp;הצמחוני יש ציפורן אחת כי את האצות שהם אוכלים יותר קל לקרוע, לעומת זאת, הצבים הקרניים הם אוכלי בשר והם אוכלים סרטנים וספוגים, להם יש שתי ציפורנים כי כדי לקרוע ספוג או מלפפון ים צריך להפעיל יותר כוח."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2021/09/DSC00851.jpg",
+      "alt": "צב ים- מחפשים אטרקציות באילת? בואו ללמוד 10 עובדות מדהימות שלא ידעתם על צבי הים! מוכנים?",
+      "width": 2500,
+      "height": 1667
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/seaturtlefacts/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f422bec24-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

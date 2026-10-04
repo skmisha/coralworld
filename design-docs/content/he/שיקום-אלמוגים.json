@@ -1,0 +1,508 @@
+{
+  "source": "https://coralworld.co.il/%D7%A9%D7%99%D7%A7%D7%95%D7%9D-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.851Z",
+  "seo": {
+    "title": "שיקום אלמוגים ואזורים בהם נפגעו בע\"ח ימיים באילת מזיהומים וסערות | המצפה התת ימי",
+    "description": "שיקום אלמוגים באילת- למעלה מ-20 שנה שפארק המצפה התת-ימי באילת, משקיעים כסף וזמן רב בחקר הים על מנת לשפר ולהעשיר את הגישה והטיפול בבע\"ח הימיים ולעזור בשיקום האזורים שבע\"ח הימיים נפגעו כתוצאה מזיהומים וסערות",
+    "canonical": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "שיקום אלמוגים ואזורים בהם נפגעו בע\"ח ימיים באילת מזיהומים וסערות | המצפה התת ימי",
+      "og:description": "שיקום אלמוגים באילת- למעלה מ-20 שנה שפארק המצפה התת-ימי באילת, משקיעים כסף וזמן רב בחקר הים על מנת לשפר ולהעשיר את הגישה והטיפול בבע\"ח הימיים ולעזור בשיקום האזורים שבע\"ח הימיים נפגעו כתוצאה מזיהומים וסערות",
+      "og:url": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "שיקום אלמוגים ואזורים בהם נפגעו בע\"ח ימיים באילת מזיהומים וסערות | המצפה התת ימי",
+      "twitter:description": "שיקום אלמוגים באילת- למעלה מ-20 שנה שפארק המצפה התת-ימי באילת, משקיעים כסף וזמן רב בחקר הים על מנת לשפר ולהעשיר את הגישה והטיפול בבע\"ח הימיים ולעזור בשיקום האזורים שבע\"ח הימיים נפגעו כתוצאה מזיהומים וסערות"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#article",
+            "name": "שיקום אלמוגים ואזורים בהם נפגעו בע\"ח ימיים באילת מזיהומים וסערות | המצפה התת ימי",
+            "headline": "שיקום אלמוגים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/הים-האדום-6-scaled.jpg",
+              "width": 2560,
+              "height": 1699,
+              "caption": "Beautiful coral reef and mach fish"
+            },
+            "datePublished": "2020-06-11T16:56:41+03:00",
+            "dateModified": "2021-07-22T10:51:12+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                  "name": "שיקום אלמוגים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "שיקום אלמוגים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+            "name": "שיקום אלמוגים ואזורים בהם נפגעו בע\"ח ימיים באילת מזיהומים וסערות | המצפה התת ימי",
+            "description": "שיקום אלמוגים באילת- למעלה מ-20 שנה שפארק המצפה התת-ימי באילת, משקיעים כסף וזמן רב בחקר הים על מנת לשפר ולהעשיר את הגישה והטיפול בבע\"ח הימיים ולעזור בשיקום האזורים שבע\"ח הימיים נפגעו כתוצאה מזיהומים וסערות",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/הים-האדום-6-scaled.jpg",
+              "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage",
+              "width": 2560,
+              "height": 1699,
+              "caption": "Beautiful coral reef and mach fish"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-06-11T16:56:41+03:00",
+            "dateModified": "2021-07-22T10:51:12+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "שיקום אלמוגים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%a9%d7%99%d7%a7%d7%95%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/%D7%94%D7%99%D7%9D-%D7%94%D7%90%D7%93%D7%95%D7%9D-6-1536x1020.jpg",
+      "alt": "ריף אלמוגים | שיקום אלמוגים באילת",
+      "width": 1439,
+      "height": 956
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "שיקום אלמוגים"
+    },
+    {
+      "type": "paragraph",
+      "text": "זה למעלה מ-20 שנה שפארק המצפה התת-ימי באילת, משקיעים כסף וזמן רב בחקר הים על מנת לשפר ולהעשיר את הגישה והטיפול בבע\"ח הימיים ולעזור בשיקום האזורים שבע\"ח הימיים נפגעו כתוצאה מזיהומים וסערות. זה בא לידי ביטוי ברבייה שהצלחנו לבצע במספר בע\"ח ימיים באזורנו, לגדל אותם עד לשלב הבוגר, לשחררם לים ולהמשיך במעקב ההסתגלות וההישרדות שלהם בטבע. פרויקטים אלו נחלו הצלחה רבה וזכו לשיתוף פעולה עם חוקרים רבים מהארץ ומהעולם. לכן טבעי הדבר שנחפש פתרונות טובים יותר לשיקום שוניות האלמוגים שנפגעו כתוצאה מזיהומים, סערות, כלי שייט וצוללים.",
+      "html": "זה למעלה מ-20 שנה שפארק המצפה התת-ימי באילת, משקיעים כסף וזמן רב בחקר הים על מנת לשפר ולהעשיר את הגישה והטיפול בבע\"ח הימיים ולעזור בשיקום האזורים שבע\"ח הימיים נפגעו כתוצאה מזיהומים וסערות.<br> זה בא לידי ביטוי ברבייה שהצלחנו לבצע במספר בע\"ח ימיים באזורנו, לגדל אותם עד לשלב הבוגר, לשחררם לים ולהמשיך במעקב ההסתגלות וההישרדות שלהם בטבע.<br> פרויקטים אלו נחלו הצלחה רבה וזכו לשיתוף פעולה עם חוקרים רבים מהארץ ומהעולם.<br> לכן טבעי הדבר שנחפש פתרונות טובים יותר לשיקום שוניות האלמוגים שנפגעו כתוצאה מזיהומים, סערות, כלי שייט וצוללים."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מצילים מושבות אלמוגים פגועות"
+    },
+    {
+      "type": "paragraph",
+      "text": "הפתרון המתבקש הוא לנסות ולהציל את אותם מושבות אלמוגים פגועות, לשקם אותם ולהחזירם למקומם בים או להקים שוניות אלמוגים נוספות בשילוב עם שוניות מלאכותיות. מכאן הגענו לשיקום שברי אלמוגים שאותם ניתן לאסוף מהקרקעית החולית למרגלות שוניות האלמוגים הטבעיות. שברים אלה ניתן לראות בכמויות גדולות ביותר. בקטע של כ-50 -מ' שלאורך שונית האלמוגים, ניתן לאסוף יום יום בין 100-500 שברי אלמוגים מכל הסוגים. הפגיעות באלמוגים הם לא רק כתוצאה מפגיעות שהזכרנו, דגים רבים פוגעים ושוברים אלמוגים בכל שעות היום והלילה.",
+      "html": "הפתרון המתבקש הוא לנסות ולהציל את אותם מושבות אלמוגים פגועות, לשקם אותם ולהחזירם למקומם בים או להקים שוניות אלמוגים נוספות בשילוב עם שוניות מלאכותיות.<br> מכאן הגענו לשיקום שברי אלמוגים שאותם ניתן לאסוף מהקרקעית החולית למרגלות שוניות האלמוגים הטבעיות.<br> שברים אלה ניתן לראות בכמויות גדולות ביותר. בקטע של כ-50 -מ' שלאורך שונית האלמוגים, ניתן לאסוף יום יום בין 100-500 שברי אלמוגים מכל הסוגים.<br> הפגיעות באלמוגים הם לא רק כתוצאה מפגיעות שהזכרנו, דגים רבים פוגעים ושוברים אלמוגים בכל שעות היום והלילה."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "הידעת? מכל שבר של אלמוג ניתן ליצור מושבת אלמוגים!"
+    },
+    {
+      "type": "paragraph",
+      "text": "היפה שבדבר הוא שמכל שבר בודד של אלמוג, אפילו שגודלו אינו עולה על 1 ס\"מ, ניתן תוך זמן קצר יחסית לקבל מושבת אלמוגים מיוחדת בגודלה ובצבעיה. ניתן לקבעה על גבי השונית המלאכותית, מה שמאפשר בניית בית גידול מושלם ומהיר ביותר עבור שוכני הים באחוזי הצלחה גבוהים מאוד.",
+      "html": "היפה שבדבר הוא שמכל שבר בודד של אלמוג, אפילו שגודלו אינו עולה על 1 ס\"מ, ניתן תוך זמן קצר יחסית לקבל מושבת אלמוגים מיוחדת בגודלה ובצבעיה. ניתן לקבעה על גבי השונית המלאכותית, מה שמאפשר בניית בית גידול מושלם ומהיר ביותר עבור שוכני הים באחוזי הצלחה גבוהים מאוד."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "בניית שונית אלמוגים"
+    },
+    {
+      "type": "paragraph",
+      "text": "בניית שונית אלמוגים מפריגמנטים הנו רעיון ראשוני מסוגו בעולם ופותח ע\"י חוקרי פארק המצפה התת-ימי באילת. לאחר 7 שנים של בנייה, שיקום שונית האלמוגים בדרך זו באילת, נכון להיום שיטה זו היא השיטה הטובה ביותר בעולם לשיקום של שונית האלמוגים.",
+      "html": "בניית שונית אלמוגים מפריגמנטים הנו רעיון ראשוני מסוגו בעולם ופותח ע\"י חוקרי פארק המצפה התת-ימי באילת. לאחר 7 שנים של בנייה, שיקום שונית האלמוגים בדרך זו באילת, נכון להיום שיטה זו היא השיטה הטובה ביותר בעולם לשיקום של שונית האלמוגים."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%A9%D7%99%D7%A7%D7%95%D7%9D-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f4273a504-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

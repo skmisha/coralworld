@@ -1,0 +1,485 @@
+{
+  "source": "https://coralworld.co.il/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A0%D7%9E%D7%A8/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.829Z",
+  "seo": {
+    "title": "כריש נמר - מה אנחנו יודעים עליו? | המצפה התת ימי",
+    "description": "סימני היכר של כריש נמר: דוגמת פסים של נמר, צורות שיניים מיוחדות. איזור מחיה של כריש נמר: משייט בכל הימים הטרופיים/ סבטרופיים בעומקים של 3 עד 300 מ'. הכירו את כריש הנמר >>>",
+    "canonical": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "כריש נמר - מה אנחנו יודעים עליו? | המצפה התת ימי",
+      "og:description": "סימני היכר של כריש נמר: דוגמת פסים של נמר, צורות שיניים מיוחדות. איזור מחיה של כריש נמר: משייט בכל הימים הטרופיים/ סבטרופיים בעומקים של 3 עד 300 מ'. הכירו את כריש הנמר >>>",
+      "og:url": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/",
+      "twitter:card": "summary",
+      "twitter:title": "כריש נמר - מה אנחנו יודעים עליו? | המצפה התת ימי",
+      "twitter:description": "סימני היכר של כריש נמר: דוגמת פסים של נמר, צורות שיניים מיוחדות. איזור מחיה של כריש נמר: משייט בכל הימים הטרופיים/ סבטרופיים בעומקים של 3 עד 300 מ'. הכירו את כריש הנמר >>>"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#article",
+            "name": "כריש נמר - מה אנחנו יודעים עליו? | המצפה התת ימי",
+            "headline": "כריש נמר",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "datePublished": "2020-06-11T16:53:29+03:00",
+            "dateModified": "2021-07-21T19:18:33+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#listItem",
+                  "name": "כריש נמר"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#listItem",
+                "position": 3,
+                "name": "כריש נמר",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#webpage",
+            "url": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/",
+            "name": "כריש נמר - מה אנחנו יודעים עליו? | המצפה התת ימי",
+            "description": "סימני היכר של כריש נמר: דוגמת פסים של נמר, צורות שיניים מיוחדות. איזור מחיה של כריש נמר: משייט בכל הימים הטרופיים/ סבטרופיים בעומקים של 3 עד 300 מ'. הכירו את כריש הנמר >>>",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "datePublished": "2020-06-11T16:53:29+03:00",
+            "dateModified": "2021-07-21T19:18:33+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "כריש נמר"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/",
+    "x-default": "https://coralworld.co.il/%d7%9b%d7%a8%d7%99%d7%a9-%d7%a0%d7%9e%d7%a8/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A0%D7%9E%D7%A8/",
+      "alt": "",
+      "width": 0,
+      "height": 0
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "כריש נמר"
+    },
+    {
+      "type": "paragraph",
+      "text": "שם מדעי: Galeocerdo cuvier שם עברי: כריש נמר/טיגריס אורך ממוצע: 4 מ' משקל ממוצע: בוגר: 385 -635 ק\"ג",
+      "html": "שם מדעי: Galeocerdo cuvier<br> שם עברי: <strong>כריש נמר</strong>/טיגריס<br> אורך ממוצע: 4 מ'<br> משקל ממוצע: בוגר: 385 -635 ק\"ג"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "סימני היכר של כריש נמר"
+    },
+    {
+      "type": "paragraph",
+      "text": "דוגמת פסים של נמר, צורות שיניים מיוחדות.",
+      "html": "דוגמת פסים של נמר, צורות שיניים מיוחדות."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "איזור מחיה של כריש נמר:"
+    },
+    {
+      "type": "paragraph",
+      "text": "משייט בכל הימים הטרופיים/ סבטרופיים בעומקים של 3 עד 300 מ'.",
+      "html": "משייט בכל הימים הטרופיים/ סבטרופיים בעומקים של 3 עד 300 מ'."
+    },
+    {
+      "type": "paragraph",
+      "text": "תזונה: ניזון מדגים, צבי ים, ציפורים, כל דבר חי נאכל אויבים: שלב צעיר- כרישים גדולים, שלב בוגר – דייגים (האדם) אינטראקציה מול צוללנים: לרוב בורח ממפגשים, אבל ידוע כי עקב סקרנות בוחר נתיב קרוב לצוללנים אינטראקציה מול האדם: מסוכן ביותר מיקום ברשימת מינים נכחדים: בסכנת הכחדה, מוגן בכל העולם",
+      "html": "תזונה: ניזון מדגים, צבי ים, ציפורים, כל דבר חי נאכל<br> אויבים: שלב צעיר- כרישים גדולים, שלב בוגר – דייגים (האדם)<br> אינטראקציה מול צוללנים: לרוב בורח ממפגשים, אבל ידוע כי עקב סקרנות בוחר נתיב קרוב לצוללנים<br> אינטראקציה מול האדם: מסוכן ביותר<br> מיקום ברשימת מינים נכחדים: בסכנת הכחדה, מוגן בכל העולם"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A0%D7%9E%D7%A8/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f42982bb6-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

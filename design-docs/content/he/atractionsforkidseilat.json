@@ -1,0 +1,508 @@
+{
+  "source": "https://coralworld.co.il/atractionsforkidseilat/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.854Z",
+  "seo": {
+    "title": "המצפה התת ימי- שלל אטרקציות לילדים באילת | המצפה התת ימי",
+    "description": "אטרקציות באילת? שפע של אפשרויות בילוי נפלאות מחוץ לבתי המלון - לכל המשפחה, אפילו בקיץ האילתי. אז הנה מגוון אטרקציות באילת ומקומות המומלצים לבילוי קיצי ואיכותי בעיר. תהנו!",
+    "canonical": "https://coralworld.co.il/atractionsforkidseilat/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "המצפה התת ימי- שלל אטרקציות לילדים באילת | המצפה התת ימי",
+      "og:description": "אטרקציות באילת? שפע של אפשרויות בילוי נפלאות מחוץ לבתי המלון - לכל המשפחה, אפילו בקיץ האילתי. אז הנה מגוון אטרקציות באילת ומקומות המומלצים לבילוי קיצי ואיכותי בעיר. תהנו!",
+      "og:url": "https://coralworld.co.il/atractionsforkidseilat/",
+      "twitter:card": "summary",
+      "twitter:title": "המצפה התת ימי- שלל אטרקציות לילדים באילת | המצפה התת ימי",
+      "twitter:description": "אטרקציות באילת? שפע של אפשרויות בילוי נפלאות מחוץ לבתי המלון - לכל המשפחה, אפילו בקיץ האילתי. אז הנה מגוון אטרקציות באילת ומקומות המומלצים לבילוי קיצי ואיכותי בעיר. תהנו!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/atractionsforkidseilat/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/atractionsforkidseilat/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/atractionsforkidseilat/#article",
+            "name": "המצפה התת ימי- שלל אטרקציות לילדים באילת | המצפה התת ימי",
+            "headline": "המצפה התת ימי- שלל אטרקציות לילדים באילת",
+            "author": {
+              "@id": "https://coralworld.co.il/author/keren_manage/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2022/08/BS21991-scaled.jpg",
+              "width": 2560,
+              "height": 1707
+            },
+            "datePublished": "2022-08-23T21:32:53+03:00",
+            "dateModified": "2022-09-13T11:00:26+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/atractionsforkidseilat/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/atractionsforkidseilat/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/atractionsforkidseilat/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/atractionsforkidseilat/#listItem",
+                  "name": "המצפה התת ימי- שלל אטרקציות לילדים באילת"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/atractionsforkidseilat/#listItem",
+                "position": 3,
+                "name": "המצפה התת ימי- שלל אטרקציות לילדים באילת",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/keren_manage/#author",
+            "url": "https://coralworld.co.il/author/keren_manage/",
+            "name": "קרן",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/atractionsforkidseilat/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/7ea2aeb8ed3c381fd761d7d619a37496c74e31a100295a46d8f374fcadfae8e0?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "קרן"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/atractionsforkidseilat/#webpage",
+            "url": "https://coralworld.co.il/atractionsforkidseilat/",
+            "name": "המצפה התת ימי- שלל אטרקציות לילדים באילת | המצפה התת ימי",
+            "description": "אטרקציות באילת? שפע של אפשרויות בילוי נפלאות מחוץ לבתי המלון - לכל המשפחה, אפילו בקיץ האילתי. אז הנה מגוון אטרקציות באילת ומקומות המומלצים לבילוי קיצי ואיכותי בעיר. תהנו!",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/atractionsforkidseilat/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/keren_manage/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/keren_manage/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2022/08/BS21991-scaled.jpg",
+              "@id": "https://coralworld.co.il/atractionsforkidseilat/#mainImage",
+              "width": 2560,
+              "height": 1707
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/atractionsforkidseilat/#mainImage"
+            },
+            "datePublished": "2022-08-23T21:32:53+03:00",
+            "dateModified": "2022-09-13T11:00:26+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "המצפה התת ימי- שלל אטרקציות לילדים באילת"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/atractionsforkidseilat/",
+    "x-default": "https://coralworld.co.il/atractionsforkidseilat/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "המצפה התת ימי- שלל אטרקציות לילדים באילת"
+    },
+    {
+      "type": "paragraph",
+      "text": "כתיבה ועריכה: יעל לרנר",
+      "html": "כתיבה ועריכה: יעל לרנר"
+    },
+    {
+      "type": "paragraph",
+      "text": "אילת, עיר הנופש הדרומית, היא עיר של בילויים, חופש וים, אך מעבר לכך, תוכלו למצוא בה שפע של אפשרויות בילוי נפלאות מחוץ לבתי המלון המתאימים לכל המשפחה, אפילו בקיץ האילתי. אז הנה מגוון אטרקציות באילת ומקומות המומלצים לבילוי קיצי ואיכותי בעיר. תהנו!",
+      "html": "<b>אילת, עיר הנופש הדרומית, היא עיר של בילויים, חופש וים, אך מעבר לכך, תוכלו למצוא בה שפע של אפשרויות בילוי נפלאות מחוץ לבתי המלון המתאימים לכל המשפחה, אפילו בקיץ האילתי. אז הנה מגוון אטרקציות באילת ומקומות המומלצים לבילוי קיצי ואיכותי בעיר. תהנו!</b>"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "המרענן הרשמי של הקיץ האילתי- פארק המצפה התת ימי, כמובן!"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/08/DSC00871.jpg",
+      "alt": "Aquadome Eilat",
+      "width": 1280,
+      "height": 800
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "אטרקציות באילת לילדים ומבוגרים- סיורי Discover Eilat: להכיר את אילת מבפנים!"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "עוד אטרקציות באילת- הגן הבוטני"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "בתוך הים- צלילה, שנורקלינג באילת ועוד!"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2022/08/%D7%A9___-_%D7%A2_%C6%92-_%D7%A1_%D7%A5_%D7%A8___%D7%A9-1-rotated.jpeg",
+      "alt": "_ש___£ _ע_ƒ _ס_ץ_ר___ש 1",
+      "width": 1440,
+      "height": 1080
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/atractionsforkidseilat/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f35432288-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

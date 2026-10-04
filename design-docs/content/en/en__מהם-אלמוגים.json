@@ -1,0 +1,471 @@
+{
+  "source": "https://coralworld.co.il/en/%D7%9E%D7%94%D7%9D-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.807Z",
+  "seo": {
+    "title": "מהם אלמוגים: | The Underwater Observatory Tower",
+    "description": null,
+    "canonical": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "מהם אלמוגים: | The Underwater Observatory Tower",
+      "og:url": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "מהם אלמוגים: | The Underwater Observatory Tower"
+    },
+    "hreflang": [
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#article",
+            "name": "מהם אלמוגים: | The Underwater Observatory Tower",
+            "headline": "מהם אלמוגים:",
+            "author": {
+              "@id": "https://coralworld.co.il/en/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/הים-האדום-5-scaled.jpg",
+              "width": 2560,
+              "height": 1700,
+              "caption": "Bright paints of coral reeves"
+            },
+            "datePublished": "2020-06-11T16:58:13+03:00",
+            "dateModified": "2020-07-27T16:05:05+03:00",
+            "inLanguage": "en-US",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "Articles, Corals, Optional"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/category/articles/#listItem",
+                  "name": "Articles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/category/articles/#listItem",
+                "position": 2,
+                "name": "Articles",
+                "item": "https://coralworld.co.il/en/category/articles/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/category/articles/corals/#listItem",
+                  "name": "Corals"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/category/articles/corals/#listItem",
+                "position": 3,
+                "name": "Corals",
+                "item": "https://coralworld.co.il/en/category/articles/corals/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                  "name": "מהם אלמוגים:"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/category/articles/#listItem",
+                  "name": "Articles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#listItem",
+                "position": 4,
+                "name": "מהם אלמוגים:",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/category/articles/corals/#listItem",
+                  "name": "Corals"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/en/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/en/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/",
+            "name": "מהם אלמוגים: | The Underwater Observatory Tower",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/en/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/en/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/הים-האדום-5-scaled.jpg",
+              "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage",
+              "width": 2560,
+              "height": 1700,
+              "caption": "Bright paints of coral reeves"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-06-11T16:58:13+03:00",
+            "dateModified": "2020-07-27T16:05:05+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "מהם אלמוגים:"
+  ],
+  "alternates": {
+    "en": "https://coralworld.co.il/en/%d7%9e%d7%94%d7%9d-%d7%90%d7%9c%d7%9e%d7%95%d7%92%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/%D7%94%D7%99%D7%9D-%D7%94%D7%90%D7%93%D7%95%D7%9D-5-1536x1020.jpg",
+      "alt": "התוכינוניים",
+      "width": 1439,
+      "height": 956
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "מהם אלמוגים:"
+    },
+    {
+      "type": "paragraph",
+      "text": "אלמוגים הנם בע\"ח אשר אינם נעים וחיים יחדיו במושבות המונות מאות אלפי פרטים. כל פרט במושבה נקרא פוליפ והוא מצויד בזרועות צייד ארסיות ובפה אליו מובל הטרף שנלכד. קצב גדילת מושבת אלמוגים הנו מספר סנטימטרים בשנה. מושבה בגודל עשרות סנטימטרים הנה מושבה בת עשרות שנים ומאות שנים. כשמושבת אלמוגים מתה, נשאר ממנה השלד הגירני המהווה מצע לגדילת מושבות אלמוגים חדשות. כך במשך אלפי שנים אלמוגים גדלים ובונים מושבות, במותם נשאר השלד הגירני שלהם המהווה בסיס לגדילת הדורות הבאים. ברור לנו שפרט לאותם אלמוגים שאנחנו מצילים, הפתרון חייב להיות נרחב הרבה יותר וחייבים להיות לו שותפים רבים ככל הניתן. לכן החלטנו פארק המצפה התת ימי בשיתוף ההתאחדות לצלילה, קרן קר\"ב, רשות שמורת הטבע והגנים הלאומים ובעזרתו של צביקה לבנת, לשתף את תלמידי בתי הספר באילת בפרויקט שיקום האלמוגים ובכך להציל את האלמוגים אלה וליצור מודעות רחבה לנעשה בים. בשנה הראשונה בפרויקט שיקום האלמוגים עבדנו עם שתי כיתות ו' מבית ספר \"ערבה\" באילת, כאשר אחת לשבועיים מגיעים התלמידים למצפה. לכל כיתה יש אקווריום עם שברי אלמוגים אשר הגיעו פגועים מקרקעית הים. התלמידים מטפלים, שוקלים,מנקים ועוקבים אחר קצב הגידול וההחלמה של האלמוג. בסוף השנה צוות הצוללים של פארק המצפה התת ימי בשיתוף התלמידים \"שותלים\" את האלמוגים חזרה בשונית האלמוגים אשר קרובה לחלונות המצפה. האלמוג נשתל בשונית ע\"י דבק אלמוגים מיוחד שפותח אצלנו. כן גם יוכלו התלמידים לעקוב במשך השנים אחרי התפתחות האלמוג אותם שיקמו ע\"י זיהוי מספר האלמוג אותו הם מקבלים. כל מי שמעוניין לצפות האלמוגים ובשיקומם מוזמן לראות את האלמוגים דרך חלונות המגדל (במצב שהאלמוג כבר הוחזר לטבע) או לחילופין באקווריום התצוגה בכיתת הלימוד, שם הם נמצאים עדיין התהליך השיקום. תוך כדי העבודה עם האלמוגים הילדים למדים כמה האלמוגים עדינים ועד כמה קצב הגידול שלהם איטי. הם לומדים לזהות מיני אלמוגים שונים ולומדים על הצרכים המיוחדים של האלמוגים בשביל לחיות ולגדול. מאלמוג בודד שכל ילד מאושש, אנחנו משליכים על המצב הקשה של השונית באילת, על הגורמים שמפריעים לשונית וכיצד בכוחות משותפים ניתן לשפר ולהציל את השונית באילת. פרויקט זה נמשך כבר השנה ה- 13 , והיום אנחנו עובדים עם שמונה בתי-ספר באילת, והשאיפה שלנו בפרויקט זה להגיע לכלל בתי הספר באילת. בפרויקט זה משתתפים ילדים בכיתות ה'-ו'. דרך הילדים שיטפלו בשיקום האלמוגים המודעות לנעשה בים תעלה ואולי עוד כמה שנים נצליח לשקם את שונית האלמוגים באילת למצב שבו הייתה לפני כמה שנים. כריש לאור הסיפורים והאגדות הנרקמים סביב לכריש, אנו נוטים לחשוב כי כריש הינו בע\"ח מאוד אכזרי וחלקם אכן תוקפניים. אך מעשיות אלה מוגזמות למדי, שכן אצל מרבית ה כרישים לא קיים יצר התקיפה אלא אם כן הם מאוימים או מותקפים. כרישים ודגים אינם נושמים באותה הדרך, לדגים יש מכסי זימים הנפתחים ונסגרים וכך מים נכנסים לתוך מערכת הנשימה. הם לוקחים את החמצן מתוך המים ושאר המים יפלטו דרך מכסה הזימים. ל כריש אין מכסה זימים אלא מס' חריצי זימים משני צידי ראשו, ה כריש תמיד שוחה עם הפה מעט פתוח, מים יכנסו לו לתוך הפה יעברו דרך חריצי הזימים, לכן חייב ה כריש להיות בתנועה מתמדת ולא הוא עלול לשקוע ולמות. בים ניתן לראות כרישים שאינם שוחים וזאת בגלל שמצאו זרם מים לעמוד בו. בעולם מצויים כ- 450 מיני כרישים, מתוכם מצויים בים סוף כ- 50 מינים. תפקידם העיקרי של ה כרישים בטבע הוא לנקות את הים מבעלי חיים חולים, פצועים, חלשים ועוד. הם ניזונים רק מבעלי חיים ימיים כמו דגים, תמנונים, כלבי ים ועוד. הם שייכים למשפחת דגי הסחוס. זוהי קבוצת דגים שאין לה עצמות בגוף והשלד שלהם הוא סחוסי, מכאן גם הגמישות המרשימה שלהם. ל כריש בין 3 ל-8 שורות שיניים שמתחלפות כל ימי חייהם. כמו כן, הם בעלי חושי ריח וראייה חדים מאוד, וכל אלה יחד עם צורה וגמישות יוצרים טורף על מושלם.",
+      "html": "אלמוגים הנם בע\"ח אשר אינם נעים וחיים יחדיו במושבות המונות מאות אלפי פרטים.<br> כל פרט במושבה נקרא פוליפ והוא מצויד בזרועות צייד ארסיות ובפה אליו מובל הטרף שנלכד.<br> קצב גדילת מושבת אלמוגים הנו מספר סנטימטרים בשנה.<br> מושבה בגודל עשרות סנטימטרים הנה מושבה בת עשרות שנים ומאות שנים.<br> כשמושבת אלמוגים מתה, נשאר ממנה השלד הגירני המהווה מצע לגדילת מושבות אלמוגים חדשות. כך במשך אלפי שנים אלמוגים גדלים ובונים מושבות, במותם נשאר השלד הגירני שלהם המהווה בסיס לגדילת הדורות הבאים.<br> ברור לנו שפרט לאותם אלמוגים שאנחנו מצילים, הפתרון חייב להיות נרחב הרבה יותר וחייבים להיות לו שותפים רבים ככל הניתן.<br> לכן החלטנו פארק המצפה התת ימי בשיתוף ההתאחדות לצלילה, קרן קר\"ב, רשות שמורת הטבע והגנים הלאומים ובעזרתו של צביקה לבנת, לשתף את תלמידי בתי הספר באילת בפרויקט שיקום האלמוגים ובכך להציל את האלמוגים אלה וליצור מודעות רחבה לנעשה בים.<br> בשנה הראשונה בפרויקט שיקום האלמוגים עבדנו עם שתי כיתות ו' מבית ספר \"ערבה\" באילת, כאשר אחת לשבועיים מגיעים התלמידים למצפה. לכל כיתה יש אקווריום עם שברי אלמוגים אשר הגיעו פגועים מקרקעית הים.<br> התלמידים מטפלים, שוקלים,מנקים ועוקבים אחר קצב הגידול וההחלמה של האלמוג.<br> בסוף השנה צוות הצוללים של פארק המצפה התת ימי בשיתוף התלמידים \"שותלים\" את האלמוגים חזרה בשונית האלמוגים אשר קרובה לחלונות המצפה.<br> האלמוג נשתל בשונית ע\"י דבק אלמוגים מיוחד שפותח אצלנו. כן גם יוכלו התלמידים לעקוב במשך השנים אחרי התפתחות האלמוג אותם שיקמו ע\"י זיהוי מספר האלמוג אותו הם מקבלים. כל מי שמעוניין לצפות האלמוגים ובשיקומם מוזמן לראות את האלמוגים דרך חלונות המגדל (במצב שהאלמוג כבר הוחזר לטבע) או לחילופין באקווריום התצוגה בכיתת הלימוד, שם הם נמצאים עדיין התהליך השיקום.<br> תוך כדי העבודה עם האלמוגים הילדים למדים כמה האלמוגים עדינים ועד כמה קצב הגידול שלהם איטי.<br> הם לומדים לזהות מיני אלמוגים שונים ולומדים על הצרכים המיוחדים של האלמוגים בשביל לחיות ולגדול.<br> מאלמוג בודד שכל ילד מאושש, אנחנו משליכים על המצב הקשה של השונית באילת, על הגורמים שמפריעים לשונית וכיצד בכוחות משותפים ניתן לשפר ולהציל את השונית באילת.<br> פרויקט זה נמשך כבר השנה ה- 13 , והיום אנחנו עובדים עם שמונה בתי-ספר באילת, והשאיפה שלנו בפרויקט זה להגיע לכלל בתי הספר באילת.<br> בפרויקט זה משתתפים ילדים בכיתות ה'-ו'.<br> דרך הילדים שיטפלו בשיקום האלמוגים המודעות לנעשה בים תעלה ואולי עוד כמה שנים נצליח לשקם את שונית האלמוגים באילת למצב שבו הייתה לפני כמה שנים.<br> כריש<br> לאור הסיפורים והאגדות הנרקמים סביב לכריש, אנו נוטים לחשוב כי כריש הינו בע\"ח מאוד אכזרי וחלקם אכן תוקפניים. אך מעשיות אלה מוגזמות למדי, שכן אצל מרבית ה כרישים לא קיים יצר התקיפה אלא אם כן הם מאוימים או מותקפים.<br> כרישים ודגים אינם נושמים באותה הדרך, לדגים יש מכסי זימים הנפתחים ונסגרים וכך מים נכנסים לתוך מערכת הנשימה. הם לוקחים את החמצן מתוך המים ושאר המים יפלטו דרך מכסה הזימים. ל כריש אין מכסה זימים אלא מס' חריצי זימים משני צידי ראשו, ה כריש תמיד שוחה עם הפה מעט פתוח, מים יכנסו לו לתוך הפה יעברו דרך חריצי הזימים, לכן חייב ה כריש להיות בתנועה מתמדת ולא הוא עלול לשקוע ולמות. בים ניתן לראות כרישים שאינם שוחים וזאת בגלל שמצאו זרם מים לעמוד בו.<br> בעולם מצויים כ- 450 מיני כרישים, מתוכם מצויים בים סוף כ- 50 מינים.<br> תפקידם העיקרי של ה כרישים בטבע הוא לנקות את הים מבעלי חיים חולים, פצועים, חלשים ועוד. הם ניזונים רק מבעלי חיים ימיים כמו דגים, תמנונים, כלבי ים ועוד.<br> הם שייכים למשפחת דגי הסחוס. זוהי קבוצת דגים שאין לה עצמות בגוף והשלד שלהם הוא סחוסי, מכאן גם הגמישות המרשימה שלהם.<br> ל כריש בין 3 ל-8 שורות שיניים שמתחלפות כל ימי חייהם. כמו כן, הם בעלי חושי ריח וראייה חדים מאוד, וכל אלה יחד עם צורה וגמישות יוצרים טורף על מושלם."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/%D7%9E%D7%94%D7%9D-%D7%90%D7%9C%D7%9E%D7%95%D7%92%D7%99%D7%9D/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f4d290b63-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

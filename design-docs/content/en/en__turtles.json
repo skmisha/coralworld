@@ -1,0 +1,686 @@
+{
+  "source": "https://coralworld.co.il/en/turtles/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.816Z",
+  "seo": {
+    "title": "Turtles | The Underwater Observatory Tower",
+    "description": "Enjoy the view at Turtle Island! Peek in at Turtle Island and you’ll immediately understand why sea turtles are much-loved animals.",
+    "canonical": "https://coralworld.co.il/en/turtles/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Turtles | The Underwater Observatory Tower",
+      "og:description": "Enjoy the view at Turtle Island! Peek in at Turtle Island and you’ll immediately understand why sea turtles are much-loved animals.",
+      "og:url": "https://coralworld.co.il/en/turtles/",
+      "twitter:card": "summary",
+      "twitter:title": "Turtles | The Underwater Observatory Tower",
+      "twitter:description": "Enjoy the view at Turtle Island! Peek in at Turtle Island and you’ll immediately understand why sea turtles are much-loved animals."
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/turtles/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/turtles/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/turtles/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/turtles/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/turtles/#listItem",
+                  "name": "Turtles"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/turtles/#listItem",
+                "position": 2,
+                "name": "Turtles",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/turtles/#webpage",
+            "url": "https://coralworld.co.il/en/turtles/",
+            "name": "Turtles | The Underwater Observatory Tower",
+            "description": "Enjoy the view at Turtle Island! Peek in at Turtle Island and you’ll immediately understand why sea turtles are much-loved animals.",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/turtles/#breadcrumblist"
+            },
+            "datePublished": "2020-05-25T16:31:19+03:00",
+            "dateModified": "2024-01-07T11:49:19+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "Turtle Pool"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/turtles/",
+    "en": "https://coralworld.co.il/en/turtles/",
+    "x-default": "https://coralworld.co.il/turtles/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Turtle Pool"
+    },
+    {
+      "type": "paragraph",
+      "text": "Enjoy the view at Turtle Island!",
+      "html": "Enjoy the view at Turtle Island!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Peek in at Turtle Island and you’ll immediately understand why sea turtles are much-loved animals.",
+      "html": "Peek in at Turtle Island and you’ll immediately understand why sea turtles are much-loved animals."
+    },
+    {
+      "type": "paragraph",
+      "text": "Enjoy their intriguing behavior in water and on land.",
+      "html": "Enjoy their intriguing behavior in water and on land."
+    },
+    {
+      "type": "paragraph",
+      "text": "In our exhibit you can watch them swim, feed and go about their daily lives.",
+      "html": "In our exhibit you can watch them swim, feed and go about their daily lives."
+    },
+    {
+      "type": "paragraph",
+      "text": "We provide a beautiful home for two types of Turtle species that recreate their natural living conditions.",
+      "html": "We provide a beautiful home for two types of Turtle species that recreate their natural living conditions."
+    },
+    {
+      "type": "paragraph",
+      "text": "In recent years, dozens of turtles have hatched in the Park, which we raise and release to sea once they reach adulthood, thus contributing to increasing the population of turtles, recognized as protected animals.",
+      "html": "In recent years, dozens of turtles have hatched in the Park, which we raise and release to sea once they reach adulthood, thus contributing to increasing the population of turtles, recognized as protected animals."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you know?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Over the years, human behavior has made all eight species of sea turtles alive in the world, almost disappear and today they are considered endangered .",
+      "html": "Over the years, human behavior has made all eight species of sea turtles alive in the world, almost disappear and today they are considered endangered ."
+    },
+    {
+      "type": "paragraph",
+      "text": "Join us at lunchtime:",
+      "html": "Join us at lunchtime:"
+    },
+    {
+      "type": "paragraph",
+      "text": "12:30 pm",
+      "html": "12:30 pm"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Carangidae",
+        "Hawksbill Turtle",
+        "Green Turtle"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Carangidae"
+    },
+    {
+      "type": "paragraph",
+      "text": "Carangidae or the Giant Trevally are one of the biggest fish in our Park.",
+      "html": "Carangidae or the Giant Trevally are one of the biggest fish in our Park."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although obviously not turtles, the carangidae in the Underwater Observatory live alongside our turtle residents, in the same habitat, which is why we have included them here.",
+      "html": "Although obviously not turtles, the carangidae in the Underwater Observatory live alongside our turtle residents, in the same habitat, which is why we have included them here."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are fast swimmers and are silver-grey with dark spots. The males can change their color from silver-grey to black.",
+      "html": "They are fast swimmers and are silver-grey with dark spots. The males can change their color from silver-grey to black."
+    },
+    {
+      "type": "paragraph",
+      "text": "They live mostly in schools; the young in shallow waters and the adults in the deep open sea.",
+      "html": "They live mostly in schools; the young in shallow waters and the adults in the deep open sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "The growth-rate of the individual fish is very rapid in comparison to other fish.",
+      "html": "The growth-rate of the individual fish is very rapid in comparison to other fish."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Live in open water, visit the reef area for the cleaning stations and to find food",
+        "Size Average Length up to 1.00 meter, adults known to reach 1.70 meters",
+        "Weight Up to 80 KG",
+        "Food Feeds on crustaceans and fish"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%A0%D7%99%D7%A0%D7%99%D7%AA-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "דג",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hawksbill Turtle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hawksbill Turtles can be identified by their pointed heads.",
+      "html": "Hawksbill Turtles can be identified by their pointed heads."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wild, Hawksbill turtles are predators that feed on soft corals, sponges and jellyfish. Here, in the Underwater Observatory Park, they feed on various types of squid and other invertebrates, and fish such as sardines, tuna and cod.",
+      "html": "In the wild, Hawksbill turtles are predators that feed on soft corals, sponges and jellyfish. Here, in the Underwater Observatory Park, they feed on various types of squid and other invertebrates, and fish such as sardines, tuna and cod."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like a real carnivore, they come to dinner prepared and have 2 nails on their front limbs that help them cut their food.",
+      "html": "Like a real carnivore, they come to dinner prepared and have 2 nails on their front limbs that help them cut their food."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hawksbill turtles can reach a weight of 100 kg and their life span is approximately 90 years.",
+      "html": "Hawksbill turtles can reach a weight of 100 kg and their life span is approximately 90 years."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Live along the coastline and reefs, in depths of 25 meters",
+        "Size Up to 1.00 meter",
+        "Weight Up to 100 KG",
+        "Food Feeds on sea cucumbers, anemones and jellyfish"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%91-%D7%99%D7%9D-%D7%A7%D7%A8%D7%A0%D7%99-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "צב ים קרני",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Green Turtle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Green Turtles can be easily distinguished from other turtles in Turtle Island, by their rounded heads and large size - they weigh upto 300kg.",
+      "html": "Green Turtles can be easily distinguished from other turtles in Turtle Island, by their rounded heads and large size - they weigh upto 300kg."
+    },
+    {
+      "type": "paragraph",
+      "text": "These turtles are vegetarian, and in their natural habitat, they feed on seaweed, jellyfish and seagrass.",
+      "html": "These turtles are vegetarian, and in their natural habitat, they feed on seaweed, jellyfish and seagrass."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, in our park, they eat lettuce - the perfect, nutritional substitute and similar to kelp.",
+      "html": "Here, in our park, they eat lettuce - the perfect, nutritional substitute and similar to kelp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Who knows, maybe their vegetarian diet may add to their long life spans as these turtles can live up to 250 years?",
+      "html": "Who knows, maybe their vegetarian diet may add to their long life spans as these turtles can live up to 250 years?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you visit, look out for Hannah, the largest turtle in the park. Hannah likes to rub the top of her shell and when the divers work in the pool, Hannah will rub against them .",
+      "html": "When you visit, look out for Hannah, the largest turtle in the park. Hannah likes to rub the top of her shell and when the divers work in the pool, Hannah will rub against them ."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Lives along the coastline, up to a depth of 40 meters",
+        "Size Up to 1.20 meters",
+        "Weight Up to 250 KG",
+        "Food Feeds on seaweed, seagrass, jellyfish and ... lettuce"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A6%D7%91-%D7%99%D7%9D-%D7%99%D7%A8%D7%95%D7%A7-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Carangidae"
+    },
+    {
+      "type": "paragraph",
+      "text": "Carangidae or the Giant Trevally are one of the biggest fish in our Park.",
+      "html": "Carangidae or the Giant Trevally are one of the biggest fish in our Park."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although obviously not turtles, the carangidae in the Underwater Observatory live alongside our turtle residents, in the same habitat, which is why we have included them here.",
+      "html": "Although obviously not turtles, the carangidae in the Underwater Observatory live alongside our turtle residents, in the same habitat, which is why we have included them here."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are fast swimmers and are silver-grey with dark spots. The males can change their color from silver-grey to black.",
+      "html": "They are fast swimmers and are silver-grey with dark spots. The males can change their color from silver-grey to black."
+    },
+    {
+      "type": "paragraph",
+      "text": "They live mostly in schools; the young in shallow waters and the adults in the deep open sea.",
+      "html": "They live mostly in schools; the young in shallow waters and the adults in the deep open sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "The growth-rate of the individual fish is very rapid in comparison to other fish.",
+      "html": "The growth-rate of the individual fish is very rapid in comparison to other fish."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hawksbill Turtle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Hawksbill Turtles can be identified by their pointed heads.",
+      "html": "Hawksbill Turtles can be identified by their pointed heads."
+    },
+    {
+      "type": "paragraph",
+      "text": "In the wild, Hawksbill turtles are predators that feed on soft corals, sponges and jellyfish. Here, in the Underwater Observatory Park, they feed on various types of squid and other invertebrates, and fish such as sardines, tuna and cod.",
+      "html": "In the wild, Hawksbill turtles are predators that feed on soft corals, sponges and jellyfish. Here, in the Underwater Observatory Park, they feed on various types of squid and other invertebrates, and fish such as sardines, tuna and cod."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like a real carnivore, they come to dinner prepared and have 2 nails on their front limbs that help them cut their food.",
+      "html": "Like a real carnivore, they come to dinner prepared and have 2 nails on their front limbs that help them cut their food."
+    },
+    {
+      "type": "paragraph",
+      "text": "Hawksbill turtles can reach a weight of 100 kg and their life span is approximately 90 years.",
+      "html": "Hawksbill turtles can reach a weight of 100 kg and their life span is approximately 90 years."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Green Turtle"
+    },
+    {
+      "type": "paragraph",
+      "text": "Green Turtles can be easily distinguished from other turtles in Turtle Island, by their rounded heads and large size - they weigh upto 300kg.",
+      "html": "Green Turtles can be easily distinguished from other turtles in Turtle Island, by their rounded heads and large size - they weigh upto 300kg."
+    },
+    {
+      "type": "paragraph",
+      "text": "These turtles are vegetarian, and in their natural habitat, they feed on seaweed, jellyfish and seagrass.",
+      "html": "These turtles are vegetarian, and in their natural habitat, they feed on seaweed, jellyfish and seagrass."
+    },
+    {
+      "type": "paragraph",
+      "text": "Here, in our park, they eat lettuce - the perfect, nutritional substitute and similar to kelp.",
+      "html": "Here, in our park, they eat lettuce - the perfect, nutritional substitute and similar to kelp."
+    },
+    {
+      "type": "paragraph",
+      "text": "Who knows, maybe their vegetarian diet may add to their long life spans as these turtles can live up to 250 years?",
+      "html": "Who knows, maybe their vegetarian diet may add to their long life spans as these turtles can live up to 250 years?"
+    },
+    {
+      "type": "paragraph",
+      "text": "When you visit, look out for Hannah, the largest turtle in the park. Hannah likes to rub the top of her shell and when the divers work in the pool, Hannah will rub against them .",
+      "html": "When you visit, look out for Hannah, the largest turtle in the park. Hannah likes to rub the top of her shell and when the divers work in the pool, Hannah will rub against them ."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/turtles/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f6611a5d2-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

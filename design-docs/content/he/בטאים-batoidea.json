@@ -1,0 +1,510 @@
+{
+  "source": "https://coralworld.co.il/%D7%91%D7%98%D7%90%D7%99%D7%9D-batoidea/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.820Z",
+  "seo": {
+    "title": "בטאים Batoidea | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "בטאים Batoidea | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/",
+      "twitter:card": "summary",
+      "twitter:title": "בטאים Batoidea | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#article",
+            "name": "בטאים Batoidea | המצפה התת ימי",
+            "headline": "בטאים Batoidea",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/חתול-ים-בריכת-הכרישים-1.jpeg",
+              "width": 1024,
+              "height": 672,
+              "caption": "בטאים Batoidea"
+            },
+            "datePublished": "2020-06-11T17:19:49+03:00",
+            "dateModified": "2022-07-07T13:13:32+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#listItem",
+                  "name": "בטאים Batoidea"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#listItem",
+                "position": 3,
+                "name": "בטאים Batoidea",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#webpage",
+            "url": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/",
+            "name": "בטאים Batoidea | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/06/חתול-ים-בריכת-הכרישים-1.jpeg",
+              "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#mainImage",
+              "width": 1024,
+              "height": 672,
+              "caption": "בטאים Batoidea"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/#mainImage"
+            },
+            "datePublished": "2020-06-11T17:19:49+03:00",
+            "dateModified": "2022-07-07T13:13:32+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "בטאים Batoidea"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/",
+    "x-default": "https://coralworld.co.il/%d7%91%d7%98%d7%90%d7%99%d7%9d-batoidea/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/%D7%97%D7%AA%D7%95%D7%9C-%D7%99%D7%9D-%D7%91%D7%A8%D7%99%D7%9B%D7%AA-%D7%94%D7%9B%D7%A8%D7%99%D7%A9%D7%99%D7%9D-1.jpeg",
+      "alt": "בטאים Batoidea",
+      "width": 1024,
+      "height": 672
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "בטאים Batoidea"
+    },
+    {
+      "type": "paragraph",
+      "text": "בטאים הם ללא ספק אחד היצורים המעניינים, מיוחדים ומשונים אשר חיים בים. שטיח מעופף, מפציץ חמקן, מחבט ענק, … הם חלק מהכינויים אשר ניתנים שאנשים רואים אותם לראשונה. בטאים הם דגים שטוחים השייכים לאותה משפחה של הכרישים וגם התפתחו מכרישים. בניגוד לשאר הדגים לכרישים ובטאים אין עצמות והשלד בנוי מסחוס החלש מעצם אך מקנה יתרון בגמישות ועמידות נגד מחלות. חתולי הים לרוב מקיימים חיי חברה וניתן לראותם בכל האוקיינוסים. אצל רוב בעלי הסחוס אלו ניתן למצוא קוצים ארסיים בבסיס הזנב. קוצים אלו הם להגנה בלבד ויכולים לגרום כאב חד לאותם טורפים לא מנוסים. בזמן עקיצה נשבר קצה הקוץ ונישאר בתוך הגוף הנפגע ויכול לגרום לדלקות רבות. אדם הסובל מעקיצה יסבול מכאב רב ותיתכן גם היווצרות נמק במקום הפגיעה. במקרים קיצוניים גם מוות. אויביהם הגדולים (חוץ מאשר האדם) הם קרובי משפחתם הכרישים. בנוסף, לחלקם יש זנבות ארוכים דמויי שוט המצוידים בקוצים אימתניים, ולחלקם זנבות קצרים.",
+      "html": "בטאים הם ללא ספק אחד היצורים המעניינים, מיוחדים ומשונים אשר חיים בים. שטיח מעופף, מפציץ חמקן, מחבט ענק, … הם חלק מהכינויים אשר ניתנים שאנשים רואים אותם לראשונה. בטאים הם דגים שטוחים השייכים לאותה משפחה של הכרישים וגם התפתחו מכרישים. בניגוד לשאר הדגים לכרישים ובטאים אין עצמות והשלד בנוי מסחוס החלש מעצם אך מקנה יתרון בגמישות ועמידות נגד מחלות.<br> חתולי הים לרוב מקיימים חיי חברה וניתן לראותם בכל האוקיינוסים.<br> אצל רוב בעלי הסחוס אלו ניתן למצוא קוצים ארסיים בבסיס הזנב. קוצים אלו הם להגנה בלבד ויכולים לגרום כאב חד לאותם טורפים לא מנוסים. בזמן עקיצה נשבר קצה הקוץ ונישאר בתוך הגוף הנפגע ויכול לגרום לדלקות רבות. אדם הסובל מעקיצה יסבול מכאב רב ותיתכן גם היווצרות נמק במקום הפגיעה. במקרים קיצוניים גם מוות. אויביהם הגדולים (חוץ מאשר האדם) הם קרובי משפחתם הכרישים. בנוסף, לחלקם יש זנבות ארוכים דמויי שוט המצוידים בקוצים אימתניים, ולחלקם זנבות קצרים."
+    },
+    {
+      "type": "paragraph",
+      "text": "בטאים הם סדרה בדגי הסחוס והם בעצם קרוביהם של הכרישים. ניתן לראות את הבטאים באזורים חוליים, שונית האלמוגים ומים פתוחים. מכל הסדרות שחיים בים ללא ספק זוהי אחת הסדרות המעניינות ביותר הכוללות חלק מהיצורים המוזרים ביותר למראה שרובם ביישניים, אך חלקם גם חברותיים ביותר.",
+      "html": "בטאים הם סדרה בדגי הסחוס והם בעצם קרוביהם של הכרישים.<br> ניתן לראות את הבטאים באזורים חוליים, שונית האלמוגים ומים פתוחים.<br> מכל הסדרות שחיים בים ללא ספק זוהי אחת הסדרות המעניינות ביותר הכוללות חלק מהיצורים המוזרים ביותר למראה שרובם ביישניים, אך חלקם גם חברותיים ביותר."
+    },
+    {
+      "type": "paragraph",
+      "text": "את סדרת הבטאים ניתן לחלק לשלוש קבוצות מרכזיות לפי אזורי מחיה, מבנה גוף וצייד:",
+      "html": "את סדרת הבטאים ניתן לחלק לשלוש קבוצות מרכזיות לפי אזורי מחיה, מבנה גוף וצייד:"
+    },
+    {
+      "type": "paragraph",
+      "text": "מנטות: מרהיבים ומיוחדים. ניתן לראותם בדרום ים סוף שוחות בלהקות המונות עד כמה עשרות פריטים. חיים במים פתוחים, שם הם מסננות את מזונם: פלנקטון. פעולת הסינון מתבצעת ע\"י רשתות הזימים, אונות הנראות כמו זרועות עוזרות בכיוון המים אל הפה ומשם לזימים. אונות אלו ממוקמות בחלק הקדמי של הראש ונותן מראה של שטן בעל קרניים. בעבר יוחסו למנטות סגולות הקשורות למזל רע ומלחים רבים האמינו כי מזל רע צפוי למי שפוגע בהם. תהליך איסוף הפלנקטון נראה כמו טייס מרוצים המדגים ביצועיים אוויריים. המנטה מזהה ריכוזים גדולים של פלנקטון הנקראים ענני פלנקטון ומבצעת סיבובים רבים ומשונים בתוך עננים אלו. גופה הגדול מעל 6.5 מטר ומשקלה העצום עד טון 2 הוא בית ליצורים רבים הכוללים דגים המלווים אתם לכל מקום.",
+      "html": "מנטות: מרהיבים ומיוחדים. ניתן לראותם בדרום ים סוף שוחות בלהקות המונות עד כמה עשרות פריטים. חיים במים פתוחים, שם הם מסננות את מזונם: פלנקטון. פעולת הסינון מתבצעת ע\"י רשתות הזימים, אונות הנראות כמו זרועות עוזרות בכיוון המים אל הפה ומשם לזימים. אונות אלו ממוקמות בחלק הקדמי של הראש ונותן מראה של שטן בעל קרניים. בעבר יוחסו למנטות סגולות הקשורות למזל רע ומלחים רבים האמינו כי מזל רע צפוי למי שפוגע בהם.<br> תהליך איסוף הפלנקטון נראה כמו טייס מרוצים המדגים ביצועיים אוויריים. המנטה מזהה ריכוזים גדולים של פלנקטון הנקראים ענני פלנקטון ומבצעת סיבובים רבים ומשונים בתוך עננים אלו. גופה הגדול מעל 6.5 מטר ומשקלה העצום עד טון 2 הוא בית ליצורים רבים הכוללים דגים המלווים אתם לכל מקום."
+    },
+    {
+      "type": "paragraph",
+      "text": "טריגונים: הקבוצה הגדולה והמגוונת ביותר. דגים שטוחים ומעוגלים בעלי זנב ארוך, אשר גופם מותאם לאזורי מחייתם – קרקע חולית. תודות למבנה גופם מצליחים אמני הסוואה אלו לגרום למערבלות מים ע\"י נפנוף ה\"כנפיים\" המרימות חול על גופם ורק עיניים בולטות, אשר מוקמות בחלק העליון ביותר בראש. מזונם מורכב בעיקר מחסרי חוליות החיים באותם אזורים חוליים. מכתשים על הקרקע הם לרוב עדויות לאזורי צייד. מיקום הפה אצל הטרגונים הוא בצד התחתון של הגוף, והעיניים בצד העליון כך שבעצם לא רואה הטריגון את מזונו ורק בעזרת חיישנים מצליח הטריגון לזהות ולתפוס את מזונו מהחול. זנב הוא אחד מסימני ההיכר של טרגונים, ארוכים ולפעמיים מצוידים בקוצים חדים לאורך הזנב, בנוסף ל עד 3 קוצים ארסיים בבסיס הזנב. חלקם חיים במים רדודים לדוגמת מחבטן הספירים, החי לרוב בלגונות רדודות באזור השונית. בזמן חיפוש מזון ניתן לראות ענני אבק. על גופו כתמים בצבע ספיר ועל כך גם שמו. גם חשמלן פרסי (Torpedo sinuspersici) שייך לקבוצה זאת: מייצר חשמל בעזרת איברים מיוחדים הנמצאים בסנפיר החזה. יצור החשמל עוזר לגלות ולשתק טרף פוטנציאלי אשר, אינו רואה את החשמלן המכוסה חול לרוב בצורה מושלמת.",
+      "html": "טריגונים: הקבוצה הגדולה והמגוונת ביותר. דגים שטוחים ומעוגלים בעלי זנב ארוך, אשר גופם מותאם לאזורי מחייתם – קרקע חולית. תודות למבנה גופם מצליחים אמני הסוואה אלו לגרום למערבלות מים ע\"י נפנוף ה\"כנפיים\" המרימות חול על גופם ורק עיניים בולטות, אשר מוקמות בחלק העליון ביותר בראש. מזונם מורכב בעיקר מחסרי חוליות החיים באותם אזורים חוליים. מכתשים על הקרקע הם לרוב עדויות לאזורי צייד. מיקום הפה אצל הטרגונים הוא בצד התחתון של הגוף, והעיניים בצד העליון כך שבעצם לא רואה הטריגון את מזונו ורק בעזרת חיישנים מצליח הטריגון לזהות ולתפוס את מזונו מהחול. זנב הוא אחד מסימני ההיכר של טרגונים, ארוכים ולפעמיים מצוידים בקוצים חדים לאורך הזנב, בנוסף ל עד 3 קוצים ארסיים בבסיס הזנב.<br> חלקם חיים במים רדודים לדוגמת מחבטן הספירים, החי לרוב בלגונות רדודות באזור השונית. בזמן חיפוש מזון ניתן לראות ענני אבק. על גופו כתמים בצבע ספיר ועל כך גם שמו.<br> גם חשמלן פרסי (Torpedo sinuspersici) שייך לקבוצה זאת: מייצר חשמל בעזרת איברים מיוחדים הנמצאים בסנפיר החזה. יצור החשמל עוזר לגלות ולשתק טרף פוטנציאלי אשר, אינו רואה את החשמלן המכוסה חול לרוב בצורה מושלמת."
+    },
+    {
+      "type": "paragraph",
+      "text": "עטלפי ים: שחיינים מעולים החיים באזורי שונית וקרקע סלעית. מזונם מורכב מרכיכות אותם אוספים בעזרת שן מיוחדת המותאמת לגירוד של הרכיכה מבסיסה, ובעזרת שיניים חזקות המיועדות לפיצוח הממוקמות עמוק בפה מצלחים לפצח את המבנה הקשיח לסלק את הקליפות ולזכות בארוחה. גודלם עד 3 מטר ומקור שמם מצורת שחייתם המזכירה עטלף.",
+      "html": "עטלפי ים: שחיינים מעולים החיים באזורי שונית וקרקע סלעית. מזונם מורכב מרכיכות אותם אוספים בעזרת שן מיוחדת המותאמת לגירוד של הרכיכה מבסיסה, ובעזרת שיניים חזקות המיועדות לפיצוח הממוקמות עמוק בפה מצלחים לפצח את המבנה הקשיח לסלק את הקליפות ולזכות בארוחה. גודלם עד 3 מטר ומקור שמם מצורת שחייתם המזכירה עטלף."
+    },
+    {
+      "type": "paragraph",
+      "text": "חלק מהבטאים חברותיים ביותר: ב Sting ray city שבאיי הבהמה הורגלו טרוגונים מקומיים לבוא לאזורי האכלה ותיירים יכולים להאכיל אותם מהיד דגים וחסרי חוליות. מסביב לעולם ישנם מספר מקומות המאפשרים האכלה ביד. יש להיזהר ולא לנסות להאכיל טריגונים בים. גם בפארק המצפה התת-ימי, המטפלים של הטרגונים מאכלים ישירות לפה ומנצלים הזדמנות זאת של קירבה לבדיקה ויזואלית של הגוף. בבריכת הכרישים ניתן לראות את \"עמית\" עטלף הים אשר אוכל רכיכות ישירות מידיו של הצוללן, וחדי השמיעה יכולים לשמוע את רעש פיצוח הצדפה. כיום רוב הסכנה לטרגונים היא מהאדם, בעיקר מדייג והריסת אזורי מחיה וצייד.",
+      "html": "חלק מהבטאים חברותיים ביותר: ב Sting ray city שבאיי הבהמה הורגלו טרוגונים מקומיים לבוא לאזורי האכלה ותיירים יכולים להאכיל אותם מהיד דגים וחסרי חוליות. מסביב לעולם ישנם מספר מקומות המאפשרים האכלה ביד. יש להיזהר ולא לנסות להאכיל טריגונים בים. גם בפארק המצפה התת-ימי, המטפלים של הטרגונים מאכלים ישירות לפה ומנצלים הזדמנות זאת של קירבה לבדיקה ויזואלית של הגוף. בבריכת הכרישים ניתן לראות את \"עמית\" עטלף הים אשר אוכל רכיכות ישירות מידיו של הצוללן, וחדי השמיעה יכולים לשמוע את רעש פיצוח הצדפה.<br> כיום רוב הסכנה לטרגונים היא מהאדם, בעיקר מדייג והריסת אזורי מחיה וצייד."
+    },
+    {
+      "type": "paragraph",
+      "text": "כתב: אביב לוי – המנהל המדעי של פארק המצפה התת ימי",
+      "html": "כתב: אביב לוי – המנהל המדעי של פארק המצפה התת ימי"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%91%D7%98%D7%90%D7%99%D7%9D-batoidea/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f4014b2b5-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

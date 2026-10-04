@@ -1,0 +1,915 @@
+{
+  "source": "https://coralworld.co.il/en/sharks-world/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.815Z",
+  "seo": {
+    "title": "Shark Pool | The Underwater Observatory Tower",
+    "description": "Take a tour of our incredible flagship display, the Shark Pool complex. In this safe and close encounter, you'll come eye-to-eye with the predators of the Red Sea!",
+    "canonical": "https://coralworld.co.il/en/sharks-world/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Shark Pool | The Underwater Observatory Tower",
+      "og:description": "Take a tour of our incredible flagship display, the Shark Pool complex. In this safe and close encounter, you'll come eye-to-eye with the predators of the Red Sea!",
+      "og:url": "https://coralworld.co.il/en/sharks-world/",
+      "twitter:card": "summary",
+      "twitter:title": "Shark Pool | The Underwater Observatory Tower",
+      "twitter:description": "Take a tour of our incredible flagship display, the Shark Pool complex. In this safe and close encounter, you'll come eye-to-eye with the predators of the Red Sea!"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/sharks-world/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/sharks-world/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/sharks-world/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/sharks-world/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/sharks-world/#listItem",
+                  "name": "Shark Pool"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/sharks-world/#listItem",
+                "position": 2,
+                "name": "Shark Pool",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/sharks-world/#webpage",
+            "url": "https://coralworld.co.il/en/sharks-world/",
+            "name": "Shark Pool | The Underwater Observatory Tower",
+            "description": "Take a tour of our incredible flagship display, the Shark Pool complex. In this safe and close encounter, you'll come eye-to-eye with the predators of the Red Sea!",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/sharks-world/#breadcrumblist"
+            },
+            "datePublished": "2020-05-25T15:24:06+03:00",
+            "dateModified": "2024-01-07T11:50:12+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "Shark Pool"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/sharks-world/",
+    "en": "https://coralworld.co.il/en/sharks-world/",
+    "x-default": "https://coralworld.co.il/sharks-world/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Shark Pool"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Be ready"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": ""
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "for the big fish!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Take a tour of our incredible flagship display, the Shark Pool complex.",
+      "html": "Take a tour of our incredible flagship display, the Shark Pool complex."
+    },
+    {
+      "type": "paragraph",
+      "text": "In this safe and close encounter, you'll come eye-to-eye with the predators of the Red Sea. Here, at touching distance, you can experience a heart-stopping and real-time introduction to sharks, sting-rays, manta rays, schools of fish and vibrant colonies of coral.",
+      "html": "In this safe and close encounter, you'll come eye-to-eye with the predators of the Red Sea. Here, at touching distance, you can experience a heart-stopping and real-time introduction to sharks, sting-rays, manta rays, schools of fish and vibrant colonies of coral."
+    },
+    {
+      "type": "paragraph",
+      "text": "Featuring a huge shark pool, an interactive activity center and a transparent tunnel – the Shark Pool complex is an action-packed tour.",
+      "html": "Featuring a huge shark pool, an interactive activity center and a transparent tunnel – the Shark Pool complex is an action-packed tour."
+    },
+    {
+      "type": "paragraph",
+      "text": "Do you dare to get up close to these notorious hunters as they swim above and around you?",
+      "html": "Do you dare to get up close to these notorious hunters as they swim above and around you?"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Did you know?"
+    },
+    {
+      "type": "paragraph",
+      "text": "Most sharks can only breathe when they are swimming.",
+      "html": "Most sharks can only breathe when they are swimming."
+    },
+    {
+      "type": "paragraph",
+      "text": "That means they have to swim constantly, even when asleep or they will drown!",
+      "html": "That means they have to swim constantly, even when asleep or they will drown!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Join us for the diver-led shark and fish feeding show:",
+      "html": "Join us for the diver-led shark and fish feeding show:"
+    },
+    {
+      "type": "paragraph",
+      "text": "11:30am or 15:00pm.",
+      "html": "11:30am or 15:00pm."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Zebra Shark",
+        "Sting-rays",
+        "Hammerhead Shark",
+        "Sandbar shark",
+        "Blacktip Reef Sharks",
+        "Bignose Shark"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zebra Shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "A rough skinned and spotted shark known for its long tail, which is half the length of its body!",
+      "html": "A rough skinned and spotted shark known for its long tail, which is half the length of its body!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zebra sharks are nocturnal and spend most of the day chilling out on the seabed or reef wall. This takes a dramatic turn at nighttime, when they become active hunters.",
+      "html": "Zebra sharks are nocturnal and spend most of the day chilling out on the seabed or reef wall. This takes a dramatic turn at nighttime, when they become active hunters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though solitary during most of the year they form large groups in some seasons.",
+      "html": "Though solitary during most of the year they form large groups in some seasons."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are calm and non-aggressive in nature towards humans.",
+      "html": "They are calm and non-aggressive in nature towards humans."
+    },
+    {
+      "type": "paragraph",
+      "text": "At our shark pool, you can meet our impressive female Zebra shark called Leah.",
+      "html": "At our shark pool, you can meet our impressive female Zebra shark called Leah."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Found in shallow tropical waters in the Indo-Pacific Ocean and the Red Sea. Prefers to dwell on the sandy seabed under coral reefs",
+        "Size Average length 2.50 meters - can grow to 4.00 meters long",
+        "Weight Average weight up to 55 KG",
+        "Food Eats invertebrates on the seabed and small fish"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/home.png",
+      "alt": "home icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/resize.png",
+      "alt": "resize icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/scales.png",
+      "alt": "scales icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/knife-fork.png",
+      "alt": "knife-fork icon",
+      "width": 44,
+      "height": 45
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%96%D7%A0%D7%91%D7%AA%D7%9F-%D7%9E%D7%A0%D7%95%D7%9E%D7%A8-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sting-rays"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sting-rays belong to a group of sea rays and are related distantly to sharks. They are cartilaginous fish ( they have a skeleton of cartilage).",
+      "html": "Sting-rays belong to a group of sea rays and are related distantly to sharks. They are cartilaginous fish ( they have a skeleton of cartilage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sting-ray in our shark pool is called Amit. Amit is extremely friendly and has been a resident at the Underwater Observatory for several years. He loves to eat oysters and we handfeed him these, in order to maintain personal contact with him.",
+      "html": "The sting-ray in our shark pool is called Amit. Amit is extremely friendly and has been a resident at the Underwater Observatory for several years. He loves to eat oysters and we handfeed him these, in order to maintain personal contact with him."
+    },
+    {
+      "type": "paragraph",
+      "text": "After feeding, Amit loves to be petted and rubs himself on the feeder's hands. Like other rays from the sting-ray family, Amit has a very long tail with two venomous spines.",
+      "html": "After feeding, Amit loves to be petted and rubs himself on the feeder's hands. Like other rays from the sting-ray family, Amit has a very long tail with two venomous spines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sting-rays use these spines to temporarily paralyze and neutralize their attackers, for a few moments, giving them time to escape.",
+      "html": "Sting-rays use these spines to temporarily paralyze and neutralize their attackers, for a few moments, giving them time to escape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sting-rays are not dangerous to humans and use their spines for protection only.",
+      "html": "Sting-rays are not dangerous to humans and use their spines for protection only."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Found at the foot of reefs",
+        "Size Average Length 1.80 meters - can grow up to a maximum of 3.50 meters",
+        "Weight Average weight of 50 KG, can reach up to 180 KG",
+        "Food It feeds on various mollusks which it cracks with its special teeth"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%A2%D7%98%D7%9C%D7%A3-%D7%99%D7%9D-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "כריש הזנבתן מנומר",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hammerhead Shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "With their intimidating hammer shaped heads and eyes on either side, Hammerhead sharks can really get the blood pumping.",
+      "html": "With their intimidating hammer shaped heads and eyes on either side, Hammerhead sharks can really get the blood pumping."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like the eyes, its nostrils are also found at the ends of the ''hammer\", whilst the eyes, placed on either side of its head, give this shark its'",
+      "html": "Like the eyes, its nostrils are also found at the ends of the ''hammer\", whilst the eyes, placed on either side of its head, give this shark its'"
+    },
+    {
+      "type": "paragraph",
+      "text": "360 ° panoramic vision.",
+      "html": "360 ° panoramic vision."
+    },
+    {
+      "type": "paragraph",
+      "text": "The structure, along with the habit of moving its head from side to side in a wide span when swimming, allows this shark to detect odors in a large area of water and hunt more effectively.",
+      "html": "The structure, along with the habit of moving its head from side to side in a wide span when swimming, allows this shark to detect odors in a large area of water and hunt more effectively."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Found in shallow tropical waters at depths of between 3-25 meters",
+        "Size Between 3.60 and 4.30 meters There are 9 types of Hammerhead sharks - the smallest 90 cm long and the longest 6 meters long",
+        "Weight Average adult weight up to 150 KG",
+        "Food Eats invertebrates such as: squid, lobster, crab, shrimp, sting rays and even other sharks"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A4%D7%98%D7%99%D7%A9%D7%9F-788X517_%D7%90%D7%A8%D7%98%D7%99%D7%95%D7%9D.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sandbar shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sandbar shark is one of the biggest coastal sharks and is known for its high dorsal fin. It lives in sandy underwater areas at depths ranging from 5-300 meters and is unlikely to be spotted at the waters' surface.",
+      "html": "The Sandbar shark is one of the biggest coastal sharks and is known for its high dorsal fin. It lives in sandy underwater areas at depths ranging from 5-300 meters and is unlikely to be spotted at the waters' surface."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregnancy is a bit on the long side for Sandbar sharks, gestation taking 12 months, after which they give birth to between 6-13 live pups.",
+      "html": "Pregnancy is a bit on the long side for Sandbar sharks, gestation taking 12 months, after which they give birth to between 6-13 live pups."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is believed that after the Suez Canal was excavated, these sharks migrated from the Mediterranean to the Red Sea.",
+      "html": "It is believed that after the Suez Canal was excavated, these sharks migrated from the Mediterranean to the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although not thought to be dangerous to humans, because of size and their closeness to reefs, it's better to keep a safe distance.",
+      "html": "Although not thought to be dangerous to humans, because of size and their closeness to reefs, it's better to keep a safe distance."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Lives in the shallow waters of the Mediterranean Sea. This shark arrived in the Gulf of Eilat through the Suez Canal",
+        "Size Average Length 2.50 meters",
+        "Weight Average weight 50 KG",
+        "Food Eats fish and invertebrates found on or near the seabed and reefs"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A1%D7%A0%D7%A4%D7%99%D7%A8%D7%AA%D7%9F-%D7%92%D7%93%D7%95%D7%9C-%D7%9E%D7%A7%D7%95%D7%93%D7%93.jpg",
+      "alt": "כריש שועל",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Blacktip Reef Sharks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recognizable by the prominent black spots on the tips of its fins, the Blacktip Reef shark is common in the Red Sea.",
+      "html": "Recognizable by the prominent black spots on the tips of its fins, the Blacktip Reef shark is common in the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sharks, the athletes of the inshore, are fast and agile and are found in small schools that live on 'Coral Reef tables'.",
+      "html": "These sharks, the athletes of the inshore, are fast and agile and are found in small schools that live on 'Coral Reef tables'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blacktip Reef Sharks reach sexual maturity at 4 years old for males, and 7 for females. Like the majority of sharks, they give birth to live sharks - instead of laying eggs.",
+      "html": "Blacktip Reef Sharks reach sexual maturity at 4 years old for males, and 7 for females. Like the majority of sharks, they give birth to live sharks - instead of laying eggs."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sharks are not known to be dangerous to humans.",
+      "html": "These sharks are not known to be dangerous to humans."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Found in all subtropical waters at depths between 2-75 meters",
+        "Size Average length 1.50 meters",
+        "Weight Average adult weight is up to 15 KG",
+        "Food Eats mainly fish, crustaceans, squid and other molluscs"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%9B%D7%A8%D7%99%D7%A9-%D7%A9%D7%97%D7%95%D7%A8-%D7%A1%D7%A0%D7%A4%D7%99%D7%A8%D7%99%D7%9D.jpg",
+      "alt": "",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bignose Shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a deep-water shark, famous for its impressive and numerous large teeth!",
+      "html": "This is a deep-water shark, famous for its impressive and numerous large teeth!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The lower jaw of a Bignose will across a lifetime, support 14-15 rows of teeth, and the upper jaw a remarkable 16 rows of teeth.",
+      "html": "The lower jaw of a Bignose will across a lifetime, support 14-15 rows of teeth, and the upper jaw a remarkable 16 rows of teeth."
+    },
+    {
+      "type": "paragraph",
+      "text": "In that lifetime, which is an average of fifty years, Bignose sharks will only reach sexual maturity at 20 years old, almost halfway through.",
+      "html": "In that lifetime, which is an average of fifty years, Bignose sharks will only reach sexual maturity at 20 years old, almost halfway through."
+    },
+    {
+      "type": "paragraph",
+      "text": "This shark is relatively rare, probably due to its secluded habitat, in the depths.",
+      "html": "This shark is relatively rare, probably due to its secluded habitat, in the depths."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may be dangerous to humans.",
+      "html": "It may be dangerous to humans."
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Habitat Commonly found in tropical and subtropical waters.",
+        "Size Average length 3.00 meters",
+        "Weight Average weight 60 KG",
+        "Food Eats fish and squid"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/%D7%92%D7%93%D7%95%D7%9C-%D7%A9%D7%9F-%D7%9C%D7%90%D7%AA%D7%A8--scaled.jpg",
+      "alt": "",
+      "width": 2560,
+      "height": 1362
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Zebra Shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "A rough skinned and spotted shark known for its long tail, which is half the length of its body!",
+      "html": "A rough skinned and spotted shark known for its long tail, which is half the length of its body!"
+    },
+    {
+      "type": "paragraph",
+      "text": "Zebra sharks are nocturnal and spend most of the day chilling out on the seabed or reef wall. This takes a dramatic turn at nighttime, when they become active hunters.",
+      "html": "Zebra sharks are nocturnal and spend most of the day chilling out on the seabed or reef wall. This takes a dramatic turn at nighttime, when they become active hunters."
+    },
+    {
+      "type": "paragraph",
+      "text": "Though solitary during most of the year they form large groups in some seasons.",
+      "html": "Though solitary during most of the year they form large groups in some seasons."
+    },
+    {
+      "type": "paragraph",
+      "text": "They are calm and non-aggressive in nature towards humans.",
+      "html": "They are calm and non-aggressive in nature towards humans."
+    },
+    {
+      "type": "paragraph",
+      "text": "At our shark pool, you can meet our impressive female Zebra shark called Leah.",
+      "html": "At our shark pool, you can meet our impressive female Zebra shark called Leah."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sting-rays"
+    },
+    {
+      "type": "paragraph",
+      "text": "Sting-rays belong to a group of sea rays and are related distantly to sharks. They are cartilaginous fish ( they have a skeleton of cartilage).",
+      "html": "Sting-rays belong to a group of sea rays and are related distantly to sharks. They are cartilaginous fish ( they have a skeleton of cartilage)."
+    },
+    {
+      "type": "paragraph",
+      "text": "The sting-ray in our shark pool is called Amit. Amit is extremely friendly and has been a resident at the Underwater Observatory for several years. He loves to eat oysters and we handfeed him these, in order to maintain personal contact with him.",
+      "html": "The sting-ray in our shark pool is called Amit. Amit is extremely friendly and has been a resident at the Underwater Observatory for several years. He loves to eat oysters and we handfeed him these, in order to maintain personal contact with him."
+    },
+    {
+      "type": "paragraph",
+      "text": "After feeding, Amit loves to be petted and rubs himself on the feeder's hands. Like other rays from the sting-ray family, Amit has a very long tail with two venomous spines.",
+      "html": "After feeding, Amit loves to be petted and rubs himself on the feeder's hands. Like other rays from the sting-ray family, Amit has a very long tail with two venomous spines."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sting-rays use these spines to temporarily paralyze and neutralize their attackers, for a few moments, giving them time to escape.",
+      "html": "Sting-rays use these spines to temporarily paralyze and neutralize their attackers, for a few moments, giving them time to escape."
+    },
+    {
+      "type": "paragraph",
+      "text": "Sting-rays are not dangerous to humans and use their spines for protection only.",
+      "html": "Sting-rays are not dangerous to humans and use their spines for protection only."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Hammerhead Shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "With their intimidating hammer shaped heads and eyes on either side, Hammerhead sharks can really get the blood pumping.",
+      "html": "With their intimidating hammer shaped heads and eyes on either side, Hammerhead sharks can really get the blood pumping."
+    },
+    {
+      "type": "paragraph",
+      "text": "Like the eyes, its nostrils are also found at the ends of the ''hammer\", whilst the eyes, placed on either side of its head, give this shark its'",
+      "html": "Like the eyes, its nostrils are also found at the ends of the ''hammer\", whilst the eyes, placed on either side of its head, give this shark its'"
+    },
+    {
+      "type": "paragraph",
+      "text": "360 ° panoramic vision.",
+      "html": "360 ° panoramic vision."
+    },
+    {
+      "type": "paragraph",
+      "text": "The structure, along with the habit of moving its head from side to side in a wide span when swimming, allows this shark to detect odors in a large area of water and hunt more effectively.",
+      "html": "The structure, along with the habit of moving its head from side to side in a wide span when swimming, allows this shark to detect odors in a large area of water and hunt more effectively."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Sandbar shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Sandbar shark is one of the biggest coastal sharks and is known for its high dorsal fin. It lives in sandy underwater areas at depths ranging from 5-300 meters and is unlikely to be spotted at the waters' surface.",
+      "html": "The Sandbar shark is one of the biggest coastal sharks and is known for its high dorsal fin. It lives in sandy underwater areas at depths ranging from 5-300 meters and is unlikely to be spotted at the waters' surface."
+    },
+    {
+      "type": "paragraph",
+      "text": "Pregnancy is a bit on the long side for Sandbar sharks, gestation taking 12 months, after which they give birth to between 6-13 live pups.",
+      "html": "Pregnancy is a bit on the long side for Sandbar sharks, gestation taking 12 months, after which they give birth to between 6-13 live pups."
+    },
+    {
+      "type": "paragraph",
+      "text": "It is believed that after the Suez Canal was excavated, these sharks migrated from the Mediterranean to the Red Sea.",
+      "html": "It is believed that after the Suez Canal was excavated, these sharks migrated from the Mediterranean to the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "Although not thought to be dangerous to humans, because of size and their closeness to reefs, it's better to keep a safe distance.",
+      "html": "Although not thought to be dangerous to humans, because of size and their closeness to reefs, it's better to keep a safe distance."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Blacktip Reef Sharks"
+    },
+    {
+      "type": "paragraph",
+      "text": "Recognizable by the prominent black spots on the tips of its fins, the Blacktip Reef shark is common in the Red Sea.",
+      "html": "Recognizable by the prominent black spots on the tips of its fins, the Blacktip Reef shark is common in the Red Sea."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sharks, the athletes of the inshore, are fast and agile and are found in small schools that live on 'Coral Reef tables'.",
+      "html": "These sharks, the athletes of the inshore, are fast and agile and are found in small schools that live on 'Coral Reef tables'."
+    },
+    {
+      "type": "paragraph",
+      "text": "Blacktip Reef Sharks reach sexual maturity at 4 years old for males, and 7 for females. Like the majority of sharks, they give birth to live sharks - instead of laying eggs.",
+      "html": "Blacktip Reef Sharks reach sexual maturity at 4 years old for males, and 7 for females. Like the majority of sharks, they give birth to live sharks - instead of laying eggs."
+    },
+    {
+      "type": "paragraph",
+      "text": "These sharks are not known to be dangerous to humans.",
+      "html": "These sharks are not known to be dangerous to humans."
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Bignose Shark"
+    },
+    {
+      "type": "paragraph",
+      "text": "This is a deep-water shark, famous for its impressive and numerous large teeth!",
+      "html": "This is a deep-water shark, famous for its impressive and numerous large teeth!"
+    },
+    {
+      "type": "paragraph",
+      "text": "The lower jaw of a Bignose will across a lifetime, support 14-15 rows of teeth, and the upper jaw a remarkable 16 rows of teeth.",
+      "html": "The lower jaw of a Bignose will across a lifetime, support 14-15 rows of teeth, and the upper jaw a remarkable 16 rows of teeth."
+    },
+    {
+      "type": "paragraph",
+      "text": "In that lifetime, which is an average of fifty years, Bignose sharks will only reach sexual maturity at 20 years old, almost halfway through.",
+      "html": "In that lifetime, which is an average of fifty years, Bignose sharks will only reach sexual maturity at 20 years old, almost halfway through."
+    },
+    {
+      "type": "paragraph",
+      "text": "This shark is relatively rare, probably due to its secluded habitat, in the depths.",
+      "html": "This shark is relatively rare, probably due to its secluded habitat, in the depths."
+    },
+    {
+      "type": "paragraph",
+      "text": "It may be dangerous to humans.",
+      "html": "It may be dangerous to humans."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/sharks-world/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f6605cd54-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

@@ -1,0 +1,515 @@
+{
+  "source": "https://coralworld.co.il/thank-you-page/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.864Z",
+  "seo": {
+    "title": "Thank you page | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/thank-you-page/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Thank you page | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/thank-you-page/",
+      "twitter:card": "summary",
+      "twitter:title": "Thank you page | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/thank-you-page/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/thank-you-page/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/thank-you-page/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/thank-you-page/#listItem",
+                  "name": "Thank you page"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/thank-you-page/#listItem",
+                "position": 2,
+                "name": "Thank you page",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/thank-you-page/#webpage",
+            "url": "https://coralworld.co.il/thank-you-page/",
+            "name": "Thank you page | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/thank-you-page/#breadcrumblist"
+            },
+            "datePublished": "2024-12-11T10:37:36+02:00",
+            "dateModified": "2025-02-10T12:50:53+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "Thank you page"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/thank-you-page/",
+    "x-default": "https://coralworld.co.il/thank-you-page/"
+  },
+  "blocks": [
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Thank you page"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/Artboard-2.png",
+      "alt": "",
+      "width": 250,
+      "height": 220
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "תודה על ההרשמההכרטיסים אצלכם בנייד"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מחכים לכם באילת!​"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "רגע לפני שאתם מגיעים"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "יש לנו כמה טיפים עבורכם לתכנון ביקור מושלם!"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/%D7%94%D7%93%D7%A8%D7%9B%D7%AA-VIP-300x300.jpg",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סיור VIP"
+    },
+    {
+      "type": "paragraph",
+      "text": "סיור VIP הינו סיור לכל המשפחה (עד 8 משתתפים), באורך של שעה עם מדריך שמלווה אתכם לאורך כל הסיור. *בתשלום נוסף לכרטיס הכניסה",
+      "html": "סיור VIP הינו סיור לכל המשפחה (עד 8 משתתפים), באורך של שעה עם מדריך שמלווה אתכם לאורך כל הסיור.  *בתשלום נוסף לכרטיס הכניסה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/%D7%94%D7%93%D7%A8%D7%9B%D7%942-300x300.jpg",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "הדרכות"
+    },
+    {
+      "type": "paragraph",
+      "text": "בפארק ממתין לכם צוות מדריכים מנוסה אשר יספר לכם על עולם הים. בתצוגות הרבות, תצפו בהאכלות, תיהנו מהדרכות מעשירות ותחוו את עולם הטבע התת ימי עוצר הנשימה.",
+      "html": "בפארק ממתין לכם צוות מדריכים מנוסה אשר יספר לכם על עולם הים.\nבתצוגות הרבות, תצפו בהאכלות, תיהנו מהדרכות מעשירות ותחוו את עולם הטבע התת ימי עוצר הנשימה."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/%D7%9E%D7%92%D7%93%D7%9C-300x300.jpg",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "תכנון ביקור בפארק"
+    },
+    {
+      "type": "paragraph",
+      "text": "כרטיס הכניסה שלכם תקף ל 3 ימים רצופים! רוצים בכל זאת להספיק הכל בביקור אחד? הכנסו והתחילו לתכנן את היום הקסום שלכם אצלנו...",
+      "html": "כרטיס הכניסה שלכם תקף ל 3 ימים רצופים! רוצים בכל זאת להספיק הכל בביקור אחד? הכנסו והתחילו לתכנן את היום הקסום שלכם אצלנו..."
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/%D7%A7%D7%95%D7%A8%D7%9C-300x300.jpg",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סירת הזכוכית קורל 2000"
+    },
+    {
+      "type": "paragraph",
+      "text": "צאו איתנו לשייט מרתק של 20 דקות בסירת זכוכית עמוקה עם חלונות תת ימיים, מהם תוכלו להשקיף אל פלאי הים האדום יש לרכוש כרטיסים בפארק עצמו - ע\"ב מקום פנוי וזמינות",
+      "html": "צאו איתנו לשייט מרתק של 20 דקות בסירת זכוכית עמוקה עם חלונות תת ימיים, מהם תוכלו להשקיף אל פלאי הים האדום\nיש לרכוש כרטיסים בפארק עצמו - ע\"ב מקום פנוי וזמינות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/%D7%9E%D7%96%D7%A0%D7%95%D7%9F-300x300.jpg",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מסעדות"
+    },
+    {
+      "type": "paragraph",
+      "text": "במסעדות הפארק תיהנו ממבחר ארוחות בשריות וצמחוניות נהדרות, לקטנים ולגדולים וכן שפע של כריכים, פיצות, גלידות, קינוחים ומשקאות שיצננו לכם את החום, כדי שתוכלו להמשיך את הביקור שלכם וליהנות מהיום. * ללא תעודת כשרות",
+      "html": "במסעדות הפארק תיהנו ממבחר ארוחות בשריות וצמחוניות נהדרות, לקטנים ולגדולים וכן\nשפע של כריכים, פיצות, גלידות, קינוחים ומשקאות שיצננו לכם את החום, כדי שתוכלו\nלהמשיך את הביקור שלכם וליהנות מהיום. * ללא תעודת כשרות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2024/12/%D7%97%D7%A0%D7%95%D7%99%D7%95%D7%AA-300x300.jpg",
+      "alt": "",
+      "width": 300,
+      "height": 300
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "חנויות"
+    },
+    {
+      "type": "paragraph",
+      "text": "בחנויות המזכרות והתכשיטים שלנו תמצאו מגוון מתנות ומזכרות בהשראת הים והחופש, מוצרי טקסטיל אופנתיים, ספרים, משחקים ועוד המון פריטים מקוריים שאפשר לרכוש רק כאן.",
+      "html": "בחנויות המזכרות והתכשיטים שלנו תמצאו מגוון מתנות ומזכרות בהשראת הים והחופש,\nמוצרי טקסטיל אופנתיים, ספרים, משחקים ועוד המון פריטים מקוריים\nשאפשר לרכוש רק כאן."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/thank-you-page/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f5ce05a10-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

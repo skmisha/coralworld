@@ -1,0 +1,98 @@
+{
+  "ar": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "de": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "en": {
+    "pages": 91,
+    "switcherSamples": []
+  },
+  "fi": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "fr": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "he": {
+    "pages": 225,
+    "dir": "rtl",
+    "switcherSamples": [
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/?_x_tr_sl=iw&_x_tr_tl=ar&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=fr&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=ru&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=fi&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=de&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=it&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=lv&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      },
+      {
+        "text": "",
+        "href": "https://coralworld-co-il.translate.goog/en/?_x_tr_sl=en&_x_tr_tl=pl&_x_tr_hl=iw&_x_tr_pto=wapp",
+        "hreflang": null
+      }
+    ]
+  },
+  "it": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "lv": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "pl": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "ru": {
+    "pages": 1,
+    "switcherSamples": []
+  },
+  "und": {
+    "pages": 153,
+    "switcherSamples": []
+  }
+}

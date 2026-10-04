@@ -1,0 +1,485 @@
+{
+  "source": "https://coralworld.co.il/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%A9%D7%A4%D7%AA%D7%A0%D7%99%D7%99%D7%9D/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.836Z",
+  "seo": {
+    "title": "משפחת השפתניים | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "משפחת השפתניים | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/",
+      "twitter:card": "summary",
+      "twitter:title": "משפחת השפתניים | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "Article",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#article",
+            "name": "משפחת השפתניים | המצפה התת ימי",
+            "headline": "משפחת השפתניים",
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/1-4.jpg",
+              "width": 788,
+              "height": 517,
+              "caption": "המצפה התת ימי"
+            },
+            "datePublished": "2020-06-11T16:26:46+03:00",
+            "dateModified": "2020-08-13T09:12:56+03:00",
+            "inLanguage": "he-IL",
+            "mainEntityOfPage": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#webpage"
+            },
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#webpage"
+            },
+            "articleSection": "מאמרים, אופציונלי"
+          },
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                "position": 2,
+                "name": "מאמרים",
+                "item": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#listItem",
+                  "name": "משפחת השפתניים"
+                },
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#listItem",
+                "position": 3,
+                "name": "משפחת השפתניים",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/category/%d7%9e%d7%90%d7%9e%d7%a8%d7%99%d7%9d/#listItem",
+                  "name": "מאמרים"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "Person",
+            "@id": "https://coralworld.co.il/author/buttered_toast/#author",
+            "url": "https://coralworld.co.il/author/buttered_toast/",
+            "name": "buttered_toast",
+            "image": {
+              "@type": "ImageObject",
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#authorImage",
+              "url": "https://secure.gravatar.com/avatar/723238fb035a9b68b2064d388ffb2ef373c5516324f173cb12709cf0c4c858c1?s=96&d=mm&r=g",
+              "width": 96,
+              "height": 96,
+              "caption": "buttered_toast"
+            }
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#webpage",
+            "url": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/",
+            "name": "משפחת השפתניים | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#breadcrumblist"
+            },
+            "author": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "creator": {
+              "@id": "https://coralworld.co.il/author/buttered_toast/#author"
+            },
+            "image": {
+              "@type": "ImageObject",
+              "url": "https://coralworld.co.il/wp-content/uploads/2020/05/1-4.jpg",
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#mainImage",
+              "width": 788,
+              "height": 517,
+              "caption": "המצפה התת ימי"
+            },
+            "primaryImageOfPage": {
+              "@id": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/#mainImage"
+            },
+            "datePublished": "2020-06-11T16:26:46+03:00",
+            "dateModified": "2020-08-13T09:12:56+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "משפחת השפתניים"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/",
+    "x-default": "https://coralworld.co.il/%d7%9e%d7%a9%d7%a4%d7%97%d7%aa-%d7%94%d7%a9%d7%a4%d7%aa%d7%a0%d7%99%d7%99%d7%9d/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/05/1-4.jpg",
+      "alt": "המצפה התת ימי",
+      "width": 788,
+      "height": 517
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "משפחת השפתניים"
+    },
+    {
+      "type": "paragraph",
+      "text": "משפחה עתירת מינים, רובם צבעוניים מאוד ונפוצים בעיקר באזורים טרופיים ותת טרופיים. רבים מהם יושבי שוניות, סלעים או אלמוגים, הניזונים בעיקר מטרף. בין משפחת השפתניים ישנם גם אוכלי אצות. אצות שהם מגרדים מעל פני הסלעים בעזרת שיניהם הרבות והחדות. יש שהשינים צבעוניות בדומה לשיני התוכינונים. השפתיים בשרניות ובולטות ומכאן שם המשפחה. הגוף מכוסה בקשקשים גדולים על פי רוב. רובם פעילים ביום ונחים בלילה, חפורים בחול או בין סדקי אלמוגים, בהיותם עטופים בתוך מעטה רירי שהם מפרישים באמצעות בלוטה מיוחדת, המצויה בצד הפנימי של מכסה הזימים.",
+      "html": "משפחה עתירת מינים, רובם צבעוניים מאוד ונפוצים בעיקר באזורים טרופיים ותת טרופיים. רבים מהם יושבי שוניות, סלעים או אלמוגים, הניזונים בעיקר מטרף.<br> בין משפחת השפתניים ישנם גם אוכלי אצות. אצות שהם מגרדים מעל פני הסלעים בעזרת שיניהם הרבות והחדות. יש שהשינים צבעוניות בדומה לשיני התוכינונים. השפתיים בשרניות ובולטות ומכאן שם המשפחה. הגוף מכוסה בקשקשים גדולים על פי רוב. רובם פעילים ביום ונחים בלילה, חפורים בחול או בין סדקי אלמוגים, בהיותם עטופים בתוך מעטה רירי שהם מפרישים באמצעות בלוטה מיוחדת, המצויה בצד הפנימי של מכסה הזימים."
+    },
+    {
+      "type": "paragraph",
+      "text": "נקאי אילתי דג ממשפחת השפתניים, הבוגרים חיים בנחלה קבועה בשונית האלמוגים. בלילה הם מצויים בגומחות קבועות שבשונית, כשהם עטופים במעטה רירי המופרש מגופם. דג קטן (עד כ-10 ס\"מ) בעל גוף מוארך וצר. הראש מחודד ובקצהו הפה. שפה תחתונה שסועה, צבעו כסוף – לבן עד תכלת, פס שחור לאורך כל צד. לצעירים הגוון כהה יותר. בשעות היום משמשת נחלתו של הנקאי \"תחנת ניקוי\" לדגי השונית. דג הנקאי נוהג לשחות בכעין ריקוד המבליט אותו ופורש את צבעיו לעיניהם של דגים חולפים, בכך הוא מאותת להם לבוא להתנקות וגם מרסן את הדחף שלהם לטרפו. לנחלת דגי הנקאי, מגיעים דגים שונים, גדולים וקטנים. הנקאי מנקה מגופם, מחלל הפה ומהזימים שלהם טפילים שונים. הטפילים שהוא מנקה מהווים את מזונו העיקרי. מביצי הנקבה בוקעות נקבות בלבד. במהלך חייהן כאשר הזכר יעלם, חל חילוף מין לזכר, הנקבה מחליפה את מינה לזכר, ומצרפת לתחנה נקבה צעירה.",
+      "html": "נקאי אילתי<br> דג ממשפחת השפתניים, הבוגרים חיים בנחלה קבועה בשונית האלמוגים. בלילה הם מצויים בגומחות קבועות שבשונית, כשהם עטופים במעטה רירי המופרש מגופם.<br> דג קטן (עד כ-10 ס\"מ) בעל גוף מוארך וצר. הראש מחודד ובקצהו הפה. שפה תחתונה שסועה, צבעו כסוף – לבן עד תכלת, פס שחור לאורך כל צד. לצעירים הגוון כהה יותר. בשעות היום משמשת נחלתו של הנקאי \"תחנת ניקוי\" לדגי השונית. דג הנקאי נוהג לשחות בכעין ריקוד המבליט אותו ופורש את צבעיו לעיניהם של דגים חולפים, בכך הוא מאותת להם לבוא להתנקות וגם מרסן את הדחף שלהם לטרפו. לנחלת דגי הנקאי, מגיעים דגים שונים, גדולים וקטנים. הנקאי מנקה מגופם, מחלל הפה ומהזימים שלהם טפילים שונים. הטפילים שהוא מנקה מהווים את מזונו העיקרי.<br> מביצי הנקבה בוקעות נקבות בלבד. במהלך חייהן כאשר הזכר יעלם, חל חילוף מין לזכר, הנקבה מחליפה את מינה לזכר, ומצרפת לתחנה נקבה צעירה."
+    },
+    {
+      "type": "paragraph",
+      "text": "חקיין הנקאי דג ממשפחת הקרנוניים. חיים בדרך כלל כבודדים, בקרבת \" תחנת הניקוי \" של הנקאי. דג זהה לנקאי אילתי, השוני העיקרי הוא במיקום הפה: אצל הנקאי אילתי הפה מצוי בקדמת הראש, ואילו אצל החקיין הפה הוא תחתי. דומה דמיון רב לדג הנקאי הן בצבעים והן בדגמי תנועותיו. דגים שמבקשים להתנקות אינם מבחינים לעיתים בין הנקאי לבין החקיין. החקיין מנצל עובדה זו כדי לנשוך את קורבנותיו, ומבשר זה ניזון החקאי. דמיונו הרב לנקאי, משמש אותו גם להגנה מפני טורפיו (אבל בעיקר להרוויח את מזונו).",
+      "html": "חקיין הנקאי<br> דג ממשפחת הקרנוניים. חיים בדרך כלל כבודדים, בקרבת \" תחנת הניקוי \" של הנקאי. דג זהה לנקאי אילתי, השוני העיקרי הוא במיקום הפה: אצל הנקאי אילתי הפה מצוי בקדמת הראש, ואילו אצל החקיין הפה הוא תחתי.<br> דומה דמיון רב לדג הנקאי הן בצבעים והן בדגמי תנועותיו.<br> דגים שמבקשים להתנקות אינם מבחינים לעיתים בין הנקאי לבין החקיין. החקיין מנצל עובדה זו כדי לנשוך את קורבנותיו, ומבשר זה ניזון החקאי.<br> דמיונו הרב לנקאי, משמש אותו גם להגנה מפני טורפיו (אבל בעיקר להרוויח את מזונו)."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/%D7%9E%D7%A9%D7%A4%D7%97%D7%AA-%D7%94%D7%A9%D7%A4%D7%AA%D7%A0%D7%99%D7%99%D7%9D/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f488e7b21-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

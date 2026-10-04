@@ -1,0 +1,644 @@
+{
+  "source": "https://coralworld.co.il/en/red-sea-story/",
+  "language": "en",
+  "dir": "ltr",
+  "fetchedAt": "2026-10-04T07:02:02.814Z",
+  "seo": {
+    "title": "The Story of the Red Sea - Israel Oceanarium | The Underwater Observatory Tower",
+    "description": "The Coral World Underwater Observatory was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.",
+    "canonical": "https://coralworld.co.il/en/red-sea-story/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "en_US",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "The Story of the Red Sea - Israel Oceanarium | The Underwater Observatory Tower",
+      "og:description": "The Coral World Underwater Observatory was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.",
+      "og:url": "https://coralworld.co.il/en/red-sea-story/",
+      "twitter:card": "summary",
+      "twitter:title": "The Story of the Red Sea - Israel Oceanarium | The Underwater Observatory Tower",
+      "twitter:description": "The Coral World Underwater Observatory was built so that visitors could explore the wonders of the Red Sea in a new and exciting way."
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "hreflang": "en",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/en/red-sea-story/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il/en/",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/red-sea-story/#listItem",
+                  "name": "Save the Red Sea"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/en/red-sea-story/#listItem",
+                "position": 2,
+                "name": "Save the Red Sea",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/en/#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/en/#organization",
+            "name": "The Underwater Observatory Tower",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/en/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/en/red-sea-story/#webpage",
+            "url": "https://coralworld.co.il/en/red-sea-story/",
+            "name": "The Story of the Red Sea - Israel Oceanarium | The Underwater Observatory Tower",
+            "description": "The Coral World Underwater Observatory was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.",
+            "inLanguage": "en-US",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/en/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/en/red-sea-story/#breadcrumblist"
+            },
+            "datePublished": "2020-05-24T10:09:53+03:00",
+            "dateModified": "2022-12-01T10:56:50+02:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/en/#website",
+            "url": "https://coralworld.co.il/en/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "en-US",
+            "publisher": {
+              "@id": "https://coralworld.co.il/en/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [
+    "Our mission"
+  ],
+  "alternates": {
+    "he": "https://coralworld.co.il/red-sea-story/",
+    "en": "https://coralworld.co.il/en/red-sea-story/",
+    "x-default": "https://coralworld.co.il/red-sea-story/"
+  },
+  "blocks": [
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/main-banner2.jpg",
+      "alt": "רבייה והשבת צבי ים",
+      "width": 1920,
+      "height": 810
+    },
+    {
+      "type": "heading",
+      "level": 1,
+      "text": "Our mission"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "Our mission is to inspire awareness, respect and passion for the oceans"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "A window to the Red SeaEstablished in 1975, the Park was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.Our founders, the Kahn family, who spent many diving trips in Eilat, had a vision of a revolutionary kind of aquarium - an underwater observatory where visitors can enjoy up-close encounters with coral reefs, without getting wet. As the first land-based, underwater tourist attraction, we enjoyed immediate success. Established in 1975, the Underwater Observatory Eilat was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.Our founders, the Kahn family, who spent many diving trips in Eilat, had a vision of a revolutionary kind of aquarium - an underwater observatory where visitors can enjoy up-close encounters with coral reefs, without getting wet. As the first land-based, underwater tourist attraction, we enjoyed immediate success.Initially they constructed the unique Underwater Observatory Tower, which today consists of two adjoining towers, the first erected in 1974 and the second larger one, in 1991.With no nets around the towers to keep the fish and marine creatures close by, all our marine life come and live by the reef voluntarily, a testament to how our staff maintain the Israel coral reef and treat marine life with the utmost respect.The Park's dive team continuously maintains the coral reef with great dedication and is only engaged in care and maintenance work (removing debris from corals, removing predators, 'mending' broken corals, etc.) they do not feed the fish and the area itself is designated as a nature reserve.Over the years, attractions and displays have been added to the Park, and today it is considered one of Israel's leading visitor sites and Eilat's flagship attraction.The Park is part of a global group of underwater viewing centers, owned by the Israeli company Coral World. Read More Read Less",
+        "Preserving life in the Red SeaWe are dedicated to inspiring a true connection with nature, and to shed light on contemporary environmental issues in the sea, from overfishing to coral reef damage, in order to promote sustainability.We put the welfare of the animals as our priority and the Park’s professional scientific team is engaged in constant research. We are dedicated to inspiring a true connection with nature, and to shed light on contemporary environmental issues in the sea, from overfishing to coral reef damage, in order to promote sustainability.We put the welfare of the animals as our priority and the Park’s professional scientific team is engaged in constant research.We have breeding programs of marine life, such as coral propagation which reduces the stress involved when sourcing organisms from the sea. We also rehabilitate and assist in encouraging reproduction of other marine animals such as turtles, seahorses, butterfly fish and anemones.The success of these projects allows us to release sea creatures that were raised and cultivated in the Park back into the wild - turtles, seahorses, and our signature project - corals raised by schoolchildren in Eilat and planted around the Observatory Tower.Our knowledge, experience, investment and perseverance have made us a \"bench-mark'' of quality and professionalism in the field of underwater sustainability, and raising ocean awareness. Read More Read Less"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "A window to the Red Sea"
+    },
+    {
+      "type": "paragraph",
+      "text": "Established in 1975, the Park was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.",
+      "html": "Established in 1975, the Park was built so that visitors could explore the wonders of the Red Sea in a new and exciting way."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our founders, the Kahn family, who spent many diving trips in Eilat, had a vision of a revolutionary kind of aquarium - an underwater observatory where visitors can enjoy up-close encounters with coral reefs, without getting wet. As the first land-based, underwater tourist attraction, we enjoyed immediate success.",
+      "html": "Our founders, the Kahn family, who spent many diving trips in Eilat, had a vision of a revolutionary kind of aquarium - an underwater observatory where visitors can enjoy up-close encounters with coral reefs, without getting wet. As the first land-based, underwater tourist attraction, we enjoyed immediate success."
+    },
+    {
+      "type": "paragraph",
+      "text": "Established in 1975, the Underwater Observatory Eilat was built so that visitors could explore the wonders of the Red Sea in a new and exciting way.",
+      "html": "Established in 1975, the Underwater Observatory Eilat was built so that visitors could explore the wonders of the Red Sea in a new and exciting way."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our founders, the Kahn family, who spent many diving trips in Eilat, had a vision of a revolutionary kind of aquarium - an underwater observatory where visitors can enjoy up-close encounters with coral reefs, without getting wet. As the first land-based, underwater tourist attraction, we enjoyed immediate success.",
+      "html": "Our founders, the Kahn family, who spent many diving trips in Eilat, had a vision of a revolutionary kind of aquarium - an underwater observatory where visitors can enjoy up-close encounters with coral reefs, without getting wet. As the first land-based, underwater tourist attraction, we enjoyed immediate success."
+    },
+    {
+      "type": "paragraph",
+      "text": "Initially they constructed the unique Underwater Observatory Tower, which today consists of two adjoining towers, the first erected in 1974 and the second larger one, in 1991.",
+      "html": "Initially they constructed the unique Underwater Observatory Tower, which today consists of two adjoining towers, the first erected in 1974 and the second larger one, in 1991."
+    },
+    {
+      "type": "paragraph",
+      "text": "With no nets around the towers to keep the fish and marine creatures close by, all our marine life come and live by the reef voluntarily, a testament to how our staff maintain the Israel coral reef and treat marine life with the utmost respect.",
+      "html": "With no nets around the towers to keep the fish and marine creatures close by, all our marine life come and live by the reef voluntarily, a testament to how our staff maintain the Israel coral reef and treat marine life with the utmost respect."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park's dive team continuously maintains the coral reef with great dedication and is only engaged in care and maintenance work (removing debris from corals, removing predators, 'mending' broken corals, etc.) they do not feed the fish and the area itself is designated as a nature reserve.",
+      "html": "The Park's dive team continuously maintains the coral reef with great dedication and is only engaged in care and maintenance work (removing debris from corals, removing predators, 'mending' broken corals, etc.) they do not feed the fish and the area itself is designated as a nature reserve."
+    },
+    {
+      "type": "paragraph",
+      "text": "Over the years, attractions and displays have been added to the Park, and today it is considered one of Israel's leading visitor sites and Eilat's flagship attraction.",
+      "html": "Over the years, attractions and displays have been added to the Park, and today it is considered one of Israel's leading visitor sites and Eilat's flagship attraction."
+    },
+    {
+      "type": "paragraph",
+      "text": "The Park is part of a global group of underwater viewing centers, owned by the Israeli company Coral World.",
+      "html": "The Park is part of a global group of underwater viewing centers, owned by the Israeli company Coral World."
+    },
+    {
+      "type": "cta",
+      "text": "Read More",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "Read Less",
+      "href": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preserving life in the Red Sea"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are dedicated to inspiring a true connection with nature, and to shed light on contemporary environmental issues in the sea, from overfishing to coral reef damage, in order to promote sustainability.",
+      "html": "We are dedicated to inspiring a true connection with nature, and to shed light on contemporary environmental issues in the sea, from overfishing to coral reef damage, in order to promote sustainability."
+    },
+    {
+      "type": "paragraph",
+      "text": "We put the welfare of the animals as our priority and the Park’s professional scientific team is engaged in constant research.",
+      "html": "We put the welfare of the animals as our priority and the Park’s professional scientific team is engaged in constant research."
+    },
+    {
+      "type": "paragraph",
+      "text": "We are dedicated to inspiring a true connection with nature, and to shed light on contemporary environmental issues in the sea, from overfishing to coral reef damage, in order to promote sustainability.",
+      "html": "We are dedicated to inspiring a true connection with nature, and to shed light on contemporary environmental issues in the sea, from overfishing to coral reef damage, in order to promote sustainability."
+    },
+    {
+      "type": "paragraph",
+      "text": "We put the welfare of the animals as our priority and the Park’s professional scientific team is engaged in constant research.",
+      "html": "We put the welfare of the animals as our priority and the Park’s professional scientific team is engaged in constant research."
+    },
+    {
+      "type": "paragraph",
+      "text": "We have breeding programs of marine life, such as coral propagation which reduces the stress involved when sourcing organisms from the sea. We also rehabilitate and assist in encouraging reproduction of other marine animals such as turtles, seahorses, butterfly fish and anemones.",
+      "html": "We have breeding programs of marine life, such as coral propagation which reduces the stress involved when sourcing organisms from the sea. We also rehabilitate and assist in encouraging reproduction of other marine animals such as turtles, seahorses, butterfly fish and anemones."
+    },
+    {
+      "type": "paragraph",
+      "text": "The success of these projects allows us to release sea creatures that were raised and cultivated in the Park back into the wild - turtles, seahorses, and our signature project - corals raised by schoolchildren in Eilat and planted around the Observatory Tower.",
+      "html": "The success of these projects allows us to release sea creatures that were raised and cultivated in the Park back into the wild - turtles, seahorses, and our signature project - corals raised by schoolchildren in Eilat and planted around the Observatory Tower."
+    },
+    {
+      "type": "paragraph",
+      "text": "Our knowledge, experience, investment and perseverance have made us a \"bench-mark'' of quality and professionalism in the field of underwater sustainability, and raising ocean awareness.",
+      "html": "Our knowledge, experience, investment and perseverance have made us a \"bench-mark'' of quality and professionalism in the field of underwater sustainability, and raising ocean awareness."
+    },
+    {
+      "type": "cta",
+      "text": "Read More",
+      "href": null
+    },
+    {
+      "type": "cta",
+      "text": "Read Less",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "Turtle storiesWe are passionate about marine rehabilitation and conservation and boast an extensive and successful turtle breeding project, where we release mature and healthy turtles to the wild. Turtle storiesWe are passionate about marine rehabilitation and conservation and boast an extensive and successful turtle breeding project, where we release mature and healthy turtles to the wild.",
+        "Preservation of seahorsesSeahorses, animals deeply threatened by extinction in the Red Sea are cared for by our highly trained staff Preservation of seahorsesSeahorses, animals deeply threatened by extinction in the Red Sea are cared for by our highly trained staff",
+        "Rescue MorenaCapturing a release! Our dive crew have saved thousands of fish, trapped by various nets. Here is a Morena fish, being released by one of our team. Rescue MorenaCapturing a release! Our dive crew have saved thousands of fish, trapped by various nets. Here is a Morena fish, being released by one of our team.",
+        "Bluespotted Ribbontail RayWatch a beautiful moment, where our staff free a ray from discarded netting Bluespotted Ribbontail RayWatch a beautiful moment, where our staff free a ray from discarded netting",
+        "Coral RestorationThe Underwater Observatory has an impressive coral rehabilitation program and our expert and highly trained team rehabilitate the red sea coral damaged by pollution, storms, vessels and divers. Coral RestorationThe Underwater Observatory has an impressive coral rehabilitation program and our expert and highly trained team rehabilitate the red sea coral damaged by pollution, storms, vessels and divers."
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Turtle stories"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are passionate about marine rehabilitation and conservation and boast an extensive and successful turtle breeding project, where we release mature and healthy turtles to the wild.",
+      "html": "We are passionate about marine rehabilitation and conservation and boast an extensive and successful turtle breeding project, where we release mature and healthy turtles to the wild."
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/L45FBY9-e-8",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Turtle stories"
+    },
+    {
+      "type": "paragraph",
+      "text": "We are passionate about marine rehabilitation and conservation and boast an extensive and successful turtle breeding project, where we release mature and healthy turtles to the wild.",
+      "html": "We are passionate about marine rehabilitation and conservation and boast an extensive and successful turtle breeding project, where we release mature and healthy turtles to the wild."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preservation of seahorses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seahorses, animals deeply threatened by extinction in the Red Sea are cared for by our highly trained staff",
+      "html": "Seahorses, animals deeply threatened by extinction in the Red Sea are cared for by our highly trained staff"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/nQ-pahRZZG8",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Preservation of seahorses"
+    },
+    {
+      "type": "paragraph",
+      "text": "Seahorses, animals deeply threatened by extinction in the Red Sea are cared for by our highly trained staff",
+      "html": "Seahorses, animals deeply threatened by extinction in the Red Sea are cared for by our highly trained staff"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rescue Morena"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capturing a release! Our dive crew have saved thousands of fish, trapped by various nets. Here is a Morena fish, being released by one of our team.",
+      "html": "Capturing a release! Our dive crew have saved thousands of fish, trapped by various nets. Here is a Morena fish, being released by one of our team."
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/AcmEY3r0wdk",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Rescue Morena"
+    },
+    {
+      "type": "paragraph",
+      "text": "Capturing a release! Our dive crew have saved thousands of fish, trapped by various nets. Here is a Morena fish, being released by one of our team.",
+      "html": "Capturing a release! Our dive crew have saved thousands of fish, trapped by various nets. Here is a Morena fish, being released by one of our team."
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bluespotted Ribbontail Ray"
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch a beautiful moment, where our staff free a ray from discarded netting",
+      "html": "Watch a beautiful moment, where our staff free a ray from discarded netting"
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/pBdm8llXtA0",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Bluespotted Ribbontail Ray"
+    },
+    {
+      "type": "paragraph",
+      "text": "Watch a beautiful moment, where our staff free a ray from discarded netting",
+      "html": "Watch a beautiful moment, where our staff free a ray from discarded netting"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Coral Restoration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory has an impressive coral rehabilitation program and our expert and highly trained team rehabilitate the red sea coral damaged by pollution, storms, vessels and divers.",
+      "html": "The Underwater Observatory has an impressive coral rehabilitation program and our expert and highly trained team rehabilitate the red sea coral damaged by pollution, storms, vessels and divers."
+    },
+    {
+      "type": "iframe",
+      "src": "https://www.youtube.com/embed/OTvFiPiqfwU",
+      "title": null
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "Coral Restoration"
+    },
+    {
+      "type": "paragraph",
+      "text": "The Underwater Observatory has an impressive coral rehabilitation program and our expert and highly trained team rehabilitate the red sea coral damaged by pollution, storms, vessels and divers.",
+      "html": "The Underwater Observatory has an impressive coral rehabilitation program and our expert and highly trained team rehabilitate the red sea coral damaged by pollution, storms, vessels and divers."
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "Search"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/en/red-sea-story/#wpcf7-f4064-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "i approve of receiving advertising content from the Underwater Observation Marine Park, Eilat."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f6cc0578a-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "Our Vision",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "History",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Preservation",
+        "href": "https://coralworld.co.il/en/red-sea-story/"
+      },
+      {
+        "text": "Terms of Use",
+        "href": "https://coralworld.co.il/en/terms-of-use/"
+      },
+      {
+        "text": "Privacy policy",
+        "href": "https://coralworld.co.il/en/coral-world-privacy-policy/"
+      },
+      {
+        "text": "Map",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "Accessibility",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "FAQ",
+        "href": "https://coralworld.co.il/en/visit-park/#faq"
+      },
+      {
+        "text": "Arrival",
+        "href": "https://coralworld.co.il/en/visit-park/#arrival"
+      },
+      {
+        "text": "Private Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Events",
+        "href": "https://coralworld.co.il/en/events/"
+      },
+      {
+        "text": "Birthdays",
+        "href": "https://coralworld.co.il/en/events/#grid-item-1"
+      },
+      {
+        "text": "Groups",
+        "href": "https://coralworld.co.il/en/groups/"
+      },
+      {
+        "text": "Action Center",
+        "href": "https://coralworld.co.il/en/more-attractions/"
+      },
+      {
+        "text": "Almog Beach, Eilat",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "Contact Us",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/en/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}

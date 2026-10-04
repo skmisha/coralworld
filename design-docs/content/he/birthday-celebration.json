@@ -1,0 +1,850 @@
+{
+  "source": "https://coralworld.co.il/birthday-celebration/",
+  "language": "he",
+  "dir": "rtl",
+  "fetchedAt": "2026-10-04T07:02:02.855Z",
+  "seo": {
+    "title": "Birthday celebration | המצפה התת ימי",
+    "description": null,
+    "canonical": "https://coralworld.co.il/birthday-celebration/",
+    "robots": "max-image-preview:large",
+    "og": {
+      "og:locale": "he_IL",
+      "og:site_name": "המצפה התת ימי",
+      "og:type": "article",
+      "og:title": "Birthday celebration | המצפה התת ימי",
+      "og:url": "https://coralworld.co.il/birthday-celebration/",
+      "twitter:card": "summary",
+      "twitter:title": "Birthday celebration | המצפה התת ימי"
+    },
+    "hreflang": [
+      {
+        "hreflang": "he",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "hreflang": "x-default",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      }
+    ],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@graph": [
+          {
+            "@type": "BreadcrumbList",
+            "@id": "https://coralworld.co.il/birthday-celebration/#breadcrumblist",
+            "itemListElement": [
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il#listItem",
+                "position": 1,
+                "name": "Home",
+                "item": "https://coralworld.co.il",
+                "nextItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il/birthday-celebration/#listItem",
+                  "name": "Birthday celebration"
+                }
+              },
+              {
+                "@type": "ListItem",
+                "@id": "https://coralworld.co.il/birthday-celebration/#listItem",
+                "position": 2,
+                "name": "Birthday celebration",
+                "previousItem": {
+                  "@type": "ListItem",
+                  "@id": "https://coralworld.co.il#listItem",
+                  "name": "Home"
+                }
+              }
+            ]
+          },
+          {
+            "@type": "Organization",
+            "@id": "https://coralworld.co.il/#organization",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "url": "https://coralworld.co.il/",
+            "sameAs": [
+              "https://www.instagram.com/coralworldeilat/",
+              "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw"
+            ]
+          },
+          {
+            "@type": "WebPage",
+            "@id": "https://coralworld.co.il/birthday-celebration/#webpage",
+            "url": "https://coralworld.co.il/birthday-celebration/",
+            "name": "Birthday celebration | המצפה התת ימי",
+            "inLanguage": "he-IL",
+            "isPartOf": {
+              "@id": "https://coralworld.co.il/#website"
+            },
+            "breadcrumb": {
+              "@id": "https://coralworld.co.il/birthday-celebration/#breadcrumblist"
+            },
+            "datePublished": "2025-04-17T13:31:21+03:00",
+            "dateModified": "2025-05-13T11:24:07+03:00"
+          },
+          {
+            "@type": "WebSite",
+            "@id": "https://coralworld.co.il/#website",
+            "url": "https://coralworld.co.il/",
+            "name": "המצפה התת ימי",
+            "description": "פארק המצפה התת ימי אילת",
+            "inLanguage": "he-IL",
+            "publisher": {
+              "@id": "https://coralworld.co.il/#organization"
+            }
+          }
+        ]
+      }
+    ]
+  },
+  "h1": [],
+  "alternates": {
+    "he": "https://coralworld.co.il/birthday-celebration/",
+    "x-default": "https://coralworld.co.il/birthday-celebration/"
+  },
+  "blocks": [
+    {
+      "type": "cta",
+      "text": "פתח תפריט נגישות",
+      "href": "https://coralworld.co.il/birthday-celebration/#"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-white.png",
+      "alt": "Handicapped logo white",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/bt-basic-accessibility/public/images/handicapped-logo-black.png",
+      "alt": "Handicapped logo black",
+      "width": 40,
+      "height": 50
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "נגישות"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "מונוכרום",
+        "ניגודיות גבוה",
+        "הדגש קישורים",
+        "אבג | טקסט קטן",
+        "אבג | טקסט בינוני",
+        "אבג | טקסט גדול",
+        "גודל טקסט רגיל",
+        "אפס הגדרות"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 4,
+      "text": "הצהרת נגישות"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/01/new-logo-white.png",
+      "alt": "",
+      "width": 2800,
+      "height": 1419
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": []
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/he.png",
+      "alt": "Heb",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/en.png",
+      "alt": "Eng",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/flags/egypt-flag-s.png",
+      "alt": "ערבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fr.png",
+      "alt": "צרפתית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/ru.png",
+      "alt": "רוסית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/fi.png",
+      "alt": "פינית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/de.png",
+      "alt": "גרמנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/it.png",
+      "alt": "איטלקית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/lv.png",
+      "alt": "לטבית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/plugins/sitepress-multilingual-cms/res/flags/pl.png",
+      "alt": "פולנית",
+      "width": 18,
+      "height": 12
+    },
+    {
+      "type": "cta",
+      "text": "X",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "אטרקציות למשפחה באילתאטרקציות למשפחה באילתצלילה עם כרישיםקורל 2000סיור מאחורי הקלעיםתכנון ביקור בפארקארועיםקבוצותמשחקים אינטראקטיבייםחוברת יצירה לילדים – הרפתקאה במעמקי היםמפה אינטראקטיביתביתביתבית",
+        "תצוגות ובעלי חייםמגדל המצפה התת ימיעולם הכרישיםאקווריום דגים נדיריםשונית ים סוףבריכת צביםיצורים ממעמקיםביתביתבית",
+        "אקווה דום",
+        "סיפור הים האדוםפרוייקט שחרור צבים-מעקב LIVEסיפור הים האדוםידידי הים האדוםעמותת ‘צלול’- שומרים על הים, החופים והנחלים כבר 25 שנהלחיי הים הזה!ביתבית",
+        "חדשות ומאמרים"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/LOGO.gif",
+      "alt": "",
+      "width": 425,
+      "height": 279
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "יום הולדת מ ט ר י ף ף ף !"
+    },
+    {
+      "type": "cta",
+      "text": "שריינו תאריך עכשיו",
+      "href": "https://wa.me/972536299380?text=%D7%94%D7%99%D7%99+%D7%90%D7%A0%D7%98%D7%94,+%D7%A8%D7%90%D7%99%D7%AA%D7%99+%D7%90%D7%AA+%D7%94%D7%A4%D7%A8%D7%A1%D7%95%D7%9D+%D7%9C%D7%9E%D7%A1%D7%99%D7%91%D7%AA+%D7%99%D7%95%D7%9D+%D7%94%D7%95%D7%9C%D7%93%D7%AA+%D7%95%D7%90%D7%A9%D7%9E%D7%97+%D7%A9%D7%AA%D7%97%D7%96%D7%A8%D7%99+%D7%90%D7%9C%D7%99+%D7%9C%D7%A4%D7%A8%D7%98%D7%99%D7%9D+%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מה מחכה לכם ביום ההולדת?"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/Untitled-1.png",
+      "alt": "",
+      "width": 199,
+      "height": 268
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "צוללן מפתיע עם שלט אישי לילד/ה"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/003.png",
+      "alt": "",
+      "width": 178,
+      "height": 183
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "קבלת פנים חגיגית בברכת הכרישים"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/004.png",
+      "alt": "",
+      "width": 249,
+      "height": 173
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "סיור אינטראקטיבי עם מסכי מגע, האכלת דגים וצבים"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/001.png",
+      "alt": "",
+      "width": 184,
+      "height": 178
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מתחם יום הולדת עם קישוטים, שטיח, שלט אישי ואווירה מושקעת"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/002.png",
+      "alt": "",
+      "width": 217,
+      "height": 160
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מצגת תמונות אישית (אופציונלי), מוזיקה ומשחקים"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/005.png",
+      "alt": "",
+      "width": 166,
+      "height": 204
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "כיבוד טעים + עמדת קפה להורים"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/006.png",
+      "alt": "",
+      "width": 160,
+      "height": 200
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מתנה מהפארק לילד/ה החוגג/ת"
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2025/04/007.png",
+      "alt": "",
+      "width": 169,
+      "height": 192
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מתחם משחקים אינטראקטיביים"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "יום הולדת מ ט ר י ף ף ף !"
+    },
+    {
+      "type": "paragraph",
+      "text": "מסיבת יום הולדת בלתי נשכחת בפארק המצפה התת-ימי באילת",
+      "html": "מסיבת יום הולדת בלתי נשכחת בפארק המצפה התת-ימי באילת"
+    },
+    {
+      "type": "paragraph",
+      "text": "חוויה מדהימה, עם כרישים, צבים, צוללן, משחקים והמון הפתעות",
+      "html": "חוויה מדהימה, עם כרישים, צבים, צוללן, משחקים והמון הפתעות"
+    },
+    {
+      "type": "cta",
+      "text": "שריינו תאריך עכשיו",
+      "href": "https://wa.me/972536299380?text=%D7%94%D7%99%D7%99+%D7%90%D7%A0%D7%98%D7%94,+%D7%A8%D7%90%D7%99%D7%AA%D7%99+%D7%90%D7%AA+%D7%94%D7%A4%D7%A8%D7%A1%D7%95%D7%9D+%D7%9C%D7%9E%D7%A1%D7%99%D7%91%D7%AA+%D7%99%D7%95%D7%9D+%D7%94%D7%95%D7%9C%D7%93%D7%AA+%D7%95%D7%90%D7%A9%D7%9E%D7%97+%D7%A9%D7%AA%D7%97%D7%96%D7%A8%D7%99+%D7%90%D7%9C%D7%99+%D7%9C%D7%A4%D7%A8%D7%98%D7%99%D7%9D+%D7%A0%D7%95%D7%A1%D7%A4%D7%99%D7%9D"
+    },
+    {
+      "type": "heading",
+      "level": 3,
+      "text": "מה מחכה לכם ביום ההולדת?"
+    },
+    {
+      "type": "paragraph",
+      "text": "2 מדריכים מלווים אתכם מהרגע הראשון ועד כיבוי הנרות",
+      "html": "2 מדריכים מלווים אתכם מהרגע הראשון ועד כיבוי הנרות"
+    },
+    {
+      "type": "paragraph",
+      "text": "קבלת פנים חגיגית בברכת הכרישים",
+      "html": "קבלת פנים חגיגית בברכת הכרישים"
+    },
+    {
+      "type": "paragraph",
+      "text": "צוללן מפתיע עם שלט אישי לילד/ה",
+      "html": "צוללן מפתיע עם שלט אישי לילד/ה"
+    },
+    {
+      "type": "paragraph",
+      "text": "סיור אינטראקטיבי עם מסכי מגע, האכלת דגים וצבים",
+      "html": "סיור אינטראקטיבי עם מסכי מגע, האכלת דגים וצבים"
+    },
+    {
+      "type": "paragraph",
+      "text": "מתחם יום הולדת עם קישוטים, שטיח, שלט אישי ואווירה מושקעת",
+      "html": "מתחם יום הולדת עם קישוטים, שטיח, שלט אישי ואווירה מושקעת"
+    },
+    {
+      "type": "paragraph",
+      "text": "מצגת תמונות אישית (אופציונלי), מוזיקה ומשחקים",
+      "html": "מצגת תמונות אישית (אופציונלי), מוזיקה ומשחקים"
+    },
+    {
+      "type": "paragraph",
+      "text": "מתנה מהפארק לילד/ה החוגג/ת",
+      "html": "מתנה מהפארק לילד/ה החוגג/ת"
+    },
+    {
+      "type": "paragraph",
+      "text": "מתחם משחקים אינטראקטיביים",
+      "html": "מתחם משחקים אינטראקטיביים"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "מה כוללת החבילה?"
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "פעילות מלאה בין השעות 17:00–19:00",
+        "30 ילדים (אפשר גם יותר – בתוספת תשלום)",
+        "מדריכים צמודים לכל אורך הפעילות",
+        "שלט כניסה עם שם הילד",
+        "שטיח צבעוני בכניסה",
+        "מתחם מקושט",
+        "כיבוד מלא לילדים + שתייה וקפה להורים",
+        "מוסיקה, משחקים, מצגת (בהבאת ההורים)",
+        "מתנה מהממת מהפארק"
+      ]
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "רוצים לשמוע עוד פרטים או לקבוע תאריך?"
+    },
+    {
+      "type": "paragraph",
+      "text": "שלחו הודעה",
+      "html": "שלחו הודעה"
+    },
+    {
+      "type": "heading",
+      "level": 2,
+      "text": "שלחו אלינו פרטים ונחזור אליכם"
+    },
+    {
+      "type": "cta",
+      "text": "לחצו לשליחה",
+      "href": null
+    },
+    {
+      "type": "image",
+      "src": "https://coralworld.co.il/wp-content/uploads/2020/06/loader.gif",
+      "alt": "",
+      "width": 500,
+      "height": 223
+    },
+    {
+      "type": "cta",
+      "text": "✕",
+      "href": null
+    },
+    {
+      "type": "list",
+      "ordered": false,
+      "items": [
+        "היי! כאן הצב על הקו, איך אפשר לעזור?"
+      ]
+    },
+    {
+      "type": "image",
+      "src": "https://backend.chatbase.co/storage/v1/object/public/chat-icons/4a2b9ace-2b3e-43c3-a2d2-a4cd539125cd/IMvz_3tPuoquPeC5bnwkE.jpg",
+      "alt": "צב על הקו",
+      "width": 1600,
+      "height": 1600
+    },
+    {
+      "type": "iframe",
+      "src": "https://12949398.fls.doubleclick.net/activityi;src=12949398;type=invmedia;cat=coral0;rcb=19;ord=4144442451818;npa=0;auiddc=1919266235.1791095297;uaa=x86;uab=64;uafvl=HeadlessChrome%3B141.0.7390.37%7CNot%253FA_Brand%3B8.0.0.0%7CChromium%3B141.0.7390.37;uamb=0;uam=;uap=Linux;uapv=;uaw=0;pscdl=noapi;frm=0;_tu=KFA;gtm=45fe69u2v9181812485z89225483744za20gzb9225483744zd9225483744xeaxf1;gcd=13l3l3l3l1l1;dma=0;dc_fmt=2;tag_exp=115616986~115938466~115938469~118897920~118897930~120213116~120385422~120469145~120469153~121246026~121246034;epver=2;dc_random=1791096261_pj3TA1NaTvJydPbOwaEuzoSYgAmSX_WlVQ;_dc_test=1;~oref=https%3A%2F%2Fcoralworld.co.il%2Fbirthday-celebration%2F?",
+      "title": null
+    },
+    {
+      "type": "iframe",
+      "src": "https://coralworld.co.il/birthday-celebration/",
+      "title": "צב על הקו"
+    }
+  ],
+  "forms": [
+    {
+      "id": "searchform",
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        },
+        {
+          "tag": "button",
+          "type": "submit",
+          "name": "submit",
+          "id": null,
+          "required": false,
+          "label": null
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/",
+      "method": "get",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "s",
+          "id": null,
+          "required": false,
+          "label": "חפשו באתר"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/birthday-celebration/",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "post_id",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "form_id",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "referer_title",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "queried_id",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "form_fields[name]",
+          "id": "form-field-name",
+          "required": false,
+          "label": "שם"
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "form_fields[email]",
+          "id": "form-field-email",
+          "required": true,
+          "label": "אימייל"
+        },
+        {
+          "tag": "input",
+          "type": "tel",
+          "name": "form_fields[field_3e6e694]",
+          "id": "form-field-field_3e6e694",
+          "required": false,
+          "label": "טלפון"
+        },
+        {
+          "tag": "textarea",
+          "type": "textarea",
+          "name": "form_fields[message]",
+          "id": "form-field-message",
+          "required": false,
+          "label": "הודעה"
+        }
+      ]
+    },
+    {
+      "id": null,
+      "action": "https://coralworld.co.il/birthday-celebration/#wpcf7-f160-o1",
+      "method": "post",
+      "fields": [
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_version",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_locale",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_unit_tag",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_container_post",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "hidden",
+          "name": "_wpcf7_posted_data_hash",
+          "id": null,
+          "required": false,
+          "label": null
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "cff-fullname",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "email",
+          "name": "cff-email",
+          "id": null,
+          "required": false,
+          "label": ""
+        },
+        {
+          "tag": "input",
+          "type": "checkbox",
+          "name": "checkbox-501[]",
+          "id": null,
+          "required": false,
+          "label": "אני מאשר את תקנון פרטיות ותנאי שימוש וקבלת תוכן פרסומי מהמצפה התת ימי, אילת."
+        },
+        {
+          "tag": "input",
+          "type": "text",
+          "name": "website",
+          "id": "wpcf7-6ac1f5ac1f980-field",
+          "required": false,
+          "label": "Please leave this field empty."
+        }
+      ]
+    }
+  ],
+  "nav": {
+    "header": [],
+    "footer": [
+      {
+        "text": "חזון",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "היסטוריה",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "שימור",
+        "href": "https://coralworld.co.il/red-sea-story/"
+      },
+      {
+        "text": "כתבו עלינו",
+        "href": "https://coralworld.co.il/news/"
+      },
+      {
+        "text": "תנאי שימוש",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a0%d7%90%d7%99-%d7%a9%d7%99%d7%9e%d7%95%d7%a9/"
+      },
+      {
+        "text": "תקנון פרטיות",
+        "href": "https://coralworld.co.il/%d7%aa%d7%a7%d7%a0%d7%95%d7%9f-%d7%a4%d7%a8%d7%98%d7%99%d7%95%d7%aa/"
+      },
+      {
+        "text": "מפה",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-2"
+      },
+      {
+        "text": "נגישות",
+        "href": "https://coralworld.co.il/visit-park/#arrival?openpopup=button-num-1"
+      },
+      {
+        "text": "שאלות תשובות",
+        "href": "https://coralworld.co.il/visit-park/#faq"
+      },
+      {
+        "text": "דרכי הגעה",
+        "href": "https://coralworld.co.il/visit-park/#arrival"
+      },
+      {
+        "text": "אירועים פרטיים",
+        "href": "https://coralworld.co.il/events/"
+      },
+      {
+        "text": "צלילה עם כרישים",
+        "href": "https://coralworld.co.il/%d7%a6%d7%9c%d7%99%d7%9c%d7%94-%d7%a2%d7%9d-%d7%9b%d7%a8%d7%99%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "קורל 2000",
+        "href": "https://coralworld.co.il/%d7%a7%d7%95%d7%a8%d7%9c-2000/"
+      },
+      {
+        "text": "ימי הולדת",
+        "href": "https://coralworld.co.il/birthday-celebration/"
+      },
+      {
+        "text": "קבוצות",
+        "href": "https://coralworld.co.il/groups/"
+      },
+      {
+        "text": "ים של יצירה",
+        "href": "https://coralworld.co.il/%d7%99%d7%9d-%d7%a9%d7%9c-%d7%99%d7%a6%d7%99%d7%a8%d7%94/"
+      },
+      {
+        "text": "דרושים",
+        "href": "https://coralworld.co.il/%d7%93%d7%a8%d7%95%d7%a9%d7%99%d7%9d/"
+      },
+      {
+        "text": "חוף אלמוג, אילת",
+        "href": "https://www.google.com/maps?ll=29.504074,34.919153&z=14&t=m&hl=iw&gl=IL&mapclient=embed&cid=2166387543453836812"
+      },
+      {
+        "text": "צרו קשר",
+        "href": "mailto:info@coralworld.com"
+      },
+      {
+        "text": "08-6364200",
+        "href": "tel:08-6364200"
+      },
+      {
+        "text": "",
+        "href": "https://www.aqwa.com.au/"
+      },
+      {
+        "text": "",
+        "href": "https://coralworld.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://mauioceancenter.com/"
+      },
+      {
+        "text": "",
+        "href": "https://palmaaquarium.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.coralworld.com/"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.co.il/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.tripadvisor.com/Attraction_Review-g293980-d319276-Reviews-Underwater_Observatory_Marine_Park-Eilat_Southern_District.html"
+      },
+      {
+        "text": "",
+        "href": "https://www.facebook.com/coralworld"
+      },
+      {
+        "text": "",
+        "href": "https://www.instagram.com/coralworldeilat/"
+      },
+      {
+        "text": "",
+        "href": "https://www.youtube.com/channel/UCGEEpHVk3QIkbXgETqy47Nw/featured"
+      },
+      {
+        "text": "",
+        "href": "https://www.tiktok.com/@coralworldeilat"
+      },
+      {
+        "text": "",
+        "href": "https://www.simplyad.co.il/"
+      },
+      {
+        "text": "",
+        "href": "https://uplead.co.il/%D7%A7%D7%99%D7%93%D7%95%D7%9D-%D7%90%D7%AA%D7%A8%D7%99%D7%9D-%D7%90%D7%95%D7%A8%D7%92%D7%A0%D7%99/"
+      }
+    ]
+  }
+}
