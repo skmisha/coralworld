@@ -14,9 +14,19 @@ const VIEWPORTS = [
 ];
 const ORIENT = (process.env.SHOT_ORIENTATIONS || 'portrait,landscape').split(',');
 const ONLY = process.env.SHOT_WIDTHS?.split(',');
+// Every route: these widths, portrait. One representative page per template: full matrix.
+// SHOT_ALL_FULL=1 forces the full matrix for every route (multi-GB).
+const BASE_WIDTHS = (process.env.SHOT_BASE_WIDTHS || '375,768,1440').split(',');
+const ALL_FULL = process.env.SHOT_ALL_FULL === '1';
 
 const { pages } = loadRoutes();
 const uniq = [...new Map(pages.filter((p) => !p.error && p.status < 400).map((p) => [p.finalUrl, p])).values()];
+const reps = new Set();
+for (const t of new Set(uniq.map((p) => p.template))) {
+  const c = uniq.filter((p) => p.template === t).sort((a, b) => (b.wordCount || 0) - (a.wordCount || 0));
+  if (c[0]) reps.add(c[0].finalUrl);
+}
+const targets = (vp, o) => (ALL_FULL || (o === 'portrait' && BASE_WIDTHS.includes(vp.name)) ? uniq : uniq.filter((p) => reps.has(p.finalUrl)));
 const OUT = ensureDir(path.join(AUDIT, 'screenshots'));
 const browser = await launch();
 const index = [];
@@ -25,10 +35,10 @@ for (const vp of VIEWPORTS.filter((v) => !ONLY || ONLY.includes(v.name))) {
   for (const o of ORIENT) {
     if (o === 'landscape' && !vp.mobile) continue;
     const [w, h] = o === 'landscape' ? [vp.height, vp.width] : [vp.width, vp.height];
-    const ctx = await newContext(browser, { viewport: { width: w, height: h }, isMobile: vp.mobile && w < 1024, hasTouch: vp.mobile, deviceScaleFactor: vp.mobile ? 2 : 1 });
-    await pool(uniq, 3, async (p) => {
+    const ctx = await newContext(browser, { viewport: { width: w, height: h }, isMobile: vp.mobile && w < 1024, hasTouch: vp.mobile, deviceScaleFactor: 1 });
+    await pool(targets(vp, o), 3, async (p) => {
       const page = await ctx.newPage();
-      const file = path.join(OUT, p.language, `${vp.name}-${o}`, routeSlug(p.finalUrl) + '.png');
+      const file = path.join(OUT, p.language, `${vp.name}-${o}`, routeSlug(p.finalUrl) + '.jpg');
       ensureDir(path.dirname(file));
       try {
         await page.goto(p.finalUrl, { waitUntil: 'networkidle', timeout: 60000 }).catch(() => page.waitForLoadState('load'));
@@ -36,8 +46,8 @@ for (const vp of VIEWPORTS.filter((v) => !ONLY || ONLY.includes(v.name))) {
         await page.waitForTimeout(1000);
         const dir = await page.evaluate(() => getComputedStyle(document.documentElement).direction);
         const overflowX = await page.evaluate(() => document.documentElement.scrollWidth > window.innerWidth + 1);
-        await page.screenshot({ path: file, fullPage: true, animations: 'disabled' });
-        index.push({ url: p.finalUrl, language: p.language, viewport: vp.name, orientation: o, width: w, height: h, dir, expectedRtl: RTL_LANGS.has(p.language), horizontalOverflow: overflowX, file: path.relative(path.dirname(AUDIT), file) });
+        await page.screenshot({ path: file, fullPage: true, animations: 'disabled', type: 'jpeg', quality: 70 });
+        index.push({ url: p.finalUrl, language: p.language, template: p.template, representative: reps.has(p.finalUrl), viewport: vp.name, orientation: o, width: w, height: h, dir, expectedRtl: RTL_LANGS.has(p.language), horizontalOverflow: overflowX, file: path.relative(path.dirname(AUDIT), file) });
       } catch (e) { index.push({ url: p.finalUrl, language: p.language, viewport: vp.name, orientation: o, error: String(e.message).slice(0, 200) }); }
       await page.close();
     });

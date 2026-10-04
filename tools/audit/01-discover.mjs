@@ -210,6 +210,7 @@ for (const r of records) {
   for (const h of r.hreflang || []) alt[h.hreflang] = h.href;
   for (const l of r.langLinks || []) { const k = l.hreflang || l.text; if (k && !alt[k]) alt[k] = l.href; }
   r.alternates = alt;
+  r.template = r.error ? 'error' : templateType(r, r.finalUrl || r.url);
 }
 
 // ---------- outputs ----------
@@ -217,7 +218,7 @@ const header = ['url', 'final_url', 'language', 'dir', 'title', 'meta_descriptio
 const lines = [csvRow(header)];
 for (const r of records.sort((a, b) => a.language.localeCompare(b.language) || a.url.localeCompare(b.url))) {
   lines.push(csvRow([r.url, r.finalUrl, r.language, r.dir, r.title, r.metaDescription, (r.h1 || []).join(' | '), r.canonical,
-    r.error ? 'error' : templateType(r, r.finalUrl), r.status, (r.redirectChain || []).join(' > '), (r.hreflang || []).length,
+    r.template, r.status, (r.redirectChain || []).join(' > '), (r.hreflang || []).length,
     sitemapUrls.has(r.url) ? 'y' : 'n', r.wordCount ?? '', r.error ?? '']));
 }
 fs.writeFileSync(path.join(AUDIT, 'routes.csv'), '﻿' + lines.join('\n') + '\n'); // BOM so Excel renders Hebrew
