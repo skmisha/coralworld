@@ -1,0 +1,17 @@
+{
+  "robots": {
+    "status": 403,
+    "disallow": []
+  },
+  "sitemaps": [
+    {
+      "url": "https://coralworld.co.il/sitemap.xml",
+      "status": 403
+    },
+    {
+      "url": "https://coralworld.co.il/sitemap_index.xml",
+      "status": 403
+    }
+  ],
+  "urls": {}
+}

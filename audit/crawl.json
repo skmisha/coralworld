@@ -1,0 +1,28 @@
+{
+  "base": "https://coralworld.co.il",
+  "crawledAt": "2026-10-04T06:19:52.252Z",
+  "languages": [
+    "und"
+  ],
+  "count": 1,
+  "pages": [
+    {
+      "url": "https://coralworld.co.il/",
+      "finalUrl": "https://coralworld.co.il/",
+      "status": 0,
+      "redirectChain": [],
+      "error": "page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://coralworld.co.il/\nCall log:\n\u001b[2m  - navigating to \"https://coralworld.co.il/\", waiting until \"domcontentloaded\"\u001b[22m\n",
+      "consoleErrors": [],
+      "requests": [
+        {
+          "url": "https://coralworld.co.il/",
+          "type": "document",
+          "method": "GET"
+        }
+      ],
+      "cookies": [],
+      "language": "und",
+      "alternates": {}
+    }
+  ]
+}

@@ -1,0 +1,8 @@
+node_modules/
+.next/
+.env*
+!.env.example
+# Large binary audit outputs are tracked via manifest only; see audit/assets/manifest.csv
+design-docs/audit/assets/video/
+design-docs/audit/a11y/lighthouse/
+tools/audit/_*

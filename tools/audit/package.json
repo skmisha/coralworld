@@ -1,0 +1,22 @@
+{
+  "name": "coralworld-audit",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "discover": "NODE_USE_ENV_PROXY=1 node 01-discover.mjs",
+    "assets": "NODE_USE_ENV_PROXY=1 node 02-assets.mjs",
+    "screenshots": "NODE_USE_ENV_PROXY=1 node 03-screenshots.mjs",
+    "integrations": "NODE_USE_ENV_PROXY=1 node 04-integrations.mjs",
+    "chat": "NODE_USE_ENV_PROXY=1 node 05-chat.mjs",
+    "a11y": "NODE_USE_ENV_PROXY=1 node 06-a11y.mjs",
+    "all": "NODE_USE_ENV_PROXY=1 node 01-discover.mjs && NODE_USE_ENV_PROXY=1 node 02-assets.mjs && NODE_USE_ENV_PROXY=1 node 03-screenshots.mjs && NODE_USE_ENV_PROXY=1 node 04-integrations.mjs && NODE_USE_ENV_PROXY=1 node 05-chat.mjs && NODE_USE_ENV_PROXY=1 node 06-a11y.mjs"
+  },
+  "dependencies": {
+    "@axe-core/playwright": "^4.10.2",
+    "chrome-launcher": "^1.2.2",
+    "fast-xml-parser": "^4.5.0",
+    "image-size": "^1.2.0",
+    "lighthouse": "^12.2.1",
+    "playwright": "1.56.1"
+  }
+}

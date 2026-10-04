@@ -1,0 +1,5 @@
+﻿url,final_url,language,dir,title,meta_description,h1,canonical,template_type,status_code,redirect_chain,hreflang_count,in_sitemap,word_count,error
+https://coralworld.co.il/,https://coralworld.co.il/,und,,,,,,error,0,,0,n,,"page.goto: net::ERR_CERT_AUTHORITY_INVALID at https://coralworld.co.il/
+Call log:
+[2m  - navigating to ""https://coralworld.co.il/"", waiting until ""domcontentloaded""[22m
+"
