@@ -4,6 +4,7 @@
   "type": "module",
   "scripts": {
     "discover": "NODE_USE_ENV_PROXY=1 node 01-discover.mjs",
+    "scope": "node 01b-scope.mjs",
     "assets": "NODE_USE_ENV_PROXY=1 node 02-assets.mjs",
     "screenshots": "NODE_USE_ENV_PROXY=1 node 03-screenshots.mjs",
     "integrations": "NODE_USE_ENV_PROXY=1 node 04-integrations.mjs",

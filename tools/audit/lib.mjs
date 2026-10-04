@@ -73,3 +73,11 @@ export function loadRoutes() {
   if (!fs.existsSync(p)) throw new Error('Run 01-discover.mjs first (audit/crawl.json missing)');
   return readJson(p);
 }
+
+// Language scope. Hebrew is the unprefixed default on coralworld.co.il; other languages live under /xx/.
+export const LANGS = (process.env.AUDIT_LANGS || 'he').split(',').map((s) => s.trim()).filter(Boolean);
+export function langOfUrl(u) {
+  const seg = new URL(u).pathname.split('/')[1]?.toLowerCase() || '';
+  return /^[a-z]{2}(-[a-z]{2})?$/.test(seg) ? seg.slice(0, 2) : 'he';
+}
+export const langAllowed = (u) => LANGS.includes('all') || LANGS.includes(langOfUrl(u));

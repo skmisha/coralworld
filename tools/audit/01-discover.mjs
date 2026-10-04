@@ -6,7 +6,7 @@ import zlib from 'node:zlib';
 import { XMLParser } from 'fast-xml-parser';
 import {
   BASE, AUDIT, CONTENT, MAX_PAGES, CONCURRENCY, DELAY_MS, UA, isInternal, normalizeUrl, NON_PAGE_EXT,
-  ensureDir, writeJson, routeSlug, csvRow, launch, newContext, sleep,
+  ensureDir, writeJson, routeSlug, csvRow, launch, newContext, sleep, langAllowed, langOfUrl,
 } from './lib.mjs';
 
 ensureDir(AUDIT);
@@ -141,9 +141,9 @@ function templateType(d, url) {
 
 // ---------- crawl ----------
 const pages = new Map(); // url -> record
-const queue = [normalizeUrl(BASE), ...sitemapUrls.keys()].filter(Boolean);
+const queue = [normalizeUrl(BASE), ...sitemapUrls.keys()].filter((u) => u && langAllowed(u));
 const queued = new Set(queue);
-const allowed = (u) => isInternal(u) && !NON_PAGE_EXT.test(new URL(u).pathname) && !disallow.some((d) => d !== '/' && new URL(u).pathname.startsWith(d)) && !/\/(wp-admin|wp-json|xmlrpc|feed)\b|\?(s|replytocom|add-to-cart)=/.test(u);
+const allowed = (u) => isInternal(u) && langAllowed(u) && !NON_PAGE_EXT.test(new URL(u).pathname) && !disallow.some((d) => d !== '/' && new URL(u).pathname.startsWith(d)) && !/\/(wp-admin|wp-json|xmlrpc|feed)\b|\?(s|replytocom|add-to-cart)=/.test(u);
 const enqueue = (u) => { const n = normalizeUrl(u); if (n && allowed(n) && !queued.has(n) && queued.size < MAX_PAGES) { queued.add(n); queue.push(n); } };
 
 const browser = await launch();
@@ -199,10 +199,7 @@ await browser.close();
 
 // ---------- language resolution ----------
 function langOf(rec) {
-  const p = new URL(rec.finalUrl || rec.url).pathname.split('/')[1]?.toLowerCase();
-  if (/^[a-z]{2}(-[a-z]{2})?$/.test(p || '')) return p.slice(0, 2);
-  if (rec.lang) return rec.lang.slice(0, 2).toLowerCase();
-  return 'und';
+  return langOfUrl(rec.finalUrl || rec.url);
 }
 const records = [...pages.values()].map((r) => ({ ...r, language: langOf(r) }));
 const languages = [...new Set(records.map((r) => r.language))].sort();
