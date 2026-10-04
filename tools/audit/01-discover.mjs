@@ -181,7 +181,7 @@ await new Promise((resolve) => {
       active++;
       const url = queue.shift();
       (async () => {
-        const rec = await crawlOne(url);
+        const rec = await crawlOne(url).catch((e) => ({ url, finalUrl: url, status: 0, error: String(e.message || e).slice(0, 300) }));
         pages.set(url, rec); done++;
         if (done % 10 === 0 || rec.error) log(`${done}/${queued.size} ${rec.status} ${url}${rec.error ? ' ERR ' + rec.error : ''}`);
         if (rec.finalUrl && rec.finalUrl !== url) enqueue(rec.finalUrl);
