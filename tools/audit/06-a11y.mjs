@@ -55,7 +55,10 @@ const lh = [];
 if (!SKIP_LH) {
   const chrome = await chromeLauncher.launch({ chromePath: chromium.executablePath(), chromeFlags: ['--headless=new', '--no-sandbox'] });
   ensureDir(path.join(OUT, 'lighthouse'));
+  // mobile on every route; desktop on one representative per template (LH_DESKTOP_ALL=1 for every route)
+  const repsLH = new Set([...new Set(uniq.map((p) => p.template))].map((t) => uniq.filter((p) => p.template === t).sort((a, b) => (b.wordCount || 0) - (a.wordCount || 0))[0]?.finalUrl));
   for (const p of uniq) for (const ff of LH_FORMS) {
+    if (ff === 'desktop' && process.env.LH_DESKTOP_ALL !== '1' && !repsLH.has(p.finalUrl)) continue;
     try {
       const config = ff === 'desktop' ? (await import('lighthouse/core/config/desktop-config.js')).default : undefined; // default = mobile, Moto G Power, slow 4G
       const r = await lighthouse(p.finalUrl, { port: chrome.port, output: 'json', logLevel: 'error', onlyCategories: ['performance', 'accessibility', 'best-practices', 'seo'] }, config);
